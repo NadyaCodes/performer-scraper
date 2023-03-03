@@ -1,0 +1,59 @@
+[
+  {
+    "city": "Toronto",
+    "name": "Centennial College",
+    "website": "https://www.centennialcollege.ca",
+    "programs": ["Performing Arts Fundamentals"],
+    "province": "Ontario",
+    "alts": ["Acting", "Singing", "Dancing"]
+  },
+  {
+    "city": "Toronto",
+    "name": "Centre for Indigenous Theatre",
+    "website": "https://www.indigenoustheatre.com/",
+    "programs": ["3- and 4-year Conservatory Training Program"],
+    "province": "Ontario",
+    "alts": ["Acting", "Singing", "Dancing"]
+  },
+  {
+    "city": "Kingston",
+    "name": "Queens University",
+    "website": "http://www.queensu.ca/",
+    "programs": ["Bachelor of Music Theatre"],
+    "province": "Ontario",
+    "alts": ["Acting", "Singing"]
+  },
+  {
+    "city": "Toronto",
+    "name": "RCPA Randolph College for the Performing Arts",
+    "website": "https://www.randolphcollege.ca",
+    "programs": ["College Program"],
+    "province": "Ontario"
+  },
+  {
+    "city": "Oakville",
+    "name": "Sheridan",
+    "website": "https://www.sheridancollege.ca/",
+    "programs": [
+      "Bachelor of Music Theatre Performance",
+      "Performing Arts: Preparation"
+    ],
+    "province": "Ontario",
+    "alts": ["Acting"]
+  },
+  {
+    "city": "Windsor",
+    "name": "St. Clair College",
+    "website": "http://www.stclaircollege.ca/",
+    "programs": ["Music Theatre Performance Advanced Diploma"],
+    "province": "Ontario"
+  },
+  {
+    "city": "Brockville",
+    "name": "St. Lawrence College",
+    "website": "http://www.stlawrencecollege.ca/",
+    "programs": ["Music Theatre: Performance"],
+    "province": "Ontario",
+    "alts": ["Singing"]
+  }
+]
