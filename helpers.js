@@ -133,7 +133,8 @@ export function formatSchoolObject(string, province) {
   let seeAlso;
   if (
     schoolPrograms.length > 0 &&
-    schoolPrograms[schoolPrograms.length - 1].includes("See also:")
+    (schoolPrograms[schoolPrograms.length - 1].includes("See also:") ||
+      schoolPrograms[schoolPrograms.length - 1].includes("See Also:"))
   ) {
     let seeAlsoText = schoolPrograms[schoolPrograms.length - 1];
     let alsoIndex = seeAlsoText.indexOf(":");
