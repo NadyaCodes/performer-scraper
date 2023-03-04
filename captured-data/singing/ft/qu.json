@@ -1,1 +1,68 @@
-[{"city":"Sherbrooke","name":"Bishop’s University","website":"http://www.ubishops.ca","programs":["Bachelor of Arts Honours in Music","Bachelor of Arts Major in Music (Classical)","Bachelor of Arts Minor in Music (Classical)","Bachelor of Arts Major in Popular Music Studies (Jazz, Pop/Rock)","Bachelor of Arts Minor in Popular Music Studies (Jazz, Pop/Rock)","Double Major: Secondary Education and Music","Certificate in Musical Studies"],"province":"Québec","alts":["Acting"]},{"city":"Québec","name":"Conservatoire de musique et d’art dramatique Québec","website":"http://www.conservatoire.gouv.qc.ca/","programs":["Certificate of College Studies in Music","Bachelor of Music","Diploma of Specialized Studies in Music"],"province":"Québec","alts":["Acting"]},{"city":"Montreal","name":"Concordia University","website":"https://www.concordia.ca","programs":["Bachelor of Fine Arts Major in Music","Minor in Music","Specialization in Jazz Studies","Specialization in Music Performance"],"province":"Québec","alts":["Acting","Dance"]},{"city":"Granby","name":"École national de la chanson","website":"http://enchanson.ca/lecole/","programs":["Songwriting training program"],"province":"Québec"},{"city":"Montreal","name":"McGill University","website":"http://www.mcgill.ca","programs":["Bachelor of Music in Early Music (Voice)","Bachelor of Music in Jazz","Bachelor of Music in Voice","Licentiate in Music: Voice","Licentiate in Music: Jazz","Minor in Early Music","Minor in Jazz Performance","Double Majors","Bachelor of Arts Major Concentration in Music","Bachelor of Arts Minor Concentration in Music"],"province":"Québec"}]
+[
+  {
+    "city": "Sherbrooke",
+    "name": "Bishop's University",
+    "website": "http://www.ubishops.ca",
+    "programs": [
+      "Bachelor of Arts Honours in Music",
+      "Bachelor of Arts Major in Music (Classical)",
+      "Bachelor of Arts Minor in Music (Classical)",
+      "Bachelor of Arts Major in Popular Music Studies (Jazz, Pop/Rock)",
+      "Bachelor of Arts Minor in Popular Music Studies (Jazz, Pop/Rock)",
+      "Double Major: Secondary Education and Music",
+      "Certificate in Musical Studies"
+    ],
+    "province": "Québec",
+    "alts": ["Acting"]
+  },
+  {
+    "city": "Québec",
+    "name": "Conservatoire de musique et d'art dramatique Québec",
+    "website": "http://www.conservatoire.gouv.qc.ca/",
+    "programs": [
+      "Certificate of College Studies in Music",
+      "Bachelor of Music",
+      "Diploma of Specialized Studies in Music"
+    ],
+    "province": "Québec",
+    "alts": ["Acting"]
+  },
+  {
+    "city": "Montreal",
+    "name": "Concordia University",
+    "website": "https://www.concordia.ca",
+    "programs": [
+      "Bachelor of Fine Arts Major in Music",
+      "Minor in Music",
+      "Specialization in Jazz Studies",
+      "Specialization in Music Performance"
+    ],
+    "province": "Québec",
+    "alts": ["Acting", "Dance"]
+  },
+  {
+    "city": "Granby",
+    "name": "École national de la chanson",
+    "website": "http://enchanson.ca/lecole/",
+    "programs": ["Songwriting training program"],
+    "province": "Québec"
+  },
+  {
+    "city": "Montreal",
+    "name": "McGill University",
+    "website": "http://www.mcgill.ca",
+    "programs": [
+      "Bachelor of Music in Early Music (Voice)",
+      "Bachelor of Music in Jazz",
+      "Bachelor of Music in Voice",
+      "Licentiate in Music: Voice",
+      "Licentiate in Music: Jazz",
+      "Minor in Early Music",
+      "Minor in Jazz Performance",
+      "Double Majors",
+      "Bachelor of Arts Major Concentration in Music",
+      "Bachelor of Arts Minor Concentration in Music"
+    ],
+    "province": "Québec"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "city": "Charlottetown",
+    "name": "Holland College School of Performing Arts",
+    "website": "http://www.hollandcollege.com/school-of-performing-arts/",
+    "programs": ["Theatre Performance", "Performing Arts Foundation"],
+    "province": "Prince Edward Island",
+    "alts": ["Singing", "Dancing", "Musical Theatre"]
+  },
+  {
+    "city": "Charlottetown",
+    "name": "University of Prince Edward Island",
+    "website": "https://www.upei.ca",
+    "programs": ["Bachelor of Arts Minor in Theatre Studies"],
+    "province": "Prince Edward Island",
+    "alts": ["Singing"]
+  }
+]

@@ -55,6 +55,10 @@ export function formatSchoolObject(string, province) {
   if (title[title.length - 1] === "&") {
     title = title.slice(0, title.length - 1);
   }
+
+  if (title.includes("’")) {
+    title = title.replace("’", "'");
+  }
   schoolObj.name = title;
 
   //FIND WEBSITE
@@ -104,6 +108,8 @@ export function formatSchoolObject(string, province) {
     "<em>": "",
     "<p>&nbsp;</p>": "",
     "&nbsp;": "",
+    "&amp;": "&",
+    "&#8211;": "-",
     "<p>": "",
     "</p>": "|",
     "<br />": "",

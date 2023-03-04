@@ -1,1 +1,123 @@
-[{"city":"North Vancouver","name":"Capilano University","website":"http://www.capilanou.ca/","programs":["Bachelor of Music In Jazz Studies","Jazz Studies Diploma","Music Diploma (Classical)"],"province":"British Columbia","alts":["Acting","Musical Theatre"]},{"city":"New Westminster/Coquitlam","name":"Douglas College","website":"https://www.douglascollege.ca/","programs":["Performing and Fine Arts Certificate","Diploma in Music","Associate of Arts in Music","Bachelor of Performing Arts"],"province":"British Columbia","alts":["Acting"]},{"city":"Surrey","name":"Kwantlen Polytechnic University","website":"http://www.kpu.ca","programs":["Bachelor of Music in Musical Arts","Music Diploma","Associate Arts Degree"],"province":"British Columbia"},{"city":"Nelson","name":"Selkirk College","website":"http://www.selkirk.ca/","programs":["Diploma in Contemporary Music and Technology","University Transfer Options with Berklee College of Music (Boston)"],"province":"British Columbia"},{"city":"Vancouver","name":"Simon Fraser University’s School of the Contemporary Arts","website":"https://www.sfu.ca","programs":["Bachelor of Fine Arts in Music","Bachelor of Fine Arts Honours in Music","Extended Minor in Music"],"province":"British Columbia","alts":["Acting","Dance"]},{"city":"Langley","name":"Trinity Western University","website":"https://www.twu.ca","programs":["Bachelor of Arts in Music","Minor in Music","Concentration in Music"],"province":"British Columbia","alts":["Acting"]},{"city":"Vancouver","name":"University of British Columbia","website":"https://www.ubc.ca","programs":["Bachelor of Music in Opera","Bachelor of Music in Voice","Diploma in Musical Performance"],"province":"British Columbia","alts":["Acting"]},{"city":"Victoria","name":"University of Victoria","website":"https://www.uvic.ca","programs":["Bachelor of Music in Music Arts","Bachelor of Music in Performance","Minor in Music"],"province":"British Columbia","alts":["Acting"]},{"city":"Vancouver","name":"Vancouver Community College","website":"http://www.vcc.ca","programs":["Bachelor of Applied Music","Music: Diploma"],"province":"British Columbia","alts":["Dance"]},{"city":"Nanaimo","name":"Vancouver Island University","website":"https://www.viu.ca","programs":["Bachelor of Music in Jazz Studies","Music: Diploma in Jazz Studies","Bachelor of Music: Classical Transfer"],"province":"British Columbia","alts":["Acting"]},{"city":"Victoria","name":"Victoria Conservatory of Music","website":"http://vcm.bc.ca","programs":["Diploma in Music Performance"],"province":"British Columbia"}]
+[
+  {
+    "city": "North Vancouver",
+    "name": "Capilano University",
+    "website": "http://www.capilanou.ca/",
+    "programs": [
+      "Bachelor of Music In Jazz Studies",
+      "Jazz Studies Diploma",
+      "Music Diploma (Classical)"
+    ],
+    "province": "British Columbia",
+    "alts": ["Acting", "Musical Theatre"]
+  },
+  {
+    "city": "New Westminster/Coquitlam",
+    "name": "Douglas College",
+    "website": "https://www.douglascollege.ca/",
+    "programs": [
+      "Performing and Fine Arts Certificate",
+      "Diploma in Music",
+      "Associate of Arts in Music",
+      "Bachelor of Performing Arts"
+    ],
+    "province": "British Columbia",
+    "alts": ["Acting"]
+  },
+  {
+    "city": "Surrey",
+    "name": "Kwantlen Polytechnic University",
+    "website": "http://www.kpu.ca",
+    "programs": [
+      "Bachelor of Music in Musical Arts",
+      "Music Diploma",
+      "Associate Arts Degree"
+    ],
+    "province": "British Columbia"
+  },
+  {
+    "city": "Nelson",
+    "name": "Selkirk College",
+    "website": "http://www.selkirk.ca/",
+    "programs": [
+      "Diploma in Contemporary Music and Technology",
+      "University Transfer Options with Berklee College of Music (Boston)"
+    ],
+    "province": "British Columbia"
+  },
+  {
+    "city": "Vancouver",
+    "name": "Simon Fraser University's School of the Contemporary Arts",
+    "website": "https://www.sfu.ca",
+    "programs": [
+      "Bachelor of Fine Arts in Music",
+      "Bachelor of Fine Arts Honours in Music",
+      "Extended Minor in Music"
+    ],
+    "province": "British Columbia",
+    "alts": ["Acting", "Dance"]
+  },
+  {
+    "city": "Langley",
+    "name": "Trinity Western University",
+    "website": "https://www.twu.ca",
+    "programs": [
+      "Bachelor of Arts in Music",
+      "Minor in Music",
+      "Concentration in Music"
+    ],
+    "province": "British Columbia",
+    "alts": ["Acting"]
+  },
+  {
+    "city": "Vancouver",
+    "name": "University of British Columbia",
+    "website": "https://www.ubc.ca",
+    "programs": [
+      "Bachelor of Music in Opera",
+      "Bachelor of Music in Voice",
+      "Diploma in Musical Performance"
+    ],
+    "province": "British Columbia",
+    "alts": ["Acting"]
+  },
+  {
+    "city": "Victoria",
+    "name": "University of Victoria",
+    "website": "https://www.uvic.ca",
+    "programs": [
+      "Bachelor of Music in Music Arts",
+      "Bachelor of Music in Performance",
+      "Minor in Music"
+    ],
+    "province": "British Columbia",
+    "alts": ["Acting"]
+  },
+  {
+    "city": "Vancouver",
+    "name": "Vancouver Community College",
+    "website": "http://www.vcc.ca",
+    "programs": ["Bachelor of Applied Music", "Music: Diploma"],
+    "province": "British Columbia",
+    "alts": ["Dance"]
+  },
+  {
+    "city": "Nanaimo",
+    "name": "Vancouver Island University",
+    "website": "https://www.viu.ca",
+    "programs": [
+      "Bachelor of Music in Jazz Studies",
+      "Music: Diploma in Jazz Studies",
+      "Bachelor of Music: Classical Transfer"
+    ],
+    "province": "British Columbia",
+    "alts": ["Acting"]
+  },
+  {
+    "city": "Victoria",
+    "name": "Victoria Conservatory of Music",
+    "website": "http://vcm.bc.ca",
+    "programs": ["Diploma in Music Performance"],
+    "province": "British Columbia"
+  }
+]

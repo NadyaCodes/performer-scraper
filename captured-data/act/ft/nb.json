@@ -1,0 +1,39 @@
+[
+  {
+    "city": "Sackville",
+    "name": "Mount Allison University",
+    "website": "https://www.mta.ca/",
+    "programs": ["Bachelor of Arts in Drama Studies", "Minor in Drama Studies"],
+    "province": "New Brunswick",
+    "alts": ["Singing"]
+  },
+  {
+    "city": "Fredricton",
+    "name": "St. Thomas University",
+    "website": "https://www.stu.ca/about/",
+    "programs": [
+      "Acting for Film and TV",
+      "Interdisciplinary Minor with a concentration in Fine Arts",
+      "Interdisciplinary Major with a concentration in Fine Arts",
+      "Interdisciplinary Honours"
+    ],
+    "province": "New Brunswick",
+    "alts": ["Singing", "Musical Theatre"]
+  },
+  {
+    "city": "Moncton",
+    "name": "Université de Moncton",
+    "website": "http://www.umoncton.ca/",
+    "programs": ["Bachelor of Dramatic Arts"],
+    "province": "New Brunswick",
+    "alts": ["Singing"]
+  },
+  {
+    "city": "Fredericton",
+    "name": "University of New Brunswick",
+    "website": "http://www.unb.ca",
+    "programs": ["Bachelor of Arts Drama Concentration (English Major)"],
+    "province": "New Brunswick",
+    "alts": ["Singing"]
+  }
+]

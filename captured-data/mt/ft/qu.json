@@ -1,10 +1,1 @@
-[
-  {
-    "city": "Sainte-Thérèse",
-    "name": "École de Théâtre Professionnel",
-    "website": "https://etp.clg.qc.ca",
-    "programs": ["Interprétation en Théâtre Musical"],
-    "province": "Québec",
-    "alts": ["Acting"]
-  }
-]
+[{"city":"Sainte-Thérèse","name":"École de Théâtre Professionnel","website":"https://etp.clg.qc.ca","programs":["Interprétation en Théâtre Musical"],"province":"Québec","alts":["Acting"]}]

@@ -1,0 +1,56 @@
+[
+  {
+    "city": "Sherbrooke",
+    "name": "Bishop's University",
+    "website": "http://www.ubishops.ca",
+    "programs": [
+      "Bachelor of Arts Major in Drama",
+      "Bachelor of Arts Honours in Drama",
+      "Minor in Drama",
+      "Double Major: Secondary Education and Drama"
+    ],
+    "province": "Québec",
+    "alts": ["Singing"]
+  },
+  {
+    "city": "Québec",
+    "name": "Conservatoire de musique et d'art dramatique Québec",
+    "website": "http://www.conservatoire.gouv.qc.ca/",
+    "programs": ["Conservatory Program"],
+    "province": "Québec",
+    "alts": ["Singing"]
+  },
+  {
+    "city": "Montreal",
+    "name": "Concordia University",
+    "website": "https://www.concordia.ca",
+    "programs": [
+      "Bachelor of Fine Arts in Acting for the Theatre",
+      "Bachelor of Fine Arts Minor in Theatre"
+    ],
+    "province": "Québec",
+    "alts": ["Singing", "Dancing"]
+  },
+  {
+    "city": "Sainte-Anne-de-Bellevue",
+    "name": "John Abbott College",
+    "website": "http://www.johnabbott.qc.ca",
+    "programs": ["Professional Theatre Program"],
+    "province": "Québec"
+  },
+  {
+    "city": "Sainte-Thérèse",
+    "name": "École de Théâtre Professionnel",
+    "website": "https://etp.clg.qc.ca",
+    "programs": ["Interprétation Théâtrale"],
+    "province": "Québec",
+    "alts": ["Musical Theatre"]
+  },
+  {
+    "city": "Montreal",
+    "name": "National Theatre School of Canada",
+    "website": "https://ent-nts.ca/en",
+    "programs": ["Professional Acting Program"],
+    "province": "Québec"
+  }
+]

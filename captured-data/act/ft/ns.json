@@ -1,0 +1,33 @@
+[
+  {
+    "city": "Wolfville",
+    "name": "Acadia University",
+    "website": "https://www2.acadiau.ca/index.php",
+    "programs": ["Bachelor of Arts in Theatre"],
+    "province": "Nova Scotia",
+    "alts": ["Singing"]
+  },
+  {
+    "city": "Sydney",
+    "name": "Cape Breton University",
+    "website": "https://www.cbu.ca",
+    "programs": [
+      "Bachelor of Arts in Applied Theatre",
+      "Bachelor of Arts Community Studies (Applied Theatre)"
+    ],
+    "province": "Nova Scotia"
+  },
+  {
+    "city": "Halifax",
+    "name": "Dalhousie University",
+    "website": "https://www.dal.ca",
+    "programs": [
+      "Bachelor of Arts with Honours in Theatre (Acting)",
+      "Bachelor of Arts and Bachelor of Science Combined Honours",
+      "Bachelor of Arts Major or Double Major in Theatre",
+      "Bachelor of Arts with Minor in Theatre"
+    ],
+    "province": "Nova Scotia",
+    "alts": ["Singing", "Musical Theatre"]
+  }
+]
