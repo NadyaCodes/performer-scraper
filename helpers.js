@@ -158,3 +158,80 @@ export function formatSchoolObject(string, province) {
 
   return schoolObj;
 }
+
+export function formatSchoolObjectPt(string, province, area) {
+  const schoolObj = {};
+
+  //SELECT NAME AND CITY
+  let schoolTitleBegin = string.indexOf("<p>") + 3;
+  const schoolTitleEnd = string.indexOf("</p>") - 2;
+  let cityString = "";
+  let endIndex = schoolTitleEnd;
+
+  if (schoolTitleBegin > schoolTitleEnd) {
+    schoolTitleBegin = 1;
+  }
+
+  while (string[endIndex] !== "(") {
+    cityString = string[endIndex] + cityString;
+    endIndex--;
+  }
+  if (cityString.includes("’")) {
+    cityString = cityString.replace("’", "'");
+  }
+  schoolObj.city = cityString;
+
+  let title = string.slice(schoolTitleBegin, endIndex);
+  if (title.includes("&nbsp;")) {
+    let end = title.indexOf("&");
+    title = title.slice(0, end);
+  }
+  if (title[title.length - 1] === " ") {
+    title = title.slice(0, title.length - 1);
+  }
+
+  if (title[title.length - 1] === "&") {
+    title = title.slice(0, title.length - 1);
+  }
+
+  if (title.includes("’")) {
+    title = title.replace("’", "'");
+  }
+
+  if (title.includes("&amp;")) {
+    title = title.replace("&amp;", "&");
+  }
+  schoolObj.name = title;
+
+  //FIND WEBSITE
+  let linkFinal = "";
+  let linkEnd;
+  if (string.includes("href")) {
+    let linkBegin = string.indexOf("href");
+    linkEnd = string.indexOf("</a>");
+    let j = linkBegin + 6;
+
+    while (string[j] !== '"') {
+      linkFinal += string[j];
+      j++;
+    }
+  } else if (string.includes("http")) {
+    let linkBegin = string.indexOf("http");
+    linkEnd = linkBegin;
+    while (string[linkEnd] !== "<") {
+      linkEnd++;
+    }
+    let j = linkBegin;
+
+    while (string[j] !== "<") {
+      linkFinal += string[j];
+      j++;
+    }
+  }
+
+  schoolObj.website = linkFinal;
+  schoolObj.province = province;
+  schoolObj.area = area;
+
+  return schoolObj;
+}
