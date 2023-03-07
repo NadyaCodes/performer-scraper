@@ -164,7 +164,7 @@ export function formatSchoolObjectPt(string, province, area) {
 
   //SELECT NAME AND CITY
   let schoolTitleBegin = string.indexOf("<p>") + 3;
-  const schoolTitleEnd = string.indexOf("</p>") - 2;
+  let schoolTitleEnd = string.indexOf("</p>") - 2;
   let cityString = "";
   let endIndex = schoolTitleEnd;
 
@@ -172,36 +172,44 @@ export function formatSchoolObjectPt(string, province, area) {
     schoolTitleBegin = 1;
   }
 
-  while (string[endIndex] !== "(") {
-    cityString = string[endIndex] + cityString;
-    endIndex--;
-  }
-  if (cityString.includes("’")) {
-    cityString = cityString.replace("’", "'");
-  }
-  schoolObj.city = cityString;
+  let titleString = string.slice(schoolTitleBegin, schoolTitleEnd);
+  if (!titleString.includes("(")) {
+    schoolTitleEnd += 2;
+    titleString = string.slice(schoolTitleBegin, schoolTitleEnd);
+    schoolObj.name = titleString;
+    schoolObj.city = area;
+  } else {
+    while (string[endIndex] !== "(") {
+      cityString = string[endIndex] + cityString;
+      endIndex--;
+    }
+    if (cityString.includes("’")) {
+      cityString = cityString.replace("’", "'");
+    }
+    schoolObj.city = cityString;
 
-  let title = string.slice(schoolTitleBegin, endIndex);
-  if (title.includes("&nbsp;")) {
-    let end = title.indexOf("&");
-    title = title.slice(0, end);
-  }
-  if (title[title.length - 1] === " ") {
-    title = title.slice(0, title.length - 1);
-  }
+    let title = string.slice(schoolTitleBegin, endIndex);
+    if (title.includes("&nbsp;")) {
+      let end = title.indexOf("&");
+      title = title.slice(0, end);
+    }
+    if (title[title.length - 1] === " ") {
+      title = title.slice(0, title.length - 1);
+    }
 
-  if (title[title.length - 1] === "&") {
-    title = title.slice(0, title.length - 1);
-  }
+    if (title[title.length - 1] === "&") {
+      title = title.slice(0, title.length - 1);
+    }
 
-  if (title.includes("’")) {
-    title = title.replace("’", "'");
-  }
+    if (title.includes("’")) {
+      title = title.replace("’", "'");
+    }
 
-  if (title.includes("&amp;")) {
-    title = title.replace("&amp;", "&");
+    if (title.includes("&amp;")) {
+      title = title.replace("&amp;", "&");
+    }
+    schoolObj.name = title;
   }
-  schoolObj.name = title;
 
   //FIND WEBSITE
   let linkFinal = "";
