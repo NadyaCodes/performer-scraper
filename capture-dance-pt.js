@@ -43,7 +43,6 @@ function fetchBCSchools() {
           const startIndex = contentSection.indexOf("</h1>");
           const noTitle = contentSection.slice(startIndex);
 
-          // console.log(noTitle);
           const schoolsList = makeSchoolsArray(noTitle);
           for (let i = 0; i < schoolsList.length; i++) {
             if (!schoolsList[i].includes("href")) {
@@ -71,7 +70,6 @@ function fetchBCSchools() {
           const startIndex = contentSection.indexOf("</h1>");
           const noTitle = contentSection.slice(startIndex);
 
-          // console.log(noTitle);
           const schoolsList = makeSchoolsArray(noTitle);
           for (let i = 0; i < schoolsList.length; i++) {
             if (!schoolsList[i].includes("href")) {
@@ -97,7 +95,6 @@ function fetchBCSchools() {
           const startIndex = contentSection.indexOf("</h1>");
           const noTitle = contentSection.slice(startIndex);
 
-          // console.log(noTitle);
           const schoolsList = makeSchoolsArray(noTitle);
           for (let i = 0; i < schoolsList.length; i++) {
             if (!schoolsList[i].includes("href")) {
