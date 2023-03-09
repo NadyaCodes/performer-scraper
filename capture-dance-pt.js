@@ -124,3 +124,5 @@ function fetchBCSchools() {
 }
 
 fetchBCSchools();
+
+//Alberta
