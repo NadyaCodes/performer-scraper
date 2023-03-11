@@ -1,1 +1,31 @@
-[{"city":"Fredricton","name":"St. Thomas University","website":"https://www.stu.ca/about/","programs":["Musical Theatre Training","Interdisciplinary Minor with a concentration in Fine Arts","Interdisciplinary Major with a concentration in Fine Arts","Interdisciplinary Honours"],"province":"New Brunswick","alts":["Acting","Singing"]},{"city":"Halifax","name":"Dalhousie University","website":"https://www.dal.ca","programs":["Bachelor of Arts Combined Honours in Theatre and Music"],"province":"Nova Scotia","alts":["Acting","Singing"]},{"city":"Charlottetown","name":"Holland College School of Performing Arts","website":"http://www.hollandcollege.com/school-of-performing-arts/","programs":["Theatre Performance","Performing Arts Foundation"],"province":"Prince Edward Island","alts":["Acting","Singing","Dancing"]}]
+[
+  {
+    "city": "Fredricton",
+    "name": "St. Thomas University",
+    "website": "https://www.stu.ca/about/",
+    "programs": [
+      "Musical Theatre Training",
+      "Interdisciplinary Minor with a concentration in Fine Arts",
+      "Interdisciplinary Major with a concentration in Fine Arts",
+      "Interdisciplinary Honours"
+    ],
+    "province": "New Brunswick",
+    "alts": ["Acting", "Singing"]
+  },
+  {
+    "city": "Halifax",
+    "name": "Dalhousie University",
+    "website": "https://www.dal.ca",
+    "programs": ["Bachelor of Arts Combined Honours in Theatre and Music"],
+    "province": "Nova Scotia",
+    "alts": ["Acting", "Singing"]
+  },
+  {
+    "city": "Charlottetown",
+    "name": "Holland College School of Performing Arts",
+    "website": "http://www.hollandcollege.com/school-of-performing-arts/",
+    "programs": ["Theatre Performance", "Performing Arts Foundation"],
+    "province": "Prince Edward Island",
+    "alts": ["Acting", "Singing", "Dancing"]
+  }
+]

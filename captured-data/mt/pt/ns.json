@@ -1,1 +1,9 @@
-[{"city":"Halifax","name":"Maritime Conservatory of Performing Arts","website":"http://maritimeconservatory.com/music/","province":"Nova Scotia","area":"Nova Scotia"}]
+[
+  {
+    "city": "Halifax",
+    "name": "Maritime Conservatory of Performing Arts",
+    "website": "http://maritimeconservatory.com/music/",
+    "province": "Nova Scotia",
+    "area": "Nova Scotia"
+  }
+]

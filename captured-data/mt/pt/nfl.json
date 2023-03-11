@@ -1,1 +1,9 @@
-[{"city":"Saint John's","name":"Performing Art's Group","website":"http://theperformingartsgroup.ca/index","province":"Newfoundland","area":"Newfoundland"}]
+[
+  {
+    "city": "Saint John's",
+    "name": "Performing Art's Group",
+    "website": "http://theperformingartsgroup.ca/index",
+    "province": "Newfoundland",
+    "area": "Newfoundland"
+  }
+]

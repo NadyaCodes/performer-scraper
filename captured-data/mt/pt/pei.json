@@ -1,1 +1,9 @@
-[{"city":"Charlottetown","name":"Confederation Centre of the Arts","website":"https://confederationcentre.com/arts-education/","province":"Prince Edward Island","area":"Prince Edward Island"}]
+[
+  {
+    "city": "Charlottetown",
+    "name": "Confederation Centre of the Arts",
+    "website": "https://confederationcentre.com/arts-education/",
+    "province": "Prince Edward Island",
+    "area": "Prince Edward Island"
+  }
+]
