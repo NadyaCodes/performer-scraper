@@ -1,1 +1,43 @@
-[{"city":"Wolfville","name":"Acadia University","website":"https://www2.acadiau.ca/index.php","programs":["Bachelor of Music"],"province":"Nova Scotia","alts":["Acting"]},{"city":"Halifax","name":"Dalhousie University","website":"https://www.dal.ca","programs":["Bachelor of Music","Concentration in Performance","Bachelor of Arts in Music","Bachelor of Arts and Bachelor of Science Combined Honours","Cooperative Degrees with University of King's College","Music Electives"],"province":"Nova Scotia","alts":["Acting","Musical Theatre"]},{"city":"Dartmouth","name":"Nova Scotia Community College","website":"https://www.nscc.ca/","programs":["Music Arts"],"province":"Nova Scotia"},{"city":"Antigonish","name":"St. Francis Xavier University","website":"https://www.stfx.ca","programs":["Bachelor of Music","Bachelor of Arts, Major in Music","Minor in Music"],"province":"Nova Scotia"}]
+[
+  {
+    "city": "Wolfville",
+    "name": "Acadia University",
+    "website": "https://www2.acadiau.ca/index.php",
+    "programs": ["Bachelor of Music"],
+    "province": "Nova Scotia",
+    "alts": ["Acting"]
+  },
+  {
+    "city": "Halifax",
+    "name": "Dalhousie University",
+    "website": "https://www.dal.ca",
+    "programs": [
+      "Bachelor of Music",
+      "Concentration in Performance",
+      "Bachelor of Arts in Music",
+      "Bachelor of Arts and Bachelor of Science Combined Honours",
+      "Cooperative Degrees with University of King's College",
+      "Music Electives"
+    ],
+    "province": "Nova Scotia",
+    "alts": ["Acting", "Musical Theatre"]
+  },
+  {
+    "city": "Dartmouth",
+    "name": "Nova Scotia Community College",
+    "website": "https://www.nscc.ca/",
+    "programs": ["Music Arts"],
+    "province": "Nova Scotia"
+  },
+  {
+    "city": "Antigonish",
+    "name": "St. Francis Xavier University",
+    "website": "https://www.stfx.ca",
+    "programs": [
+      "Bachelor of Music",
+      "Bachelor of Arts, Major in Music",
+      "Minor in Music"
+    ],
+    "province": "Nova Scotia"
+  }
+]

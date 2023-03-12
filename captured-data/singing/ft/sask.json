@@ -1,1 +1,45 @@
-[{"city":"Regina","name":"Campion College","website":"http://campioncollege.ca","programs":["Bachelor of Music","Bachelor of Arts in Music","Bachelor of Music Education"],"province":"Saskatchewan","alts":["Acting"]},{"city":"Regina","name":"University of Regina","website":"https://urconnected.uregina.ca/index.do","programs":["Bachelor of Music: Performance Major","Bachelor of Arts: Three Year Specialization in Music"],"province":"Saskatchewan","alts":["Acting"]},{"city":"Regina","name":"University of Regina, Luther College","website":"https://www.luthercollege.edu/university/","programs":["Bachelor of Music"],"province":"Saskatchewan","alts":["Acting"]},{"city":"Saskatoon","name":"University of Saskatchewan","website":"https://www.usask.ca","programs":["Bachelor of Music Performance Honours","Bachelor of Music Individualized","Jazz Certificate of Proficiency"],"province":"Saskatchewan","alts":["Acting"]}]
+[
+  {
+    "city": "Regina",
+    "name": "Campion College",
+    "website": "http://campioncollege.ca",
+    "programs": [
+      "Bachelor of Music",
+      "Bachelor of Arts in Music",
+      "Bachelor of Music Education"
+    ],
+    "province": "Saskatchewan",
+    "alts": ["Acting"]
+  },
+  {
+    "city": "Regina",
+    "name": "University of Regina",
+    "website": "https://urconnected.uregina.ca/index.do",
+    "programs": [
+      "Bachelor of Music: Performance Major",
+      "Bachelor of Arts: Three Year Specialization in Music"
+    ],
+    "province": "Saskatchewan",
+    "alts": ["Acting"]
+  },
+  {
+    "city": "Regina",
+    "name": "University of Regina, Luther College",
+    "website": "https://www.luthercollege.edu/university/",
+    "programs": ["Bachelor of Music"],
+    "province": "Saskatchewan",
+    "alts": ["Acting"]
+  },
+  {
+    "city": "Saskatoon",
+    "name": "University of Saskatchewan",
+    "website": "https://www.usask.ca",
+    "programs": [
+      "Bachelor of Music Performance Honours",
+      "Bachelor of Music Individualized",
+      "Jazz Certificate of Proficiency"
+    ],
+    "province": "Saskatchewan",
+    "alts": ["Acting"]
+  }
+]
