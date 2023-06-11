@@ -1,0 +1,23 @@
+[
+  {
+    "city": "Saint Andrews",
+    "name": "St. Andrews Arts Council",
+    "website": "http://www.standrewsartscouncil.com",
+    "province": "New Brunswick",
+    "area": "New Brunswick"
+  },
+  {
+    "city": "Saint John",
+    "name": "St. John Theatre Company",
+    "website": "https://saintjohntheatrecompany.com/outreach-training/",
+    "province": "New Brunswick",
+    "area": "New Brunswick"
+  },
+  {
+    "city": "Fredericton",
+    "name": "Theatre New Brunswick",
+    "website": "http://www.tnb.nb.ca/artist-training/",
+    "province": "New Brunswick",
+    "area": "New Brunswick"
+  }
+]

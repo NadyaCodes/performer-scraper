@@ -1,0 +1,107 @@
+[
+  {
+    "city": "Saskatoon",
+    "name": "12 String Studios",
+    "website": "http://www.12stringstudios.com",
+    "province": "Saskatchewan",
+    "area": "Saskatchewan"
+  },
+  {
+    "city": "Regina, Saskatoon",
+    "name": "Custom Music Lessons",
+    "website": "http://www.custommusiclessons.com/about",
+    "province": "Saskatchewan",
+    "area": "Saskatchewan"
+  },
+  {
+    "city": "Swift Current",
+    "name": "Glenna Switzer",
+    "website": "http://glenna.ca/lessons/",
+    "province": "Saskatchewan",
+    "area": "Saskatchewan"
+  },
+  {
+    "city": "Warman",
+    "name": "Hawk's Nest Studio",
+    "website": "https://hawksnestmusicstudio.weebly.com",
+    "province": "Saskatchewan",
+    "area": "Saskatchewan"
+  },
+  {
+    "city": "Regina, Saskatoon",
+    "name": "Long & McQuade",
+    "website": "https://www.long-mcquade.com/lessons/Saskatchewan/",
+    "province": "Saskatchewan",
+    "area": "Saskatchewan"
+  },
+  {
+    "city": "Regina",
+    "name": "Music in the House",
+    "website": "https://www.musicinthehouse.ca",
+    "province": "Saskatchewan",
+    "area": "Saskatchewan"
+  },
+  {
+    "city": "Moose Jaw",
+    "name": "Music Note Studio",
+    "website": "http://www.talentcanbetaught.com/moose-jaw-studio",
+    "province": "Saskatchewan",
+    "area": "Saskatchewan"
+  },
+  {
+    "city": "Saskatoon",
+    "name": "Prairie Songstress Music",
+    "website": "http://www.prairiesongstress.com",
+    "province": "Saskatchewan",
+    "area": "Saskatchewan"
+  },
+  {
+    "city": "Saskatoon",
+    "name": "Saskatoon Academy of Music",
+    "website": "http://www.saskatoonacademyofmusic.com",
+    "province": "Saskatchewan",
+    "area": "Saskatchewan"
+  },
+  {
+    "city": "Saskatoon",
+    "name": "Saskatoon Conservatory of Music",
+    "website": "http://www.saskatoonconservatory.ca/index.html",
+    "province": "Saskatchewan",
+    "area": "Saskatchewan"
+  },
+  {
+    "city": "Saskatoon",
+    "name": "SaskExpress",
+    "website": "https://saskexpress.com",
+    "province": "Saskatchewan",
+    "area": "Saskatchewan"
+  },
+  {
+    "city": "Regina",
+    "name": "School of Rock",
+    "website": "https://locations.schoolofrock.com/regina",
+    "province": "Saskatchewan",
+    "area": "Saskatchewan"
+  },
+  {
+    "city": "Regina",
+    "name": "Sing Like a Star",
+    "website": "https://www.singlikeastar.ca",
+    "province": "Saskatchewan",
+    "area": "Saskatchewan"
+  },
+  {
+    "city": "North Battleford",
+    "name": "Summer School for the Solo Voice",
+    "website": "http://www.summerschoolforthesolovoice.com",
+    "province": "Saskatchewan",
+    "area": "Saskatchewan"
+  },
+  {
+    "city": "Regina",
+    "name": "University of Regina Conservatory of Performing Arts",
+    "website": "https://www.uregina.ca/cce/conservatory/private-lessons/index.html",
+    "province": "Saskatchewan",
+    "area": "Saskatchewan"
+  }
+]

@@ -1,0 +1,534 @@
+[
+  {
+    "city": "Kelowna",
+    "name": "Kelowna Community Music School",
+    "website": "https://www.kelownacommunitymusicschool.ca/",
+    "province": "British Columbia",
+    "area": "Interior"
+  },
+  {
+    "city": "Kelowna",
+    "name": "Kelowna Voice Lab",
+    "website": "https://www.kelownavoicelab.com",
+    "province": "British Columbia",
+    "area": "Interior"
+  },
+  {
+    "city": "Nelson",
+    "name": "Oxygen Art Centre",
+    "website": "https://oxygenartcentre.org/classes/adult/",
+    "province": "British Columbia",
+    "area": "Interior"
+  },
+  {
+    "city": "Penticton",
+    "name": "Penticton Academy of Music",
+    "website": "https://pentictonacademyofmusic.ca",
+    "province": "British Columbia",
+    "area": "Interior"
+  },
+  {
+    "city": "Prince George",
+    "name": "Prince George Conservatory of Music",
+    "website": "https://www.pgconservatory.ca",
+    "province": "British Columbia",
+    "area": "Interior"
+  },
+  {
+    "city": "Prince George",
+    "name": "Robin Norman",
+    "website": "http://novevoce.ca/about/",
+    "province": "British Columbia",
+    "area": "Interior"
+  },
+  {
+    "city": "Silverton",
+    "name": "Valhalla Fine Arts",
+    "website": "http://www.valhallafinearts.org/site/",
+    "province": "British Columbia",
+    "area": "Interior"
+  },
+  {
+    "city": "Vernon",
+    "name": "Vernon Community Music School",
+    "website": "https://www.vernoncommunitymusicschool.com",
+    "province": "British Columbia",
+    "area": "Interior"
+  },
+  {
+    "city": "Kelowna",
+    "name": "Wentworth Music",
+    "website": "https://wmec.ca/singing-lessons-kelowna/",
+    "province": "British Columbia",
+    "area": "Interior"
+  },
+  {
+    "city": "West Kelowna",
+    "name": "West Kelowna Music School",
+    "website": "https://www.westkelownamusicschool.com",
+    "province": "British Columbia",
+    "area": "Interior"
+  },
+  {
+    "name": "Alida Vocal Studio",
+    "city": "Vancouver",
+    "website": "http://www.singinglessonsinvancouver.com",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "British Columbia Conservatory of Music",
+    "city": "Vancouver",
+    "website": "https://www.bccmusic.ca",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "Catherine Crouch Voice Studio",
+    "city": "Vancouver",
+    "website": "http://www.ccvoicestudio.ca/#5",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "Cooper Studios",
+    "city": "Vancouver",
+    "website": "https://www.facebook.com/Cooper-Studios-239109442903395/",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "Courtenay Ennis Vocal Studio",
+    "city": "Vancouver",
+    "website": "http://www.courtenayennisvocalstudio.com",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "CW Music",
+    "city": "Vancouver",
+    "website": "https://www.cwmusic.ca/instructors-therapist",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "Lynn McGown",
+    "city": "Vancouver",
+    "website": "http://www.lynnmcgown.com",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "Lyrebird Academy",
+    "city": "Vancouver",
+    "website": "http://lyrebird.ca",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "Mark's Vocal Studio",
+    "city": "Vancouver",
+    "website": "http://www.singinglessonsvancouver.ca",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "Maryse Schembri's Creative Teacher",
+    "city": "Vancouver",
+    "website": "https://vancouvercreativeclass.com",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "Miriam Davidson",
+    "city": "Vancouver",
+    "website": "http://www.miriamdavidson.com/voice-music-lessons",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "Opera Pro Cantanti",
+    "city": "Vancouver",
+    "website": "http://www.procantanti.com",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "Resound School of Music",
+    "city": "Vancouver",
+    "website": "https://resoundschool.com",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "Showcase Academy",
+    "city": "Vancouver",
+    "website": "https://showcaseacademy.com",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "Singing Lessons Vancouver",
+    "city": "Vancouver",
+    "website": "https://www.facebook.com/MarksVocalStudio",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "Spencer Welch Vocal Studio",
+    "city": "Vancouver",
+    "website": "http://spencerwelch.com",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "Studio Cloud 30",
+    "city": "Vancouver",
+    "website": "https://www.studiocloud30.com",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "University of British Columbia",
+    "city": "Vancouver",
+    "website": "https://music.ubc.ca/overview-nondegree-education/",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "Vancouver Academy of Music",
+    "city": "Vancouver",
+    "website": "https://vancouveracademyofmusic.com/voice-lessons-adults/",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "VSO School of Music",
+    "city": "Vancouver",
+    "website": "https://vsoschoolofmusic.ca",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "city": "New Westminster",
+    "name": "Adams Voice Studio",
+    "website": "https://melanieadams.musicteachershelper.com",
+    "province": "British Columbia",
+    "area": "Burnaby, Richmond, New Westminster"
+  },
+  {
+    "city": "Richmond",
+    "name": "The Arts Connection",
+    "website": "https://theartsconnection.ca",
+    "province": "British Columbia",
+    "area": "Burnaby, Richmond, New Westminster"
+  },
+  {
+    "city": "Burnaby",
+    "name": "British Columbia Conservatory of Music",
+    "website": "https://www.bccmusic.ca",
+    "province": "British Columbia",
+    "area": "Burnaby, Richmond, New Westminster"
+  },
+  {
+    "city": "Burnaby",
+    "name": "Carillon Music Academy",
+    "website": "https://www.carillonmusicacademy.com/",
+    "province": "British Columbia",
+    "area": "Burnaby, Richmond, New Westminster"
+  },
+  {
+    "city": "Burnaby",
+    "name": "Dancinstars",
+    "website": "http://dancinstarsbc.com/about-dancinstars/",
+    "province": "British Columbia",
+    "area": "Burnaby, Richmond, New Westminster"
+  },
+  {
+    "city": "New Westminster",
+    "name": "Douglas College Community Music School",
+    "website": "https://www.douglascollege.ca/programs-courses/continuing-education/community-music-school",
+    "province": "British Columbia",
+    "area": "Burnaby, Richmond, New Westminster"
+  },
+  {
+    "city": "New Westminster",
+    "name": "Kabok Music School",
+    "website": "http://www.kabokmusicschool.com",
+    "province": "British Columbia",
+    "area": "Burnaby, Richmond, New Westminster"
+  },
+  {
+    "city": "New Westminster",
+    "name": "Music Box",
+    "website": "http://www.musicboxnw.ca",
+    "province": "British Columbia",
+    "area": "Burnaby, Richmond, New Westminster"
+  },
+  {
+    "city": "Richmond",
+    "name": "Richmond Arts Center",
+    "website": "https://www.richmond.ca/culture/centre/instructors/music.htm",
+    "province": "British Columbia",
+    "area": "Burnaby, Richmond, New Westminster"
+  },
+  {
+    "city": "Richmond",
+    "name": "Richmond Music School",
+    "website": "http://www.richmondmusicschool.ca",
+    "province": "British Columbia",
+    "area": "Burnaby, Richmond, New Westminster"
+  },
+  {
+    "city": "Richmond",
+    "name": "Showcase Academy",
+    "website": "https://showcaseacademy.com",
+    "province": "British Columbia",
+    "area": "Burnaby, Richmond, New Westminster"
+  },
+  {
+    "city": "Burnaby",
+    "name": "Staccato Music Studios",
+    "website": "http://www.staccatostudios.com",
+    "province": "British Columbia",
+    "area": "Burnaby, Richmond, New Westminster"
+  },
+  {
+    "city": "Richmond",
+    "name": "World of Music Arts",
+    "website": "https://www.worldofmusicandarts.com/private-lessons/lessons-for-adults/",
+    "province": "British Columbia",
+    "area": "Burnaby, Richmond, New Westminster"
+  },
+  {
+    "city": "Port Moody",
+    "name": "The Arts Centre",
+    "website": "https://pomoarts.ca",
+    "province": "British Columbia",
+    "area": "Lower Mainland"
+  },
+  {
+    "city": "Maple Ridge",
+    "name": "Bergthorson Academy Music Lessons",
+    "website": "https://bergthorson.com",
+    "province": "British Columbia",
+    "area": "Lower Mainland"
+  },
+  {
+    "city": "Pitt Meadows",
+    "name": "Bergthorson Academy Music Lessons",
+    "website": "https://bergthorson.com",
+    "province": "British Columbia",
+    "area": "Lower Mainland"
+  },
+  {
+    "city": "Port Coquitlam",
+    "name": "British Columbia Conservatory of Music",
+    "website": "https://www.bccmusic.ca",
+    "province": "British Columbia",
+    "area": "Lower Mainland"
+  },
+  {
+    "city": "Surrey",
+    "name": "Carillon Music Academy",
+    "website": "https://www.carillonmusicacademy.com/",
+    "province": "British Columbia",
+    "area": "Lower Mainland"
+  },
+  {
+    "city": "Port Moody",
+    "name": "Caulfield School of Dance",
+    "website": "http://www.caulfield.bc.ca",
+    "province": "British Columbia",
+    "area": "Lower Mainland"
+  },
+  {
+    "city": "Abbotsford",
+    "name": "Central Valley Academy of Music",
+    "website": "http://cvam.net",
+    "province": "British Columbia",
+    "area": "Lower Mainland"
+  },
+  {
+    "city": "Chilliwack",
+    "name": "Chilliwack Academy of Music",
+    "website": "http://www.chilliwackmusic.com",
+    "province": "British Columbia",
+    "area": "Lower Mainland"
+  },
+  {
+    "city": "Delta",
+    "name": "Delta Community Music School",
+    "website": "https://vsoschoolofmusic.ca",
+    "province": "British Columbia",
+    "area": "Lower Mainland"
+  },
+  {
+    "city": "Mission",
+    "name": "Dynamic Music Instruction",
+    "website": "https://www.dynamicmusicinstruction.com",
+    "province": "British Columbia",
+    "area": "Lower Mainland"
+  },
+  {
+    "city": "Maple Ridge",
+    "name": "Fiona Blackburn",
+    "website": "https://fionablackburn.com/",
+    "province": "British Columbia",
+    "area": "Lower Mainland"
+  },
+  {
+    "city": "White Rock",
+    "name": "Free Your Natural Voice Studio",
+    "website": "https://www.heidimccurdy.com",
+    "province": "British Columbia",
+    "area": "Lower Mainland"
+  },
+  {
+    "city": "Surrey",
+    "name": "Inspire Arts Academy",
+    "website": "http://www.inspirearts.ca/music-lessons-drama-dance-magic-schedule-of-teaching-south-surrey-bc.html",
+    "province": "British Columbia",
+    "area": "Lower Mainland"
+  },
+  {
+    "city": "Langley",
+    "name": "Langley Community Music School",
+    "website": "http://langleymusic.com/learn/adult/",
+    "province": "British Columbia",
+    "area": "Lower Mainland"
+  },
+  {
+    "city": "Mission",
+    "name": "Mission Music Lessons",
+    "website": "http://missionmusiclessons.com",
+    "province": "British Columbia",
+    "area": "Lower Mainland"
+  },
+  {
+    "city": "Abbotsford",
+    "name": "Stepping Stone Music Company",
+    "website": "https://resoundschool.com",
+    "province": "British Columbia",
+    "area": "Lower Mainland"
+  },
+  {
+    "city": "Delta",
+    "name": "Studio Cloud 30",
+    "website": "https://www.studiocloud30.com",
+    "province": "British Columbia",
+    "area": "Lower Mainland"
+  },
+  {
+    "city": "Duncan",
+    "name": "Forte School of Music",
+    "website": "http://forteschoolofmusic.ca",
+    "province": "British Columbia",
+    "area": "Islands"
+  },
+  {
+    "city": "Victoria",
+    "name": "Kristen Birley's Voice Studio",
+    "website": "https://www.kristenbirley.com",
+    "province": "British Columbia",
+    "area": "Islands"
+  },
+  {
+    "city": "Nanaimo",
+    "name": "Long Lake Music",
+    "website": "http://longlakemusic.com",
+    "province": "British Columbia",
+    "area": "Islands"
+  },
+  {
+    "city": "Nanaimo",
+    "name": "Lynne Rogers Music Studio",
+    "website": "https://www.lynnerogersmusic.ca",
+    "province": "British Columbia",
+    "area": "Islands"
+  },
+  {
+    "city": "Courtenay",
+    "name": "Motif Music Studios",
+    "website": "http://www.motifmusicstudios.com/",
+    "province": "British Columbia",
+    "area": "Islands"
+  },
+  {
+    "city": "Nanaimo",
+    "name": "Nanaimo Conservatory of Music",
+    "website": "https://www.ncmusic.ca/programs-instruction/individual-instruction/",
+    "province": "British Columbia",
+    "area": "Islands"
+  },
+  {
+    "city": "Nanaimo",
+    "name": "Natural Growth",
+    "website": "http://naturalgrowth.ca",
+    "province": "British Columbia",
+    "area": "Islands"
+  },
+  {
+    "city": "North Saanich",
+    "name": "Peninsula Academy of Music Arts",
+    "website": "http://peninsulaacademy.ca",
+    "province": "British Columbia",
+    "area": "Islands"
+  },
+  {
+    "city": "Victoria",
+    "name": "The Shy Singer",
+    "website": "http://www.theshysinger.com/index.html",
+    "province": "British Columbia",
+    "area": "Islands"
+  },
+  {
+    "city": "Victoria",
+    "name": "South Island Studio",
+    "website": "http://www.southislandstudio.com",
+    "province": "British Columbia",
+    "area": "Islands"
+  },
+  {
+    "city": "Cobble Hill",
+    "name": "South Island Studio",
+    "website": "http://www.southislandstudio.com",
+    "province": "British Columbia",
+    "area": "Islands"
+  },
+  {
+    "city": "Squamish",
+    "name": "Squamish Academy of Music",
+    "website": "http://www.squamishacademyofmusic.com",
+    "province": "British Columbia",
+    "area": "Islands"
+  },
+  {
+    "city": "Victoria",
+    "name": "Taber Music School",
+    "website": "http://www.tabermusic.com",
+    "province": "British Columbia",
+    "area": "Islands"
+  },
+  {
+    "city": "Victoria",
+    "name": "Victoria Conservatory of Music",
+    "website": "http://vcm.bc.ca",
+    "province": "British Columbia",
+    "area": "Islands"
+  },
+  {
+    "city": "Nanaimo",
+    "name": "Voice Alive Music Studio",
+    "website": "http://www.voicealivenanaimo.com",
+    "province": "British Columbia",
+    "area": "Islands"
+  },
+  {
+    "city": "Victoria",
+    "name": "Yanik Giroux",
+    "website": "https://www.yanikgiroux.com/performingartsstudio.htm",
+    "province": "British Columbia",
+    "area": "Islands"
+  }
+]

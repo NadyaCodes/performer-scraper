@@ -1,0 +1,261 @@
+[
+  {
+    "city": "Langley",
+    "name": "The Acting Academy",
+    "website": "http://www.theactingacademy.ca",
+    "province": "British Columbia",
+    "area": "Lower Mainland"
+  },
+  {
+    "city": "Burnaby",
+    "name": "BCIT School of Business",
+    "website": "https://www.bcit.ca/business/broadcast/",
+    "province": "British Columbia",
+    "area": "Lower Mainland"
+  },
+  {
+    "city": "Abbotsford",
+    "name": "Gallery 7 Theatre & Performing Arts Society",
+    "website": "http://www.gallery7theatre.com",
+    "province": "British Columbia",
+    "area": "Lower Mainland"
+  },
+  {
+    "city": "Burnaby",
+    "name": "Staccato Music Studios",
+    "website": "http://www.staccatostudios.com",
+    "province": "British Columbia",
+    "area": "Lower Mainland"
+  },
+  {
+    "city": "Galiano",
+    "name": "Gulf Islands Film and Television School",
+    "website": "https://www.facebook.com/GIFTSfans/",
+    "province": "British Columbia",
+    "area": "Other"
+  },
+  {
+    "city": "Nanaimo",
+    "name": "Kismet Theatre Academy",
+    "website": "https://www.facebook.com/Kismet-Theatre-Academy-358248050929720/",
+    "province": "British Columbia",
+    "area": "Other"
+  },
+  {
+    "city": "Kelowna",
+    "name": "Okanagan Society of Independent Filmmaking",
+    "website": "https://www.osif.org",
+    "province": "British Columbia",
+    "area": "Other"
+  },
+  {
+    "city": "Victoria",
+    "name": "Paper Street Theatre Company",
+    "website": "http://www.paperstreettheatre.ca",
+    "province": "British Columbia",
+    "area": "Other"
+  },
+  {
+    "city": "Kelowna",
+    "name": "Rotary Centre for the Arts",
+    "website": "https://rotarycentreforthearts.com",
+    "province": "British Columbia",
+    "area": "Other"
+  },
+  {
+    "city": "Nanaimo",
+    "name": "Spotlight Academy",
+    "website": "https://spotlightacademy.com/",
+    "province": "British Columbia",
+    "area": "Other"
+  },
+  {
+    "city": "Victoria",
+    "name": "Victoria Academy of Dramatic Arts",
+    "website": "http://www.vadarts.com/",
+    "province": "British Columbia",
+    "area": "Other"
+  },
+  {
+    "city": "West Kelowna",
+    "name": "West Kelowna Music School",
+    "website": "https://www.westkelownamusicschool.com",
+    "province": "British Columbia",
+    "area": "Other"
+  },
+  {
+    "name": "Actorium",
+    "city": "Vancouver",
+    "website": "https://actorium.ca",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "The Actor's Foundry",
+    "city": "Vancouver",
+    "website": "https://www.actorsfoundry.com",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "Actorvan",
+    "city": "Vancouver",
+    "website": "http://actorvan.com",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "Anthony Meindl's Actor Workshop",
+    "city": "Vancouver",
+    "website": "http://www.anthonymeindl.com",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "Arts Club",
+    "city": "Vancouver",
+    "website": "http://artsclub.com/education/the-actors-intensive",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "Arts Umbrella",
+    "city": "Vancouver",
+    "website": "https://www.artsumbrella.com/",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "Austin Tuck Studios",
+    "city": "Vancouver",
+    "website": "http://www.austintuckstudios.com",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "Bryant Centre for Film and Television Action",
+    "city": "Vancouver",
+    "website": "http://bryantfilm.com",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "The Drama Class",
+    "city": "Vancouver",
+    "website": "http://www.thedramaclass.com/",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "First Step Actors",
+    "city": "Vancouver",
+    "website": "http://www.firststepactors.com",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "Instant Theatre Company",
+    "city": "Vancouver",
+    "website": "https://www.facebook.com/instanttheatrecompany/",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "Jeb Beach & Associates",
+    "city": "Vancouver",
+    "website": "https://www.jebbeach.com",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "Lyrebird Academy",
+    "city": "Vancouver",
+    "website": "http://lyrebird.ca",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "McIlroy & Associates",
+    "city": "Vancouver",
+    "website": "https://www.andrewmcilroy.net",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "Methodica",
+    "city": "Vancouver",
+    "website": "http://studiomethodica.com",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "On The Mic Training - Voice Over",
+    "city": "Vancouver",
+    "website": "https://www.onthemictraining.com",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "Railtown Actors Studio",
+    "city": "Vancouver",
+    "website": "https://www.railtownactors.com",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "Rogues West",
+    "city": "Vancouver",
+    "website": "http://www.rogueswest.ca",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "Shoreline Studios",
+    "city": "Vancouver",
+    "website": "https://www.shoreline-studios.com",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "Tony Alcantar Dialect Coach",
+    "city": "Vancouver",
+    "website": "https://www.tonyalcantar.com",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "Vancouver Academy of Dramatic Arts",
+    "city": "Vancouver",
+    "website": "https://vadastudios.com",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "Vancouver Acting School",
+    "city": "Vancouver",
+    "website": "http://vancouveractingschool.com/",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "Vancouver Film School",
+    "city": "Vancouver",
+    "website": "https://vfs.edu/programs/acting-essentials",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "Vancouver Institute of Media Arts",
+    "city": "Vancouver",
+    "website": "https://www.vanarts.com/",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  },
+  {
+    "name": "Working Actors Gym",
+    "city": "Vancouver",
+    "website": "http://mitchandmurrayproductions.com/theworkingactorsgym/",
+    "province": "British Columbia",
+    "area": "Vancouver"
+  }
+]

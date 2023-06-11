@@ -1,0 +1,23 @@
+[
+  {
+    "city": "Canning",
+    "name": "Arts Centre",
+    "website": "https://artscentre.ca/",
+    "province": "Nova Scotia",
+    "area": "Nova Scotia"
+  },
+  {
+    "city": "Windsor",
+    "name": "Mermaid Theatre of Nova Scotia",
+    "website": "https://www.mermaidtheatre.ca/",
+    "province": "Nova Scotia",
+    "area": "Nova Scotia"
+  },
+  {
+    "city": "Halifax",
+    "name": "Neptune Theatre School",
+    "website": "https://www.neptunetheatre.com",
+    "province": "Nova Scotia",
+    "area": "Nova Scotia"
+  }
+]

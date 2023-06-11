@@ -12,7 +12,7 @@ function fetchBCSchools() {
 
   axios
     .get(
-      "https://www.iwanttobeaperformer.ca/dance/part-time-dance-training/part-time-dance-bc/part-time-dance-bc-vancouver/"
+      "https://www.iwanttobeaperformer.ca/singing/part-time-singing-training/part-time-singing-british-columbia/part-time-vancouver-singing/"
     )
     .then((data) => {
       const contentSection = findContent(data.data);
@@ -35,7 +35,7 @@ function fetchBCSchools() {
     .then(
       axios
         .get(
-          "https://www.iwanttobeaperformer.ca/dance/part-time-dance-training/part-time-dance-bc/part-time-dance-bc-lower-mainland/"
+          "https://www.iwanttobeaperformer.ca/singing/part-time-singing-training/part-time-singing-british-columbia/part-time-burnaby-richmond-new-westminster-singing/"
         )
         .then((data) => {
           const contentSection = findContent(data.data);
@@ -52,7 +52,11 @@ function fetchBCSchools() {
 
           schoolsList.forEach((school) => {
             formattedSchools.push(
-              formatSchoolObjectPt(school, "British Columbia", "Lower Mainland")
+              formatSchoolObjectPt(
+                school,
+                "British Columbia",
+                "Burnaby, Richmond, New Westminster"
+              )
             );
           });
         })
@@ -60,7 +64,7 @@ function fetchBCSchools() {
     .then(
       axios
         .get(
-          "https://www.iwanttobeaperformer.ca/dance/part-time-dance-training/part-time-dance-bc/part-time-dance-bc-islands/"
+          "https://www.iwanttobeaperformer.ca/singing/part-time-singing-training/part-time-singing-british-columbia/part-time-singing-bc-other-lower-mainland/"
         )
         .then((data) => {
           const contentSection = findContent(data.data);
@@ -74,18 +78,29 @@ function fetchBCSchools() {
               schoolsList.splice(i, 1);
             }
           }
-
           schoolsList.forEach((school) => {
-            formattedSchools.push(
-              formatSchoolObjectPt(school, "British Columbia", "Island")
+            const newSchool = formatSchoolObjectPt(
+              school,
+              "British Columbia",
+              "Lower Mainland"
             );
+            if (newSchool.city.includes(";")) {
+              newSchool.city = newSchool.city.split("; ");
+              newSchool.city.forEach((city) => {
+                const tempSchool = { ...newSchool };
+                tempSchool.city = city;
+                formattedSchools.push(tempSchool);
+              });
+            } else {
+              formattedSchools.push(newSchool);
+            }
           });
         })
     )
     .then(
       axios
         .get(
-          "https://www.iwanttobeaperformer.ca/dance/part-time-dance-training/part-time-dance-bc/part-time-dance-bc-other/"
+          "https://www.iwanttobeaperformer.ca/singing/part-time-singing-training/part-time-singing-british-columbia/part-time-singing-bc-islands/"
         )
         .then((data) => {
           const contentSection = findContent(data.data);
@@ -99,72 +114,79 @@ function fetchBCSchools() {
               schoolsList.splice(i, 1);
             }
           }
-
           schoolsList.forEach((school) => {
-            formattedSchools.push(
-              formatSchoolObjectPt(school, "British Columbia", "Other")
+            const newSchool = formatSchoolObjectPt(
+              school,
+              "British Columbia",
+              "Islands"
             );
+            if (newSchool.city.includes(",")) {
+              newSchool.city = newSchool.city.split(", ");
+              newSchool.city.forEach((city) => {
+                const tempSchool = { ...newSchool };
+                tempSchool.city = city;
+                formattedSchools.push(tempSchool);
+              });
+            } else {
+              formattedSchools.push(newSchool);
+            }
           });
-
-          setTimeout(() => {
-            let dataArray = [...formattedSchools];
-            let dataJSON = JSON.stringify(dataArray);
-
-            fs.writeFile(
-              "./captured-data/dance/pt/bc.json",
-              dataJSON,
-              function (err) {
-                if (err) throw err;
-                console.log("File is created successfully.");
-              }
-            );
-          }, 2000);
         })
-    );
-}
+    )
+    .then(
+      axios
+        .get(
+          "https://www.iwanttobeaperformer.ca/singing/part-time-singing-training/part-time-singing-british-columbia/part-time-singing-bc-other/"
+        )
+        .then((data) => {
+          const contentSection = findContent(data.data);
 
-fetchBCSchools();
+          const startIndex = contentSection.indexOf("</h1>");
+          const noTitle = contentSection.slice(startIndex);
 
-//Yukon
-function fetchYukonSchools() {
-  const formattedSchools = [];
-
-  axios
-    .get(
-      "https://www.iwanttobeaperformer.ca/dance/part-time-dance-training/part-time-dance-yukon/"
+          const schoolsList = makeSchoolsArray(noTitle);
+          for (let i = 0; i < schoolsList.length; i++) {
+            if (!schoolsList[i].includes("href")) {
+              schoolsList.splice(i, 1);
+            }
+          }
+          schoolsList.forEach((school) => {
+            const newSchool = formatSchoolObjectPt(
+              school,
+              "British Columbia",
+              "Interior"
+            );
+            if (newSchool.city.includes(";")) {
+              newSchool.city = newSchool.city.split("; ");
+              newSchool.city.forEach((city) => {
+                const tempSchool = { ...newSchool };
+                tempSchool.city = city;
+                formattedSchools.push(tempSchool);
+              });
+            } else {
+              formattedSchools.push(newSchool);
+            }
+          });
+        })
     )
     .then((data) => {
-      const contentSection = findContent(data.data);
-
-      const startIndex = contentSection.indexOf("</h1>");
-      const noTitle = contentSection.slice(startIndex);
-      const schoolsList = makeSchoolsArray(noTitle);
-      for (let i = 0; i < schoolsList.length; i++) {
-        if (!schoolsList[i].includes("href")) {
-          schoolsList.splice(i, 1);
-        }
-      }
-
-      schoolsList.forEach((school) => {
-        formattedSchools.push(formatSchoolObjectPt(school, "Yukon", "Yukon"));
-      });
-
       setTimeout(() => {
         let dataArray = [...formattedSchools];
         let dataJSON = JSON.stringify(dataArray);
+
         fs.writeFile(
-          "./captured-data/dance/pt/yk.json",
+          "./captured-data/singing/pt/bc.json",
           dataJSON,
           function (err) {
             if (err) throw err;
             console.log("File is created successfully.");
           }
         );
-      }, 1000);
+      }, 4000);
     });
 }
 
-fetchYukonSchools();
+fetchBCSchools();
 
 //Alberta
 function fetchAlbertaSchools() {
@@ -172,7 +194,7 @@ function fetchAlbertaSchools() {
 
   axios
     .get(
-      "https://www.iwanttobeaperformer.ca/dance/part-time-dance-training/part-time-dance-alberta/part-time-dance-alberta-calgary/"
+      "https://www.iwanttobeaperformer.ca/singing/part-time-singing-training/part-time-singing-alberta/part-time-calgary-singing/"
     )
     .then((data) => {
       const contentSection = findContent(data.data);
@@ -185,6 +207,7 @@ function fetchAlbertaSchools() {
           schoolsList.splice(i, 1);
         }
       }
+
       schoolsList.forEach((school) => {
         formattedSchools.push(
           formatSchoolObjectPt(school, "Alberta", "Calgary")
@@ -194,7 +217,7 @@ function fetchAlbertaSchools() {
     .then(
       axios
         .get(
-          "https://www.iwanttobeaperformer.ca/dance/part-time-dance-training/part-time-dance-alberta/part-time-dance-alberta-edmonton/"
+          "https://www.iwanttobeaperformer.ca/singing/part-time-singing-training/part-time-singing-alberta/part-time-edmonton-singing/"
         )
         .then((data) => {
           const contentSection = findContent(data.data);
@@ -219,7 +242,7 @@ function fetchAlbertaSchools() {
     .then(
       axios
         .get(
-          "https://www.iwanttobeaperformer.ca/dance/part-time-dance-training/part-time-dance-alberta/part-time-dance-alberta-other/"
+          "https://www.iwanttobeaperformer.ca/singing/part-time-singing-training/part-time-singing-alberta/part-time-alberta-singing/"
         )
         .then((data) => {
           const contentSection = findContent(data.data);
@@ -233,28 +256,36 @@ function fetchAlbertaSchools() {
               schoolsList.splice(i, 1);
             }
           }
-
           schoolsList.forEach((school) => {
-            formattedSchools.push(
-              formatSchoolObjectPt(school, "Alberta", "Other")
-            );
+            const newSchool = formatSchoolObjectPt(school, "Alberta", "Other");
+            if (newSchool.city.includes(",")) {
+              newSchool.city = newSchool.city.split(", ");
+              newSchool.city.forEach((city) => {
+                const tempSchool = { ...newSchool };
+                tempSchool.city = city;
+                formattedSchools.push(tempSchool);
+              });
+            } else {
+              formattedSchools.push(newSchool);
+            }
           });
-
-          setTimeout(() => {
-            let dataArray = [...formattedSchools];
-            let dataJSON = JSON.stringify(dataArray);
-
-            fs.writeFile(
-              "./captured-data/dance/pt/ab.json",
-              dataJSON,
-              function (err) {
-                if (err) throw err;
-                console.log("File is created successfully.");
-              }
-            );
-          }, 3000);
         })
-    );
+    )
+    .then((data) => {
+      setTimeout(() => {
+        let dataArray = [...formattedSchools];
+        let dataJSON = JSON.stringify(dataArray);
+
+        fs.writeFile(
+          "./captured-data/singing/pt/ab.json",
+          dataJSON,
+          function (err) {
+            if (err) throw err;
+            console.log("File is created successfully.");
+          }
+        );
+      }, 2000);
+    });
 }
 
 fetchAlbertaSchools();
@@ -265,7 +296,7 @@ function fetchSaskSchools() {
 
   axios
     .get(
-      "https://www.iwanttobeaperformer.ca/dance/part-time-dance-training/part-time-dance-saskatchewan/"
+      "https://www.iwanttobeaperformer.ca/singing/part-time-singing-training/part-time-saskatchewan-singing/"
     )
     .then((data) => {
       const contentSection = findContent(data.data);
@@ -280,28 +311,18 @@ function fetchSaskSchools() {
       }
 
       schoolsList.forEach((school) => {
-        const newSchool = formatSchoolObjectPt(
-          school,
-          "Saskatchewan",
-          "Saskatchewan"
+        formattedSchools.push(
+          formatSchoolObjectPt(school, "Saskatchewan", "Saskatchewan")
         );
-        if (newSchool.city.includes(",")) {
-          newSchool.city = newSchool.city.split(", ");
-          newSchool.city.forEach((city) => {
-            const tempSchool = { ...newSchool };
-            tempSchool.city = city;
-            formattedSchools.push(tempSchool);
-          });
-        } else {
-          formattedSchools.push(newSchool);
-        }
       });
-
+    })
+    .then((data) => {
       setTimeout(() => {
         let dataArray = [...formattedSchools];
         let dataJSON = JSON.stringify(dataArray);
+
         fs.writeFile(
-          "./captured-data/dance/pt/sk.json",
+          "./captured-data/singing/pt/sk.json",
           dataJSON,
           function (err) {
             if (err) throw err;
@@ -315,12 +336,12 @@ function fetchSaskSchools() {
 fetchSaskSchools();
 
 //Manitoba
-function fetchManitobaSchools() {
+function fetchManSchools() {
   const formattedSchools = [];
 
   axios
     .get(
-      "https://www.iwanttobeaperformer.ca/dance/part-time-dance-training/part-time-dance-manitoba/"
+      "https://www.iwanttobeaperformer.ca/singing/part-time-singing-training/part-time-singing-manitoba/"
     )
     .then((data) => {
       const contentSection = findContent(data.data);
@@ -335,25 +356,18 @@ function fetchManitobaSchools() {
       }
 
       schoolsList.forEach((school) => {
-        const newSchool = formatSchoolObjectPt(school, "Manitoba", "Manitoba");
-
-        if (newSchool.city.includes(",")) {
-          newSchool.city = newSchool.city.split(", ");
-          newSchool.city.forEach((city) => {
-            const tempSchool = { ...newSchool };
-            tempSchool.city = city;
-            formattedSchools.push(tempSchool);
-          });
-        } else {
-          formattedSchools.push(newSchool);
-        }
+        formattedSchools.push(
+          formatSchoolObjectPt(school, "Manitoba", "Manitoba")
+        );
       });
+    })
+    .then((data) => {
       setTimeout(() => {
         let dataArray = [...formattedSchools];
         let dataJSON = JSON.stringify(dataArray);
 
         fs.writeFile(
-          "./captured-data/dance/pt/mb.json",
+          "./captured-data/singing/pt/mb.json",
           dataJSON,
           function (err) {
             if (err) throw err;
@@ -364,15 +378,15 @@ function fetchManitobaSchools() {
     });
 }
 
-fetchManitobaSchools();
+fetchManSchools();
 
 //Ontario
-function fetchOntarioSchools() {
+function fetchONSchools() {
   const formattedSchools = [];
 
   axios
     .get(
-      "https://www.iwanttobeaperformer.ca/dance/part-time-dance-training/part-time-dance-ontario/part-time-dance-ontario-toronto/"
+      "https://www.iwanttobeaperformer.ca/singing/part-time-singing-training/part-time-singing-ontario/part-time-singing-ontario-toronto/"
     )
     .then((data) => {
       const contentSection = findContent(data.data);
@@ -385,364 +399,17 @@ function fetchOntarioSchools() {
           schoolsList.splice(i, 1);
         }
       }
+
       schoolsList.forEach((school) => {
         formattedSchools.push(
           formatSchoolObjectPt(school, "Ontario", "Toronto")
         );
       });
-      // console.log("Toronto created");
     })
     .then(
       axios
         .get(
-          "https://www.iwanttobeaperformer.ca/dance/part-time-dance-training/part-time-dance-ontario/part-time-dance-ontario-gta-central/"
-        )
-        .then((data) => {
-          const contentSection = findContent(data.data);
-
-          const startIndex = contentSection.indexOf("</h1>");
-          const noTitle = contentSection.slice(startIndex);
-
-          const schoolsList = makeSchoolsArray(noTitle);
-          for (let i = 0; i < schoolsList.length; i++) {
-            if (!schoolsList[i].includes("href")) {
-              schoolsList.splice(i, 1);
-            }
-          }
-
-          schoolsList.forEach((school) => {
-            const newSchool = formatSchoolObjectPt(
-              school,
-              "Ontario",
-              "GTA Central"
-            );
-
-            if (newSchool.city.includes(",")) {
-              newSchool.city = newSchool.city.split(", ");
-              newSchool.city.forEach((city) => {
-                const tempSchool = { ...newSchool };
-                tempSchool.city = city;
-                formattedSchools.push(tempSchool);
-              });
-            } else {
-              formattedSchools.push(newSchool);
-            }
-          });
-          // console.log("GTA Central created");
-        })
-    )
-    .then(
-      axios
-        .get(
-          "https://www.iwanttobeaperformer.ca/dance/part-time-dance-training/part-time-dance-ontario/part-time-dance-ontario-gta-north-east/"
-        )
-        .then((data) => {
-          const contentSection = findContent(data.data);
-
-          const startIndex = contentSection.indexOf("</h1>");
-          const noTitle = contentSection.slice(startIndex);
-
-          const schoolsList = makeSchoolsArray(noTitle);
-          for (let i = 0; i < schoolsList.length; i++) {
-            if (!schoolsList[i].includes("href")) {
-              schoolsList.splice(i, 1);
-            }
-          }
-
-          schoolsList.forEach((school) => {
-            const newSchool = formatSchoolObjectPt(
-              school,
-              "Ontario",
-              "North/East GTA"
-            );
-
-            if (newSchool.city.includes(",")) {
-              newSchool.city = newSchool.city.split(", ");
-              newSchool.city.forEach((city) => {
-                const tempSchool = { ...newSchool };
-                tempSchool.city = city;
-                formattedSchools.push(tempSchool);
-              });
-            } else {
-              formattedSchools.push(newSchool);
-            }
-          });
-          // console.log("North/East GTA created");
-        })
-    )
-    .then(
-      axios
-        .get(
-          "https://www.iwanttobeaperformer.ca/dance/part-time-dance-training/part-time-dance-ontario/part-time-dance-ontario-kitchener-and-area/"
-        )
-        .then((data) => {
-          const contentSection = findContent(data.data);
-
-          const startIndex = contentSection.indexOf("</h1>");
-          const noTitle = contentSection.slice(startIndex);
-
-          const schoolsList = makeSchoolsArray(noTitle);
-          for (let i = 0; i < schoolsList.length; i++) {
-            if (!schoolsList[i].includes("href")) {
-              schoolsList.splice(i, 1);
-            }
-          }
-
-          schoolsList.forEach((school) => {
-            const newSchool = formatSchoolObjectPt(
-              school,
-              "Ontario",
-              "Kitchener (and Area)"
-            );
-
-            if (newSchool.city.includes(",")) {
-              newSchool.city = newSchool.city.split(", ");
-              newSchool.city.forEach((city) => {
-                const tempSchool = { ...newSchool };
-                tempSchool.city = city;
-                formattedSchools.push(tempSchool);
-              });
-            } else {
-              formattedSchools.push(newSchool);
-            }
-          });
-          // console.log("Kitchener (and Area) created");
-        })
-    )
-    .then(
-      axios
-        .get(
-          "https://www.iwanttobeaperformer.ca/dance/part-time-dance-training/part-time-dance-ontario/part-time-dance-ontario-hamilton-and-area/"
-        )
-        .then((data) => {
-          const contentSection = findContent(data.data);
-
-          const startIndex = contentSection.indexOf("</h1>");
-          const noTitle = contentSection.slice(startIndex);
-
-          const schoolsList = makeSchoolsArray(noTitle);
-          for (let i = 0; i < schoolsList.length; i++) {
-            if (!schoolsList[i].includes("href")) {
-              schoolsList.splice(i, 1);
-            }
-          }
-
-          schoolsList.forEach((school) => {
-            const newSchool = formatSchoolObjectPt(
-              school,
-              "Ontario",
-              "Hamilton (and Area)"
-            );
-
-            if (newSchool.city.includes(",")) {
-              newSchool.city = newSchool.city.split(", ");
-              newSchool.city.forEach((city) => {
-                const tempSchool = { ...newSchool };
-                tempSchool.city = city;
-                formattedSchools.push(tempSchool);
-              });
-            } else {
-              formattedSchools.push(newSchool);
-            }
-          });
-          // console.log("Hamilton (and Area) created");
-        })
-    )
-    .then(
-      axios
-        .get(
-          "https://www.iwanttobeaperformer.ca/dance/part-time-dance-training/part-time-dance-ontario/part-time-dance-ontario-ottawa/"
-        )
-        .then((data) => {
-          const contentSection = findContent(data.data);
-
-          const startIndex = contentSection.indexOf("</h1>");
-          const noTitle = contentSection.slice(startIndex);
-
-          const schoolsList = makeSchoolsArray(noTitle);
-          for (let i = 0; i < schoolsList.length; i++) {
-            if (!schoolsList[i].includes("href")) {
-              schoolsList.splice(i, 1);
-            }
-          }
-
-          schoolsList.forEach((school) => {
-            const newSchool = formatSchoolObjectPt(school, "Ontario", "Ottawa");
-
-            if (newSchool.city.includes(",")) {
-              newSchool.city = newSchool.city.split(", ");
-              newSchool.city.forEach((city) => {
-                const tempSchool = { ...newSchool };
-                tempSchool.city = city;
-                formattedSchools.push(tempSchool);
-              });
-            } else {
-              formattedSchools.push(newSchool);
-            }
-          });
-          // console.log("Ottawa created");
-        })
-    )
-    .then(
-      axios
-        .get(
-          "https://www.iwanttobeaperformer.ca/dance/part-time-dance-training/part-time-dance-ontario/part-time-dance-ontario-london-and-area/"
-        )
-        .then((data) => {
-          const contentSection = findContent(data.data);
-
-          const startIndex = contentSection.indexOf("</h1>");
-          const noTitle = contentSection.slice(startIndex);
-
-          const schoolsList = makeSchoolsArray(noTitle);
-          for (let i = 0; i < schoolsList.length; i++) {
-            if (!schoolsList[i].includes("href")) {
-              schoolsList.splice(i, 1);
-            }
-          }
-
-          schoolsList.forEach((school) => {
-            const newSchool = formatSchoolObjectPt(
-              school,
-              "Ontario",
-              "London (and Area)"
-            );
-
-            if (newSchool.city.includes(",")) {
-              newSchool.city = newSchool.city.split(", ");
-              newSchool.city.forEach((city) => {
-                const tempSchool = { ...newSchool };
-                tempSchool.city = city;
-                formattedSchools.push(tempSchool);
-              });
-            } else {
-              formattedSchools.push(newSchool);
-            }
-          });
-          // console.log("London (and Area) created");
-        })
-    )
-    .then(
-      axios
-        .get(
-          "https://www.iwanttobeaperformer.ca/dance/part-time-dance-training/part-time-dance-ontario/part-time-dance-ontario-south/"
-        )
-        .then((data) => {
-          const contentSection = findContent(data.data);
-
-          const startIndex = contentSection.indexOf("</h1>");
-          const noTitle = contentSection.slice(startIndex);
-
-          const schoolsList = makeSchoolsArray(noTitle);
-          for (let i = 0; i < schoolsList.length; i++) {
-            if (!schoolsList[i].includes("href")) {
-              schoolsList.splice(i, 1);
-            }
-          }
-
-          schoolsList.forEach((school) => {
-            const newSchool = formatSchoolObjectPt(
-              school,
-              "Ontario",
-              "Southern Ontario"
-            );
-
-            if (newSchool.city.includes(",")) {
-              newSchool.city = newSchool.city.split(", ");
-              newSchool.city.forEach((city) => {
-                const tempSchool = { ...newSchool };
-                tempSchool.city = city;
-                formattedSchools.push(tempSchool);
-              });
-            } else {
-              formattedSchools.push(newSchool);
-            }
-          });
-          // console.log("Southern Ontario created");
-        })
-    )
-    .then(
-      axios
-        .get(
-          "https://www.iwanttobeaperformer.ca/dance/part-time-dance-training/part-time-dance-ontario/part-time-dance-ontario-northwest/"
-        )
-        .then((data) => {
-          const contentSection = findContent(data.data);
-
-          const startIndex = contentSection.indexOf("</h1>");
-          const noTitle = contentSection.slice(startIndex);
-
-          const schoolsList = makeSchoolsArray(noTitle);
-          for (let i = 0; i < schoolsList.length; i++) {
-            if (!schoolsList[i].includes("href")) {
-              schoolsList.splice(i, 1);
-            }
-          }
-
-          schoolsList.forEach((school) => {
-            const newSchool = formatSchoolObjectPt(
-              school,
-              "Ontario",
-              "Northwest Ontario"
-            );
-
-            if (newSchool.city.includes(",")) {
-              newSchool.city = newSchool.city.split(", ");
-              newSchool.city.forEach((city) => {
-                const tempSchool = { ...newSchool };
-                tempSchool.city = city;
-                formattedSchools.push(tempSchool);
-              });
-            } else {
-              formattedSchools.push(newSchool);
-            }
-          });
-          // console.log("Northwest Ontario created");
-        })
-    )
-    .then(
-      axios
-        .get(
-          "https://www.iwanttobeaperformer.ca/dance/part-time-dance-training/part-time-dance-ontario/part-time-dance-ontario-northeast/"
-        )
-        .then((data) => {
-          const contentSection = findContent(data.data);
-
-          const startIndex = contentSection.indexOf("</h1>");
-          const noTitle = contentSection.slice(startIndex);
-
-          const schoolsList = makeSchoolsArray(noTitle);
-          for (let i = 0; i < schoolsList.length; i++) {
-            if (!schoolsList[i].includes("href")) {
-              schoolsList.splice(i, 1);
-            }
-          }
-
-          schoolsList.forEach((school) => {
-            const newSchool = formatSchoolObjectPt(
-              school,
-              "Ontario",
-              "Northeast Ontario"
-            );
-
-            if (newSchool.city.includes(",")) {
-              newSchool.city = newSchool.city.split(", ");
-              newSchool.city.forEach((city) => {
-                const tempSchool = { ...newSchool };
-                tempSchool.city = city;
-                formattedSchools.push(tempSchool);
-              });
-            } else {
-              formattedSchools.push(newSchool);
-            }
-          });
-          // console.log("Northeast Ontario created");
-        })
-    )
-    .then(
-      axios
-        .get(
-          "https://www.iwanttobeaperformer.ca/dance/part-time-dance-training/part-time-dance-ontario/part-time-dance-ontario-gta-west/"
+          "https://www.iwanttobeaperformer.ca/singing/part-time-singing-training/part-time-singing-ontario/part-time-singing-ontario-etobicoke-mississauga/"
         )
         .then((data) => {
           const contentSection = findContent(data.data);
@@ -759,40 +426,501 @@ function fetchOntarioSchools() {
 
           schoolsList.forEach((school) => {
             formattedSchools.push(
-              formatSchoolObjectPt(school, "Ontario", "GTA West")
+              formatSchoolObjectPt(school, "Ontario", "Etobicoke, Mississauga")
             );
           });
-
-          // console.log("GTA West created");
-
-          setTimeout(() => {
-            let dataArray = [...formattedSchools];
-            let dataJSON = JSON.stringify(dataArray);
-
-            fs.writeFile(
-              "./captured-data/dance/pt/on.json",
-              dataJSON,
-              function (err) {
-                if (err) throw err;
-                console.log("File is created successfully.");
-              }
-            );
-          }, 3000);
         })
-    );
+    )
+    .then(
+      axios
+        .get(
+          "https://www.iwanttobeaperformer.ca/singing/part-time-singing-training/part-time-singing-ontario/part-time-singing-ontario-oakville-milton/"
+        )
+        .then((data) => {
+          const contentSection = findContent(data.data);
+
+          const startIndex = contentSection.indexOf("</h1>");
+          const noTitle = contentSection.slice(startIndex);
+
+          const schoolsList = makeSchoolsArray(noTitle);
+          for (let i = 0; i < schoolsList.length; i++) {
+            if (!schoolsList[i].includes("href")) {
+              schoolsList.splice(i, 1);
+            }
+          }
+          schoolsList.forEach((school) => {
+            const newSchool = formatSchoolObjectPt(
+              school,
+              "Ontario",
+              "Oakville, Milton"
+            );
+            if (newSchool.city.includes(",")) {
+              newSchool.city = newSchool.city.split(", ");
+              newSchool.city.forEach((city) => {
+                const tempSchool = { ...newSchool };
+                tempSchool.city = city;
+                formattedSchools.push(tempSchool);
+              });
+            } else {
+              formattedSchools.push(newSchool);
+            }
+          });
+        })
+    )
+    .then(
+      axios
+        .get(
+          "https://www.iwanttobeaperformer.ca/singing/part-time-singing-training/part-time-singing-ontario/part-time-singing-ontario-vaughan-richmond-hill-markham/"
+        )
+        .then((data) => {
+          const contentSection = findContent(data.data);
+
+          const startIndex = contentSection.indexOf("</h1>");
+          const noTitle = contentSection.slice(startIndex);
+
+          const schoolsList = makeSchoolsArray(noTitle);
+          for (let i = 0; i < schoolsList.length; i++) {
+            if (!schoolsList[i].includes("href")) {
+              schoolsList.splice(i, 1);
+            }
+          }
+          schoolsList.forEach((school) => {
+            const newSchool = formatSchoolObjectPt(
+              school,
+              "Ontario",
+              "Vaughan, Richmond Hill, Markham"
+            );
+            if (newSchool.city.includes(",")) {
+              newSchool.city = newSchool.city.split(", ");
+              newSchool.city.forEach((city) => {
+                const tempSchool = { ...newSchool };
+                tempSchool.city = city;
+                formattedSchools.push(tempSchool);
+              });
+            } else {
+              formattedSchools.push(newSchool);
+            }
+          });
+        })
+    )
+    .then(
+      axios
+        .get(
+          "https://www.iwanttobeaperformer.ca/singing/part-time-singing-training/part-time-singing-ontario/part-time-singing-ontario-gta-east/"
+        )
+        .then((data) => {
+          const contentSection = findContent(data.data);
+
+          const startIndex = contentSection.indexOf("</h1>");
+          const noTitle = contentSection.slice(startIndex);
+
+          const schoolsList = makeSchoolsArray(noTitle);
+          for (let i = 0; i < schoolsList.length; i++) {
+            if (!schoolsList[i].includes("href")) {
+              schoolsList.splice(i, 1);
+            }
+          }
+          schoolsList.forEach((school) => {
+            const newSchool = formatSchoolObjectPt(
+              school,
+              "Ontario",
+              "GTA East"
+            );
+            if (newSchool.city.includes(",")) {
+              newSchool.city = newSchool.city.split(", ");
+              newSchool.city.forEach((city) => {
+                const tempSchool = { ...newSchool };
+                tempSchool.city = city;
+                formattedSchools.push(tempSchool);
+              });
+            } else {
+              formattedSchools.push(newSchool);
+            }
+          });
+        })
+    )
+    .then(
+      axios
+        .get(
+          "https://www.iwanttobeaperformer.ca/singing/part-time-singing-training/part-time-singing-ontario/part-time-singing-ontario-gta-north/"
+        )
+        .then((data) => {
+          const contentSection = findContent(data.data);
+
+          const startIndex = contentSection.indexOf("</h1>");
+          const noTitle = contentSection.slice(startIndex);
+
+          const schoolsList = makeSchoolsArray(noTitle);
+          for (let i = 0; i < schoolsList.length; i++) {
+            if (!schoolsList[i].includes("href")) {
+              schoolsList.splice(i, 1);
+            }
+          }
+          schoolsList.forEach((school) => {
+            const newSchool = formatSchoolObjectPt(
+              school,
+              "Ontario",
+              "GTA North"
+            );
+            if (newSchool.city.includes(",")) {
+              newSchool.city = newSchool.city.split(", ");
+              newSchool.city.forEach((city) => {
+                const tempSchool = { ...newSchool };
+                tempSchool.city = city;
+                formattedSchools.push(tempSchool);
+              });
+            } else {
+              formattedSchools.push(newSchool);
+            }
+          });
+        })
+    )
+    .then(
+      axios
+        .get(
+          "https://www.iwanttobeaperformer.ca/singing/part-time-singing-training/part-time-singing-ontario/part-time-singing-ontario-gta-northwest/"
+        )
+        .then((data) => {
+          const contentSection = findContent(data.data);
+
+          const startIndex = contentSection.indexOf("</h1>");
+          const noTitle = contentSection.slice(startIndex);
+
+          const schoolsList = makeSchoolsArray(noTitle);
+          for (let i = 0; i < schoolsList.length; i++) {
+            if (!schoolsList[i].includes("href")) {
+              schoolsList.splice(i, 1);
+            }
+          }
+          schoolsList.forEach((school) => {
+            const newSchool = formatSchoolObjectPt(
+              school,
+              "Ontario",
+              "GTA Northwest"
+            );
+            if (newSchool.city.includes(",")) {
+              newSchool.city = newSchool.city.split(", ");
+              newSchool.city.forEach((city) => {
+                const tempSchool = { ...newSchool };
+                tempSchool.city = city;
+                formattedSchools.push(tempSchool);
+              });
+            } else {
+              formattedSchools.push(newSchool);
+            }
+          });
+        })
+    )
+    .then(
+      axios
+        .get(
+          "https://www.iwanttobeaperformer.ca/singing/part-time-singing-training/part-time-singing-ontario/part-time-singing-ontario-gta-southwest/"
+        )
+        .then((data) => {
+          const contentSection = findContent(data.data);
+
+          const startIndex = contentSection.indexOf("</h1>");
+          const noTitle = contentSection.slice(startIndex);
+
+          const schoolsList = makeSchoolsArray(noTitle);
+          for (let i = 0; i < schoolsList.length; i++) {
+            if (!schoolsList[i].includes("href")) {
+              schoolsList.splice(i, 1);
+            }
+          }
+          schoolsList.forEach((school) => {
+            const newSchool = formatSchoolObjectPt(
+              school,
+              "Ontario",
+              "GTA Southwest"
+            );
+            if (newSchool.city.includes(",")) {
+              newSchool.city = newSchool.city.split(", ");
+              newSchool.city.forEach((city) => {
+                const tempSchool = { ...newSchool };
+                tempSchool.city = city;
+                formattedSchools.push(tempSchool);
+              });
+            } else {
+              formattedSchools.push(newSchool);
+            }
+          });
+        })
+    )
+    .then(
+      axios
+        .get(
+          "https://www.iwanttobeaperformer.ca/singing/part-time-singing-training/part-time-singing-ontario/part-time-singing-ontario-ottawa/"
+        )
+        .then((data) => {
+          const contentSection = findContent(data.data);
+
+          const startIndex = contentSection.indexOf("</h1>");
+          const noTitle = contentSection.slice(startIndex);
+
+          const schoolsList = makeSchoolsArray(noTitle);
+          for (let i = 0; i < schoolsList.length; i++) {
+            if (!schoolsList[i].includes("href")) {
+              schoolsList.splice(i, 1);
+            }
+          }
+          schoolsList.forEach((school) => {
+            const newSchool = formatSchoolObjectPt(school, "Ontario", "Ottawa");
+            if (newSchool.city.includes(",")) {
+              newSchool.city = newSchool.city.split(", ");
+              newSchool.city.forEach((city) => {
+                const tempSchool = { ...newSchool };
+                tempSchool.city = city;
+                formattedSchools.push(tempSchool);
+              });
+            } else {
+              formattedSchools.push(newSchool);
+            }
+          });
+        })
+    )
+    .then(
+      axios
+        .get(
+          "https://www.iwanttobeaperformer.ca/singing/part-time-singing-training/part-time-singing-ontario/part-time-singing-ontario-london-area/"
+        )
+        .then((data) => {
+          const contentSection = findContent(data.data);
+
+          const startIndex = contentSection.indexOf("</h1>");
+          const noTitle = contentSection.slice(startIndex);
+
+          const schoolsList = makeSchoolsArray(noTitle);
+          for (let i = 0; i < schoolsList.length; i++) {
+            if (!schoolsList[i].includes("href")) {
+              schoolsList.splice(i, 1);
+            }
+          }
+          schoolsList.forEach((school) => {
+            const newSchool = formatSchoolObjectPt(
+              school,
+              "Ontario",
+              "London (and Area)"
+            );
+            if (newSchool.city.includes(",")) {
+              newSchool.city = newSchool.city.split(", ");
+              newSchool.city.forEach((city) => {
+                const tempSchool = { ...newSchool };
+                tempSchool.city = city;
+                formattedSchools.push(tempSchool);
+              });
+            } else {
+              formattedSchools.push(newSchool);
+            }
+          });
+        })
+    )
+    .then(
+      axios
+        .get(
+          "https://www.iwanttobeaperformer.ca/singing/part-time-singing-training/part-time-singing-ontario/part-time-singing-ontario-gta-west/"
+        )
+        .then((data) => {
+          const contentSection = findContent(data.data);
+
+          const startIndex = contentSection.indexOf("</h1>");
+          const noTitle = contentSection.slice(startIndex);
+
+          const schoolsList = makeSchoolsArray(noTitle);
+          for (let i = 0; i < schoolsList.length; i++) {
+            if (!schoolsList[i].includes("href")) {
+              schoolsList.splice(i, 1);
+            }
+          }
+          schoolsList.forEach((school) => {
+            const newSchool = formatSchoolObjectPt(
+              school,
+              "Ontario",
+              "Kitchener (and Area)"
+            );
+            if (newSchool.city.includes(",")) {
+              newSchool.city = newSchool.city.split(", ");
+              newSchool.city.forEach((city) => {
+                const tempSchool = { ...newSchool };
+                tempSchool.city = city;
+                formattedSchools.push(tempSchool);
+              });
+            } else {
+              formattedSchools.push(newSchool);
+            }
+          });
+        })
+    )
+    .then(
+      axios
+        .get(
+          "https://www.iwanttobeaperformer.ca/singing/part-time-singing-training/part-time-singing-ontario/part-time-singing-ontario-northeast/"
+        )
+        .then((data) => {
+          const contentSection = findContent(data.data);
+
+          const startIndex = contentSection.indexOf("</h1>");
+          const noTitle = contentSection.slice(startIndex);
+
+          const schoolsList = makeSchoolsArray(noTitle);
+          for (let i = 0; i < schoolsList.length; i++) {
+            if (!schoolsList[i].includes("href")) {
+              schoolsList.splice(i, 1);
+            }
+          }
+          schoolsList.forEach((school) => {
+            const newSchool = formatSchoolObjectPt(
+              school,
+              "Ontario",
+              "Ontario Northeast"
+            );
+            if (newSchool.city.includes(",")) {
+              newSchool.city = newSchool.city.split(", ");
+              newSchool.city.forEach((city) => {
+                const tempSchool = { ...newSchool };
+                tempSchool.city = city;
+                formattedSchools.push(tempSchool);
+              });
+            } else {
+              formattedSchools.push(newSchool);
+            }
+          });
+        })
+    )
+    .then(
+      axios
+        .get(
+          "https://www.iwanttobeaperformer.ca/singing/part-time-singing-training/part-time-singing-ontario/part-time-singing-ontario-southeast/"
+        )
+        .then((data) => {
+          const contentSection = findContent(data.data);
+
+          const startIndex = contentSection.indexOf("</h1>");
+          const noTitle = contentSection.slice(startIndex);
+
+          const schoolsList = makeSchoolsArray(noTitle);
+          for (let i = 0; i < schoolsList.length; i++) {
+            if (!schoolsList[i].includes("href")) {
+              schoolsList.splice(i, 1);
+            }
+          }
+          schoolsList.forEach((school) => {
+            const newSchool = formatSchoolObjectPt(
+              school,
+              "Ontario",
+              "Ontario Southeast"
+            );
+            if (newSchool.city.includes(",")) {
+              newSchool.city = newSchool.city.split(", ");
+              newSchool.city.forEach((city) => {
+                const tempSchool = { ...newSchool };
+                tempSchool.city = city;
+                formattedSchools.push(tempSchool);
+              });
+            } else {
+              formattedSchools.push(newSchool);
+            }
+          });
+        })
+    )
+    .then(
+      axios
+        .get(
+          "https://www.iwanttobeaperformer.ca/singing/part-time-singing-training/part-time-singing-ontario/part-time-singing-ontario-northwest/"
+        )
+        .then((data) => {
+          const contentSection = findContent(data.data);
+
+          const startIndex = contentSection.indexOf("</h1>");
+          const noTitle = contentSection.slice(startIndex);
+
+          const schoolsList = makeSchoolsArray(noTitle);
+          for (let i = 0; i < schoolsList.length; i++) {
+            if (!schoolsList[i].includes("href")) {
+              schoolsList.splice(i, 1);
+            }
+          }
+          schoolsList.forEach((school) => {
+            const newSchool = formatSchoolObjectPt(
+              school,
+              "Ontario",
+              "Ontario Northwest"
+            );
+            if (newSchool.city.includes(",")) {
+              newSchool.city = newSchool.city.split(", ");
+              newSchool.city.forEach((city) => {
+                const tempSchool = { ...newSchool };
+                tempSchool.city = city;
+                formattedSchools.push(tempSchool);
+              });
+            } else {
+              formattedSchools.push(newSchool);
+            }
+          });
+        })
+    )
+    .then(
+      axios
+        .get(
+          "https://www.iwanttobeaperformer.ca/singing/part-time-singing-training/part-time-singing-ontario/part-time-singing-ontario-southwest/"
+        )
+        .then((data) => {
+          const contentSection = findContent(data.data);
+
+          const startIndex = contentSection.indexOf("</h1>");
+          const noTitle = contentSection.slice(startIndex);
+
+          const schoolsList = makeSchoolsArray(noTitle);
+          for (let i = 0; i < schoolsList.length; i++) {
+            if (!schoolsList[i].includes("href")) {
+              schoolsList.splice(i, 1);
+            }
+          }
+          schoolsList.forEach((school) => {
+            const newSchool = formatSchoolObjectPt(
+              school,
+              "Ontario",
+              "Ontario Southwest"
+            );
+            if (newSchool.city.includes(",")) {
+              newSchool.city = newSchool.city.split(", ");
+              newSchool.city.forEach((city) => {
+                const tempSchool = { ...newSchool };
+                tempSchool.city = city;
+                formattedSchools.push(tempSchool);
+              });
+            } else {
+              formattedSchools.push(newSchool);
+            }
+          });
+        })
+    )
+    .then((data) => {
+      setTimeout(() => {
+        let dataArray = [...formattedSchools];
+        let dataJSON = JSON.stringify(dataArray);
+
+        fs.writeFile(
+          "./captured-data/singing/pt/on.json",
+          dataJSON,
+          function (err) {
+            if (err) throw err;
+            console.log("File is created successfully.");
+          }
+        );
+      }, 4000);
+    });
 }
 
-fetchOntarioSchools();
+fetchONSchools();
 
 //Quebec
-
-//Ontario
-function fetchQuebecSchools() {
+function fetchQBSchools() {
   const formattedSchools = [];
 
   axios
     .get(
-      "https://www.iwanttobeaperformer.ca/dance/part-time-dance-training/part-time-dance-quebec/part-time-dance-quebec-montreal/"
+      "https://www.iwanttobeaperformer.ca/singing/part-time-singing-training/part-time-singing-quebec/part-time-singing-quebec-montreal/"
     )
     .then((data) => {
       const contentSection = findContent(data.data);
@@ -805,17 +933,17 @@ function fetchQuebecSchools() {
           schoolsList.splice(i, 1);
         }
       }
+
       schoolsList.forEach((school) => {
         formattedSchools.push(
           formatSchoolObjectPt(school, "Québec", "Montréal")
         );
       });
-      // console.log("Montreal created");
     })
     .then(
       axios
         .get(
-          "https://www.iwanttobeaperformer.ca/dance/part-time-dance-training/part-time-dance-quebec/part-time-dance-quebec-quebec/"
+          "https://www.iwanttobeaperformer.ca/singing/part-time-singing-training/part-time-singing-quebec/part-time-singing-quebec-quebec-and-area/"
         )
         .then((data) => {
           const contentSection = findContent(data.data);
@@ -831,26 +959,16 @@ function fetchQuebecSchools() {
           }
 
           schoolsList.forEach((school) => {
-            const newSchool = formatSchoolObjectPt(school, "Québec", "Québec");
-
-            if (newSchool.city.includes(",")) {
-              newSchool.city = newSchool.city.split(", ");
-              newSchool.city.forEach((city) => {
-                const tempSchool = { ...newSchool };
-                tempSchool.city = city;
-                formattedSchools.push(tempSchool);
-              });
-            } else {
-              formattedSchools.push(newSchool);
-            }
+            formattedSchools.push(
+              formatSchoolObjectPt(school, "Québec", "Québec and Area")
+            );
           });
-          // console.log("Quebec created");
         })
     )
     .then(
       axios
         .get(
-          "https://www.iwanttobeaperformer.ca/dance/part-time-dance-training/part-time-dance-quebec/part-time-dance-quebec-montreal-area-west/"
+          "https://www.iwanttobeaperformer.ca/singing/part-time-singing-training/part-time-singing-quebec/part-time-singing-quebec-longueuil-and-area/"
         )
         .then((data) => {
           const contentSection = findContent(data.data);
@@ -864,14 +982,12 @@ function fetchQuebecSchools() {
               schoolsList.splice(i, 1);
             }
           }
-
           schoolsList.forEach((school) => {
             const newSchool = formatSchoolObjectPt(
               school,
               "Québec",
-              "Montréal area (West)"
+              "Longueuil and Area"
             );
-
             if (newSchool.city.includes(",")) {
               newSchool.city = newSchool.city.split(", ");
               newSchool.city.forEach((city) => {
@@ -883,13 +999,12 @@ function fetchQuebecSchools() {
               formattedSchools.push(newSchool);
             }
           });
-          // console.log("Montreal area (West) created");
         })
     )
     .then(
       axios
         .get(
-          "https://www.iwanttobeaperformer.ca/dance/part-time-dance-training/part-time-dance-quebec/part-time-dance-quebec-montreal-area-east/"
+          "https://www.iwanttobeaperformer.ca/singing/part-time-singing-training/part-time-singing-quebec/part-time-singing-quebec-montreal-area-west/"
         )
         .then((data) => {
           const contentSection = findContent(data.data);
@@ -903,14 +1018,12 @@ function fetchQuebecSchools() {
               schoolsList.splice(i, 1);
             }
           }
-
           schoolsList.forEach((school) => {
             const newSchool = formatSchoolObjectPt(
               school,
               "Québec",
-              "Montréal area (East)"
+              "Montréal Area (West)"
             );
-
             if (newSchool.city.includes(",")) {
               newSchool.city = newSchool.city.split(", ");
               newSchool.city.forEach((city) => {
@@ -922,13 +1035,12 @@ function fetchQuebecSchools() {
               formattedSchools.push(newSchool);
             }
           });
-          // console.log("Montreal area (East) created");
         })
     )
     .then(
       axios
         .get(
-          "https://www.iwanttobeaperformer.ca/dance/part-time-dance-training/part-time-dance-quebec/part-time-dance-quebec-other/"
+          "https://www.iwanttobeaperformer.ca/singing/part-time-singing-training/part-time-singing-quebec/part-time-singing-quebec-montreal-area-east/"
         )
         .then((data) => {
           const contentSection = findContent(data.data);
@@ -942,10 +1054,44 @@ function fetchQuebecSchools() {
               schoolsList.splice(i, 1);
             }
           }
+          schoolsList.forEach((school) => {
+            const newSchool = formatSchoolObjectPt(
+              school,
+              "Québec",
+              "Montréal Area (East)"
+            );
+            if (newSchool.city.includes(",")) {
+              newSchool.city = newSchool.city.split(", ");
+              newSchool.city.forEach((city) => {
+                const tempSchool = { ...newSchool };
+                tempSchool.city = city;
+                formattedSchools.push(tempSchool);
+              });
+            } else {
+              formattedSchools.push(newSchool);
+            }
+          });
+        })
+    )
+    .then(
+      axios
+        .get(
+          "https://www.iwanttobeaperformer.ca/singing/part-time-singing-training/part-time-singing-quebec/part-time-singing-quebec-other/"
+        )
+        .then((data) => {
+          const contentSection = findContent(data.data);
 
+          const startIndex = contentSection.indexOf("</h1>");
+          const noTitle = contentSection.slice(startIndex);
+
+          const schoolsList = makeSchoolsArray(noTitle);
+          for (let i = 0; i < schoolsList.length; i++) {
+            if (!schoolsList[i].includes("href")) {
+              schoolsList.splice(i, 1);
+            }
+          }
           schoolsList.forEach((school) => {
             const newSchool = formatSchoolObjectPt(school, "Québec", "Other");
-
             if (newSchool.city.includes(",")) {
               newSchool.city = newSchool.city.split(", ");
               newSchool.city.forEach((city) => {
@@ -957,25 +1103,26 @@ function fetchQuebecSchools() {
               formattedSchools.push(newSchool);
             }
           });
-          // console.log("Quebec Other created");
-          setTimeout(() => {
-            let dataArray = [...formattedSchools];
-            let dataJSON = JSON.stringify(dataArray);
-
-            fs.writeFile(
-              "./captured-data/dance/pt/qu.json",
-              dataJSON,
-              function (err) {
-                if (err) throw err;
-                console.log("File is created successfully.");
-              }
-            );
-          }, 3000);
         })
-    );
+    )
+    .then((data) => {
+      setTimeout(() => {
+        let dataArray = [...formattedSchools];
+        let dataJSON = JSON.stringify(dataArray);
+
+        fs.writeFile(
+          "./captured-data/singing/pt/qu.json",
+          dataJSON,
+          function (err) {
+            if (err) throw err;
+            console.log("File is created successfully.");
+          }
+        );
+      }, 3000);
+    });
 }
 
-fetchQuebecSchools();
+fetchQBSchools();
 
 //New Brunswick
 function fetchNBSchools() {
@@ -983,7 +1130,7 @@ function fetchNBSchools() {
 
   axios
     .get(
-      "https://www.iwanttobeaperformer.ca/dance/part-time-dance-training/part-time-dance-new-brunswick/"
+      "https://www.iwanttobeaperformer.ca/singing/part-time-singing-training/part-time-new-brunswick-singing/"
     )
     .then((data) => {
       const contentSection = findContent(data.data);
@@ -996,7 +1143,6 @@ function fetchNBSchools() {
           schoolsList.splice(i, 1);
         }
       }
-
       schoolsList.forEach((school) => {
         const newSchool = formatSchoolObjectPt(
           school,
@@ -1014,12 +1160,14 @@ function fetchNBSchools() {
           formattedSchools.push(newSchool);
         }
       });
-
+    })
+    .then((data) => {
       setTimeout(() => {
         let dataArray = [...formattedSchools];
         let dataJSON = JSON.stringify(dataArray);
+
         fs.writeFile(
-          "./captured-data/dance/pt/nb.json",
+          "./captured-data/singing/pt/nb.json",
           dataJSON,
           function (err) {
             if (err) throw err;
@@ -1038,7 +1186,7 @@ function fetchNSSchools() {
 
   axios
     .get(
-      "https://www.iwanttobeaperformer.ca/dance/part-time-dance-training/part-time-dance-nova-scotia/"
+      "https://www.iwanttobeaperformer.ca/singing/part-time-singing-training/part-time-nova-scotia-singing/"
     )
     .then((data) => {
       const contentSection = findContent(data.data);
@@ -1051,7 +1199,6 @@ function fetchNSSchools() {
           schoolsList.splice(i, 1);
         }
       }
-
       schoolsList.forEach((school) => {
         const newSchool = formatSchoolObjectPt(
           school,
@@ -1069,12 +1216,14 @@ function fetchNSSchools() {
           formattedSchools.push(newSchool);
         }
       });
-
+    })
+    .then((data) => {
       setTimeout(() => {
         let dataArray = [...formattedSchools];
         let dataJSON = JSON.stringify(dataArray);
+
         fs.writeFile(
-          "./captured-data/dance/pt/ns.json",
+          "./captured-data/singing/pt/ns.json",
           dataJSON,
           function (err) {
             if (err) throw err;
@@ -1088,12 +1237,12 @@ function fetchNSSchools() {
 fetchNSSchools();
 
 //Newfoundland
-function fetchNLDSchools() {
+function fetchNFLchools() {
   const formattedSchools = [];
 
   axios
     .get(
-      "https://www.iwanttobeaperformer.ca/dance/part-time-dance-training/part-time-dance-newfoundland/"
+      "https://www.iwanttobeaperformer.ca/singing/part-time-singing-training/part-time-newfoundland-singing/"
     )
     .then((data) => {
       const contentSection = findContent(data.data);
@@ -1106,7 +1255,6 @@ function fetchNLDSchools() {
           schoolsList.splice(i, 1);
         }
       }
-
       schoolsList.forEach((school) => {
         const newSchool = formatSchoolObjectPt(
           school,
@@ -1124,12 +1272,14 @@ function fetchNLDSchools() {
           formattedSchools.push(newSchool);
         }
       });
-
+    })
+    .then((data) => {
       setTimeout(() => {
         let dataArray = [...formattedSchools];
         let dataJSON = JSON.stringify(dataArray);
+
         fs.writeFile(
-          "./captured-data/dance/pt/nfl.json",
+          "./captured-data/singing/pt/nfl.json",
           dataJSON,
           function (err) {
             if (err) throw err;
@@ -1140,7 +1290,7 @@ function fetchNLDSchools() {
     });
 }
 
-fetchNLDSchools();
+fetchNFLchools();
 
 //PEI
 function fetchPEISchools() {
@@ -1148,7 +1298,7 @@ function fetchPEISchools() {
 
   axios
     .get(
-      "https://www.iwanttobeaperformer.ca/dance/part-time-dance-training/part-time-dance-pei/"
+      "https://www.iwanttobeaperformer.ca/singing/part-time-singing-training/part-time-pei-singing/"
     )
     .then((data) => {
       const contentSection = findContent(data.data);
@@ -1161,7 +1311,6 @@ function fetchPEISchools() {
           schoolsList.splice(i, 1);
         }
       }
-
       schoolsList.forEach((school) => {
         const newSchool = formatSchoolObjectPt(
           school,
@@ -1179,12 +1328,14 @@ function fetchPEISchools() {
           formattedSchools.push(newSchool);
         }
       });
-
+    })
+    .then((data) => {
       setTimeout(() => {
         let dataArray = [...formattedSchools];
         let dataJSON = JSON.stringify(dataArray);
+
         fs.writeFile(
-          "./captured-data/dance/pt/pei.json",
+          "./captured-data/singing/pt/pei.json",
           dataJSON,
           function (err) {
             if (err) throw err;

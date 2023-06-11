@@ -1,0 +1,37 @@
+[
+  {
+    "city": "Montréal",
+    "name": "ASM Performing Arts",
+    "website": "https://www.asmstudio.net",
+    "province": "Québec",
+    "area": "Québec"
+  },
+  {
+    "city": "Montréal",
+    "name": "Gilles Plouffe Actors Studio",
+    "website": "https://www.studiogillesplouffe.com",
+    "province": "Québec",
+    "area": "Québec"
+  },
+  {
+    "city": "Montréal",
+    "name": "I.O. Acting Studio",
+    "website": "http://www.ioactingstudio.com",
+    "province": "Québec",
+    "area": "Québec"
+  },
+  {
+    "city": "Montréal",
+    "name": "M.S.O.P.A.",
+    "website": "http://msopa.com",
+    "province": "Québec",
+    "area": "Québec"
+  },
+  {
+    "city": "Montréal",
+    "name": "Straeon Acting Studios",
+    "website": "https://www.straeonactingclasses.com",
+    "province": "Québec",
+    "area": "Québec"
+  }
+]

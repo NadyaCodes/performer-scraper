@@ -1,0 +1,856 @@
+[
+  {
+    "city": "Boucherville",
+    "name": "Conservatoire D'Études Musicales",
+    "website": "https://cemboucherville.com/",
+    "province": "Québec",
+    "area": "Longueuil and Area"
+  },
+  {
+    "city": "Brossard",
+    "name": "Conservatoire de musique et arts Les Schubertiades",
+    "website": "http://www.conservatoireschubertiades.com/",
+    "province": "Québec",
+    "area": "Longueuil and Area"
+  },
+  {
+    "city": "La Prairie",
+    "name": "Conservatoire de musique et arts Les Schubertiades",
+    "website": "http://www.conservatoireschubertiades.com/",
+    "province": "Québec",
+    "area": "Longueuil and Area"
+  },
+  {
+    "city": "Sainte-Lambert",
+    "name": "École de chant Johanne Raby",
+    "website": "https://www.facebook.com/ecolejohanneraby/",
+    "province": "Québec",
+    "area": "Longueuil and Area"
+  },
+  {
+    "city": "Longueuil",
+    "name": "École de musique St-Hubert",
+    "website": "http://www.ecoledemusiquesthubert.com/",
+    "province": "Québec",
+    "area": "Longueuil and Area"
+  },
+  {
+    "city": "Longueuil",
+    "name": "École des arts de la scène Nos Voix Nos Visages",
+    "website": "https://nosvoixnosvisages.ca/chant/",
+    "province": "Québec",
+    "area": "Longueuil and Area"
+  },
+  {
+    "city": "Longueuil",
+    "name": "Expression - école d'expression musicale",
+    "website": "http://www.ecole-expression.com/",
+    "province": "Québec",
+    "area": "Longueuil and Area"
+  },
+  {
+    "city": "Longueuil",
+    "name": "Le Jardin Musical",
+    "website": "https://www.lejardinmusical.ca/",
+    "province": "Québec",
+    "area": "Longueuil and Area"
+  },
+  {
+    "city": "Longueuil",
+    "name": "Musique O Max",
+    "website": "http://www.musiqueomax.com/",
+    "province": "Québec",
+    "area": "Longueuil and Area"
+  },
+  {
+    "city": "Longueuil",
+    "name": "Pro-Voc",
+    "website": "http://pro-voc.com/",
+    "province": "Québec",
+    "area": "Longueuil and Area"
+  },
+  {
+    "city": "Longueuil",
+    "name": "Le studio de musique Claude Debussy",
+    "website": "http://www.studioclaudedebussy.com/l-ecole/",
+    "province": "Québec",
+    "area": "Longueuil and Area"
+  },
+  {
+    "city": "Québec",
+    "name": "Arquemuse",
+    "website": "https://www.arquemuse.com/",
+    "province": "Québec",
+    "area": "Québec and Area"
+  },
+  {
+    "city": "Québec",
+    "name": "Ateliers de musique Dubé",
+    "website": "https://www.ateliersdemusiquedube.com/",
+    "province": "Québec",
+    "area": "Québec and Area"
+  },
+  {
+    "city": "Québec",
+    "name": "Camp Musical de Québec",
+    "website": "https://campmusicaldequebec.com/",
+    "province": "Québec",
+    "area": "Québec and Area"
+  },
+  {
+    "city": "Québec",
+    "name": "Le Centre musical Uni-Son",
+    "website": "http://www.centremusicalunison.com/cours/",
+    "province": "Québec",
+    "area": "Québec and Area"
+  },
+  {
+    "city": "Québec",
+    "name": "Cercle de musique de cap-rouge",
+    "website": "http://www.cmcaprouge.org/",
+    "province": "Québec",
+    "area": "Québec and Area"
+  },
+  {
+    "city": "Québec",
+    "name": "Conservatoire de musique et d'art dramatique Québec",
+    "website": "http://www.conservatoire.gouv.qc.ca/",
+    "province": "Québec",
+    "area": "Québec and Area"
+  },
+  {
+    "city": "Québec",
+    "name": "École de musique des Cascades",
+    "website": "https://www.ecoledemusiquedescascades.com/",
+    "province": "Québec",
+    "area": "Québec and Area"
+  },
+  {
+    "city": "Lévis",
+    "name": "École de musique Jésus-Marie",
+    "website": "https://www.emjm.org/",
+    "province": "Québec",
+    "area": "Québec and Area"
+  },
+  {
+    "city": "Québec",
+    "name": "École de musique La Symphonie",
+    "website": "https://sites.google.com/site/ecoledemusiquelasymphonie/home",
+    "province": "Québec",
+    "area": "Québec and Area"
+  },
+  {
+    "city": "Montmagny",
+    "name": "École internationale de musique Montmagny",
+    "website": "http://www.accordeonmontmagny.com/eim/",
+    "province": "Québec",
+    "area": "Québec and Area"
+  },
+  {
+    "city": "Pont-Rouge",
+    "name": "École régionale de musique de Pont-Rouge",
+    "website": "http://www.ecolemusiquepontrouge.com/",
+    "province": "Québec",
+    "area": "Québec and Area"
+  },
+  {
+    "city": "Québec",
+    "name": "Immuart",
+    "website": "https://www.immuart.com/single-post/2017/08/26/Cuurs-de-chant",
+    "province": "Québec",
+    "area": "Québec and Area"
+  },
+  {
+    "city": "Québec",
+    "name": "La Maison de la musique de Sainte-Foy",
+    "website": "http://www.mmsf.org/",
+    "province": "Québec",
+    "area": "Québec and Area"
+  },
+  {
+    "city": "Québec",
+    "name": "Studio d'Enseignement de la Musique 2727",
+    "website": "http://studiodemusique2727.com/",
+    "province": "Québec",
+    "area": "Québec and Area"
+  },
+  {
+    "city": "Québec",
+    "name": "Troubadour école de musique",
+    "website": "https://www.ecoletroubadour.com/index.php",
+    "province": "Québec",
+    "area": "Québec and Area"
+  },
+  {
+    "name": "L'Académie de guitare",
+    "city": "Montréal",
+    "website": "http://www.academiedeguitare.ca/",
+    "province": "Québec",
+    "area": "Montréal"
+  },
+  {
+    "name": "Académie de musique de LaSalle",
+    "city": "Montréal",
+    "website": "http://academielasalle.com/",
+    "province": "Québec",
+    "area": "Montréal"
+  },
+  {
+    "name": "Académie de musique de Montréal",
+    "city": "Montréal",
+    "website": "http://www.academiedemontreal.com/french/a_propos/contactez-nous.html",
+    "province": "Québec",
+    "area": "Montréal"
+  },
+  {
+    "name": "Angie Arsenault",
+    "city": "Montréal",
+    "website": "http://www.angiearsenault.com/",
+    "province": "Québec",
+    "area": "Montréal"
+  },
+  {
+    "name": "Archets & Compagnie",
+    "city": "Montréal",
+    "website": "https://www.archets-et-compagnie.com/",
+    "province": "Québec",
+    "area": "Montréal"
+  },
+  {
+    "name": "Broadway Academy",
+    "city": "Montréal",
+    "website": "https://www.broadway-academy.com/?lang=fr",
+    "province": "Québec",
+    "area": "Montréal"
+  },
+  {
+    "name": "Camp Musical",
+    "city": "Montréal",
+    "website": "http://www.camptutti.com/index.php",
+    "province": "Québec",
+    "area": "Montréal"
+  },
+  {
+    "name": "Canada Music Academy",
+    "city": "Montréal",
+    "website": "http://www.canadamusicacademy.ca",
+    "province": "Québec",
+    "area": "Montréal"
+  },
+  {
+    "name": "Conservatoire de musique et d'art dramatique Québec",
+    "city": "Montréal",
+    "website": "http://www.conservatoire.gouv.qc.ca/",
+    "province": "Québec",
+    "area": "Montréal"
+  },
+  {
+    "name": "Coopérative des professeurs de musique de Montréal",
+    "city": "Montréal",
+    "website": "http://www.professeur-musique.com/",
+    "province": "Québec",
+    "area": "Montréal"
+  },
+  {
+    "name": "École de chant et de musique Coda",
+    "city": "Montréal",
+    "website": "http://ecolecoda.com/",
+    "province": "Québec",
+    "area": "Montréal"
+  },
+  {
+    "name": "École de musique Anjou",
+    "city": "Montréal",
+    "website": "http://www.ecoledemusiqueanjou.org/cours-offerts/",
+    "province": "Québec",
+    "area": "Montréal"
+  },
+  {
+    "name": "École de musique Crescendo",
+    "city": "Montréal",
+    "website": "http://ecolecrescendo.com/",
+    "province": "Québec",
+    "area": "Montréal"
+  },
+  {
+    "name": "École de musique de Verdun",
+    "city": "Montréal",
+    "website": "http://www.emv.qc.ca/index.php",
+    "province": "Québec",
+    "area": "Montréal"
+  },
+  {
+    "name": "École de musique Enchantée",
+    "city": "Montréal",
+    "website": "http://www.ecoleenchantee.com/",
+    "province": "Québec",
+    "area": "Montréal"
+  },
+  {
+    "name": "L'École de musique Regina Assumpta",
+    "city": "Montréal",
+    "website": "https://reginaassumpta.com/autres-services/arts-et-cultures/cours-de-musique/",
+    "province": "Québec",
+    "area": "Montréal"
+  },
+  {
+    "name": "École de musique Suzie Auclair",
+    "city": "Montréal",
+    "website": "https://www.ecolesuzieauclair.com/",
+    "province": "Québec",
+    "area": "Montréal"
+  },
+  {
+    "name": "École des arts de la scène Nos Voix Nos Visages",
+    "city": "Montréal",
+    "website": "https://nosvoixnosvisages.ca/chant/",
+    "province": "Québec",
+    "area": "Montréal"
+  },
+  {
+    "name": "École Préparatoire de Musique Université du Québec à Montréal",
+    "city": "Montréal",
+    "website": "https://epm.uqam.ca/cours-offerts/adultes",
+    "province": "Québec",
+    "area": "Montréal"
+  },
+  {
+    "name": "L'église presbytérienne St. Columba by-the-Lake",
+    "city": "Montréal",
+    "website": "http://stcolumba.ca/music/music-lessons/",
+    "province": "Québec",
+    "area": "Montréal"
+  },
+  {
+    "name": "Lambda School of Music and Fine Arts",
+    "city": "Montréal",
+    "website": "http://www.lambdaarts.ca/index.php",
+    "province": "Québec",
+    "area": "Montréal"
+  },
+  {
+    "name": "Linda Mailhot",
+    "city": "Montréal",
+    "website": "http://www.lindamailhot.ca/",
+    "province": "Québec",
+    "area": "Montréal"
+  },
+  {
+    "name": "Manon Lévesque",
+    "city": "Montréal",
+    "website": "http://manonlevesque.com/",
+    "province": "Québec",
+    "area": "Montréal"
+  },
+  {
+    "name": "Montréal Academy of Music",
+    "city": "Montréal",
+    "website": "https://m.montrealacademy.com/",
+    "province": "Québec",
+    "area": "Montréal"
+  },
+  {
+    "name": "Montréal Guitar Academy",
+    "city": "Montréal",
+    "website": "http://www.montrealguitaracademy.ca/music-lessons/",
+    "province": "Québec",
+    "area": "Montréal"
+  },
+  {
+    "name": "Musiprof",
+    "city": "Montréal",
+    "website": "https://musiprof.com",
+    "province": "Québec",
+    "area": "Montréal"
+  },
+  {
+    "name": "Star Système Inc.",
+    "city": "Montréal",
+    "website": "http://www.starsysteme.net/",
+    "province": "Québec",
+    "area": "Montréal"
+  },
+  {
+    "name": "Studio Tre Punti ateliers artistiques",
+    "city": "Montréal",
+    "website": "http://studiotrepunti.com/",
+    "province": "Québec",
+    "area": "Montréal"
+  },
+  {
+    "name": "Studio Vocal Louis Tremblay",
+    "city": "Montréal",
+    "website": "http://louis-tremblay.com/cours-de-chant-montreal/",
+    "province": "Québec",
+    "area": "Montréal"
+  },
+  {
+    "name": "WIMA",
+    "city": "Montréal",
+    "website": "https://westislandmusicacademy.com/singing-lessons/",
+    "province": "Québec",
+    "area": "Montréal"
+  },
+  {
+    "city": "Laval",
+    "name": "Académie de musique Ste-Dorothée",
+    "website": "https://www.academiedemusiquestedorothee.com/index.html",
+    "province": "Québec",
+    "area": "Montréal Area (West)"
+  },
+  {
+    "city": "Laval",
+    "name": "Allegro Musique",
+    "website": "https://www.allegromusique.ca/",
+    "province": "Québec",
+    "area": "Montréal Area (West)"
+  },
+  {
+    "city": "McMasterville",
+    "name": "Archets & Compagnie",
+    "website": "https://www.archets-et-compagnie.com/",
+    "province": "Québec",
+    "area": "Montréal Area (West)"
+  },
+  {
+    "city": "Saint-Bruno-de-Montarville",
+    "name": "Archets & Compagnie",
+    "website": "https://www.archets-et-compagnie.com/",
+    "province": "Québec",
+    "area": "Montréal Area (West)"
+  },
+  {
+    "city": "Saint-Colomban",
+    "name": "Camche Studio",
+    "website": "http://www.camchestudio.ca/",
+    "province": "Québec",
+    "area": "Montréal Area (West)"
+  },
+  {
+    "city": "Dollard-des-Ormeaux",
+    "name": "Le Centre des arts de Dollard",
+    "website": "https://centreartsdollard.com",
+    "province": "Québec",
+    "area": "Montréal Area (West)"
+  },
+  {
+    "city": "Saint-Hippolyte",
+    "name": "École de chant Le Cœur à Chanter",
+    "website": "http://coeurachanter.com/",
+    "province": "Québec",
+    "area": "Montréal Area (West)"
+  },
+  {
+    "city": "Lachute",
+    "name": "L'École de danse et d'arts Christiane Raymond Inc.",
+    "website": "https://fr-ca.facebook.com/pages/category/Performance-Art-Theatre/École-de-danse-et-darts-Christiane-Raymond-inc-654874544669765/",
+    "province": "Québec",
+    "area": "Montréal Area (West)"
+  },
+  {
+    "city": "Laval",
+    "name": "École de musique Archambault",
+    "website": "https://www.archambault.ca/ecole-de-musique",
+    "province": "Québec",
+    "area": "Montréal Area (West)"
+  },
+  {
+    "city": "Joliette",
+    "name": "École de musique de Joliette",
+    "website": "http://www.ecoledemusiquejoliette.com/",
+    "province": "Québec",
+    "area": "Montréal Area (West)"
+  },
+  {
+    "city": "Joliette",
+    "name": "École de musique Fernand-Lindsay",
+    "website": "http://www.ecoledemusique.org/",
+    "province": "Québec",
+    "area": "Montréal Area (West)"
+  },
+  {
+    "city": "Laval",
+    "name": "École de musique Prélude",
+    "website": "http://ecoledemusiqueprelude.ca/",
+    "province": "Québec",
+    "area": "Montréal Area (West)"
+  },
+  {
+    "city": "Sainte-Thérèse",
+    "name": "École de musique Prélude",
+    "website": "http://ecoledemusiqueprelude.ca/",
+    "province": "Québec",
+    "area": "Montréal Area (West)"
+  },
+  {
+    "city": "Terrebonne",
+    "name": "École de musique Prélude",
+    "website": "http://ecoledemusiqueprelude.ca/",
+    "province": "Québec",
+    "area": "Montréal Area (West)"
+  },
+  {
+    "city": "Auteuil",
+    "name": "École de musique Prélude",
+    "website": "http://ecoledemusiqueprelude.ca/",
+    "province": "Québec",
+    "area": "Montréal Area (West)"
+  },
+  {
+    "city": "Kirkland",
+    "name": "École Québec Musique",
+    "website": "https://ecolequebecmusique.com",
+    "province": "Québec",
+    "area": "Montréal Area (West)"
+  },
+  {
+    "city": "Saint-Jérôme",
+    "name": "MCN Productions",
+    "website": "http://www.mcnproductions.ca/",
+    "province": "Québec",
+    "area": "Montréal Area (West)"
+  },
+  {
+    "city": "Mascouche",
+    "name": "Musilab",
+    "website": "http://musilab.com/",
+    "province": "Québec",
+    "area": "Montréal Area (West)"
+  },
+  {
+    "city": "Sainte-Thérèse",
+    "name": "Musique sur Mesure",
+    "website": "http://www.musiquesurmesure.ca/",
+    "province": "Québec",
+    "area": "Montréal Area (West)"
+  },
+  {
+    "city": "Laval",
+    "name": "Nantel Musique",
+    "website": "http://www.nantelmusique.ca/",
+    "province": "Québec",
+    "area": "Montréal Area (West)"
+  },
+  {
+    "city": "L'Assomption",
+    "name": "Studio-Écolde de chant A.R. Vocal",
+    "website": "http://www.repertoirelanaudiere.qc.ca/organisme/studio-ecole-de-chant-a-r-vocal",
+    "province": "Québec",
+    "area": "Montréal Area (West)"
+  },
+  {
+    "city": "Sherbrooke",
+    "name": "Académie de musique Le Troubadour",
+    "website": "https://letroubadour.ca/",
+    "province": "Québec",
+    "area": "Montréal Area (East)"
+  },
+  {
+    "city": "Richmond",
+    "name": "Centre d'art de Richmond",
+    "website": "https://centredartderichmond.ca/#",
+    "province": "Québec",
+    "area": "Montréal Area (East)"
+  },
+  {
+    "city": "Drummondville",
+    "name": "Centre de musique Victor",
+    "website": "https://emvictor.com/",
+    "province": "Québec",
+    "area": "Montréal Area (East)"
+  },
+  {
+    "city": "Granby",
+    "name": "Centre de musique Victor",
+    "website": "https://emvictor.com/",
+    "province": "Québec",
+    "area": "Montréal Area (East)"
+  },
+  {
+    "city": "Saint-Hyacinthe",
+    "name": "Centre de musique Victor",
+    "website": "https://emvictor.com/",
+    "province": "Québec",
+    "area": "Montréal Area (East)"
+  },
+  {
+    "city": "Blainville",
+    "name": "Centre Musical de Blainville",
+    "website": "http://centremusicalblainville.com/",
+    "province": "Québec",
+    "area": "Montréal Area (East)"
+  },
+  {
+    "city": "Varennes",
+    "name": "Centre Musical Haute Gamme",
+    "website": "https://www.hautegamme.net/",
+    "province": "Québec",
+    "area": "Montréal Area (East)"
+  },
+  {
+    "city": "Sherbrooke",
+    "name": "Conservatoire de musique de l'Estrie",
+    "website": "http://www.conservatoiremusiqueestrie.com/",
+    "province": "Québec",
+    "area": "Montréal Area (East)"
+  },
+  {
+    "city": "Sainte-Catherine",
+    "name": "Dianorgues la rock shoppe",
+    "website": "http://www.dianorgues.com/site/content/fr/ecole/",
+    "province": "Québec",
+    "area": "Montréal Area (East)"
+  },
+  {
+    "city": "Drummondville",
+    "name": "École de musique À la portée des sons",
+    "website": "https://www.facebook.com/alaporteedessons/",
+    "province": "Québec",
+    "area": "Montréal Area (East)"
+  },
+  {
+    "city": "Saint-Jean-sur-Richelieu",
+    "name": "École de musique Jocelyne Laberge",
+    "website": "http://ecoledemusiquejocelynelaberge.com/",
+    "province": "Québec",
+    "area": "Montréal Area (East)"
+  },
+  {
+    "city": "Saint-Luc",
+    "name": "École de musique Jocelyne Laberge",
+    "website": "http://ecoledemusiquejocelynelaberge.com/",
+    "province": "Québec",
+    "area": "Montréal Area (East)"
+  },
+  {
+    "city": "Bromont",
+    "name": "École de musique Josée Fortin",
+    "website": "https://www.facebook.com/pages/category/Music-Lessons---Instruction-School/École-de-musique-Josée-Fortin-342465559473660/",
+    "province": "Québec",
+    "area": "Montréal Area (East)"
+  },
+  {
+    "city": "Warden",
+    "name": "École de musique Josée Fortin",
+    "website": "https://www.facebook.com/pages/category/Music-Lessons---Instruction-School/École-de-musique-Josée-Fortin-342465559473660/",
+    "province": "Québec",
+    "area": "Montréal Area (East)"
+  },
+  {
+    "city": "Contrecoeur",
+    "name": "École de musique la chasse galerie",
+    "website": "https://www.ecolechassegalerie.com/",
+    "province": "Québec",
+    "area": "Montréal Area (East)"
+  },
+  {
+    "city": "Granby",
+    "name": "École de musique Oliver Chagnon",
+    "website": "https://www.olivier-chagnon.com/",
+    "province": "Québec",
+    "area": "Montréal Area (East)"
+  },
+  {
+    "city": "Sherbrooke",
+    "name": "École de musique Pianissimo",
+    "website": "https://www.pianissimo.qc.ca/",
+    "province": "Québec",
+    "area": "Montréal Area (East)"
+  },
+  {
+    "city": "Otterburn Park",
+    "name": "Expression - école d'expression musicale",
+    "website": "http://www.ecole-expression.com/",
+    "province": "Québec",
+    "area": "Montréal Area (East)"
+  },
+  {
+    "city": "Beloeil",
+    "name": "M-Lab, École de musique",
+    "website": "http://m-lab.ca/",
+    "province": "Québec",
+    "area": "Montréal Area (East)"
+  },
+  {
+    "city": "Drummondville",
+    "name": "Les Productions Alfred",
+    "website": "http://productionsalfred.com",
+    "province": "Québec",
+    "area": "Montréal Area (East)"
+  },
+  {
+    "city": "Sainte-Catherine",
+    "name": "La voix de la réussite! Audio Shop Complexe 132",
+    "website": "http://www.complexemusical132.com/",
+    "province": "Québec",
+    "area": "Montréal Area (East)"
+  },
+  {
+    "city": "Côte Saint-Luc",
+    "name": "WIMA",
+    "website": "https://westislandmusicacademy.com/singing-lessons/",
+    "province": "Québec",
+    "area": "Montréal Area (East)"
+  },
+  {
+    "city": "Saint-Irénée",
+    "name": "Académie internationale de musique et de danse",
+    "website": "https://www.domaineforget.com/academie/",
+    "province": "Québec",
+    "area": "Other"
+  },
+  {
+    "city": "Gatineau",
+    "name": "Akro-chant",
+    "website": "https://www.facebook.com/akro.chant.2012/",
+    "province": "Québec",
+    "area": "Other"
+  },
+  {
+    "city": "Hull",
+    "name": "Akro-chant",
+    "website": "https://www.facebook.com/akro.chant.2012/",
+    "province": "Québec",
+    "area": "Other"
+  },
+  {
+    "city": "Rouyn-Noranda",
+    "name": "Centre Musical en sol mineur",
+    "website": "http://ensolmineur.ca",
+    "province": "Québec",
+    "area": "Other"
+  },
+  {
+    "city": "Gatineau",
+    "name": "Conservatoire de musique et d'art dramatique Québec",
+    "website": "http://www.conservatoire.gouv.qc.ca/",
+    "province": "Québec",
+    "area": "Other"
+  },
+  {
+    "city": "Rimouski",
+    "name": "Conservatoire de musique et d'art dramatique Québec",
+    "website": "http://www.conservatoire.gouv.qc.ca/",
+    "province": "Québec",
+    "area": "Other"
+  },
+  {
+    "city": "Saguenay",
+    "name": "Conservatoire de musique et d'art dramatique Québec",
+    "website": "http://www.conservatoire.gouv.qc.ca/",
+    "province": "Québec",
+    "area": "Other"
+  },
+  {
+    "city": "Trois-Rivières",
+    "name": "Conservatoire de musique et d'art dramatique Québec",
+    "website": "http://www.conservatoire.gouv.qc.ca/",
+    "province": "Québec",
+    "area": "Other"
+  },
+  {
+    "city": "Val-d'or",
+    "name": "Conservatoire de musique et d'art dramatique Québec",
+    "website": "http://www.conservatoire.gouv.qc.ca/",
+    "province": "Québec",
+    "area": "Other"
+  },
+  {
+    "city": "Gatineau",
+    "name": "École de chant la voix libre",
+    "website": "http://www.coursdechantgatineau.ca/",
+    "province": "Québec",
+    "area": "Other"
+  },
+  {
+    "city": "Baie Comeau",
+    "name": "École de musique Côte-nord Inc.",
+    "website": "http://www.emcn.org/",
+    "province": "Québec",
+    "area": "Other"
+  },
+  {
+    "city": "Saguenay",
+    "name": "École de musique de Chicoutimi",
+    "website": "http://www.ecoledemusiquechicoutimi.com/",
+    "province": "Québec",
+    "area": "Other"
+  },
+  {
+    "city": "Deschambault-Grondines",
+    "name": "École de musique Denys-Arcand",
+    "website": "https://www.emda.art",
+    "province": "Québec",
+    "area": "Other"
+  },
+  {
+    "city": "Saguenay",
+    "name": "École de musique de La Baie",
+    "website": "http://www.ecoledemusiquelabaie.ca/",
+    "province": "Québec",
+    "area": "Other"
+  },
+  {
+    "city": "Gatineau",
+    "name": "École de musique de l'Outaouais Inc.",
+    "website": "https://www.ecoledemusiqueoutaouais.qc.ca/",
+    "province": "Québec",
+    "area": "Other"
+  },
+  {
+    "city": "Matane",
+    "name": "École de musique de Matane inc.",
+    "website": "http://ecolemusiquematane.com/cours.html",
+    "province": "Québec",
+    "area": "Other"
+  },
+  {
+    "city": "Rimouski",
+    "name": "École de musique du Bas-Saint-Laurent",
+    "website": "http://embsl.org/",
+    "province": "Québec",
+    "area": "Other"
+  },
+  {
+    "city": "Gatineau",
+    "name": "École de musique Sonart",
+    "website": "http://sonartmusique.com/",
+    "province": "Québec",
+    "area": "Other"
+  },
+  {
+    "city": "La Pocatière",
+    "name": "École Destroismaisons",
+    "website": "http://destroismaisons.com/cours-de-musique/",
+    "province": "Québec",
+    "area": "Other"
+  },
+  {
+    "city": "Gatineau",
+    "name": "L'École Musique Adagio",
+    "website": "http://www.musiqueadagio.ca/",
+    "province": "Québec",
+    "area": "Other"
+  },
+  {
+    "city": "Saint-Nicolas",
+    "name": "École Musicale Chaudière-Appalaches",
+    "website": "https://ecolemusicale.com/",
+    "province": "Québec",
+    "area": "Other"
+  },
+  {
+    "city": "Trois-Rivières",
+    "name": "Odette Beaupré",
+    "website": "https://www.facebook.com/pages/category/Art-School/Voix-Multiples-Odette-Beaupre-595138480636877/",
+    "province": "Québec",
+    "area": "Other"
+  },
+  {
+    "city": "St-Sebastien",
+    "name": "Songe s'été en musique École et Festival",
+    "website": "http://www.midsummermusiquebec.com/chant.htm",
+    "province": "Québec",
+    "area": "Other"
+  }
+]

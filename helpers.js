@@ -59,6 +59,11 @@ export function formatSchoolObject(string, province) {
   if (title.includes("’")) {
     title = title.replace("’", "'");
   }
+
+  if (title.includes("&amp;")) {
+    title = title.replace("&amp;", "&");
+  }
+
   schoolObj.name = title;
 
   //FIND WEBSITE
@@ -176,6 +181,56 @@ export function formatSchoolObjectPt(string, province, area) {
   if (!titleString.includes("(")) {
     schoolTitleEnd += 2;
     titleString = string.slice(schoolTitleBegin, schoolTitleEnd);
+    if (titleString.includes("’")) {
+      titleString = titleString.replaceAll("’", "'");
+    }
+
+    if (titleString.includes("&amp;")) {
+      titleString = titleString.replace("&amp;", "&");
+    }
+    if (
+      titleString.includes(
+        `<span class="Apple-converted-space">&nbsp; &nbsp; </span>`
+      )
+    ) {
+      titleString = titleString.replace(
+        `<span class="Apple-converted-space">&nbsp; &nbsp; </span>`,
+        ""
+      );
+    }
+
+    if (titleString.includes(`&#8211;`)) {
+      titleString = titleString.replace(`&#8211;`, "-");
+    }
+    if (titleString.includes(`–`)) {
+      titleString = titleString.replace(`–`, "-");
+    }
+    if (
+      titleString.includes(
+        `<span class=\"Apple-converted-space\">&nbsp; &nbsp;</span>`
+      )
+    ) {
+      titleString = titleString.replace(
+        `<span class=\"Apple-converted-space\">&nbsp; &nbsp;</span>`,
+        "-"
+      );
+    }
+    if (
+      titleString.includes(`<span class="Apple-converted-space">&nbsp;</span>`)
+    ) {
+      titleString = titleString.replace(
+        '<span class="Apple-converted-space">&nbsp;</span>',
+        ""
+      );
+    }
+    if (
+      titleString.includes('<span class="Apple-converted-space">&nbsp; </span>')
+    ) {
+      titleString = titleString.replace(
+        '<span class="Apple-converted-space">&nbsp; </span>',
+        ""
+      );
+    }
     schoolObj.name = titleString;
     schoolObj.city = area;
   } else {
@@ -202,11 +257,14 @@ export function formatSchoolObjectPt(string, province, area) {
     }
 
     if (title.includes("’")) {
-      title = title.replace("’", "'");
+      title = title.replaceAll("’", "'");
     }
 
     if (title.includes("&amp;")) {
       title = title.replace("&amp;", "&");
+    }
+    if (title.includes(`&#8211;`)) {
+      title = title.replace(`&#8211;`, "-");
     }
     schoolObj.name = title;
   }
