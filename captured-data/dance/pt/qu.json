@@ -77,6 +77,286 @@
     "area": "Other"
   },
   {
+    "city": "Chambly",
+    "name": "Académie Dansa",
+    "website": "http://academiedanza.com/lacademie/",
+    "province": "Québec",
+    "area": "Montréal area (East)"
+  },
+  {
+    "city": "Varennes",
+    "name": "Académie de danse Martine Laferrière",
+    "website": "https://www.adml.ca/",
+    "province": "Québec",
+    "area": "Montréal area (East)"
+  },
+  {
+    "city": "Bromont",
+    "name": "L'Agora de la Danse",
+    "website": "https://www.agoradeladanse.com/",
+    "province": "Québec",
+    "area": "Montréal area (East)"
+  },
+  {
+    "city": "Granby",
+    "name": "L'Agora de la Danse",
+    "website": "https://www.agoradeladanse.com/",
+    "province": "Québec",
+    "area": "Montréal area (East)"
+  },
+  {
+    "city": "Brossard",
+    "name": "École de danse Cameron",
+    "website": "https://www.camerondance.com/",
+    "province": "Québec",
+    "area": "Montréal area (East)"
+  },
+  {
+    "city": "Boucherville",
+    "name": "École de danse de Boucherville",
+    "website": "https://ecolededansedeboucherville.ca/",
+    "province": "Québec",
+    "area": "Montréal area (East)"
+  },
+  {
+    "city": "Longueuil",
+    "name": "École de danse HDP",
+    "website": "https://dansehdp.ca/",
+    "province": "Québec",
+    "area": "Montréal area (East)"
+  },
+  {
+    "city": "Granby",
+    "name": "École de danse Maryse Blanchard",
+    "website": "http://www.dansemaryseblanchard.com/",
+    "province": "Québec",
+    "area": "Montréal area (East)"
+  },
+  {
+    "city": "Drummondville",
+    "name": "École de danse Team ÉviDanse",
+    "website": "https://www.teamevidanse.com/",
+    "province": "Québec",
+    "area": "Montréal area (East)"
+  },
+  {
+    "city": "Châteauguay",
+    "name": "Studio de danse Volte-Face",
+    "website": "https://www.studiodedansevolteface.com/",
+    "province": "Québec",
+    "area": "Montréal area (East)"
+  },
+  {
+    "city": "Sainte Basile-le-Grand",
+    "name": "Studio Innova Danse",
+    "website": "https://www.innovadanse.com/",
+    "province": "Québec",
+    "area": "Montréal area (East)"
+  },
+  {
+    "city": "Île Perrot",
+    "name": "Académie de danse Elite",
+    "website": "https://academiededanseelite.com/?lang=fr",
+    "province": "Québec",
+    "area": "Montréal area (West)"
+  },
+  {
+    "city": "Hudson",
+    "name": "Alex Sharov",
+    "website": "http://www.alexsharov.com/",
+    "province": "Québec",
+    "area": "Montréal area (West)"
+  },
+  {
+    "city": "Laval",
+    "name": "Danse Claude Pilon",
+    "website": "https://www.danseclaudepilon.com/",
+    "province": "Québec",
+    "area": "Montréal area (West)"
+  },
+  {
+    "city": "Laval",
+    "name": "Destination Danse",
+    "website": "http://destination-danse.ca/",
+    "province": "Québec",
+    "area": "Montréal area (West)"
+  },
+  {
+    "city": "Lachute",
+    "name": "L'École de danse et d'arts Christiane Raymond Inc.",
+    "website": "https://fr-ca.facebook.com/pages/category/Performance-Art-Theatre/École-de-danse-et-darts-Christiane-Raymond-inc-654874544669765/",
+    "province": "Québec",
+    "area": "Montréal area (West)"
+  },
+  {
+    "city": "Mirabel",
+    "name": "École de danse Rachel Jasmin",
+    "website": "https://www.danseracheljasmin.ca/",
+    "province": "Québec",
+    "area": "Montréal area (West)"
+  },
+  {
+    "city": "Sainte-Thérèse",
+    "name": "École de danse Rachel Jasmin",
+    "website": "https://www.danseracheljasmin.ca/",
+    "province": "Québec",
+    "area": "Montréal area (West)"
+  },
+  {
+    "city": "Saint-Jérôme",
+    "name": "École de danse Rachel Jasmin",
+    "website": "https://www.danseracheljasmin.ca/",
+    "province": "Québec",
+    "area": "Montréal area (West)"
+  },
+  {
+    "city": "Boisbriand",
+    "name": "L'École de danse Suzie Paquette",
+    "website": "https://www.dansesuziepaquette.com/",
+    "province": "Québec",
+    "area": "Montréal area (West)"
+  },
+  {
+    "city": "Laval",
+    "name": "Enkdanse",
+    "website": "http://www.enkdanse.com/",
+    "province": "Québec",
+    "area": "Montréal area (West)"
+  },
+  {
+    "city": "Dorval",
+    "name": "Studio de danse Imperium",
+    "website": "https://www.danseimperium.com/",
+    "province": "Québec",
+    "area": "Montréal area (West)"
+  },
+  {
+    "city": "Terrebonne",
+    "name": "Troupe création danse",
+    "website": "http://www.troupecreationdanse.com/",
+    "province": "Québec",
+    "area": "Montréal area (West)"
+  },
+  {
+    "name": "Académie de ballet Christy",
+    "city": "Québec",
+    "website": "https://www.academiedeballetchristy.com/",
+    "province": "Québec",
+    "area": "Québec"
+  },
+  {
+    "name": "Académie de danse de la Capitale",
+    "city": "Québec",
+    "website": "https://www.academiededanse.ca/",
+    "province": "Québec",
+    "area": "Québec"
+  },
+  {
+    "name": "L'Artère",
+    "city": "Québec",
+    "website": "http://www.larteredanse.ca/",
+    "province": "Québec",
+    "area": "Québec"
+  },
+  {
+    "name": "Corps de Ballet",
+    "city": "Québec",
+    "website": "https://corpsdeballet.ca/",
+    "province": "Québec",
+    "area": "Québec"
+  },
+  {
+    "name": "Danse Mirage",
+    "city": "Québec",
+    "website": "http://www.studiodansemirage.com/fr",
+    "province": "Québec",
+    "area": "Québec"
+  },
+  {
+    "name": "École de danse de Québec",
+    "city": "Québec",
+    "website": "http://ledq.qc.ca/fr/grand.public/2219/6346/presentation/",
+    "province": "Québec",
+    "area": "Québec"
+  },
+  {
+    "name": "École de danse Espace danse",
+    "city": "Québec",
+    "website": "http://www.eddespacedanse.com/",
+    "province": "Québec",
+    "area": "Québec"
+  },
+  {
+    "name": "École de danse Louise et Mélanie Brabant",
+    "city": "Québec",
+    "website": "http://ecolededanse.com/",
+    "province": "Québec",
+    "area": "Québec"
+  },
+  {
+    "name": "École de danse Nadia Desgagnés",
+    "city": "Québec",
+    "website": "http://www.dansenadiadesgagnes.com/",
+    "province": "Québec",
+    "area": "Québec"
+  },
+  {
+    "name": "École du ballet de Québec Christiane Bélanger",
+    "city": "Québec",
+    "website": "http://www.christianebelanger-danse.com/",
+    "province": "Québec",
+    "area": "Québec"
+  },
+  {
+    "name": "Maison pour la danse",
+    "city": "Québec",
+    "website": "http://www.maisonpourladanse.ca/activites-pour-le-grand-public/cours-recreatifs/",
+    "province": "Québec",
+    "area": "Québec"
+  },
+  {
+    "name": "Québec Multidanse Association",
+    "city": "Québec",
+    "website": "https://qmda.ca/",
+    "province": "Québec",
+    "area": "Québec"
+  },
+  {
+    "name": "Salsa Attitude",
+    "city": "Québec",
+    "website": "https://www.facebook.com/SalsaAttitude/",
+    "province": "Québec",
+    "area": "Québec"
+  },
+  {
+    "name": "Le Studio AccorDanse",
+    "city": "Québec",
+    "website": "http://www.accordanse.com/",
+    "province": "Québec",
+    "area": "Québec"
+  },
+  {
+    "name": "Studio Blue Mambo",
+    "city": "Québec",
+    "website": "https://www.studiobluemambo.com/",
+    "province": "Québec",
+    "area": "Québec"
+  },
+  {
+    "name": "Studio Party Time",
+    "city": "Québec",
+    "website": "http://www.studiopartytime.com/",
+    "province": "Québec",
+    "area": "Québec"
+  },
+  {
+    "name": "Tap…Etc.",
+    "city": "Québec",
+    "website": "http://tapdance.ca/index.html",
+    "province": "Québec",
+    "area": "Québec"
+  },
+  {
     "name": "L'Académie de danse Classique",
     "city": "Montréal",
     "website": "https://www.academiededanseclassique.com/",
@@ -257,285 +537,5 @@
     "website": "http://www.urban-element.ca/",
     "province": "Québec",
     "area": "Montréal"
-  },
-  {
-    "name": "Académie de ballet Christy",
-    "city": "Québec",
-    "website": "https://www.academiedeballetchristy.com/",
-    "province": "Québec",
-    "area": "Québec"
-  },
-  {
-    "name": "Académie de danse de la Capitale",
-    "city": "Québec",
-    "website": "https://www.academiededanse.ca/",
-    "province": "Québec",
-    "area": "Québec"
-  },
-  {
-    "name": "L'Artère",
-    "city": "Québec",
-    "website": "http://www.larteredanse.ca/",
-    "province": "Québec",
-    "area": "Québec"
-  },
-  {
-    "name": "Corps de Ballet",
-    "city": "Québec",
-    "website": "https://corpsdeballet.ca/",
-    "province": "Québec",
-    "area": "Québec"
-  },
-  {
-    "name": "Danse Mirage",
-    "city": "Québec",
-    "website": "http://www.studiodansemirage.com/fr",
-    "province": "Québec",
-    "area": "Québec"
-  },
-  {
-    "name": "École de danse de Québec",
-    "city": "Québec",
-    "website": "http://ledq.qc.ca/fr/grand.public/2219/6346/presentation/",
-    "province": "Québec",
-    "area": "Québec"
-  },
-  {
-    "name": "École de danse Espace danse",
-    "city": "Québec",
-    "website": "http://www.eddespacedanse.com/",
-    "province": "Québec",
-    "area": "Québec"
-  },
-  {
-    "name": "École de danse Louise et Mélanie Brabant",
-    "city": "Québec",
-    "website": "http://ecolededanse.com/",
-    "province": "Québec",
-    "area": "Québec"
-  },
-  {
-    "name": "École de danse Nadia Desgagnés",
-    "city": "Québec",
-    "website": "http://www.dansenadiadesgagnes.com/",
-    "province": "Québec",
-    "area": "Québec"
-  },
-  {
-    "name": "École du ballet de Québec Christiane Bélanger",
-    "city": "Québec",
-    "website": "http://www.christianebelanger-danse.com/",
-    "province": "Québec",
-    "area": "Québec"
-  },
-  {
-    "name": "Maison pour la danse",
-    "city": "Québec",
-    "website": "http://www.maisonpourladanse.ca/activites-pour-le-grand-public/cours-recreatifs/",
-    "province": "Québec",
-    "area": "Québec"
-  },
-  {
-    "name": "Québec Multidanse Association",
-    "city": "Québec",
-    "website": "https://qmda.ca/",
-    "province": "Québec",
-    "area": "Québec"
-  },
-  {
-    "name": "Salsa Attitude",
-    "city": "Québec",
-    "website": "https://www.facebook.com/SalsaAttitude/",
-    "province": "Québec",
-    "area": "Québec"
-  },
-  {
-    "name": "Le Studio AccorDanse",
-    "city": "Québec",
-    "website": "http://www.accordanse.com/",
-    "province": "Québec",
-    "area": "Québec"
-  },
-  {
-    "name": "Studio Blue Mambo",
-    "city": "Québec",
-    "website": "https://www.studiobluemambo.com/",
-    "province": "Québec",
-    "area": "Québec"
-  },
-  {
-    "name": "Studio Party Time",
-    "city": "Québec",
-    "website": "http://www.studiopartytime.com/",
-    "province": "Québec",
-    "area": "Québec"
-  },
-  {
-    "name": "Tap…Etc.",
-    "city": "Québec",
-    "website": "http://tapdance.ca/index.html",
-    "province": "Québec",
-    "area": "Québec"
-  },
-  {
-    "city": "Île Perrot",
-    "name": "Académie de danse Elite",
-    "website": "https://academiededanseelite.com/?lang=fr",
-    "province": "Québec",
-    "area": "Montréal area (West)"
-  },
-  {
-    "city": "Hudson",
-    "name": "Alex Sharov",
-    "website": "http://www.alexsharov.com/",
-    "province": "Québec",
-    "area": "Montréal area (West)"
-  },
-  {
-    "city": "Laval",
-    "name": "Danse Claude Pilon",
-    "website": "https://www.danseclaudepilon.com/",
-    "province": "Québec",
-    "area": "Montréal area (West)"
-  },
-  {
-    "city": "Laval",
-    "name": "Destination Danse",
-    "website": "http://destination-danse.ca/",
-    "province": "Québec",
-    "area": "Montréal area (West)"
-  },
-  {
-    "city": "Lachute",
-    "name": "L'École de danse et d’arts Christiane Raymond Inc.",
-    "website": "https://fr-ca.facebook.com/pages/category/Performance-Art-Theatre/École-de-danse-et-darts-Christiane-Raymond-inc-654874544669765/",
-    "province": "Québec",
-    "area": "Montréal area (West)"
-  },
-  {
-    "city": "Mirabel",
-    "name": "École de danse Rachel Jasmin",
-    "website": "https://www.danseracheljasmin.ca/",
-    "province": "Québec",
-    "area": "Montréal area (West)"
-  },
-  {
-    "city": "Sainte-Thérèse",
-    "name": "École de danse Rachel Jasmin",
-    "website": "https://www.danseracheljasmin.ca/",
-    "province": "Québec",
-    "area": "Montréal area (West)"
-  },
-  {
-    "city": "Saint-Jérôme",
-    "name": "École de danse Rachel Jasmin",
-    "website": "https://www.danseracheljasmin.ca/",
-    "province": "Québec",
-    "area": "Montréal area (West)"
-  },
-  {
-    "city": "Boisbriand",
-    "name": "L'École de danse Suzie Paquette",
-    "website": "https://www.dansesuziepaquette.com/",
-    "province": "Québec",
-    "area": "Montréal area (West)"
-  },
-  {
-    "city": "Laval",
-    "name": "Enkdanse",
-    "website": "http://www.enkdanse.com/",
-    "province": "Québec",
-    "area": "Montréal area (West)"
-  },
-  {
-    "city": "Dorval",
-    "name": "Studio de danse Imperium",
-    "website": "https://www.danseimperium.com/",
-    "province": "Québec",
-    "area": "Montréal area (West)"
-  },
-  {
-    "city": "Terrebonne",
-    "name": "Troupe création danse",
-    "website": "http://www.troupecreationdanse.com/",
-    "province": "Québec",
-    "area": "Montréal area (West)"
-  },
-  {
-    "city": "Chambly",
-    "name": "Académie Dansa",
-    "website": "http://academiedanza.com/lacademie/",
-    "province": "Québec",
-    "area": "Montréal area (East)"
-  },
-  {
-    "city": "Varennes",
-    "name": "Académie de danse Martine Laferrière",
-    "website": "https://www.adml.ca/",
-    "province": "Québec",
-    "area": "Montréal area (East)"
-  },
-  {
-    "city": "Bromont",
-    "name": "L'Agora de la Danse",
-    "website": "https://www.agoradeladanse.com/",
-    "province": "Québec",
-    "area": "Montréal area (East)"
-  },
-  {
-    "city": "Granby",
-    "name": "L'Agora de la Danse",
-    "website": "https://www.agoradeladanse.com/",
-    "province": "Québec",
-    "area": "Montréal area (East)"
-  },
-  {
-    "city": "Brossard",
-    "name": "École de danse Cameron",
-    "website": "https://www.camerondance.com/",
-    "province": "Québec",
-    "area": "Montréal area (East)"
-  },
-  {
-    "city": "Boucherville",
-    "name": "École de danse de Boucherville",
-    "website": "https://ecolededansedeboucherville.ca/",
-    "province": "Québec",
-    "area": "Montréal area (East)"
-  },
-  {
-    "city": "Longueuil",
-    "name": "École de danse HDP",
-    "website": "https://dansehdp.ca/",
-    "province": "Québec",
-    "area": "Montréal area (East)"
-  },
-  {
-    "city": "Granby",
-    "name": "École de danse Maryse Blanchard",
-    "website": "http://www.dansemaryseblanchard.com/",
-    "province": "Québec",
-    "area": "Montréal area (East)"
-  },
-  {
-    "city": "Drummondville",
-    "name": "École de danse Team ÉviDanse",
-    "website": "https://www.teamevidanse.com/",
-    "province": "Québec",
-    "area": "Montréal area (East)"
-  },
-  {
-    "city": "Châteauguay",
-    "name": "Studio de danse Volte-Face",
-    "website": "https://www.studiodedansevolteface.com/",
-    "province": "Québec",
-    "area": "Montréal area (East)"
-  },
-  {
-    "city": "Sainte Basile-le-Grand",
-    "name": "Studio Innova Danse",
-    "website": "https://www.innovadanse.com/",
-    "province": "Québec",
-    "area": "Montréal area (East)"
   }
 ]

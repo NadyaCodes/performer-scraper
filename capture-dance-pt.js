@@ -25,11 +25,22 @@ function fetchBCSchools() {
           schoolsList.splice(i, 1);
         }
       }
-
       schoolsList.forEach((school) => {
-        formattedSchools.push(
-          formatSchoolObjectPt(school, "British Columbia", "Vancouver")
+        const newSchool = formatSchoolObjectPt(
+          school,
+          "British Columbia",
+          "Vancouver"
         );
+        if (newSchool.city.includes(",")) {
+          newSchool.city = newSchool.city.split(", ");
+          newSchool.city.forEach((city) => {
+            const tempSchool = { ...newSchool };
+            tempSchool.city = city;
+            formattedSchools.push(tempSchool);
+          });
+        } else {
+          formattedSchools.push(newSchool);
+        }
       });
     })
     .then(
@@ -51,9 +62,21 @@ function fetchBCSchools() {
           }
 
           schoolsList.forEach((school) => {
-            formattedSchools.push(
-              formatSchoolObjectPt(school, "British Columbia", "Lower Mainland")
+            const newSchool = formatSchoolObjectPt(
+              school,
+              "British Columbia",
+              "Lower Mainland"
             );
+            if (newSchool.city.includes(",")) {
+              newSchool.city = newSchool.city.split(", ");
+              newSchool.city.forEach((city) => {
+                const tempSchool = { ...newSchool };
+                tempSchool.city = city;
+                formattedSchools.push(tempSchool);
+              });
+            } else {
+              formattedSchools.push(newSchool);
+            }
           });
         })
     )
@@ -76,9 +99,21 @@ function fetchBCSchools() {
           }
 
           schoolsList.forEach((school) => {
-            formattedSchools.push(
-              formatSchoolObjectPt(school, "British Columbia", "Island")
+            const newSchool = formatSchoolObjectPt(
+              school,
+              "British Columbia",
+              "Island"
             );
+            if (newSchool.city.includes(",")) {
+              newSchool.city = newSchool.city.split(", ");
+              newSchool.city.forEach((city) => {
+                const tempSchool = { ...newSchool };
+                tempSchool.city = city;
+                formattedSchools.push(tempSchool);
+              });
+            } else {
+              formattedSchools.push(newSchool);
+            }
           });
         })
     )
@@ -101,9 +136,21 @@ function fetchBCSchools() {
           }
 
           schoolsList.forEach((school) => {
-            formattedSchools.push(
-              formatSchoolObjectPt(school, "British Columbia", "Other")
+            const newSchool = formatSchoolObjectPt(
+              school,
+              "British Columbia",
+              "Other"
             );
+            if (newSchool.city.includes(",")) {
+              newSchool.city = newSchool.city.split(", ");
+              newSchool.city.forEach((city) => {
+                const tempSchool = { ...newSchool };
+                tempSchool.city = city;
+                formattedSchools.push(tempSchool);
+              });
+            } else {
+              formattedSchools.push(newSchool);
+            }
           });
 
           setTimeout(() => {
@@ -186,9 +233,17 @@ function fetchAlbertaSchools() {
         }
       }
       schoolsList.forEach((school) => {
-        formattedSchools.push(
-          formatSchoolObjectPt(school, "Alberta", "Calgary")
-        );
+        const newSchool = formatSchoolObjectPt(school, "Alberta", "Calgary");
+        if (newSchool.city.includes(",")) {
+          newSchool.city = newSchool.city.split(", ");
+          newSchool.city.forEach((city) => {
+            const tempSchool = { ...newSchool };
+            tempSchool.city = city;
+            formattedSchools.push(tempSchool);
+          });
+        } else {
+          formattedSchools.push(newSchool);
+        }
       });
     })
     .then(
@@ -210,9 +265,21 @@ function fetchAlbertaSchools() {
           }
 
           schoolsList.forEach((school) => {
-            formattedSchools.push(
-              formatSchoolObjectPt(school, "Alberta", "Edmonton")
+            const newSchool = formatSchoolObjectPt(
+              school,
+              "Alberta",
+              "Edmonton"
             );
+            if (newSchool.city.includes(",")) {
+              newSchool.city = newSchool.city.split(", ");
+              newSchool.city.forEach((city) => {
+                const tempSchool = { ...newSchool };
+                tempSchool.city = city;
+                formattedSchools.push(tempSchool);
+              });
+            } else {
+              formattedSchools.push(newSchool);
+            }
           });
         })
     )
@@ -235,9 +302,17 @@ function fetchAlbertaSchools() {
           }
 
           schoolsList.forEach((school) => {
-            formattedSchools.push(
-              formatSchoolObjectPt(school, "Alberta", "Other")
-            );
+            const newSchool = formatSchoolObjectPt(school, "Alberta", "Other");
+            if (newSchool.city.includes(",")) {
+              newSchool.city = newSchool.city.split(", ");
+              newSchool.city.forEach((city) => {
+                const tempSchool = { ...newSchool };
+                tempSchool.city = city;
+                formattedSchools.push(tempSchool);
+              });
+            } else {
+              formattedSchools.push(newSchool);
+            }
           });
 
           setTimeout(() => {

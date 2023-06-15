@@ -28,7 +28,14 @@
     "area": "British Columbia"
   },
   {
-    "city": "Richmond, Vancouver",
+    "city": "Richmond",
+    "name": "Showcase Academy",
+    "website": "https://showcaseacademy.com",
+    "province": "British Columbia",
+    "area": "British Columbia"
+  },
+  {
+    "city": "Vancouver",
     "name": "Showcase Academy",
     "website": "https://showcaseacademy.com",
     "province": "British Columbia",
@@ -37,7 +44,7 @@
   {
     "city": "Fernie",
     "name": "SoleBeats Dance School",
-    "website": "http://www.solebeats.ca",
+    "website": "https://www.facebook.com/solebeatsstudio/",
     "province": "British Columbia",
     "area": "British Columbia"
   },

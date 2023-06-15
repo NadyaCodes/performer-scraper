@@ -30,7 +30,7 @@ const findActFT = async () => {
       const currentPrograms = JSON.parse(jsonData);
       actFTobj[prov] = currentPrograms;
     } catch (error) {
-      console.error(`An error occurred while importing ${prov}.json:`, error);
+      // console.error(`An error occurred while importing ${prov}.json:`, error);
     }
   }
 
@@ -49,7 +49,7 @@ const findActPT = async () => {
       const currentPrograms = JSON.parse(jsonData);
       actPTobj[prov] = currentPrograms;
     } catch (error) {
-      console.error(`An error occurred while importing ${prov}.json:`, error);
+      // console.error(`An error occurred while importing ${prov}.json:`, error);
     }
   }
 
@@ -74,7 +74,7 @@ const findDanceFT = async () => {
       const currentPrograms = JSON.parse(jsonData);
       danceFTobj[prov] = currentPrograms;
     } catch (error) {
-      console.error(`An error occurred while importing ${prov}.json:`, error);
+      // console.error(`An error occurred while importing ${prov}.json:`, error);
     }
   }
 
@@ -93,7 +93,7 @@ const findDancePT = async () => {
       const currentPrograms = JSON.parse(jsonData);
       dancePTobj[prov] = currentPrograms;
     } catch (error) {
-      console.error(`An error occurred while importing ${prov}.json:`, error);
+      // console.error(`An error occurred while importing ${prov}.json:`, error);
     }
   }
 
@@ -118,7 +118,7 @@ const findMtFT = async () => {
       const currentPrograms = JSON.parse(jsonData);
       mtFTobj[prov] = currentPrograms;
     } catch (error) {
-      console.error(`An error occurred while importing ${prov}.json:`, error);
+      // console.error(`An error occurred while importing ${prov}.json:`, error);
     }
   }
 
@@ -137,7 +137,7 @@ const findMtPT = async () => {
       const currentPrograms = JSON.parse(jsonData);
       mtPTobj[prov] = currentPrograms;
     } catch (error) {
-      console.error(`An error occurred while importing ${prov}.json:`, error);
+      // console.error(`An error occurred while importing ${prov}.json:`, error);
     }
   }
 
@@ -162,7 +162,7 @@ const findSingFT = async () => {
       const currentPrograms = JSON.parse(jsonData);
       singFTobj[prov] = currentPrograms;
     } catch (error) {
-      console.error(`An error occurred while importing ${prov}.json:`, error);
+      // console.error(`An error occurred while importing ${prov}.json:`, error);
     }
   }
 
@@ -181,7 +181,7 @@ const findSingPT = async () => {
       const currentPrograms = JSON.parse(jsonData);
       singPTobj[prov] = currentPrograms;
     } catch (error) {
-      console.error(`An error occurred while importing ${prov}.json:`, error);
+      // console.error(`An error occurred while importing ${prov}.json:`, error);
     }
   }
 
@@ -204,7 +204,7 @@ const findAll = async () => {
   return finalObject;
 };
 
-const allPrograms = await findAll();
+export const allPrograms = await findAll();
 
 // console.log("-----All-------");
 // console.log(allPrograms);

@@ -1,164 +1,52 @@
 [
   {
-    "city": "London",
-    "name": "Belle Pointe Dance & Movement Company",
-    "website": "http://bellepointedance.ca/index.html",
+    "city": "Oakville",
+    "name": "Balletomane Inc.",
+    "website": "https://balletomane.ca",
     "province": "Ontario",
-    "area": "London (and Area)"
+    "area": "GTA West"
   },
   {
-    "city": "London",
-    "name": "The Dance Alliance",
-    "website": "https://www.thedancealliance.ca",
+    "city": "Milton",
+    "name": "The Dance Class",
+    "website": "http://thedanceclassmilton.com",
     "province": "Ontario",
-    "area": "London (and Area)"
+    "area": "GTA West"
   },
   {
-    "city": "London",
-    "name": "Dance Extreme",
-    "website": "https://www.danceextreme.com",
+    "city": "Milton",
+    "name": "Dance Element",
+    "website": "http://www.thedanceelement.ca",
     "province": "Ontario",
-    "area": "London (and Area)"
+    "area": "GTA West"
   },
   {
-    "city": "London",
-    "name": "Dance Steps",
-    "website": "https://www.dancestepsldn.com",
+    "city": "Milton",
+    "name": "Dance Elite Studio for the Arts",
+    "website": "http://danceelite.ca",
     "province": "Ontario",
-    "area": "London (and Area)"
+    "area": "GTA West"
   },
   {
-    "city": "London",
-    "name": "Elan Dance Arts",
-    "website": "https://www.facebook.com/ElanDanceArts/",
+    "city": "Brampton",
+    "name": "A New DAEI Dance School",
+    "website": "http://anewdaei.com",
     "province": "Ontario",
-    "area": "London (and Area)"
+    "area": "GTA West"
   },
   {
-    "city": "Woodstock",
-    "name": "Elite Dance Centre",
-    "website": "http://elitedance.ca",
+    "city": "Georgetown",
+    "name": "Strictly Dance",
+    "website": "https://www.strictlydance.ca",
     "province": "Ontario",
-    "area": "London (and Area)"
+    "area": "GTA West"
   },
   {
-    "city": "Stratford",
-    "name": "Infinity Dance",
-    "website": "http://www.infinitydance.ca",
+    "city": "Brampton",
+    "name": "The Studio",
+    "website": "http://www.the-studio.ca",
     "province": "Ontario",
-    "area": "London (and Area)"
-  },
-  {
-    "city": "London",
-    "name": "Karin Hobby Dance Academy",
-    "website": "https://www.karinhobby.ca",
-    "province": "Ontario",
-    "area": "London (and Area)"
-  },
-  {
-    "city": "London",
-    "name": "North London Dance Centre",
-    "website": "http://www.northlondondancecentre.ca",
-    "province": "Ontario",
-    "area": "London (and Area)"
-  },
-  {
-    "city": "London",
-    "name": "One Dance Centre",
-    "website": "https://www.onedancecentre.com",
-    "province": "Ontario",
-    "area": "London (and Area)"
-  },
-  {
-    "city": "Stratford",
-    "name": "On Stage Dance Studio",
-    "website": "http://onstagedance.ca",
-    "province": "Ontario",
-    "area": "London (and Area)"
-  },
-  {
-    "city": "Ingersoll",
-    "name": "Oxford School of Dance",
-    "website": "http://oxfordschoolofdance.com",
-    "province": "Ontario",
-    "area": "London (and Area)"
-  },
-  {
-    "city": "London",
-    "name": "Sound in Motion",
-    "website": "https://www.soundinmotionstudio.com",
-    "province": "Ontario",
-    "area": "London (and Area)"
-  },
-  {
-    "name": "Allegro Music and Dance",
-    "city": "Ottawa",
-    "website": "https://www.allegromusicschools.com",
-    "province": "Ontario",
-    "area": "Ottawa"
-  },
-  {
-    "name": "Dance Fusion Studios",
-    "city": "Ottawa",
-    "website": "http://dancefusionstudios.com",
-    "province": "Ontario",
-    "area": "Ottawa"
-  },
-  {
-    "name": "Dance With Alana",
-    "city": "Ottawa",
-    "website": "https://www.dancewithalana.com",
-    "province": "Ontario",
-    "area": "Ottawa"
-  },
-  {
-    "name": "Denise Smith Dance Studio",
-    "city": "Ottawa",
-    "website": "http://www.denisesmithstudio.com",
-    "province": "Ontario",
-    "area": "Ottawa"
-  },
-  {
-    "name": "The Flava Factory",
-    "city": "Ottawa",
-    "website": "https://www.facebook.com/TheFlavaFactory/",
-    "province": "Ontario",
-    "area": "Ottawa"
-  },
-  {
-    "name": "Greta Leeming Studio of Dance",
-    "city": "Ottawa",
-    "website": "http://www.gretaleemingdance.com/adult-classes/",
-    "province": "Ontario",
-    "area": "Ottawa"
-  },
-  {
-    "name": "Leeming Dance Works",
-    "city": "Ottawa",
-    "website": "https://www.leemingdanceworks.com",
-    "province": "Ontario",
-    "area": "Ottawa"
-  },
-  {
-    "name": "The Ottawa Vocal & Instrumental Performance Academy",
-    "city": "Ottawa",
-    "website": "http://www.ottawaconservatory.com/dance.html",
-    "province": "Ontario",
-    "area": "Ottawa"
-  },
-  {
-    "name": "Step by Step School of Dance",
-    "city": "Ottawa",
-    "website": "http://www.sbsdancestudio.com",
-    "province": "Ontario",
-    "area": "Ottawa"
-  },
-  {
-    "name": "The Studio School of Dance",
-    "city": "Ottawa",
-    "website": "http://thestudioschoolofdance.com",
-    "province": "Ontario",
-    "area": "Ottawa"
+    "area": "GTA West"
   },
   {
     "city": "Mississauga",
@@ -243,6 +131,265 @@
     "website": "https://www.tapdancecentre.ca",
     "province": "Ontario",
     "area": "GTA Central"
+  },
+  {
+    "name": "Allegro Music and Dance",
+    "city": "Ottawa",
+    "website": "https://www.allegromusicschools.com",
+    "province": "Ontario",
+    "area": "Ottawa"
+  },
+  {
+    "name": "Dance Fusion Studios",
+    "city": "Ottawa",
+    "website": "http://dancefusionstudios.com",
+    "province": "Ontario",
+    "area": "Ottawa"
+  },
+  {
+    "name": "Dance With Alana",
+    "city": "Ottawa",
+    "website": "https://www.dancewithalana.com",
+    "province": "Ontario",
+    "area": "Ottawa"
+  },
+  {
+    "name": "Denise Smith Dance Studio",
+    "city": "Ottawa",
+    "website": "http://www.denisesmithstudio.com",
+    "province": "Ontario",
+    "area": "Ottawa"
+  },
+  {
+    "name": "The Flava Factory",
+    "city": "Ottawa",
+    "website": "https://www.facebook.com/TheFlavaFactory/",
+    "province": "Ontario",
+    "area": "Ottawa"
+  },
+  {
+    "name": "Greta Leeming Studio of Dance",
+    "city": "Ottawa",
+    "website": "http://www.gretaleemingdance.com/adult-classes/",
+    "province": "Ontario",
+    "area": "Ottawa"
+  },
+  {
+    "name": "Leeming Dance Works",
+    "city": "Ottawa",
+    "website": "https://www.leemingdanceworks.com",
+    "province": "Ontario",
+    "area": "Ottawa"
+  },
+  {
+    "name": "The Ottawa Vocal & Instrumental Performance Academy",
+    "city": "Ottawa",
+    "website": "http://www.ottawaconservatory.com/dance.html",
+    "province": "Ontario",
+    "area": "Ottawa"
+  },
+  {
+    "name": "Step by Step School of Dance",
+    "city": "Ottawa",
+    "website": "http://www.sbsdancestudio.com",
+    "province": "Ontario",
+    "area": "Ottawa"
+  },
+  {
+    "name": "The Studio School of Dance",
+    "city": "Ottawa",
+    "website": "http://thestudioschoolofdance.com",
+    "province": "Ontario",
+    "area": "Ottawa"
+  },
+  {
+    "city": "Pembroke",
+    "name": "C.D.E. Dance Academy",
+    "website": "https://www.cdedanceacademy.com",
+    "province": "Ontario",
+    "area": "Northwest Ontario"
+  },
+  {
+    "city": "Sudbury",
+    "name": "Claire's School of Dancing",
+    "website": "https://www.clairesschoolofdancing.com",
+    "province": "Ontario",
+    "area": "Northwest Ontario"
+  },
+  {
+    "city": "Thunder Bay",
+    "name": "Dance Dynamics",
+    "website": "http://dancedynamicsstudio.ca",
+    "province": "Ontario",
+    "area": "Northwest Ontario"
+  },
+  {
+    "city": "Sudbury",
+    "name": "Dance Evolution",
+    "website": "http://danceevolution.ca/",
+    "province": "Ontario",
+    "area": "Northwest Ontario"
+  },
+  {
+    "city": "North Bay",
+    "name": "Dance Expressions",
+    "website": "https://dancex.ca",
+    "province": "Ontario",
+    "area": "Northwest Ontario"
+  },
+  {
+    "city": "Huntsville",
+    "name": "JJ Dance Performing Arts Studio",
+    "website": "https://jenniferjohnsdance.com",
+    "province": "Ontario",
+    "area": "Northwest Ontario"
+  },
+  {
+    "city": "Timmins",
+    "name": "Melissa Kelley's Dance Academy",
+    "website": "http://www.themkda.com",
+    "province": "Ontario",
+    "area": "Northwest Ontario"
+  },
+  {
+    "city": "Huntsville",
+    "name": "Muskoka Dance Academy",
+    "website": "https://muskokadance.ca",
+    "province": "Ontario",
+    "area": "Northwest Ontario"
+  },
+  {
+    "city": "Sudbury",
+    "name": "Sudbury School of Dance",
+    "website": "https://www.sudburyschoolofdance.com",
+    "province": "Ontario",
+    "area": "Northwest Ontario"
+  },
+  {
+    "city": "Chatham",
+    "name": "All That Jazz Dance Co.",
+    "website": "http://allthatjazzdanceco.net",
+    "province": "Ontario",
+    "area": "Southern Ontario"
+  },
+  {
+    "city": "Sarnia",
+    "name": "Bluewater Dance Academy",
+    "website": "http://www.bluewaterdanceacademy.com",
+    "province": "Ontario",
+    "area": "Southern Ontario"
+  },
+  {
+    "city": "Windsor",
+    "name": "Cathy's Dance Studio",
+    "website": "http://www.cathysdancestudio.net",
+    "province": "Ontario",
+    "area": "Southern Ontario"
+  },
+  {
+    "city": "Paris",
+    "name": "C.O.R.E. Dance Project",
+    "website": "https://coredanceproject.com",
+    "province": "Ontario",
+    "area": "Southern Ontario"
+  },
+  {
+    "city": "Windsor",
+    "name": "Dance Barre",
+    "website": "http://www.dancebarre.ca",
+    "province": "Ontario",
+    "area": "Southern Ontario"
+  },
+  {
+    "city": "Port Colborne",
+    "name": "Dance Expressions Inc.",
+    "website": "http://www.dance-expressions.ca",
+    "province": "Ontario",
+    "area": "Southern Ontario"
+  },
+  {
+    "city": "Saint Catharines",
+    "name": "Fusion Studio of Performing Arts",
+    "website": "http://fusionarts.ca",
+    "province": "Ontario",
+    "area": "Southern Ontario"
+  },
+  {
+    "city": "Hanover",
+    "name": "Grey Bruce School of Dance",
+    "website": "http://greybrucedance.com",
+    "province": "Ontario",
+    "area": "Southern Ontario"
+  },
+  {
+    "city": "Simcoe",
+    "name": "Lisa Naves Dance Company",
+    "website": "http://www.lisanavesdancecompany.ca",
+    "province": "Ontario",
+    "area": "Southern Ontario"
+  },
+  {
+    "city": "Minto",
+    "name": "Minto Dance Academy",
+    "website": "https://www.mintodanceacademy.com",
+    "province": "Ontario",
+    "area": "Southern Ontario"
+  },
+  {
+    "city": "Brantford",
+    "name": "Studio 5678",
+    "website": "https://5678dancestudio.com",
+    "province": "Ontario",
+    "area": "Southern Ontario"
+  },
+  {
+    "city": "Kingston",
+    "name": "5678 Dance Studio",
+    "website": "http://5678dancestudio.com/dance/adult-dance/",
+    "province": "Ontario",
+    "area": "Northeast Ontario"
+  },
+  {
+    "city": "Brockville",
+    "name": "Broadway Dance Academy",
+    "website": "http://www.dancingforjoy.com",
+    "province": "Ontario",
+    "area": "Northeast Ontario"
+  },
+  {
+    "city": "Kingston",
+    "name": "Kingston School of Dance",
+    "website": "http://www.kingstonschoolofdance.ca",
+    "province": "Ontario",
+    "area": "Northeast Ontario"
+  },
+  {
+    "city": "Brighton",
+    "name": "Premiere Dance",
+    "website": "https://www.premieredancetheatre.ca/adult-classes.html",
+    "province": "Ontario",
+    "area": "Northeast Ontario"
+  },
+  {
+    "city": "Cobourg",
+    "name": "Premiere Dance",
+    "website": "https://www.premieredancetheatre.ca/adult-classes.html",
+    "province": "Ontario",
+    "area": "Northeast Ontario"
+  },
+  {
+    "city": "Belleville",
+    "name": "Quinte Ballet School of Canada",
+    "website": "http://www.quinteballetschool.com/recreation-division/adult-classes/",
+    "province": "Ontario",
+    "area": "Northeast Ontario"
+  },
+  {
+    "city": "Kemptville",
+    "name": "Workshop Dance Studio",
+    "website": "http://theworkshopdancestudio.com",
+    "province": "Ontario",
+    "area": "Northeast Ontario"
   },
   {
     "city": "Oshawa",
@@ -350,258 +497,6 @@
     "area": "North/East GTA"
   },
   {
-    "city": "Burlington",
-    "name": "Creative Edge Dance Studio",
-    "website": "http://creativeedgedance.ca",
-    "province": "Ontario",
-    "area": "Hamilton (and Area)"
-  },
-  {
-    "city": "Hamilton",
-    "name": "Defining Movement Dance",
-    "website": "https://www.definingmovementdance.com/index.html",
-    "province": "Ontario",
-    "area": "Hamilton (and Area)"
-  },
-  {
-    "city": "Hamilton",
-    "name": "Dundas School of Dance",
-    "website": "https://www.facebook.com/dundasschoolofdance/",
-    "province": "Ontario",
-    "area": "Hamilton (and Area)"
-  },
-  {
-    "city": "Hamilton",
-    "name": "Elev8 Dance",
-    "website": "https://www.elev8danceinc.com",
-    "province": "Ontario",
-    "area": "Hamilton (and Area)"
-  },
-  {
-    "city": "Dundas",
-    "name": "Hamilton Academy of Performing Arts",
-    "website": "http://haofpa.com/professional-development/",
-    "province": "Ontario",
-    "area": "Hamilton (and Area)"
-  },
-  {
-    "city": "Hamilton",
-    "name": "Hamilton Conservatory of the Arts",
-    "website": "https://www.hcarts.ca",
-    "province": "Ontario",
-    "area": "Hamilton (and Area)"
-  },
-  {
-    "city": "Burlington",
-    "name": "Lucille's Ball",
-    "website": "https://www.facebook.com/lucillesball/",
-    "province": "Ontario",
-    "area": "Hamilton (and Area)"
-  },
-  {
-    "city": "Hamilton",
-    "name": "National Academy of Dance Education",
-    "website": "https://cnadedu.com/adult-dance-classes/",
-    "province": "Ontario",
-    "area": "Hamilton (and Area)"
-  },
-  {
-    "city": "Hamilton",
-    "name": "Rythum Plus Dance Company",
-    "website": "http://www.rythumplusdance.com",
-    "province": "Ontario",
-    "area": "Hamilton (and Area)"
-  },
-  {
-    "city": "Pembroke",
-    "name": "C.D.E. Dance Academy",
-    "website": "https://www.cdedanceacademy.com",
-    "province": "Ontario",
-    "area": "Northwest Ontario"
-  },
-  {
-    "city": "Sudbury",
-    "name": "Claire's School of Dancing",
-    "website": "https://www.clairesschoolofdancing.com",
-    "province": "Ontario",
-    "area": "Northwest Ontario"
-  },
-  {
-    "city": "Thunder Bay",
-    "name": "Dance Dynamics",
-    "website": "http://dancedynamicsstudio.ca",
-    "province": "Ontario",
-    "area": "Northwest Ontario"
-  },
-  {
-    "city": "Sudbury",
-    "name": "Dance Evolution",
-    "website": "http://danceevolution.ca/",
-    "province": "Ontario",
-    "area": "Northwest Ontario"
-  },
-  {
-    "city": "North Bay",
-    "name": "Dance Expressions",
-    "website": "https://dancex.ca",
-    "province": "Ontario",
-    "area": "Northwest Ontario"
-  },
-  {
-    "city": "Huntsville",
-    "name": "JJ Dance Performing Arts Studio",
-    "website": "https://jenniferjohnsdance.com",
-    "province": "Ontario",
-    "area": "Northwest Ontario"
-  },
-  {
-    "city": "Timmins",
-    "name": "Melissa Kelley's Dance Academy",
-    "website": "http://www.themkda.com",
-    "province": "Ontario",
-    "area": "Northwest Ontario"
-  },
-  {
-    "city": "Huntsville",
-    "name": "Muskoka Dance Academy",
-    "website": "https://muskokadance.ca",
-    "province": "Ontario",
-    "area": "Northwest Ontario"
-  },
-  {
-    "city": "Sudbury",
-    "name": "Sudbury School of Dance",
-    "website": "https://www.sudburyschoolofdance.com",
-    "province": "Ontario",
-    "area": "Northwest Ontario"
-  },
-  {
-    "city": "Kingston",
-    "name": "5678 Dance Studio",
-    "website": "http://5678dancestudio.com/dance/adult-dance/",
-    "province": "Ontario",
-    "area": "Northeast Ontario"
-  },
-  {
-    "city": "Brockville",
-    "name": "Broadway Dance Academy",
-    "website": "http://www.dancingforjoy.com",
-    "province": "Ontario",
-    "area": "Northeast Ontario"
-  },
-  {
-    "city": "Kingston",
-    "name": "Kingston School of Dance",
-    "website": "http://www.kingstonschoolofdance.ca",
-    "province": "Ontario",
-    "area": "Northeast Ontario"
-  },
-  {
-    "city": "Brighton",
-    "name": "Premiere Dance",
-    "website": "https://www.premieredancetheatre.ca/adult-classes.html",
-    "province": "Ontario",
-    "area": "Northeast Ontario"
-  },
-  {
-    "city": "Cobourg",
-    "name": "Premiere Dance",
-    "website": "https://www.premieredancetheatre.ca/adult-classes.html",
-    "province": "Ontario",
-    "area": "Northeast Ontario"
-  },
-  {
-    "city": "Belleville",
-    "name": "Quinte Ballet School of Canada",
-    "website": "http://www.quinteballetschool.com/recreation-division/adult-classes/",
-    "province": "Ontario",
-    "area": "Northeast Ontario"
-  },
-  {
-    "city": "Kemptville",
-    "name": "Workshop Dance Studio",
-    "website": "http://theworkshopdancestudio.com",
-    "province": "Ontario",
-    "area": "Northeast Ontario"
-  },
-  {
-    "city": "Chatham",
-    "name": "All That Jazz Dance Co.",
-    "website": "http://allthatjazzdanceco.net",
-    "province": "Ontario",
-    "area": "Southern Ontario"
-  },
-  {
-    "city": "Sarnia",
-    "name": "Bluewater Dance Academy",
-    "website": "http://www.bluewaterdanceacademy.com",
-    "province": "Ontario",
-    "area": "Southern Ontario"
-  },
-  {
-    "city": "Windsor",
-    "name": "Cathy's Dance Studio",
-    "website": "http://www.cathysdancestudio.net",
-    "province": "Ontario",
-    "area": "Southern Ontario"
-  },
-  {
-    "city": "Paris",
-    "name": "C.O.R.E. Dance Project",
-    "website": "https://coredanceproject.com",
-    "province": "Ontario",
-    "area": "Southern Ontario"
-  },
-  {
-    "city": "Windsor",
-    "name": "Dance Barre",
-    "website": "http://www.dancebarre.ca",
-    "province": "Ontario",
-    "area": "Southern Ontario"
-  },
-  {
-    "city": "Port Colborne",
-    "name": "Dance Expressions Inc.",
-    "website": "http://www.dance-expressions.ca",
-    "province": "Ontario",
-    "area": "Southern Ontario"
-  },
-  {
-    "city": "Saint Catharines",
-    "name": "Fusion Studio of Performing Arts",
-    "website": "http://fusionarts.ca",
-    "province": "Ontario",
-    "area": "Southern Ontario"
-  },
-  {
-    "city": "Hanover",
-    "name": "Grey Bruce School of Dance",
-    "website": "http://greybrucedance.com",
-    "province": "Ontario",
-    "area": "Southern Ontario"
-  },
-  {
-    "city": "Simcoe",
-    "name": "Lisa Naves Dance Company",
-    "website": "http://www.lisanavesdancecompany.ca",
-    "province": "Ontario",
-    "area": "Southern Ontario"
-  },
-  {
-    "city": "Minto",
-    "name": "Minto Dance Academy",
-    "website": "https://www.mintodanceacademy.com",
-    "province": "Ontario",
-    "area": "Southern Ontario"
-  },
-  {
-    "city": "Brantford",
-    "name": "Studio 5678",
-    "website": "https://5678dancestudio.com",
-    "province": "Ontario",
-    "area": "Southern Ontario"
-  },
-  {
     "city": "New Hamburg",
     "name": "Centre Stage Dance Studio",
     "website": "http://www.centrestagedance.ca",
@@ -700,6 +595,160 @@
     "area": "Kitchener (and Area)"
   },
   {
+    "city": "Burlington",
+    "name": "Creative Edge Dance Studio",
+    "website": "http://creativeedgedance.ca",
+    "province": "Ontario",
+    "area": "Hamilton (and Area)"
+  },
+  {
+    "city": "Hamilton",
+    "name": "Defining Movement Dance",
+    "website": "https://www.definingmovementdance.com/index.html",
+    "province": "Ontario",
+    "area": "Hamilton (and Area)"
+  },
+  {
+    "city": "Hamilton",
+    "name": "Dundas School of Dance",
+    "website": "https://www.facebook.com/dundasschoolofdance/",
+    "province": "Ontario",
+    "area": "Hamilton (and Area)"
+  },
+  {
+    "city": "Hamilton",
+    "name": "Elev8 Dance",
+    "website": "https://www.elev8danceinc.com",
+    "province": "Ontario",
+    "area": "Hamilton (and Area)"
+  },
+  {
+    "city": "Dundas",
+    "name": "Hamilton Academy of Performing Arts",
+    "website": "http://haofpa.com/professional-development/",
+    "province": "Ontario",
+    "area": "Hamilton (and Area)"
+  },
+  {
+    "city": "Hamilton",
+    "name": "Hamilton Conservatory of the Arts",
+    "website": "https://www.hcarts.ca",
+    "province": "Ontario",
+    "area": "Hamilton (and Area)"
+  },
+  {
+    "city": "Burlington",
+    "name": "Lucille's Ball",
+    "website": "https://www.facebook.com/lucillesball/",
+    "province": "Ontario",
+    "area": "Hamilton (and Area)"
+  },
+  {
+    "city": "Hamilton",
+    "name": "National Academy of Dance Education",
+    "website": "https://cnadedu.com/adult-dance-classes/",
+    "province": "Ontario",
+    "area": "Hamilton (and Area)"
+  },
+  {
+    "city": "Hamilton",
+    "name": "Rythum Plus Dance Company",
+    "website": "http://www.rythumplusdance.com",
+    "province": "Ontario",
+    "area": "Hamilton (and Area)"
+  },
+  {
+    "city": "London",
+    "name": "Belle Pointe Dance & Movement Company",
+    "website": "http://bellepointedance.ca/index.html",
+    "province": "Ontario",
+    "area": "London (and Area)"
+  },
+  {
+    "city": "London",
+    "name": "The Dance Alliance",
+    "website": "https://www.thedancealliance.ca",
+    "province": "Ontario",
+    "area": "London (and Area)"
+  },
+  {
+    "city": "London",
+    "name": "Dance Extreme",
+    "website": "https://www.danceextreme.com",
+    "province": "Ontario",
+    "area": "London (and Area)"
+  },
+  {
+    "city": "London",
+    "name": "Dance Steps",
+    "website": "https://www.dancestepsldn.com",
+    "province": "Ontario",
+    "area": "London (and Area)"
+  },
+  {
+    "city": "London",
+    "name": "Elan Dance Arts",
+    "website": "https://www.facebook.com/ElanDanceArts/",
+    "province": "Ontario",
+    "area": "London (and Area)"
+  },
+  {
+    "city": "Woodstock",
+    "name": "Elite Dance Centre",
+    "website": "http://elitedance.ca",
+    "province": "Ontario",
+    "area": "London (and Area)"
+  },
+  {
+    "city": "Stratford",
+    "name": "Infinity Dance",
+    "website": "http://www.infinitydance.ca",
+    "province": "Ontario",
+    "area": "London (and Area)"
+  },
+  {
+    "city": "London",
+    "name": "Karin Hobby Dance Academy",
+    "website": "https://www.karinhobby.ca",
+    "province": "Ontario",
+    "area": "London (and Area)"
+  },
+  {
+    "city": "London",
+    "name": "North London Dance Centre",
+    "website": "http://www.northlondondancecentre.ca",
+    "province": "Ontario",
+    "area": "London (and Area)"
+  },
+  {
+    "city": "London",
+    "name": "One Dance Centre",
+    "website": "https://www.onedancecentre.com",
+    "province": "Ontario",
+    "area": "London (and Area)"
+  },
+  {
+    "city": "Stratford",
+    "name": "On Stage Dance Studio",
+    "website": "http://onstagedance.ca",
+    "province": "Ontario",
+    "area": "London (and Area)"
+  },
+  {
+    "city": "Ingersoll",
+    "name": "Oxford School of Dance",
+    "website": "http://oxfordschoolofdance.com",
+    "province": "Ontario",
+    "area": "London (and Area)"
+  },
+  {
+    "city": "London",
+    "name": "Sound in Motion",
+    "website": "https://www.soundinmotionstudio.com",
+    "province": "Ontario",
+    "area": "London (and Area)"
+  },
+  {
     "name": "Canada's National Ballet School",
     "city": "Toronto",
     "website": "http://www.nbs-enb.ca/",
@@ -796,54 +845,5 @@
     "website": "https://www.theundergrounddance.com",
     "province": "Ontario",
     "area": "Toronto"
-  },
-  {
-    "city": "Oakville",
-    "name": "Balletomane Inc.",
-    "website": "https://balletomane.ca",
-    "province": "Ontario",
-    "area": "GTA West"
-  },
-  {
-    "city": "Milton",
-    "name": "The Dance Class",
-    "website": "http://thedanceclassmilton.com",
-    "province": "Ontario",
-    "area": "GTA West"
-  },
-  {
-    "city": "Milton",
-    "name": "Dance Element",
-    "website": "http://www.thedanceelement.ca",
-    "province": "Ontario",
-    "area": "GTA West"
-  },
-  {
-    "city": "Milton",
-    "name": "Dance Elite Studio for the Arts",
-    "website": "http://danceelite.ca",
-    "province": "Ontario",
-    "area": "GTA West"
-  },
-  {
-    "city": "Brampton",
-    "name": "A New DAEI Dance School",
-    "website": "http://anewdaei.com",
-    "province": "Ontario",
-    "area": "GTA West"
-  },
-  {
-    "city": "Georgetown",
-    "name": "Strictly Dance",
-    "website": "https://www.strictlydance.ca",
-    "province": "Ontario",
-    "area": "GTA West"
-  },
-  {
-    "city": "Brampton",
-    "name": "The Studio",
-    "website": "http://www.the-studio.ca",
-    "province": "Ontario",
-    "area": "GTA West"
   }
 ]

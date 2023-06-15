@@ -28,9 +28,21 @@ axios
     const formattedSchools = [];
 
     schoolsList.forEach((school) => {
-      formattedSchools.push(
-        formatSchoolObjectPt(school, "British Columbia", "British Columbia")
+      const newSchool = formatSchoolObjectPt(
+        school,
+        "British Columbia",
+        "British Columbia"
       );
+      if (newSchool.city.includes(",")) {
+        newSchool.city = newSchool.city.split(", ");
+        newSchool.city.forEach((city) => {
+          const tempSchool = { ...newSchool };
+          tempSchool.city = city;
+          formattedSchools.push(tempSchool);
+        });
+      } else {
+        formattedSchools.push(newSchool);
+      }
     });
 
     // console.log(formattedSchools);

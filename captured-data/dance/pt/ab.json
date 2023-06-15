@@ -70,6 +70,195 @@
     "area": "Calgary"
   },
   {
+    "city": "Okotoks",
+    "name": "Balance Dance Centre",
+    "website": "https://balancedancecentre.com",
+    "province": "Alberta",
+    "area": "Other"
+  },
+  {
+    "city": "Banff",
+    "name": "Banff Centre for Arts and Creativity",
+    "website": "https://www.banffcentre.ca",
+    "province": "Alberta",
+    "area": "Other"
+  },
+  {
+    "city": "Lethbridge",
+    "name": "Casa",
+    "website": "http://www.casalethbridge.ca/",
+    "province": "Alberta",
+    "area": "Other"
+  },
+  {
+    "city": "Leduc",
+    "name": "Connectivity Dance",
+    "website": "https://connectivitydance.wordpress.com",
+    "province": "Alberta",
+    "area": "Other"
+  },
+  {
+    "city": "Lloydminster",
+    "name": "Core Dynamics Pilates & Dance",
+    "website": "http://coredynamics.ca",
+    "province": "Alberta",
+    "area": "Other"
+  },
+  {
+    "city": "Sherwood Park",
+    "name": "Dancefusion Academy of Dance",
+    "website": "http://www.dancefusionsp.com",
+    "province": "Alberta",
+    "area": "Other"
+  },
+  {
+    "city": "Spruce Grove",
+    "name": "The Dance Place",
+    "website": "https://www.thedanceplace.ca",
+    "province": "Alberta",
+    "area": "Other"
+  },
+  {
+    "city": "Blackfalds",
+    "name": "Dancer's Edge",
+    "website": "http://dancersedgestudio.ca",
+    "province": "Alberta",
+    "area": "Other"
+  },
+  {
+    "city": "Lacombe",
+    "name": "Dancer's Edge",
+    "website": "http://dancersedgestudio.ca",
+    "province": "Alberta",
+    "area": "Other"
+  },
+  {
+    "city": "Fort Saskatchewan",
+    "name": "Dance Moves III",
+    "website": "https://www.dancemoves3.com",
+    "province": "Alberta",
+    "area": "Other"
+  },
+  {
+    "city": "Sherwood Park",
+    "name": "Drealee Fitness + Dance",
+    "website": "http://drealee.com",
+    "province": "Alberta",
+    "area": "Other"
+  },
+  {
+    "city": "Lethbridge",
+    "name": "Exisdance",
+    "website": "http://www.exisdance.com/programs/classes/adult-classes",
+    "province": "Alberta",
+    "area": "Other"
+  },
+  {
+    "city": "Bonnyville",
+    "name": "Fame Dance Studios",
+    "website": "http://www.famedancestudios.com/Site/index.html",
+    "province": "Alberta",
+    "area": "Other"
+  },
+  {
+    "city": "Cold Lake",
+    "name": "Fame Dance Studios",
+    "website": "http://www.famedancestudios.com/Site/index.html",
+    "province": "Alberta",
+    "area": "Other"
+  },
+  {
+    "city": "Elk Point",
+    "name": "Fame Dance Studios",
+    "website": "http://www.famedancestudios.com/Site/index.html",
+    "province": "Alberta",
+    "area": "Other"
+  },
+  {
+    "city": "Lloydminster",
+    "name": "Fame Dance Studios",
+    "website": "http://www.famedancestudios.com/Site/index.html",
+    "province": "Alberta",
+    "area": "Other"
+  },
+  {
+    "city": "Provost",
+    "name": "Fame Dance Studios",
+    "website": "http://www.famedancestudios.com/Site/index.html",
+    "province": "Alberta",
+    "area": "Other"
+  },
+  {
+    "city": "Brooks",
+    "name": "In Sequins Studio of Dance",
+    "website": "http://insequins.com",
+    "province": "Alberta",
+    "area": "Other"
+  },
+  {
+    "city": "Sherwood Park",
+    "name": "McCormack School of Irish Dance",
+    "website": "https://www.mccormackirishdancers.com",
+    "province": "Alberta",
+    "area": "Other"
+  },
+  {
+    "city": "Lacombe",
+    "name": "Pound It",
+    "website": "https://www.pounditdj.com",
+    "province": "Alberta",
+    "area": "Other"
+  },
+  {
+    "city": "Red Deer",
+    "name": "Pound It",
+    "website": "https://www.pounditdj.com",
+    "province": "Alberta",
+    "area": "Other"
+  },
+  {
+    "city": "Stettler",
+    "name": "Rhonda McCulloch Danceology",
+    "website": "https://www.danceology.ca",
+    "province": "Alberta",
+    "area": "Other"
+  },
+  {
+    "city": "Sherwood Park",
+    "name": "Sherwood Park School of Dance Ltd.",
+    "website": "http://spsodance.com",
+    "province": "Alberta",
+    "area": "Other"
+  },
+  {
+    "city": "Sherwood Park",
+    "name": "Step by Step School of Dance",
+    "website": "http://www.stepbystepdance.ca",
+    "province": "Alberta",
+    "area": "Other"
+  },
+  {
+    "city": "Red Deer",
+    "name": "Strive Dance Academy",
+    "website": "https://www.strivedanceacademy.ca",
+    "province": "Alberta",
+    "area": "Other"
+  },
+  {
+    "city": "Lethbridge",
+    "name": "Van Dance Studios",
+    "website": "http://vandance.ca",
+    "province": "Alberta",
+    "area": "Other"
+  },
+  {
+    "city": "Spruce Grove",
+    "name": "Ward School of Dance",
+    "website": "http://www.wardschoolofdance.com",
+    "province": "Alberta",
+    "area": "Other"
+  },
+  {
     "name": "Bedouin Beats",
     "city": "Edmonton",
     "website": "http://www.bedouinbeats.com/",
@@ -145,152 +334,5 @@
     "website": "https://www.albertaballetschool.com/",
     "province": "Alberta",
     "area": "Edmonton"
-  },
-  {
-    "city": "Okotoks",
-    "name": "Balance Dance Centre",
-    "website": "https://balancedancecentre.com",
-    "province": "Alberta",
-    "area": "Other"
-  },
-  {
-    "city": "Banff",
-    "name": "Banff Centre for Arts and Creativity",
-    "website": "https://www.banffcentre.ca",
-    "province": "Alberta",
-    "area": "Other"
-  },
-  {
-    "city": "Lethbridge",
-    "name": "Casa",
-    "website": "http://www.casalethbridge.ca/",
-    "province": "Alberta",
-    "area": "Other"
-  },
-  {
-    "city": "Leduc",
-    "name": "Connectivity Dance",
-    "website": "https://connectivitydance.wordpress.com",
-    "province": "Alberta",
-    "area": "Other"
-  },
-  {
-    "city": "Lloydminster",
-    "name": "Core Dynamics Pilates & Dance",
-    "website": "http://coredynamics.ca",
-    "province": "Alberta",
-    "area": "Other"
-  },
-  {
-    "city": "Sherwood Park",
-    "name": "Dancefusion Academy of Dance",
-    "website": "http://www.dancefusionsp.com",
-    "province": "Alberta",
-    "area": "Other"
-  },
-  {
-    "city": "Spruce Grove",
-    "name": "The Dance Place",
-    "website": "https://www.thedanceplace.ca",
-    "province": "Alberta",
-    "area": "Other"
-  },
-  {
-    "city": "Blackfalds, Lacombe",
-    "name": "Dancer's Edge",
-    "website": "http://dancersedgestudio.ca",
-    "province": "Alberta",
-    "area": "Other"
-  },
-  {
-    "city": "Fort Saskatchewan",
-    "name": "Dance Moves III",
-    "website": "https://www.dancemoves3.com",
-    "province": "Alberta",
-    "area": "Other"
-  },
-  {
-    "city": "Sherwood Park",
-    "name": "Drealee Fitness + Dance",
-    "website": "http://drealee.com",
-    "province": "Alberta",
-    "area": "Other"
-  },
-  {
-    "city": "Lethbridge",
-    "name": "Exisdance",
-    "website": "http://www.exisdance.com/programs/classes/adult-classes",
-    "province": "Alberta",
-    "area": "Other"
-  },
-  {
-    "city": "Bonnyville, Cold Lake, Elk Point, Lloydminster, Provost",
-    "name": "Fame Dance Studios",
-    "website": "http://www.famedancestudios.com/Site/index.html",
-    "province": "Alberta",
-    "area": "Other"
-  },
-  {
-    "city": "Brooks",
-    "name": "In Sequins Studio of Dance",
-    "website": "http://insequins.com",
-    "province": "Alberta",
-    "area": "Other"
-  },
-  {
-    "city": "Sherwood Park",
-    "name": "McCormack School of Irish Dance",
-    "website": "https://www.mccormackirishdancers.com",
-    "province": "Alberta",
-    "area": "Other"
-  },
-  {
-    "city": "Lacombe, Red Deer",
-    "name": "Pound It",
-    "website": "https://www.pounditdj.com",
-    "province": "Alberta",
-    "area": "Other"
-  },
-  {
-    "city": "Stettler",
-    "name": "Rhonda McCulloch Danceology",
-    "website": "https://www.danceology.ca",
-    "province": "Alberta",
-    "area": "Other"
-  },
-  {
-    "city": "Sherwood Park",
-    "name": "Sherwood Park School of Dance Ltd.",
-    "website": "http://spsodance.com",
-    "province": "Alberta",
-    "area": "Other"
-  },
-  {
-    "city": "Sherwood Park",
-    "name": "Step by Step School of Dance",
-    "website": "http://www.stepbystepdance.ca",
-    "province": "Alberta",
-    "area": "Other"
-  },
-  {
-    "city": "Red Deer",
-    "name": "Strive Dance Academy",
-    "website": "https://www.strivedanceacademy.ca",
-    "province": "Alberta",
-    "area": "Other"
-  },
-  {
-    "city": "Lethbridge",
-    "name": "Van Dance Studios",
-    "website": "http://vandance.ca",
-    "province": "Alberta",
-    "area": "Other"
-  },
-  {
-    "city": "Spruce Grove",
-    "name": "Ward School of Dance",
-    "website": "http://www.wardschoolofdance.com",
-    "province": "Alberta",
-    "area": "Other"
   }
 ]
