@@ -35,7 +35,7 @@ allDisciplines.forEach((item) => {
             id: newID,
             school_id: schoolId,
             location_id: cityId,
-            site: lowerSite,
+            // site: lowerSite,
             // city: lowerCity,
             // name: lowerName,
           };
