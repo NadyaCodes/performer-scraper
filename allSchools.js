@@ -206,5 +206,12 @@ const findAll = async () => {
 
 const allPrograms = await findAll();
 
-console.log("-----All-------");
-console.log(allPrograms);
+// console.log("-----All-------");
+// console.log(allPrograms);
+
+let dataJSON = JSON.stringify(allPrograms);
+
+fs.writeFile("./captured-data/allPrograms.json", dataJSON, function (err) {
+  if (err) throw err;
+  console.log("File is created successfully.");
+});
