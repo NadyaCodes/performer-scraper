@@ -1,0 +1,5102 @@
+{
+  "cdda82bb-75ff-4f2c-884c-9adc39b3ebd8": {
+    "id": "cdda82bb-75ff-4f2c-884c-9adc39b3ebd8",
+    "name": "concordia university of edmonton",
+    "site": "https://concordia.ab.ca"
+  },
+  "31349a5b-a7a5-4609-9801-483577c6455a": {
+    "id": "31349a5b-a7a5-4609-9801-483577c6455a",
+    "name": "grande prairie regional college",
+    "site": "https://www.gprc.ab.ca"
+  },
+  "54e25313-bfb3-4707-9c27-bc3a50f311a7": {
+    "id": "54e25313-bfb3-4707-9c27-bc3a50f311a7",
+    "name": "medicine hat college",
+    "site": "https://www.mhc.ab.ca"
+  },
+  "38374bec-0e6b-4c50-9776-4825afc989fc": {
+    "id": "38374bec-0e6b-4c50-9776-4825afc989fc",
+    "name": "red deer college",
+    "site": "http://rdc.ab.ca"
+  },
+  "5635bcf8-23dc-4c23-b448-e004970cbc4b": {
+    "id": "5635bcf8-23dc-4c23-b448-e004970cbc4b",
+    "name": "rosebud school of the arts",
+    "site": "https://www.rosebudschoolofthearts.com"
+  },
+  "908d49d2-2cc3-49aa-ae07-8e733b19ac23": {
+    "id": "908d49d2-2cc3-49aa-ae07-8e733b19ac23",
+    "name": "university of alberta",
+    "site": "https://www.ualberta.ca"
+  },
+  "f515a16a-2afb-4b19-a316-bfafe8afffd4": {
+    "id": "f515a16a-2afb-4b19-a316-bfafe8afffd4",
+    "name": "university of alberta, augustana campus",
+    "site": "https://www.ualberta.ca"
+  },
+  "799d9442-1edf-46ae-b948-2bd6d44b6ac8": {
+    "id": "799d9442-1edf-46ae-b948-2bd6d44b6ac8",
+    "name": "university of calgary",
+    "site": "http://www.ucalgary.ca"
+  },
+  "0541baa5-8a93-41bb-bf72-e48e71d74c49": {
+    "id": "0541baa5-8a93-41bb-bf72-e48e71d74c49",
+    "name": "university of lethbridge",
+    "site": "http://www.uleth.ca"
+  },
+  "60c05555-1a39-4bdc-97c3-da1ba7f0cc8d": {
+    "id": "60c05555-1a39-4bdc-97c3-da1ba7f0cc8d",
+    "name": "arts umbrella",
+    "site": "https://www.artsumbrella.com"
+  },
+  "f3514a25-f351-4740-855b-04873eee4658": {
+    "id": "f3514a25-f351-4740-855b-04873eee4658",
+    "name": "canadian college of film and acting",
+    "site": "http://www.canadacfti.com"
+  },
+  "549464f7-1eb7-4a3c-96cf-977cffae2758": {
+    "id": "549464f7-1eb7-4a3c-96cf-977cffae2758",
+    "name": "capilano university",
+    "site": "http://www.capilanou.ca"
+  },
+  "d8a6eb1a-1a00-47af-9056-4d6b5b99e5a5": {
+    "id": "d8a6eb1a-1a00-47af-9056-4d6b5b99e5a5",
+    "name": "douglas college",
+    "site": "https://www.douglascollege.ca"
+  },
+  "520a30c3-3549-42d4-b294-dd665646e5bb": {
+    "id": "520a30c3-3549-42d4-b294-dd665646e5bb",
+    "name": "langara college",
+    "site": "https://langara.ca"
+  },
+  "39862bfb-dc12-4d4c-9e6d-e494c12c5313": {
+    "id": "39862bfb-dc12-4d4c-9e6d-e494c12c5313",
+    "name": "new image college of fine arts",
+    "site": "http://www.newimage.ca"
+  },
+  "6b12c315-c445-4cca-86c9-d2bd330bef58": {
+    "id": "6b12c315-c445-4cca-86c9-d2bd330bef58",
+    "name": "simon fraser university's school of the contemporary arts",
+    "site": "https://www.sfu.ca"
+  },
+  "e61d24fb-6d32-484d-ac61-beaf5da342d9": {
+    "id": "e61d24fb-6d32-484d-ac61-beaf5da342d9",
+    "name": "thompson rivers university",
+    "site": "https://www.tru.ca"
+  },
+  "c4844518-e58a-483b-9d57-38b2d4ef03a7": {
+    "id": "c4844518-e58a-483b-9d57-38b2d4ef03a7",
+    "name": "trinity western university",
+    "site": "https://www.twu.ca"
+  },
+  "289a2ffd-a6a7-4bba-8e09-a4cd44140616": {
+    "id": "289a2ffd-a6a7-4bba-8e09-a4cd44140616",
+    "name": "university of british columbia",
+    "site": "https://www.ubc.ca"
+  },
+  "4912ebc7-c898-4eaa-b651-a3cb75c64de5": {
+    "id": "4912ebc7-c898-4eaa-b651-a3cb75c64de5",
+    "name": "university of british columbia: okanagan campus",
+    "site": "http://www.calendar.ubc.ca"
+  },
+  "ef3ed231-4ce5-4586-8e3b-8235d3e3e006": {
+    "id": "ef3ed231-4ce5-4586-8e3b-8235d3e3e006",
+    "name": "university of the fraser valley",
+    "site": "https://www.ufv.ca"
+  },
+  "d9a745e3-f191-492e-a0c8-8a5aa17f8601": {
+    "id": "d9a745e3-f191-492e-a0c8-8a5aa17f8601",
+    "name": "university of victoria",
+    "site": "https://www.uvic.ca"
+  },
+  "0f6e1814-35e4-41ad-95c4-1dcca84327dc": {
+    "id": "0f6e1814-35e4-41ad-95c4-1dcca84327dc",
+    "name": "vancouver academy of dramatic arts",
+    "site": "http://vadastudios.com"
+  },
+  "0fb77ff1-22e6-4f6f-a358-801ac99946ff": {
+    "id": "0fb77ff1-22e6-4f6f-a358-801ac99946ff",
+    "name": "vancouver film school",
+    "site": "https://vfs.edu"
+  },
+  "8cdf1447-6b76-4285-a18f-a9ca7d099e21": {
+    "id": "8cdf1447-6b76-4285-a18f-a9ca7d099e21",
+    "name": "vancouver institute of media arts",
+    "site": "https://www.vanarts.com"
+  },
+  "a237492f-9890-455d-8abc-af621abca2a4": {
+    "id": "a237492f-9890-455d-8abc-af621abca2a4",
+    "name": "vancouver island university",
+    "site": "https://www.viu.ca"
+  },
+  "c7d8e1d0-1ea8-4cb0-89b8-f6f3fb11e8ad": {
+    "id": "c7d8e1d0-1ea8-4cb0-89b8-f6f3fb11e8ad",
+    "name": "victoria academy of dramatic arts",
+    "site": "http://www.vadarts.com"
+  },
+  "b6cf792b-62c1-44cf-99e9-94054185f9bf": {
+    "id": "b6cf792b-62c1-44cf-99e9-94054185f9bf",
+    "name": "brandon university",
+    "site": "https://www.brandonu.ca"
+  },
+  "6c5e03cc-bc0d-4359-8c8e-47e4d2b4c79e": {
+    "id": "6c5e03cc-bc0d-4359-8c8e-47e4d2b4c79e",
+    "name": "university of manitoba",
+    "site": "http://umanitoba.ca"
+  },
+  "2bfd85cf-c8bc-420e-a579-e937e33a0d63": {
+    "id": "2bfd85cf-c8bc-420e-a579-e937e33a0d63",
+    "name": "university of winnipeg",
+    "site": "https://www.uwinnipeg.ca"
+  },
+  "571a405f-5948-4eb4-bdf0-04f0b6ade728": {
+    "id": "571a405f-5948-4eb4-bdf0-04f0b6ade728",
+    "name": "mount allison university",
+    "site": "https://www.mta.ca"
+  },
+  "843abfdd-e545-48f3-9943-5f584a8902f5": {
+    "id": "843abfdd-e545-48f3-9943-5f584a8902f5",
+    "name": "st. thomas university",
+    "site": "https://www.stu.ca"
+  },
+  "0690aa19-dadd-4f3a-ab79-9765a7025812": {
+    "id": "0690aa19-dadd-4f3a-ab79-9765a7025812",
+    "name": "université de moncton",
+    "site": "http://www.umoncton.ca"
+  },
+  "45d1db52-af7d-4674-885e-5a5166201eba": {
+    "id": "45d1db52-af7d-4674-885e-5a5166201eba",
+    "name": "university of new brunswick",
+    "site": "http://www.unb.ca"
+  },
+  "1d7e2839-fa18-4b78-9147-86548be90350": {
+    "id": "1d7e2839-fa18-4b78-9147-86548be90350",
+    "name": "memorial university grenfell campus",
+    "site": "https://www.mun.ca"
+  },
+  "0e891268-d43e-4c6e-aeaa-e00dce64d034": {
+    "id": "0e891268-d43e-4c6e-aeaa-e00dce64d034",
+    "name": "acadia university",
+    "site": "https://www2.acadiau.ca"
+  },
+  "129b7bec-0531-485e-bed2-827ad719f046": {
+    "id": "129b7bec-0531-485e-bed2-827ad719f046",
+    "name": "cape breton university",
+    "site": "https://www.cbu.ca"
+  },
+  "7d6aa842-6037-43aa-b281-aa806216f29d": {
+    "id": "7d6aa842-6037-43aa-b281-aa806216f29d",
+    "name": "dalhousie university",
+    "site": "https://www.dal.ca"
+  },
+  "c2cad2a8-2936-447b-b877-923feda907e1": {
+    "id": "c2cad2a8-2936-447b-b877-923feda907e1",
+    "name": "algonquin college",
+    "site": "http://www.algonquincollege.com"
+  },
+  "34ee4ae0-8efc-468f-a3bb-28ecd4c71aa2": {
+    "id": "34ee4ae0-8efc-468f-a3bb-28ecd4c71aa2",
+    "name": "brock university",
+    "site": "https://brocku.ca"
+  },
+  "9074e067-7d15-4f15-9fd0-0899d6d19652": {
+    "id": "9074e067-7d15-4f15-9fd0-0899d6d19652",
+    "name": "canadian film centre",
+    "site": "http://www.cfccreates.com"
+  },
+  "2911b802-95f6-4d69-a6c8-04b001f137e4": {
+    "id": "2911b802-95f6-4d69-a6c8-04b001f137e4",
+    "name": "canadore college",
+    "site": "https://www.canadorecollege.ca"
+  },
+  "250a8d5e-ecc2-4712-98d5-5ebe34e40ac2": {
+    "id": "250a8d5e-ecc2-4712-98d5-5ebe34e40ac2",
+    "name": "centennial college",
+    "site": "https://www.centennialcollege.ca"
+  },
+  "61d1b658-34fc-403b-8f8b-a8c82ea6dce9": {
+    "id": "61d1b658-34fc-403b-8f8b-a8c82ea6dce9",
+    "name": "centre for indigenous theatre",
+    "site": "https://www.indigenoustheatre.com"
+  },
+  "2181a718-dfd4-4f55-b6fa-ca39b73c41d4": {
+    "id": "2181a718-dfd4-4f55-b6fa-ca39b73c41d4",
+    "name": "fanshawe college",
+    "site": "https://www.fanshawec.ca"
+  },
+  "489293c0-5e57-4d83-ab88-63aaf7e3686d": {
+    "id": "489293c0-5e57-4d83-ab88-63aaf7e3686d",
+    "name": "george brown college",
+    "site": "https://www.georgebrown.ca"
+  },
+  "8e3f1098-5302-4810-b780-f39254fb0d1f": {
+    "id": "8e3f1098-5302-4810-b780-f39254fb0d1f",
+    "name": "glendon college",
+    "site": "http://www.glendon.yorku.ca"
+  },
+  "06f4e149-f02e-4d7c-8870-633cf12fae13": {
+    "id": "06f4e149-f02e-4d7c-8870-633cf12fae13",
+    "name": "humber college",
+    "site": "http://humber.ca"
+  },
+  "3eabc04a-e6f5-4b75-81cf-f7bd66a5dc88": {
+    "id": "3eabc04a-e6f5-4b75-81cf-f7bd66a5dc88",
+    "name": "laurentian university",
+    "site": "https://laurentian.ca"
+  },
+  "0a73c102-56d9-416d-aea4-ccab3c2b0846": {
+    "id": "0a73c102-56d9-416d-aea4-ccab3c2b0846",
+    "name": "mcmaster university",
+    "site": "http://www.mcmaster.ca"
+  },
+  "b334d5c0-38f3-44c0-8508-92c46656d7f1": {
+    "id": "b334d5c0-38f3-44c0-8508-92c46656d7f1",
+    "name": "niagara college",
+    "site": "http://www.niagaracollege.ca"
+  },
+  "4bc5e9bc-ca33-4b8c-867f-b3a9e548bfa0": {
+    "id": "4bc5e9bc-ca33-4b8c-867f-b3a9e548bfa0",
+    "name": "queens university",
+    "site": "http://www.queensu.ca"
+  },
+  "ded3d142-191a-403a-92a2-23f323772a45": {
+    "id": "ded3d142-191a-403a-92a2-23f323772a45",
+    "name": "redeemer university college",
+    "site": "https://www.redeemer.ca"
+  },
+  "bd6cc4f0-c06d-4a34-9197-b26f077c09bd": {
+    "id": "bd6cc4f0-c06d-4a34-9197-b26f077c09bd",
+    "name": "ryerson university",
+    "site": "https://www.ryerson.ca"
+  },
+  "be01c099-863c-4c93-92f7-6563588ef5fc": {
+    "id": "be01c099-863c-4c93-92f7-6563588ef5fc",
+    "name": "sheridan",
+    "site": "https://www.sheridancollege.ca"
+  },
+  "452209a6-7740-434d-ae7b-69b677c0a6ab": {
+    "id": "452209a6-7740-434d-ae7b-69b677c0a6ab",
+    "name": "seneca",
+    "site": "http://www.senecacollege.ca"
+  },
+  "d0de8249-8702-417e-8fd2-c635156c37a4": {
+    "id": "d0de8249-8702-417e-8fd2-c635156c37a4",
+    "name": "toronto film school",
+    "site": "http://www.torontofilmschool.ca"
+  },
+  "c4b83588-49d5-44c5-badc-ff0b997a9d32": {
+    "id": "c4b83588-49d5-44c5-badc-ff0b997a9d32",
+    "name": "university of guelph",
+    "site": "https://www.uoguelph.ca"
+  },
+  "5254c9b6-b0ac-49ff-be63-a67640dab4cf": {
+    "id": "5254c9b6-b0ac-49ff-be63-a67640dab4cf",
+    "name": "university of ottawa",
+    "site": "https://www.uottawa.ca"
+  },
+  "5d54f716-b1ae-48df-b737-e36b54ea042a": {
+    "id": "5d54f716-b1ae-48df-b737-e36b54ea042a",
+    "name": "university of toronto",
+    "site": "https://www.utoronto.ca"
+  },
+  "44709848-e287-48de-9fca-05b167353f46": {
+    "id": "44709848-e287-48de-9fca-05b167353f46",
+    "name": "university of toronto, mississauga",
+    "site": "http://www.utm.utoronto.ca"
+  },
+  "671bd1be-2cda-40f6-ab47-a33e5a8b6b52": {
+    "id": "671bd1be-2cda-40f6-ab47-a33e5a8b6b52",
+    "name": "university of toronto, scarborough",
+    "site": "http://www.utsc.utoronto.ca"
+  },
+  "c55ac906-39eb-44d9-9c3c-22f328974bb9": {
+    "id": "c55ac906-39eb-44d9-9c3c-22f328974bb9",
+    "name": "university of waterloo",
+    "site": "https://uwaterloo.ca"
+  },
+  "f355a356-da8b-4d80-be81-92885f9bb831": {
+    "id": "f355a356-da8b-4d80-be81-92885f9bb831",
+    "name": "university of western ontario",
+    "site": "http://www.uwo.ca"
+  },
+  "207ca66c-2ed3-4962-8164-53f8d03aaa1a": {
+    "id": "207ca66c-2ed3-4962-8164-53f8d03aaa1a",
+    "name": "university of windsor",
+    "site": "http://www.uwindsor.ca"
+  },
+  "1160ad96-1894-4f91-b45b-74602c8215a1": {
+    "id": "1160ad96-1894-4f91-b45b-74602c8215a1",
+    "name": "york university",
+    "site": "http://www.yorku.ca"
+  },
+  "9553621d-302b-4e65-bc98-64bbe326f6ba": {
+    "id": "9553621d-302b-4e65-bc98-64bbe326f6ba",
+    "name": "holland college school of performing arts",
+    "site": "http://www.hollandcollege.com"
+  },
+  "84fa121a-6a8d-4b04-a35b-a782e04f7863": {
+    "id": "84fa121a-6a8d-4b04-a35b-a782e04f7863",
+    "name": "university of prince edward island",
+    "site": "https://www.upei.ca"
+  },
+  "cf531268-f058-4cf3-8b37-531b5adef906": {
+    "id": "cf531268-f058-4cf3-8b37-531b5adef906",
+    "name": "bishop's university",
+    "site": "http://www.ubishops.ca"
+  },
+  "21135cf9-7b35-40eb-be62-3827c9009f1a": {
+    "id": "21135cf9-7b35-40eb-be62-3827c9009f1a",
+    "name": "conservatoire de musique et d'art dramatique québec",
+    "site": "http://www.conservatoire.gouv.qc.ca"
+  },
+  "e46bf153-0c5a-4281-87ec-a28c50e55853": {
+    "id": "e46bf153-0c5a-4281-87ec-a28c50e55853",
+    "name": "concordia university",
+    "site": "https://www.concordia.ca"
+  },
+  "26e38f22-04c2-47c9-9ba1-44613a96a9c2": {
+    "id": "26e38f22-04c2-47c9-9ba1-44613a96a9c2",
+    "name": "john abbott college",
+    "site": "http://www.johnabbott.qc.ca"
+  },
+  "fae24ebb-9b37-457e-aa43-37c8b3b01993": {
+    "id": "fae24ebb-9b37-457e-aa43-37c8b3b01993",
+    "name": "école de théâtre professionnel",
+    "site": "https://etp.clg.qc.ca"
+  },
+  "f21231c3-c259-4175-82ed-79acd3ee12e7": {
+    "id": "f21231c3-c259-4175-82ed-79acd3ee12e7",
+    "name": "national theatre school of canada",
+    "site": "https://ent-nts.ca"
+  },
+  "b41c0911-24b8-486d-a2a8-07a41bf59d86": {
+    "id": "b41c0911-24b8-486d-a2a8-07a41bf59d86",
+    "name": "campion college",
+    "site": "http://campioncollege.ca"
+  },
+  "0a5048ec-485f-4f90-a364-a266d47bde56": {
+    "id": "0a5048ec-485f-4f90-a364-a266d47bde56",
+    "name": "university of regina",
+    "site": "https://urconnected.uregina.ca"
+  },
+  "edb2d35d-b1d5-4f3b-965b-fb078b9a4c19": {
+    "id": "edb2d35d-b1d5-4f3b-965b-fb078b9a4c19",
+    "name": "university of regina, luther college",
+    "site": "https://www.luthercollege.edu"
+  },
+  "1ba63396-c700-429a-bdce-dc7b470b0e93": {
+    "id": "1ba63396-c700-429a-bdce-dc7b470b0e93",
+    "name": "university of saskatchewan",
+    "site": "https://www.usask.ca"
+  },
+  "f347e166-f778-43d3-8b50-4fee25ec7a77": {
+    "id": "f347e166-f778-43d3-8b50-4fee25ec7a77",
+    "name": "alberta media production industries association",
+    "site": "https://ampia.org"
+  },
+  "0a5e3839-e7e2-4019-aa1b-9b7b72bfe481": {
+    "id": "0a5e3839-e7e2-4019-aa1b-9b7b72bfe481",
+    "name": "banff centre for arts and creativity",
+    "site": "https://www.banffcentre.ca"
+  },
+  "15b073e5-a999-4a58-a473-6f8b9cc9ad81": {
+    "id": "15b073e5-a999-4a58-a473-6f8b9cc9ad81",
+    "name": "calgary actors' studio",
+    "site": "http://www.calgaryactorsstudio.com"
+  },
+  "1930d152-1ac2-4e3b-878d-7789d546aee0": {
+    "id": "1930d152-1ac2-4e3b-878d-7789d546aee0",
+    "name": "citadel/banff centre professional theatre program",
+    "site": "https://www.citadeltheatre.com"
+  },
+  "773e8999-193a-4d20-96ca-f0cffe09e4ad": {
+    "id": "773e8999-193a-4d20-96ca-f0cffe09e4ad",
+    "name": "company of rogues",
+    "site": "http://corogues.com"
+  },
+  "58d3d769-1b87-488e-8262-300c3fdaf996": {
+    "id": "58d3d769-1b87-488e-8262-300c3fdaf996",
+    "name": "foote theatre school",
+    "site": "https://www.citadeltheatre.com"
+  },
+  "2628b081-2060-4e09-9ce0-a3deef7dddcb": {
+    "id": "2628b081-2060-4e09-9ce0-a3deef7dddcb",
+    "name": "grindstone theatre",
+    "site": "https://www.grindstonetheatre.ca"
+  },
+  "317f068b-4650-4dd5-b1b3-02220b37dce8": {
+    "id": "317f068b-4650-4dd5-b1b3-02220b37dce8",
+    "name": "rapid fire theatre",
+    "site": "http://rapidfiretheatre.com"
+  },
+  "8e410a1f-f85f-4ea3-9c18-51080e55e50c": {
+    "id": "8e410a1f-f85f-4ea3-9c18-51080e55e50c",
+    "name": "theatre alberta",
+    "site": "http://www.theatrealberta.com"
+  },
+  "ac43af58-0ec4-40e0-8b29-ba4d04ef3060": {
+    "id": "ac43af58-0ec4-40e0-8b29-ba4d04ef3060",
+    "name": "voice spot",
+    "site": "https://www.voicespot.ca"
+  },
+  "b4a85d1b-d7b0-4550-a4fa-022a52dddcc7": {
+    "id": "b4a85d1b-d7b0-4550-a4fa-022a52dddcc7",
+    "name": "the acting academy",
+    "site": "http://www.theactingacademy.ca"
+  },
+  "f9243fe4-cd05-4ebd-9ffe-d6392c55dfc1": {
+    "id": "f9243fe4-cd05-4ebd-9ffe-d6392c55dfc1",
+    "name": "bcit school of business",
+    "site": "https://www.bcit.ca"
+  },
+  "ca671f2f-5b34-4cc9-9fd7-a2bad4e4eb64": {
+    "id": "ca671f2f-5b34-4cc9-9fd7-a2bad4e4eb64",
+    "name": "gallery 7 theatre & performing arts society",
+    "site": "http://www.gallery7theatre.com"
+  },
+  "83697a51-191f-4383-8db6-1a6455c8f234": {
+    "id": "83697a51-191f-4383-8db6-1a6455c8f234",
+    "name": "staccato music studios",
+    "site": "http://www.staccatostudios.com"
+  },
+  "31c3ba6a-28f7-4a60-9de1-f889f934a4d2": {
+    "id": "31c3ba6a-28f7-4a60-9de1-f889f934a4d2",
+    "name": "gulf islands film and television school",
+    "site": "https://www.facebook.com/giftsfans/"
+  },
+  "8ab76ede-a2f9-4e63-8cf3-5f378f966fdd": {
+    "id": "8ab76ede-a2f9-4e63-8cf3-5f378f966fdd",
+    "name": "kismet theatre academy",
+    "site": "https://www.facebook.com/kismet-theatre-academy-358248050929720/"
+  },
+  "058acfdd-f625-4433-a90e-d4588b113185": {
+    "id": "058acfdd-f625-4433-a90e-d4588b113185",
+    "name": "okanagan society of independent filmmaking",
+    "site": "https://www.osif.org"
+  },
+  "e940dad0-c085-4aa8-aada-ff08431b8a32": {
+    "id": "e940dad0-c085-4aa8-aada-ff08431b8a32",
+    "name": "paper street theatre company",
+    "site": "http://www.paperstreettheatre.ca"
+  },
+  "9918d61d-2aec-4dad-89f0-47f61b57a3ff": {
+    "id": "9918d61d-2aec-4dad-89f0-47f61b57a3ff",
+    "name": "rotary centre for the arts",
+    "site": "https://rotarycentreforthearts.com"
+  },
+  "3a1cece6-2bb7-4ac8-8e2f-9c0d04345774": {
+    "id": "3a1cece6-2bb7-4ac8-8e2f-9c0d04345774",
+    "name": "spotlight academy",
+    "site": "https://spotlightacademy.com"
+  },
+  "6061c66a-9fd7-48b0-a092-4289fa6dc6d2": {
+    "id": "6061c66a-9fd7-48b0-a092-4289fa6dc6d2",
+    "name": "west kelowna music school",
+    "site": "https://www.westkelownamusicschool.com"
+  },
+  "4d9126eb-e3dc-4c12-b7c0-33da7f6c856f": {
+    "id": "4d9126eb-e3dc-4c12-b7c0-33da7f6c856f",
+    "name": "actorium",
+    "site": "https://actorium.ca"
+  },
+  "0656e179-f361-4bd8-aa8c-8ba9e1dfe21b": {
+    "id": "0656e179-f361-4bd8-aa8c-8ba9e1dfe21b",
+    "name": "the actor's foundry",
+    "site": "https://www.actorsfoundry.com"
+  },
+  "2743ecc1-a2f6-45e4-b4d9-e912f4832ff4": {
+    "id": "2743ecc1-a2f6-45e4-b4d9-e912f4832ff4",
+    "name": "actorvan",
+    "site": "http://actorvan.com"
+  },
+  "d562c5d5-b5e7-4c88-b18f-fa3f11c674b3": {
+    "id": "d562c5d5-b5e7-4c88-b18f-fa3f11c674b3",
+    "name": "anthony meindl's actor workshop",
+    "site": "http://www.anthonymeindl.com"
+  },
+  "c89a7f55-bb54-413b-9841-d7adfea9a241": {
+    "id": "c89a7f55-bb54-413b-9841-d7adfea9a241",
+    "name": "arts club",
+    "site": "http://artsclub.com"
+  },
+  "6c77038f-c383-4f65-afd6-308210c81dd3": {
+    "id": "6c77038f-c383-4f65-afd6-308210c81dd3",
+    "name": "austin tuck studios",
+    "site": "http://www.austintuckstudios.com"
+  },
+  "47e5f4d5-fc92-45f3-be22-045bce288713": {
+    "id": "47e5f4d5-fc92-45f3-be22-045bce288713",
+    "name": "bryant centre for film and television action",
+    "site": "http://bryantfilm.com"
+  },
+  "a448cdfe-e7a5-4a94-9f26-76937141fa2f": {
+    "id": "a448cdfe-e7a5-4a94-9f26-76937141fa2f",
+    "name": "the drama class",
+    "site": "http://www.thedramaclass.com"
+  },
+  "8660cc02-e38c-44cf-bd1a-efdaef21d7d9": {
+    "id": "8660cc02-e38c-44cf-bd1a-efdaef21d7d9",
+    "name": "first step actors",
+    "site": "http://www.firststepactors.com"
+  },
+  "4ec56738-dabd-4f73-8098-1cc6b3c6f001": {
+    "id": "4ec56738-dabd-4f73-8098-1cc6b3c6f001",
+    "name": "instant theatre company",
+    "site": "https://www.facebook.com/instanttheatrecompany/"
+  },
+  "d206a9bc-09c0-414d-bf78-0e4c029dec77": {
+    "id": "d206a9bc-09c0-414d-bf78-0e4c029dec77",
+    "name": "jeb beach & associates",
+    "site": "https://www.jebbeach.com"
+  },
+  "79f0a7ab-dc06-43fe-93e0-d473bdba4b60": {
+    "id": "79f0a7ab-dc06-43fe-93e0-d473bdba4b60",
+    "name": "lyrebird academy",
+    "site": "http://lyrebird.ca"
+  },
+  "9482a5c4-0556-4f9e-ac8c-fbf681390b4b": {
+    "id": "9482a5c4-0556-4f9e-ac8c-fbf681390b4b",
+    "name": "mcilroy & associates",
+    "site": "https://www.andrewmcilroy.net"
+  },
+  "a3273aaa-0801-46e7-ad5f-ebe444dcab35": {
+    "id": "a3273aaa-0801-46e7-ad5f-ebe444dcab35",
+    "name": "methodica",
+    "site": "http://studiomethodica.com"
+  },
+  "078ddc04-68e6-4e54-87dc-7d3eac135ee7": {
+    "id": "078ddc04-68e6-4e54-87dc-7d3eac135ee7",
+    "name": "on the mic training - voice over",
+    "site": "https://www.onthemictraining.com"
+  },
+  "f528c5bb-3713-4630-b2bc-a495fddcbe53": {
+    "id": "f528c5bb-3713-4630-b2bc-a495fddcbe53",
+    "name": "railtown actors studio",
+    "site": "https://www.railtownactors.com"
+  },
+  "ee11207a-f36a-41a6-922e-34b09d53263c": {
+    "id": "ee11207a-f36a-41a6-922e-34b09d53263c",
+    "name": "rogues west",
+    "site": "http://www.rogueswest.ca"
+  },
+  "4fe9e590-3c8f-43fc-aefb-423919c4d6cd": {
+    "id": "4fe9e590-3c8f-43fc-aefb-423919c4d6cd",
+    "name": "shoreline studios",
+    "site": "https://www.shoreline-studios.com"
+  },
+  "8eb668ad-40f4-4271-b3cf-2e7d18fba94a": {
+    "id": "8eb668ad-40f4-4271-b3cf-2e7d18fba94a",
+    "name": "tony alcantar dialect coach",
+    "site": "https://www.tonyalcantar.com"
+  },
+  "e8d79e9b-eb02-4ae6-bf64-061a3cb95a13": {
+    "id": "e8d79e9b-eb02-4ae6-bf64-061a3cb95a13",
+    "name": "vancouver acting school",
+    "site": "http://vancouveractingschool.com"
+  },
+  "8f7001f2-bde3-4ed6-91b7-6e7d7098f592": {
+    "id": "8f7001f2-bde3-4ed6-91b7-6e7d7098f592",
+    "name": "working actors gym",
+    "site": "http://mitchandmurrayproductions.com"
+  },
+  "9e6907f2-7f32-4cc9-944f-cb203175d5eb": {
+    "id": "9e6907f2-7f32-4cc9-944f-cb203175d5eb",
+    "name": "the acting studio winnipeg",
+    "site": "http://theactingstudiowinnipeg.com"
+  },
+  "968125cc-f851-4221-9db1-a316092bca27": {
+    "id": "968125cc-f851-4221-9db1-a316092bca27",
+    "name": "actors' training centre of manitoba",
+    "site": "https://www.facebook.com/groups/15100336843/"
+  },
+  "31ba1de2-172d-43d4-bcb9-57fa7b6f032f": {
+    "id": "31ba1de2-172d-43d4-bcb9-57fa7b6f032f",
+    "name": "prairie theatre exchange",
+    "site": "https://www.pte.mb.ca"
+  },
+  "093eb108-0b51-44a1-a1b9-8c882cbcfef5": {
+    "id": "093eb108-0b51-44a1-a1b9-8c882cbcfef5",
+    "name": "theatre dance centre",
+    "site": "http://www.theatredancectr.com"
+  },
+  "f80c8f70-747e-4b96-ad64-37c08c6c0c7b": {
+    "id": "f80c8f70-747e-4b96-ad64-37c08c6c0c7b",
+    "name": "winnipeg theatre school",
+    "site": "http://www.merlyn.biz"
+  },
+  "4908ede7-ef94-4021-a9c0-133d7546dc49": {
+    "id": "4908ede7-ef94-4021-a9c0-133d7546dc49",
+    "name": "st. andrews arts council",
+    "site": "http://www.standrewsartscouncil.com"
+  },
+  "003758c9-ef60-40ca-952d-f84e5b38a691": {
+    "id": "003758c9-ef60-40ca-952d-f84e5b38a691",
+    "name": "st. john theatre company",
+    "site": "https://saintjohntheatrecompany.com"
+  },
+  "be463ba2-ec30-4d09-ae14-96febfc58d45": {
+    "id": "be463ba2-ec30-4d09-ae14-96febfc58d45",
+    "name": "theatre new brunswick",
+    "site": "http://www.tnb.nb.ca"
+  },
+  "d9bdc250-40af-4d70-9127-8f345997b487": {
+    "id": "d9bdc250-40af-4d70-9127-8f345997b487",
+    "name": "performing art's group",
+    "site": "http://theperformingartsgroup.ca"
+  },
+  "2a97b2e2-b4c9-40d1-b025-ac12969df49d": {
+    "id": "2a97b2e2-b4c9-40d1-b025-ac12969df49d",
+    "name": "st. john's actors studio",
+    "site": "http://stjohnsactorsstudio.ca"
+  },
+  "24e2d40a-474e-4530-a6a1-b387dfe329d8": {
+    "id": "24e2d40a-474e-4530-a6a1-b387dfe329d8",
+    "name": "arts centre",
+    "site": "https://artscentre.ca"
+  },
+  "c975946f-70b8-43e6-8b8e-63c0b0713136": {
+    "id": "c975946f-70b8-43e6-8b8e-63c0b0713136",
+    "name": "mermaid theatre of nova scotia",
+    "site": "https://www.mermaidtheatre.ca"
+  },
+  "a7a8281a-45a1-4f6f-b1e8-9eae81a46acd": {
+    "id": "a7a8281a-45a1-4f6f-b1e8-9eae81a46acd",
+    "name": "neptune theatre school",
+    "site": "https://www.neptunetheatre.com"
+  },
+  "b12da735-3629-4cd6-a685-af1211e132fc": {
+    "id": "b12da735-3629-4cd6-a685-af1211e132fc",
+    "name": "alza acting studio",
+    "site": "http://www.alzaactingstudio.com"
+  },
+  "3dd3bcf7-910a-4857-adb6-bfdc5ced0395": {
+    "id": "3dd3bcf7-910a-4857-adb6-bfdc5ced0395",
+    "name": "armstrong acting studios",
+    "site": "https://www.armstrongactingstudios.com"
+  },
+  "0fb44b96-2ec2-48ff-95da-ffdd59f175b5": {
+    "id": "0fb44b96-2ec2-48ff-95da-ffdd59f175b5",
+    "name": "bravo academy",
+    "site": "https://www.newmusictheatreintensives.ca"
+  },
+  "e5f8e56f-10a3-4424-93ad-34d59599687d": {
+    "id": "e5f8e56f-10a3-4424-93ad-34d59599687d",
+    "name": "centre for the arts",
+    "site": "https://www.centreforthearts.com"
+  },
+  "96728ae8-a9a5-45bc-ae41-00ab34b9784b": {
+    "id": "96728ae8-a9a5-45bc-ae41-00ab34b9784b",
+    "name": "cindy tanas actors studio",
+    "site": "https://cindytanas.com"
+  },
+  "333dbb8e-8a3b-43c5-a29e-148d284f7f96": {
+    "id": "333dbb8e-8a3b-43c5-a29e-148d284f7f96",
+    "name": "the dirt underneath",
+    "site": "https://dirtunderneath.com"
+  },
+  "af119107-852e-434a-8d74-7030889e2141": {
+    "id": "af119107-852e-434a-8d74-7030889e2141",
+    "name": "evn film and television studios",
+    "site": "https://www.evnstudios.com"
+  },
+  "1ee14749-51ca-4887-afc7-cfec926ad8ce": {
+    "id": "1ee14749-51ca-4887-afc7-cfec926ad8ce",
+    "name": "intensive actors lab",
+    "site": "https://www.facebook.com/intensiveactorslab/"
+  },
+  "b2891f34-2eba-466d-9f14-8e16fa01a01c": {
+    "id": "b2891f34-2eba-466d-9f14-8e16fa01a01c",
+    "name": "jacqueline janas",
+    "site": "https://www.jacquelinejanas.com"
+  },
+  "c1c4d669-81e1-4032-9165-3239b03bffed": {
+    "id": "c1c4d669-81e1-4032-9165-3239b03bffed",
+    "name": "john boylan",
+    "site": "https://www.centreforthearts.com"
+  },
+  "6f29aa58-d51e-4af9-ad81-0b05840f1f7c": {
+    "id": "6f29aa58-d51e-4af9-ad81-0b05840f1f7c",
+    "name": "julian r. munds",
+    "site": "https://www.julianrmunds.com"
+  },
+  "4ec15793-29f0-4ef7-9077-b89a683efe75": {
+    "id": "4ec15793-29f0-4ef7-9077-b89a683efe75",
+    "name": "lb acting studio",
+    "site": "http://lbactingstudio.com"
+  },
+  "24c68166-f2ed-46ad-b817-925a5ce31a65": {
+    "id": "24c68166-f2ed-46ad-b817-925a5ce31a65",
+    "name": "milne studio",
+    "site": "http://milnestudio.ca"
+  },
+  "b42ba6f5-6d5b-4cf2-bd5d-087b4d7db1b8": {
+    "id": "b42ba6f5-6d5b-4cf2-bd5d-087b4d7db1b8",
+    "name": "no strings theatre",
+    "site": "http://www.nostringstheatre.com"
+  },
+  "124ed461-e646-49a4-9326-f4b144172539": {
+    "id": "124ed461-e646-49a4-9326-f4b144172539",
+    "name": "professional actors lab",
+    "site": "http://www.proactorslab.com"
+  },
+  "c6a12e15-e36a-4e33-8740-660b60211aff": {
+    "id": "c6a12e15-e36a-4e33-8740-660b60211aff",
+    "name": "rapier wit",
+    "site": "http://www.rapierwit.com"
+  },
+  "719f6439-7b62-4f95-98e6-b3c4957aba5a": {
+    "id": "719f6439-7b62-4f95-98e6-b3c4957aba5a",
+    "name": "sarah weatherwax",
+    "site": "http://sarahweatherwax.com"
+  },
+  "d41c68b0-7218-4f35-aa7e-b13bae73a853": {
+    "id": "d41c68b0-7218-4f35-aa7e-b13bae73a853",
+    "name": "second city",
+    "site": "https://www.secondcity.com"
+  },
+  "bcaf4689-c0b5-43bb-9d31-42e629c99166": {
+    "id": "bcaf4689-c0b5-43bb-9d31-42e629c99166",
+    "name": "sirius theatrical company",
+    "site": "http://www.siriustheatrical.com"
+  },
+  "86fabe9d-8871-4fb1-a0dd-bdbe747c334f": {
+    "id": "86fabe9d-8871-4fb1-a0dd-bdbe747c334f",
+    "name": "straeon acting studios",
+    "site": "https://www.straeonactingclasses.com"
+  },
+  "4f8eae31-3740-437d-b45f-c32d3307592a": {
+    "id": "4f8eae31-3740-437d-b45f-c32d3307592a",
+    "name": "tom todoroff",
+    "site": "https://www.tomtodoroff.com"
+  },
+  "1519f3a5-fb4e-422c-a24a-4ac45c05a5ce": {
+    "id": "1519f3a5-fb4e-422c-a24a-4ac45c05a5ce",
+    "name": "toronto academy of acting for film and television",
+    "site": "http://torontoacademyofacting.com"
+  },
+  "cd4dc3e6-5c0b-4c94-8635-3cb111bfc015": {
+    "id": "cd4dc3e6-5c0b-4c94-8635-3cb111bfc015",
+    "name": "voiceworx",
+    "site": "http://www.voiceworx.com"
+  },
+  "b7d97246-738a-48db-abfe-08e376940ca4": {
+    "id": "b7d97246-738a-48db-abfe-08e376940ca4",
+    "name": "the actors room",
+    "site": "https://www.theactorsroom.ca"
+  },
+  "be370194-d0dd-47e0-8420-0017786e3c87": {
+    "id": "be370194-d0dd-47e0-8420-0017786e3c87",
+    "name": "durham improv",
+    "site": "https://www.facebook.com/durhamimprov/"
+  },
+  "946c206a-05d7-4c2f-8a3b-d930c4b7f406": {
+    "id": "946c206a-05d7-4c2f-8a3b-d930c4b7f406",
+    "name": "living arts centre",
+    "site": "http://www.livingartscentre.ca"
+  },
+  "157558dc-8492-4812-b549-08a4b0dc7b4b": {
+    "id": "157558dc-8492-4812-b549-08a4b0dc7b4b",
+    "name": "ovation arts academy",
+    "site": "http://www.ovationarts.ca"
+  },
+  "60439270-a1a8-4041-907f-fef053bd6da3": {
+    "id": "60439270-a1a8-4041-907f-fef053bd6da3",
+    "name": "thornhill acting studio",
+    "site": "http://www.thornhillactingstudio.com"
+  },
+  "d729d01d-cd47-4b1e-884e-98907fe4df6e": {
+    "id": "d729d01d-cd47-4b1e-884e-98907fe4df6e",
+    "name": "west end studio theatre",
+    "site": "http://www.the-west.ca"
+  },
+  "b229975c-888a-4449-beb6-da18e6a259a5": {
+    "id": "b229975c-888a-4449-beb6-da18e6a259a5",
+    "name": "the acting center",
+    "site": "https://theactingcenter.ca"
+  },
+  "2535e0b5-69c0-4e08-8e46-fdc8a1899fa9": {
+    "id": "2535e0b5-69c0-4e08-8e46-fdc8a1899fa9",
+    "name": "ak arts academy",
+    "site": "https://www.facebook.com/akartsacademy/"
+  },
+  "45edee90-4173-4e2f-9e98-f728709ed763": {
+    "id": "45edee90-4173-4e2f-9e98-f728709ed763",
+    "name": "hamilton conservatory for the arts",
+    "site": "https://hcarts.ca"
+  },
+  "0385d085-cfca-4b3e-965b-c65715662a11": {
+    "id": "0385d085-cfca-4b3e-965b-c65715662a11",
+    "name": "the making box",
+    "site": "https://www.themakingbox.ca"
+  },
+  "02718ca5-6086-4dbd-bfab-41763d7d3510": {
+    "id": "02718ca5-6086-4dbd-bfab-41763d7d3510",
+    "name": "shaw festival",
+    "site": "https://www.shawfest.com"
+  },
+  "19322a85-0760-4c4d-a6af-35ff1d6d4b9a": {
+    "id": "19322a85-0760-4c4d-a6af-35ff1d6d4b9a",
+    "name": "the stratford festival",
+    "site": "https://www.stratfordfestival.ca"
+  },
+  "d5467da7-c601-4ec3-b069-9fb5f31bf6f2": {
+    "id": "d5467da7-c601-4ec3-b069-9fb5f31bf6f2",
+    "name": "theatre aquarius",
+    "site": "http://www.theatreaquarius.org"
+  },
+  "d01b218b-1c24-41fa-a883-4574c319d1ea": {
+    "id": "d01b218b-1c24-41fa-a883-4574c319d1ea",
+    "name": "theatre hive",
+    "site": "https://www.facebook.com/theatrehive/"
+  },
+  "a5a9ebbe-f88a-40bd-ab7f-773fa47e5c24": {
+    "id": "a5a9ebbe-f88a-40bd-ab7f-773fa47e5c24",
+    "name": "rick kish",
+    "site": "http://rickkish.ca"
+  },
+  "8494534b-9f1d-4a89-a895-7c8485c81b44": {
+    "id": "8494534b-9f1d-4a89-a895-7c8485c81b44",
+    "name": "working reel",
+    "site": "http://www.workingreel.com"
+  },
+  "2a48a95f-73b4-4f87-884c-783160d62855": {
+    "id": "2a48a95f-73b4-4f87-884c-783160d62855",
+    "name": "the acting company",
+    "site": "https://intheglebe.ca"
+  },
+  "d7e5b681-4d7c-4dc9-9c6d-7f5556f97cfc": {
+    "id": "d7e5b681-4d7c-4dc9-9c6d-7f5556f97cfc",
+    "name": "grand theatre",
+    "site": "https://www.kingstongrand.ca"
+  },
+  "7d678eac-74b1-441b-8c5c-b759f68c83a6": {
+    "id": "7d678eac-74b1-441b-8c5c-b759f68c83a6",
+    "name": "the melody in me",
+    "site": "https://www.themelodyinme.ca"
+  },
+  "1f013b54-2483-432d-89e7-ade4ea5e9de5": {
+    "id": "1f013b54-2483-432d-89e7-ade4ea5e9de5",
+    "name": "music in motion",
+    "site": "http://www.mimpa.ca"
+  },
+  "884478e0-4f96-48e7-9618-9cc3fbd732ef": {
+    "id": "884478e0-4f96-48e7-9618-9cc3fbd732ef",
+    "name": "spaulding school of drama",
+    "site": "http://www.spauldingschoolofdrama.com"
+  },
+  "50f786e1-76a1-4486-a061-f86768da5f10": {
+    "id": "50f786e1-76a1-4486-a061-f86768da5f10",
+    "name": "atlantic academy of performing arts",
+    "site": "https://www.facebook.com/atlanticacademyofperformingarts/"
+  },
+  "2e618dbf-2b98-470d-8517-ee5019faa34d": {
+    "id": "2e618dbf-2b98-470d-8517-ee5019faa34d",
+    "name": "asm performing arts",
+    "site": "https://www.asmstudio.net"
+  },
+  "db776428-5191-4d28-829e-ed0ab505bcbe": {
+    "id": "db776428-5191-4d28-829e-ed0ab505bcbe",
+    "name": "gilles plouffe actors studio",
+    "site": "https://www.studiogillesplouffe.com"
+  },
+  "a064c55a-7ab1-4cc3-b736-741c276781cb": {
+    "id": "a064c55a-7ab1-4cc3-b736-741c276781cb",
+    "name": "i.o. acting studio",
+    "site": "http://www.ioactingstudio.com"
+  },
+  "aeed32b3-175f-440d-bfa9-3722411524f9": {
+    "id": "aeed32b3-175f-440d-bfa9-3722411524f9",
+    "name": "m.s.o.p.a.",
+    "site": "http://msopa.com"
+  },
+  "0e98e2fe-5b89-4031-901a-82619131b2ca": {
+    "id": "0e98e2fe-5b89-4031-901a-82619131b2ca",
+    "name": "globe theatre actor training program",
+    "site": "https://globetheatrelive.com"
+  },
+  "e3bff1d6-fa5b-416e-b619-f369575487fa": {
+    "id": "e3bff1d6-fa5b-416e-b619-f369575487fa",
+    "name": "persephone theatre",
+    "site": "https://persephonetheatre.org"
+  },
+  "9a00e9d5-03e0-4fb0-bc44-b7b56583c2b9": {
+    "id": "9a00e9d5-03e0-4fb0-bc44-b7b56583c2b9",
+    "name": "decidedly jazz danceworks",
+    "site": "http://www.decidedlyjazz.com"
+  },
+  "982305fc-f45d-44da-bde6-7b02884aaedf": {
+    "id": "982305fc-f45d-44da-bde6-7b02884aaedf",
+    "name": "school of alberta ballet",
+    "site": "https://www.albertaballetschool.com"
+  },
+  "1cefe491-9a75-42de-b280-81af34421e4f": {
+    "id": "1cefe491-9a75-42de-b280-81af34421e4f",
+    "name": "the body project",
+    "site": "https://www.thebodyprojectdance.com"
+  },
+  "63e71020-a8eb-44c2-a14b-2aa96e4cac30": {
+    "id": "63e71020-a8eb-44c2-a14b-2aa96e4cac30",
+    "name": "harbour dance centre",
+    "site": "https://harbourdance.com"
+  },
+  "be182647-1f3e-414f-9519-5dd9940c1ab1": {
+    "id": "be182647-1f3e-414f-9519-5dd9940c1ab1",
+    "name": "lamondance",
+    "site": "https://www.lamondance.com"
+  },
+  "7176618b-a5b8-42fd-8c7a-f53bcb74dca7": {
+    "id": "7176618b-a5b8-42fd-8c7a-f53bcb74dca7",
+    "name": "modus operandi",
+    "site": "http://www.outinnerspace.ca"
+  },
+  "67ce5c39-a059-4b34-b47a-5ac67e8108fe": {
+    "id": "67ce5c39-a059-4b34-b47a-5ac67e8108fe",
+    "name": "vancouver community college",
+    "site": "http://www.vcc.ca"
+  },
+  "2e6a9157-c87f-4801-b506-06d794da40c0": {
+    "id": "2e6a9157-c87f-4801-b506-06d794da40c0",
+    "name": "victoria academy of ballet",
+    "site": "http://victoriaacademyofballet.ca"
+  },
+  "ecbe63ac-8638-439c-a01b-91e282e0cc7c": {
+    "id": "ecbe63ac-8638-439c-a01b-91e282e0cc7c",
+    "name": "royal winnipeg ballet school",
+    "site": "https://www.rwb.org"
+  },
+  "8302a9c9-b49f-459a-876f-396bb7a86e0c": {
+    "id": "8302a9c9-b49f-459a-876f-396bb7a86e0c",
+    "name": "school of contemporary dancers",
+    "site": "http://schoolofcontemporarydancers.ca"
+  },
+  "41ccc8cc-1e23-442d-b324-1e083113cf2e": {
+    "id": "41ccc8cc-1e23-442d-b324-1e083113cf2e",
+    "name": "ballet creole school",
+    "site": "https://www.balletcreole.org"
+  },
+  "bf123df6-e576-423f-ac95-69082d5dd5dd": {
+    "id": "bf123df6-e576-423f-ac95-69082d5dd5dd",
+    "name": "canada's national ballet school",
+    "site": "http://www.nbs-enb.ca"
+  },
+  "b073d916-a187-42aa-829e-3fb0bac65809": {
+    "id": "b073d916-a187-42aa-829e-3fb0bac65809",
+    "name": "collection of black artists (coba)",
+    "site": "https://www.facebook.com/cobadance/"
+  },
+  "773288f2-4f6d-4e01-b444-35e4bcaab4fa": {
+    "id": "773288f2-4f6d-4e01-b444-35e4bcaab4fa",
+    "name": "conteur dance",
+    "site": "https://www.conteurdance.com"
+  },
+  "140617ef-7aa5-4fba-ab74-e1017ee82fbf": {
+    "id": "140617ef-7aa5-4fba-ab74-e1017ee82fbf",
+    "name": "intrepid dance company",
+    "site": "https://intrepiddancecompany.ca"
+  },
+  "7e8a8539-1c06-4582-b989-8299938e52bf": {
+    "id": "7e8a8539-1c06-4582-b989-8299938e52bf",
+    "name": "school of dance",
+    "site": "http://www.theschoolofdance.ca"
+  },
+  "0868ec1c-2790-474b-a1cd-6b02ac81cb18": {
+    "id": "0868ec1c-2790-474b-a1cd-6b02ac81cb18",
+    "name": "school of toronto dance theatre (tdt)",
+    "site": "http://schooloftdt.org"
+  },
+  "31e4983f-e614-4706-b7b1-a44d0ea5e393": {
+    "id": "31e4983f-e614-4706-b7b1-a44d0ea5e393",
+    "name": "académie du ballet métropolitain",
+    "site": "www.abm-ballet.com"
+  },
+  "40b2a676-1637-4cc6-9dea-a619bc3faf97": {
+    "id": "40b2a676-1637-4cc6-9dea-a619bc3faf97",
+    "name": "ballet divertimento",
+    "site": "http://www.balletdivertimento.com"
+  },
+  "642d1fb4-6529-4e4f-aa67-8cdb9bd387f8": {
+    "id": "642d1fb4-6529-4e4f-aa67-8cdb9bd387f8",
+    "name": "campus notre-dame-de-foy",
+    "site": "http://www.cndf.qc.ca"
+  },
+  "93788ca4-47a5-4d63-857f-8d41ece9761b": {
+    "id": "93788ca4-47a5-4d63-857f-8d41ece9761b",
+    "name": "école de danse contemporaine de montréal",
+    "site": "https://www.edcm.ca"
+  },
+  "1e3bd6cb-0d40-458b-9488-a64bc06c5eeb": {
+    "id": "1e3bd6cb-0d40-458b-9488-a64bc06c5eeb",
+    "name": "école de danse quatre temps",
+    "site": "https://edqt.qc.ca"
+  },
+  "229f6cd0-fa26-47c4-a5ae-dbf002995675": {
+    "id": "229f6cd0-fa26-47c4-a5ae-dbf002995675",
+    "name": "l'école de danse de québec",
+    "site": "http://ledq.qc.ca"
+  },
+  "8ce79ddb-2141-44c1-abc7-5866afaab4d3": {
+    "id": "8ce79ddb-2141-44c1-abc7-5866afaab4d3",
+    "name": "école du ballet de québec christiane bélanger",
+    "site": "http://www.christianebelanger-danse.com"
+  },
+  "2390f976-3abe-4eb1-a2e2-dc441cdf4110": {
+    "id": "2390f976-3abe-4eb1-a2e2-dc441cdf4110",
+    "name": "l'école supérieure de ballet du québec",
+    "site": "https://www.esbq.ca"
+  },
+  "c037946d-10fb-4453-a251-1c83e8eec78f": {
+    "id": "c037946d-10fb-4453-a251-1c83e8eec78f",
+    "name": "université du québec à montréal",
+    "site": "https://danse.uqam.ca"
+  },
+  "72f5d3d0-63c7-41ee-b8a6-5970f3503690": {
+    "id": "72f5d3d0-63c7-41ee-b8a6-5970f3503690",
+    "name": "alberta dancesport",
+    "site": "https://www.albertadancesport.com"
+  },
+  "dd6d6819-0543-4365-ad6a-77255cede63c": {
+    "id": "dd6d6819-0543-4365-ad6a-77255cede63c",
+    "name": "arthur murray",
+    "site": "http://arthurmurraycalgary.ca"
+  },
+  "eed3bb89-5e86-47ad-b235-d1af4c01e309": {
+    "id": "eed3bb89-5e86-47ad-b235-d1af4c01e309",
+    "name": "crossings dance",
+    "site": "http://www.crossingsdance.com"
+  },
+  "7c2f5727-7947-4654-aef0-8507e0c498fa": {
+    "id": "7c2f5727-7947-4654-aef0-8507e0c498fa",
+    "name": "dance through life",
+    "site": "http://dancethroughlife.ca"
+  },
+  "72d26696-8c35-444d-8f01-ed64752bfb9b": {
+    "id": "72d26696-8c35-444d-8f01-ed64752bfb9b",
+    "name": "dance club",
+    "site": "https://dcdanceclub.com"
+  },
+  "a0ecfd3a-188c-426e-92d5-86981dd2674f": {
+    "id": "a0ecfd3a-188c-426e-92d5-86981dd2674f",
+    "name": "evolutions school of dance",
+    "site": "http://evolutionsdance.com"
+  },
+  "5acca3df-bb93-4f9d-a19e-49d7bf22438e": {
+    "id": "5acca3df-bb93-4f9d-a19e-49d7bf22438e",
+    "name": "free house dance plus",
+    "site": "https://www.freehousedance.com"
+  },
+  "acd5a547-c5ea-4004-ba37-aa2b48afaecc": {
+    "id": "acd5a547-c5ea-4004-ba37-aa2b48afaecc",
+    "name": "pulse studios",
+    "site": "https://www.pulsestudios.ca"
+  },
+  "e39eca25-5633-47dc-9b1c-0d37fee9dbc5": {
+    "id": "e39eca25-5633-47dc-9b1c-0d37fee9dbc5",
+    "name": "pure energy dance foundation",
+    "site": "https://pureenergydancefoundation.com"
+  },
+  "d9471fdb-7bc7-4a23-b543-f35b6ddf05e0": {
+    "id": "d9471fdb-7bc7-4a23-b543-f35b6ddf05e0",
+    "name": "balance dance centre",
+    "site": "https://balancedancecentre.com"
+  },
+  "598a464b-8ca4-4941-9ca2-2731e5632f9f": {
+    "id": "598a464b-8ca4-4941-9ca2-2731e5632f9f",
+    "name": "casa",
+    "site": "http://www.casalethbridge.ca"
+  },
+  "d43b2638-b558-43c5-a625-5412e54e02f9": {
+    "id": "d43b2638-b558-43c5-a625-5412e54e02f9",
+    "name": "connectivity dance",
+    "site": "https://connectivitydance.wordpress.com"
+  },
+  "7a0565a1-c0c7-45ab-8ed4-981cdd4432a3": {
+    "id": "7a0565a1-c0c7-45ab-8ed4-981cdd4432a3",
+    "name": "core dynamics pilates & dance",
+    "site": "http://coredynamics.ca"
+  },
+  "d49afcaf-1092-4e57-9ba8-5f3205878428": {
+    "id": "d49afcaf-1092-4e57-9ba8-5f3205878428",
+    "name": "dancefusion academy of dance",
+    "site": "http://www.dancefusionsp.com"
+  },
+  "93d546e7-dbd1-4285-8e36-8fab3c527cba": {
+    "id": "93d546e7-dbd1-4285-8e36-8fab3c527cba",
+    "name": "the dance place",
+    "site": "https://www.thedanceplace.ca"
+  },
+  "054c61c8-b0d8-4a13-83ed-3b9012e08c7c": {
+    "id": "054c61c8-b0d8-4a13-83ed-3b9012e08c7c",
+    "name": "dancer's edge",
+    "site": "http://dancersedgestudio.ca"
+  },
+  "4bf7af7a-d7a1-4a4a-9df5-45fedfce3bc6": {
+    "id": "4bf7af7a-d7a1-4a4a-9df5-45fedfce3bc6",
+    "name": "dance moves iii",
+    "site": "https://www.dancemoves3.com"
+  },
+  "804de117-ea72-4bbf-a076-91db96a91a2d": {
+    "id": "804de117-ea72-4bbf-a076-91db96a91a2d",
+    "name": "drealee fitness + dance",
+    "site": "http://drealee.com"
+  },
+  "2c8f1ba8-0133-4595-833e-833aabe0bc64": {
+    "id": "2c8f1ba8-0133-4595-833e-833aabe0bc64",
+    "name": "exisdance",
+    "site": "http://www.exisdance.com"
+  },
+  "00803849-312a-4b72-8034-a5f614235df5": {
+    "id": "00803849-312a-4b72-8034-a5f614235df5",
+    "name": "fame dance studios",
+    "site": "http://www.famedancestudios.com"
+  },
+  "8d6b3f2f-1a3f-40c7-b2d7-f969b5f037ff": {
+    "id": "8d6b3f2f-1a3f-40c7-b2d7-f969b5f037ff",
+    "name": "in sequins studio of dance",
+    "site": "http://insequins.com"
+  },
+  "598aee07-e8f8-4f6b-9402-351cfa8953a7": {
+    "id": "598aee07-e8f8-4f6b-9402-351cfa8953a7",
+    "name": "mccormack school of irish dance",
+    "site": "https://www.mccormackirishdancers.com"
+  },
+  "6853fc1f-429d-4b8c-b470-350fb533472a": {
+    "id": "6853fc1f-429d-4b8c-b470-350fb533472a",
+    "name": "pound it",
+    "site": "https://www.pounditdj.com"
+  },
+  "cf8463d0-5932-45bb-9569-82627d9595ea": {
+    "id": "cf8463d0-5932-45bb-9569-82627d9595ea",
+    "name": "rhonda mcculloch danceology",
+    "site": "https://www.danceology.ca"
+  },
+  "5a80c492-c7b8-424e-9d70-c1e12f75fd60": {
+    "id": "5a80c492-c7b8-424e-9d70-c1e12f75fd60",
+    "name": "sherwood park school of dance ltd.",
+    "site": "http://spsodance.com"
+  },
+  "3de43697-fee1-4d8f-92ea-ecbd7df35b6e": {
+    "id": "3de43697-fee1-4d8f-92ea-ecbd7df35b6e",
+    "name": "step by step school of dance",
+    "site": "http://www.stepbystepdance.ca"
+  },
+  "9482ff82-93d7-4c5f-947c-b9fe1ba19bda": {
+    "id": "9482ff82-93d7-4c5f-947c-b9fe1ba19bda",
+    "name": "strive dance academy",
+    "site": "https://www.strivedanceacademy.ca"
+  },
+  "68a69676-902c-4da9-848e-cf55b55c3bf5": {
+    "id": "68a69676-902c-4da9-848e-cf55b55c3bf5",
+    "name": "van dance studios",
+    "site": "http://vandance.ca"
+  },
+  "defaf0c6-5862-445a-ba8e-74fa2bd632fd": {
+    "id": "defaf0c6-5862-445a-ba8e-74fa2bd632fd",
+    "name": "ward school of dance",
+    "site": "http://www.wardschoolofdance.com"
+  },
+  "3debc1a1-722e-4c57-a00c-ed639d850394": {
+    "id": "3debc1a1-722e-4c57-a00c-ed639d850394",
+    "name": "bedouin beats",
+    "site": "http://www.bedouinbeats.com"
+  },
+  "34caf701-eaad-49dc-9fd7-d213698d3b90": {
+    "id": "34caf701-eaad-49dc-9fd7-d213698d3b90",
+    "name": "celtic ceilidh dance academy",
+    "site": "http://celticceilidhdance.com"
+  },
+  "5cd2085e-0bec-4708-a4eb-d69bb72b1ba5": {
+    "id": "5cd2085e-0bec-4708-a4eb-d69bb72b1ba5",
+    "name": "dance code studio",
+    "site": "https://dancecodestudio.webstarts.com"
+  },
+  "5ee0149e-c0b3-41eb-a4a0-be4ca61a0848": {
+    "id": "5ee0149e-c0b3-41eb-a4a0-be4ca61a0848",
+    "name": "dance theme academy",
+    "site": "http://dancetheme.com"
+  },
+  "f3761db5-ca10-4471-85c4-3cc151da7caf": {
+    "id": "f3761db5-ca10-4471-85c4-3cc151da7caf",
+    "name": "darlene's dance academy",
+    "site": "http://darlenesdance.com"
+  },
+  "7e0170dd-310d-47ea-a0bc-10614733cc32": {
+    "id": "7e0170dd-310d-47ea-a0bc-10614733cc32",
+    "name": "elite dance studio",
+    "site": "https://dancecodestudio.webstarts.com"
+  },
+  "5335e575-26ce-46c2-9eb7-38ef771f83d0": {
+    "id": "5335e575-26ce-46c2-9eb7-38ef771f83d0",
+    "name": "flexpointe studios inc.",
+    "site": "http://www.flexpointe.ca"
+  },
+  "26274a1b-c176-448c-aa69-56929404b306": {
+    "id": "26274a1b-c176-448c-aa69-56929404b306",
+    "name": "foot notes dance studio",
+    "site": "https://foot-notes.ca"
+  },
+  "b49e7090-9d1d-4e4c-bfb4-d8175c5e9f37": {
+    "id": "b49e7090-9d1d-4e4c-bfb4-d8175c5e9f37",
+    "name": "innerverse connect",
+    "site": "https://www.innerverseconnect.ca"
+  },
+  "b39a8ee1-8014-4e27-81ec-d5a46fad6051": {
+    "id": "b39a8ee1-8014-4e27-81ec-d5a46fad6051",
+    "name": "lecky school of dance",
+    "site": "http://www.leckydance.com"
+  },
+  "9718cb65-34ec-4a15-92e5-d78a7407393f": {
+    "id": "9718cb65-34ec-4a15-92e5-d78a7407393f",
+    "name": "adage studio",
+    "site": "http://adagestudio.com"
+  },
+  "f1880435-8e35-4811-8398-4675fdea8515": {
+    "id": "f1880435-8e35-4811-8398-4675fdea8515",
+    "name": "allegro performing arts centre",
+    "site": "https://www.allegroperformingartscentre.com"
+  },
+  "d57d7d9d-d04f-4f70-96d7-d759aecc55f8": {
+    "id": "d57d7d9d-d04f-4f70-96d7-d759aecc55f8",
+    "name": "ballet victoria",
+    "site": "https://www.balletvictoria.ca"
+  },
+  "076fbbb6-df51-4265-8b7e-780478234f27": {
+    "id": "076fbbb6-df51-4265-8b7e-780478234f27",
+    "name": "carlson's dance",
+    "site": "http://www.carlsons.ca"
+  },
+  "c744a6b9-78ab-488c-8e2d-7888c65ad610": {
+    "id": "c744a6b9-78ab-488c-8e2d-7888c65ad610",
+    "name": "dance unlimited",
+    "site": "http://www.danceunlimited.ca"
+  },
+  "7102ed89-263f-4d6f-8d94-564a0d894bba": {
+    "id": "7102ed89-263f-4d6f-8d94-564a0d894bba",
+    "name": "dansko studios",
+    "site": "http://danskostudios.com"
+  },
+  "27e400b7-d378-4fd4-aad3-a265c0d05a4f": {
+    "id": "27e400b7-d378-4fd4-aad3-a265c0d05a4f",
+    "name": "innovate dance arts",
+    "site": "http://www.innovatedancearts.com"
+  },
+  "896a3b59-a693-4760-ac36-0099cb2e18be": {
+    "id": "896a3b59-a693-4760-ac36-0099cb2e18be",
+    "name": "maple leaf school of russian ballet",
+    "site": "http://www.mapleleafballet.ca"
+  },
+  "4b19c43e-911e-4644-ae85-aac8d399f6c6": {
+    "id": "4b19c43e-911e-4644-ae85-aac8d399f6c6",
+    "name": "pacific dance centre",
+    "site": "http://pacificdancecentre.com"
+  },
+  "bf2e3db5-9de3-4910-81bb-7815faf69c59": {
+    "id": "bf2e3db5-9de3-4910-81bb-7815faf69c59",
+    "name": "pantuso dance studio",
+    "site": "http://www.pantusodance.com"
+  },
+  "b08ef6f4-4afc-4e33-88e1-e3f8a25a80a9": {
+    "id": "b08ef6f4-4afc-4e33-88e1-e3f8a25a80a9",
+    "name": "raino dance",
+    "site": "https://rainodance.com"
+  },
+  "9ae1c425-b7c4-4d9e-817c-e508a974fe70": {
+    "id": "9ae1c425-b7c4-4d9e-817c-e508a974fe70",
+    "name": "rhythm dance academy",
+    "site": "http://therhythmdanceacademy.com"
+  },
+  "5fd898c5-0284-4b3e-8aeb-33a51164f70c": {
+    "id": "5fd898c5-0284-4b3e-8aeb-33a51164f70c",
+    "name": "stages performing arts school",
+    "site": "http://www.stagesdance.com"
+  },
+  "4fda87fe-af2e-47e3-b784-c4721c38d98e": {
+    "id": "4fda87fe-af2e-47e3-b784-c4721c38d98e",
+    "name": "tempo dance academy",
+    "site": "http://www.tempodanceacademy.com"
+  },
+  "e1961484-54c6-40ca-bd5a-a4c36b92fa25": {
+    "id": "e1961484-54c6-40ca-bd5a-a4c36b92fa25",
+    "name": "urban dance connection",
+    "site": "http://www.urbandanceconnection.com"
+  },
+  "ba11cc30-4eae-4df4-ae78-0ee2026114e8": {
+    "id": "ba11cc30-4eae-4df4-ae78-0ee2026114e8",
+    "name": "vibestreet",
+    "site": "http://vibestreetdance.com"
+  },
+  "a5c90c5a-812c-4e4e-a68c-8d5f485960ae": {
+    "id": "a5c90c5a-812c-4e4e-a68c-8d5f485960ae",
+    "name": "alchemy dance collective",
+    "site": "https://www.alchemydance.ca"
+  },
+  "4217aed3-0ee6-4846-a952-16bdb54533cf": {
+    "id": "4217aed3-0ee6-4846-a952-16bdb54533cf",
+    "name": "city dance studios",
+    "site": "https://vernondancelessons.com"
+  },
+  "72d065b5-1ea8-4b19-882e-4378053773d6": {
+    "id": "72d065b5-1ea8-4b19-882e-4378053773d6",
+    "name": "coast academy of dance and performing arts",
+    "site": "http://coastdance.com"
+  },
+  "253fa2a0-a5a8-4005-8273-a11743ac2858": {
+    "id": "253fa2a0-a5a8-4005-8273-a11743ac2858",
+    "name": "dance academy of prince rupert",
+    "site": "https://www.facebook.com/daprpr/"
+  },
+  "cc5504d8-44e7-4d75-ac5c-64264ac4efe3": {
+    "id": "cc5504d8-44e7-4d75-ac5c-64264ac4efe3",
+    "name": "dance studio",
+    "site": "https://www.thedancestudioinoliver.com"
+  },
+  "d179f6ff-1cf8-4426-8dfd-e803bca2555e": {
+    "id": "d179f6ff-1cf8-4426-8dfd-e803bca2555e",
+    "name": "free elements dance studio",
+    "site": "http://elementsdanceterrace.com"
+  },
+  "40a15011-7760-48d0-a4a7-7187b0e93067": {
+    "id": "40a15011-7760-48d0-a4a7-7187b0e93067",
+    "name": "front street dance",
+    "site": "http://frontstreetdance.ca"
+  },
+  "05984122-2dac-401b-8524-2b290fbaa4be": {
+    "id": "05984122-2dac-401b-8524-2b290fbaa4be",
+    "name": "howe sound dance academy",
+    "site": "http://www.howesounddance.com"
+  },
+  "941037b7-248a-4a32-965e-22225e1b93b4": {
+    "id": "941037b7-248a-4a32-965e-22225e1b93b4",
+    "name": "in motion",
+    "site": "https://www.balletkelowna.ca"
+  },
+  "cd423dca-08db-4d6f-a066-e9331197fd7f": {
+    "id": "cd423dca-08db-4d6f-a066-e9331197fd7f",
+    "name": "judy russel's enchainement dance centre",
+    "site": "https://www.facebook.com/enchainementdance/"
+  },
+  "a9ffcb85-721f-4680-a3ec-c8376e07cd3c": {
+    "id": "a9ffcb85-721f-4680-a3ec-c8376e07cd3c",
+    "name": "kootenay dance academy",
+    "site": "http://www.kootenaydance.com"
+  },
+  "b169ba48-f076-4fd5-9c63-b0ed2fcf3d3f": {
+    "id": "b169ba48-f076-4fd5-9c63-b0ed2fcf3d3f",
+    "name": "kore dance project",
+    "site": "https://www.thekoredanceproject.com"
+  },
+  "d2be9038-f2ea-424e-8ed8-21050b8afb16": {
+    "id": "d2be9038-f2ea-424e-8ed8-21050b8afb16",
+    "name": "laszlo tamasik dance academy",
+    "site": "https://www.laszlodanceacademy.com"
+  },
+  "61b447ac-4bc1-4c39-8483-29a9a7cd6a22": {
+    "id": "61b447ac-4bc1-4c39-8483-29a9a7cd6a22",
+    "name": "solebeats dance school",
+    "site": "https://www.facebook.com/solebeatsstudio/"
+  },
+  "91bf4022-c6af-476f-882d-1857c3360728": {
+    "id": "91bf4022-c6af-476f-882d-1857c3360728",
+    "name": "squamish dance centre",
+    "site": "http://www.squamishdancecentre.com"
+  },
+  "d174fabe-5324-4e55-88a0-ac90dd31a287": {
+    "id": "d174fabe-5324-4e55-88a0-ac90dd31a287",
+    "name": "studio 2 stage",
+    "site": "http://studio2stage.ca"
+  },
+  "4caffaab-551b-4acf-abd1-78cd4f9c7e1a": {
+    "id": "4caffaab-551b-4acf-abd1-78cd4f9c7e1a",
+    "name": "anna wyman school of dance arts",
+    "site": "http://www.annawyman.com"
+  },
+  "d147f253-0c28-45e1-a080-d79ea22c932b": {
+    "id": "d147f253-0c28-45e1-a080-d79ea22c932b",
+    "name": "arthur murray dance centers",
+    "site": "https://www.dancelessonsvancouver.com"
+  },
+  "fcdc6a2c-0102-4b33-8bb2-73022bc9d081": {
+    "id": "fcdc6a2c-0102-4b33-8bb2-73022bc9d081",
+    "name": "ballet bloch canada",
+    "site": "https://www.balletbloch.com"
+  },
+  "8beddbeb-50f8-4384-b2ab-6af3b0682ced": {
+    "id": "8beddbeb-50f8-4384-b2ab-6af3b0682ced",
+    "name": "bc dance",
+    "site": "http://www.bcdance.com"
+  },
+  "2f9bfaba-2f15-42cb-9cc2-5699a883b1cc": {
+    "id": "2f9bfaba-2f15-42cb-9cc2-5699a883b1cc",
+    "name": "bravo dance company",
+    "site": "http://bravodancecompany.com"
+  },
+  "e6c69b9c-d293-45c5-b97f-627e0ce95649": {
+    "id": "e6c69b9c-d293-45c5-b97f-627e0ce95649",
+    "name": "d2 dance studio",
+    "site": "http://danceystudios.com"
+  },
+  "64e2050f-c172-4c90-8902-15311717d76a": {
+    "id": "64e2050f-c172-4c90-8902-15311717d76a",
+    "name": "dance centre at scotiabank dance centre",
+    "site": "https://www.thedancecentre.ca"
+  },
+  "78baffe3-0fc6-406a-b5a9-40b0025b00db": {
+    "id": "78baffe3-0fc6-406a-b5a9-40b0025b00db",
+    "name": "dance co",
+    "site": "http://danceco.com"
+  },
+  "f49dceed-9aa2-4ab9-8ce3-26b1c1add633": {
+    "id": "f49dceed-9aa2-4ab9-8ce3-26b1c1add633",
+    "name": "dance vancouver",
+    "site": "http://www.dancevancouver.ca"
+  },
+  "e9f4b7af-8ba6-4ff5-bad2-118f19c1069f": {
+    "id": "e9f4b7af-8ba6-4ff5-bad2-118f19c1069f",
+    "name": "dovbush school of ukrainian dance",
+    "site": "https://www.auucvancouver.ca"
+  },
+  "847770b8-3cbe-4555-91dc-0c88bf9895ba": {
+    "id": "847770b8-3cbe-4555-91dc-0c88bf9895ba",
+    "name": "goh ballet academy",
+    "site": "http://www.gohballet.com"
+  },
+  "1ba6e766-c5f6-4b20-a763-10b9f8831ce4": {
+    "id": "1ba6e766-c5f6-4b20-a763-10b9f8831ce4",
+    "name": "happening dance company",
+    "site": "http://www.thehappeningdance.com"
+  },
+  "66fc39d6-981d-49be-8c45-c90eae62ef57": {
+    "id": "66fc39d6-981d-49be-8c45-c90eae62ef57",
+    "name": "idance studios",
+    "site": "https://www.idancevancouver.com"
+  },
+  "a0c9d959-be8b-4251-ab88-07195599745f": {
+    "id": "a0c9d959-be8b-4251-ab88-07195599745f",
+    "name": "jc dance co.",
+    "site": "https://www.jcdanceco.ca"
+  },
+  "15a0a82f-5924-42ce-b84c-378e87fe3acf": {
+    "id": "15a0a82f-5924-42ce-b84c-378e87fe3acf",
+    "name": "kokoro dance",
+    "site": "http://kokoro.ca"
+  },
+  "9c50e31f-c74b-4f81-8b91-5a26ee6b8dc9": {
+    "id": "9c50e31f-c74b-4f81-8b91-5a26ee6b8dc9",
+    "name": "lamon dance",
+    "site": "https://www.lamondance.com"
+  },
+  "fe1a9231-e1ad-4043-b312-6f544fd79316": {
+    "id": "fe1a9231-e1ad-4043-b312-6f544fd79316",
+    "name": "loretta leung dance academy",
+    "site": "http://www.chinesedance.ca"
+  },
+  "3640bd46-f66b-4e87-abfc-aeabae69b316": {
+    "id": "3640bd46-f66b-4e87-abfc-aeabae69b316",
+    "name": "mozaico flamenco",
+    "site": "http://mozaicoflamenco.com"
+  },
+  "f27a634d-c895-4c20-bc31-8e0cb0429fcf": {
+    "id": "f27a634d-c895-4c20-bc31-8e0cb0429fcf",
+    "name": "one dance creative art centre",
+    "site": "https://www.facebook.com/onedancecreativeartcentre/"
+  },
+  "a64a1ca4-3361-4574-855a-92f8a181ea6a": {
+    "id": "a64a1ca4-3361-4574-855a-92f8a181ea6a",
+    "name": "pacific dancearts",
+    "site": "http://www.pacificdancearts.ca"
+  },
+  "20877994-08e3-4891-98ad-4afa21618f6a": {
+    "id": "20877994-08e3-4891-98ad-4afa21618f6a",
+    "name": "rnb dance",
+    "site": "http://www.rnbdance.ca"
+  },
+  "bd9eeb77-f416-461c-aa7f-e957f6d7f76a": {
+    "id": "bd9eeb77-f416-461c-aa7f-e957f6d7f76a",
+    "name": "source dance company",
+    "site": "https://www.sourcedancecompany.com"
+  },
+  "d1c3cdae-27fa-4e04-9308-809bb774aa80": {
+    "id": "d1c3cdae-27fa-4e04-9308-809bb774aa80",
+    "name": "tango moderna",
+    "site": "http://tangomoderna.com"
+  },
+  "76c12386-9ba1-438d-ab65-483fb01c8fd2": {
+    "id": "76c12386-9ba1-438d-ab65-483fb01c8fd2",
+    "name": "vancouver academy of ballroom dancing",
+    "site": "http://www.teachballroomdancing.ca"
+  },
+  "86393b46-bad3-4fee-b97d-e50602cca7a0": {
+    "id": "86393b46-bad3-4fee-b97d-e50602cca7a0",
+    "name": "vancouver tap dance society",
+    "site": "https://www.vancouverdance.com"
+  },
+  "ac9d8c51-38e9-45ca-87f1-8ad8fb3dace7": {
+    "id": "ac9d8c51-38e9-45ca-87f1-8ad8fb3dace7",
+    "name": "affinity dance",
+    "site": "http://www.affinitydance.com"
+  },
+  "08d56867-dcda-4abf-af26-31cfbf9d35f0": {
+    "id": "08d56867-dcda-4abf-af26-31cfbf9d35f0",
+    "name": "art of dance studio",
+    "site": "http://www.theartofdancestudio.ca"
+  },
+  "581e6318-822b-4c32-a888-eebe90f6fba7": {
+    "id": "581e6318-822b-4c32-a888-eebe90f6fba7",
+    "name": "arthur murray dance studio",
+    "site": "http://dancecoquitlam.ca"
+  },
+  "6059e01e-dcb9-4176-b6e1-ea25f4cd268f": {
+    "id": "6059e01e-dcb9-4176-b6e1-ea25f4cd268f",
+    "name": "caulfield school of dance",
+    "site": "http://www.caulfield.bc.ca"
+  },
+  "d724bb76-41a9-4703-8c77-b23d668c19b2": {
+    "id": "d724bb76-41a9-4703-8c77-b23d668c19b2",
+    "name": "centrestage dance",
+    "site": "http://www.centrestagedance.com"
+  },
+  "3c990883-9149-4365-940d-6e3b053fc1d5": {
+    "id": "3c990883-9149-4365-940d-6e3b053fc1d5",
+    "name": "free flight dance",
+    "site": "http://www.freeflightdance.com"
+  },
+  "acddc68d-3130-4f2c-9c45-6d32d2f47b30": {
+    "id": "acddc68d-3130-4f2c-9c45-6d32d2f47b30",
+    "name": "just for kicks school of dance",
+    "site": "http://www.justforkicksschoolofdance.com"
+  },
+  "1eb9e99d-cd63-4596-8f70-e00d3fac15d3": {
+    "id": "1eb9e99d-cd63-4596-8f70-e00d3fac15d3",
+    "name": "shadbolt centre for the arts",
+    "site": "https://www.burnaby.ca"
+  },
+  "988082bf-7b2a-437d-8fa1-848eda218b8e": {
+    "id": "988082bf-7b2a-437d-8fa1-848eda218b8e",
+    "name": "studio west dance",
+    "site": "http://www.studiowestdance.ca"
+  },
+  "077d18cc-9224-4d41-a53a-0689abea51a6": {
+    "id": "077d18cc-9224-4d41-a53a-0689abea51a6",
+    "name": "world dance co",
+    "site": "https://worlddanceco.com"
+  },
+  "5bf8f67b-d77c-4a6d-b338-39f664005d14": {
+    "id": "5bf8f67b-d77c-4a6d-b338-39f664005d14",
+    "name": "young at arts",
+    "site": "http://www.youngatarts.ca"
+  },
+  "2aa2371d-56fb-4be9-b798-e78fa6a6ff80": {
+    "id": "2aa2371d-56fb-4be9-b798-e78fa6a6ff80",
+    "name": "bracebridge school of ballet",
+    "site": "http://www.bracebridgeschoolofballet.ca"
+  },
+  "37829c84-b0a5-4a43-84ac-67664a7372ae": {
+    "id": "37829c84-b0a5-4a43-84ac-67664a7372ae",
+    "name": "brandon school of dance",
+    "site": "https://brandonschoolofdance.ca"
+  },
+  "fe8c53dc-5dd3-4b40-bbe2-e65ddb0959ca": {
+    "id": "fe8c53dc-5dd3-4b40-bbe2-e65ddb0959ca",
+    "name": "dance with genie",
+    "site": "http://www.dancewgenie.com"
+  },
+  "520efe87-6f97-41ef-a64e-db3245dd37bd": {
+    "id": "520efe87-6f97-41ef-a64e-db3245dd37bd",
+    "name": "dance works",
+    "site": "https://candlewick.ca"
+  },
+  "4e522aeb-3ee5-46d7-a29b-bc2d6e2e7b2b": {
+    "id": "4e522aeb-3ee5-46d7-a29b-bc2d6e2e7b2b",
+    "name": "drop in dance winnipeg",
+    "site": "https://www.dropindancewpg.com"
+  },
+  "ebe79e1c-c43e-4e0d-86e2-25fe180502d1": {
+    "id": "ebe79e1c-c43e-4e0d-86e2-25fe180502d1",
+    "name": "evolution dance company",
+    "site": "https://www.evolutiondance.ca"
+  },
+  "b9434993-f393-43b5-b211-c1a32ec5a20a": {
+    "id": "b9434993-f393-43b5-b211-c1a32ec5a20a",
+    "name": "institute of dance",
+    "site": "https://www.instituteofdancemb.com"
+  },
+  "2cf85804-89b2-41dc-ab26-b92ceede64ff": {
+    "id": "2cf85804-89b2-41dc-ab26-b92ceede64ff",
+    "name": "kids etc. youth movement co.",
+    "site": "http://wpgkidsetc.com"
+  },
+  "28f26022-4d74-4bff-8ae9-993506fda263": {
+    "id": "28f26022-4d74-4bff-8ae9-993506fda263",
+    "name": "ld dance academy",
+    "site": "http://www.ladanceacademy.com"
+  },
+  "799314a8-e178-4b76-8302-05ab56488e8b": {
+    "id": "799314a8-e178-4b76-8302-05ab56488e8b",
+    "name": "manitoba great wall performing arts inc.",
+    "site": "https://www.manitobagreatwall.com"
+  },
+  "80b70a7f-fe82-4b95-8299-1cf6ee3aaf29": {
+    "id": "80b70a7f-fe82-4b95-8299-1cf6ee3aaf29",
+    "name": "marquis dance academy",
+    "site": "http://www.marquisdance.ca"
+  },
+  "6e75b6e1-01ac-4b97-8494-9ebfdc7da6ba": {
+    "id": "6e75b6e1-01ac-4b97-8494-9ebfdc7da6ba",
+    "name": "mcconnell irish dancers",
+    "site": "http://mcconnelldancers.com"
+  },
+  "69ddfd99-1a16-4b5e-af64-2071884e172c": {
+    "id": "69ddfd99-1a16-4b5e-af64-2071884e172c",
+    "name": "royal dance at the forks",
+    "site": "http://danceforks.ca"
+  },
+  "0aa64661-17c4-49d0-b270-1ddc2d7db486": {
+    "id": "0aa64661-17c4-49d0-b270-1ddc2d7db486",
+    "name": "the space",
+    "site": "http://www.sunriseperformingarts.ca"
+  },
+  "9cb95115-0b8a-48f5-8822-ed59a2f05de6": {
+    "id": "9cb95115-0b8a-48f5-8822-ed59a2f05de6",
+    "name": "steppin' time dance studio",
+    "site": "https://www.steppintime.com"
+  },
+  "322866d2-424e-47f8-a8b1-1c6a2fd08d86": {
+    "id": "322866d2-424e-47f8-a8b1-1c6a2fd08d86",
+    "name": "ted motyka dance studio",
+    "site": "http://www.teddancestudio.com"
+  },
+  "b8888c54-5f6c-47ba-ab19-ae84d959f4bc": {
+    "id": "b8888c54-5f6c-47ba-ab19-ae84d959f4bc",
+    "name": "academy of classical ballet and modern dances",
+    "site": "http://www.plie.ca"
+  },
+  "1d238ec5-0d3d-45e0-93cf-c815900eb83e": {
+    "id": "1d238ec5-0d3d-45e0-93cf-c815900eb83e",
+    "name": "atlantic ballet of canada",
+    "site": "https://www.atlanticballet.ca"
+  },
+  "5d195c61-6998-4bee-8a75-21a0c5c3ac26": {
+    "id": "5d195c61-6998-4bee-8a75-21a0c5c3ac26",
+    "name": "aurele belliveau school of dance",
+    "site": "http://dancebelliveau.com"
+  },
+  "e942e67a-0a10-4a7c-a8ad-2745a30bb3a4": {
+    "id": "e942e67a-0a10-4a7c-a8ad-2745a30bb3a4",
+    "name": "bonnie kilburn dance centre",
+    "site": "https://www.bonniekilburndancers.com"
+  },
+  "860bd33a-4ef9-4afd-bbcc-c9880d1c298c": {
+    "id": "860bd33a-4ef9-4afd-bbcc-c9880d1c298c",
+    "name": "danceast",
+    "site": "https://danceast.ca"
+  },
+  "149b46ff-ce46-4005-98aa-3c75e6b63462": {
+    "id": "149b46ff-ce46-4005-98aa-3c75e6b63462",
+    "name": "danse chaos dance",
+    "site": "http://dansechaosdance.com"
+  },
+  "4a4c780e-7a78-484a-97c1-5114d264f278": {
+    "id": "4a4c780e-7a78-484a-97c1-5114d264f278",
+    "name": "dansencorps",
+    "site": "https://en.dansencorps.ca"
+  },
+  "8bfb16a7-74eb-474e-80a2-6fc9ece3b594": {
+    "id": "8bfb16a7-74eb-474e-80a2-6fc9ece3b594",
+    "name": "fredericton swing dance",
+    "site": "http://frederictonswing.com"
+  },
+  "fe039d71-3114-40eb-ad4a-77714c856c80": {
+    "id": "fe039d71-3114-40eb-ad4a-77714c856c80",
+    "name": "luna belly dance",
+    "site": "https://lunabellydance.com"
+  },
+  "e7be0514-7eac-484d-98c6-fd4eb5c96b34": {
+    "id": "e7be0514-7eac-484d-98c6-fd4eb5c96b34",
+    "name": "mary cain dance",
+    "site": "https://www.marycaindance.com"
+  },
+  "aea20db1-afb3-46f1-a966-750331303e90": {
+    "id": "aea20db1-afb3-46f1-a966-750331303e90",
+    "name": "perpetual motion dance studio",
+    "site": "http://www.pmdance.com"
+  },
+  "99704b18-35c2-411f-b79e-255656610050": {
+    "id": "99704b18-35c2-411f-b79e-255656610050",
+    "name": "the studio dance school",
+    "site": "http://www.thestudiodanceschool.ca"
+  },
+  "d41aeece-08d5-49ae-b303-958feb198100": {
+    "id": "d41aeece-08d5-49ae-b303-958feb198100",
+    "name": "urban dance company",
+    "site": "http://www.urbandancecompany.ca"
+  },
+  "b5988908-5b55-45cc-8966-7e2efcf60656": {
+    "id": "b5988908-5b55-45cc-8966-7e2efcf60656",
+    "name": "dance academy",
+    "site": "http://thedanceacademy.ca"
+  },
+  "38e8c234-7542-4d57-92f5-c782b084342d": {
+    "id": "38e8c234-7542-4d57-92f5-c782b084342d",
+    "name": "dance studio east",
+    "site": "http://www.dancestudioeast.com"
+  },
+  "4003c9b3-246b-4bbf-92d5-03ad09e3e8b4": {
+    "id": "4003c9b3-246b-4bbf-92d5-03ad09e3e8b4",
+    "name": "dance studio west",
+    "site": "http://www.dancestudiowest.com"
+  },
+  "5c995b62-3b0c-4e8b-9c95-fdd6b9edac3d": {
+    "id": "5c995b62-3b0c-4e8b-9c95-fdd6b9edac3d",
+    "name": "jill dreaddy danceco",
+    "site": "http://www.jilldreaddydanceco.com"
+  },
+  "7dba1ae2-db28-4c25-a483-ff2451dc13a3": {
+    "id": "7dba1ae2-db28-4c25-a483-ff2451dc13a3",
+    "name": "performing arts group",
+    "site": "http://theperformingartsgroup.ca"
+  },
+  "1e2f047f-4a1a-4130-a6a3-dda5ce351805": {
+    "id": "1e2f047f-4a1a-4130-a6a3-dda5ce351805",
+    "name": "arie dance company",
+    "site": "https://www.ariedancecompany.com"
+  },
+  "24e4627b-578f-4483-ad09-2b4761008c09": {
+    "id": "24e4627b-578f-4483-ad09-2b4761008c09",
+    "name": "atlantic dance academy",
+    "site": "https://www.atlantic-dance-academy.com"
+  },
+  "39ceb452-7d80-439a-b953-3da3952608f7": {
+    "id": "39ceb452-7d80-439a-b953-3da3952608f7",
+    "name": "cadance academy",
+    "site": "http://www.cadanceacademy.ca"
+  },
+  "da9ced20-a1c3-45d7-a0ed-2ce6f32eeae1": {
+    "id": "da9ced20-a1c3-45d7-a0ed-2ce6f32eeae1",
+    "name": "coastal dance",
+    "site": "http://coastaldance.ca"
+  },
+  "fa66472b-8461-4833-aa9f-16e52e66061d": {
+    "id": "fa66472b-8461-4833-aa9f-16e52e66061d",
+    "name": "cobequid dance academy inc.",
+    "site": "https://www.cobequiddanceacademyinc.com"
+  },
+  "e4ba7468-fc9c-445e-9dce-cd9349474bc0": {
+    "id": "e4ba7468-fc9c-445e-9dce-cd9349474bc0",
+    "name": "dance conxion",
+    "site": "http://www.danceconxion.com"
+  },
+  "6fb9aeb2-8560-470e-b118-89a95f6ee3e3": {
+    "id": "6fb9aeb2-8560-470e-b118-89a95f6ee3e3",
+    "name": "dancing with michel & company",
+    "site": "http://www.dancingwithmichel.ca"
+  },
+  "54cf211b-f948-4eb1-9e4a-7ce6d324181e": {
+    "id": "54cf211b-f948-4eb1-9e4a-7ce6d324181e",
+    "name": "element dance studio",
+    "site": "http://www.elementdancestudio.ca"
+  },
+  "1477f347-32ab-4c50-bcf5-428de8bf9fc7": {
+    "id": "1477f347-32ab-4c50-bcf5-428de8bf9fc7",
+    "name": "fall river school of performing arts",
+    "site": "https://frspa.ca"
+  },
+  "d7370dd8-e3ca-4ef4-8454-9f9e019590ca": {
+    "id": "d7370dd8-e3ca-4ef4-8454-9f9e019590ca",
+    "name": "halifax dance",
+    "site": "https://www.hfxdance.ca"
+  },
+  "5015a27d-d978-41a5-87b2-2bf233849ff5": {
+    "id": "5015a27d-d978-41a5-87b2-2bf233849ff5",
+    "name": "joseph wallin school of dance",
+    "site": "https://www.facebook.com/wallinschoolofdance/"
+  },
+  "31bff079-ee2d-4789-bf12-e89e29672038": {
+    "id": "31bff079-ee2d-4789-bf12-e89e29672038",
+    "name": "leica hardy school of dance",
+    "site": "http://leicahardyschoolofdance.com"
+  },
+  "64dc2e8e-2cb7-4315-9c90-51ea0127ff48": {
+    "id": "64dc2e8e-2cb7-4315-9c90-51ea0127ff48",
+    "name": "macarthur dance",
+    "site": "http://macarthurdance.com"
+  },
+  "73aaad71-9e44-4a24-9dc7-98c4e48be65f": {
+    "id": "73aaad71-9e44-4a24-9dc7-98c4e48be65f",
+    "name": "maritime conservatory of performing arts",
+    "site": "https://maritimeconservatory.com"
+  },
+  "9c9d4ea9-1d69-4c8b-8507-123272f714e3": {
+    "id": "9c9d4ea9-1d69-4c8b-8507-123272f714e3",
+    "name": "maritime dance academy",
+    "site": "http://www.maritimedanceacademy.com"
+  },
+  "1575075d-1bdf-4cf2-989f-eb5341583dd3": {
+    "id": "1575075d-1bdf-4cf2-989f-eb5341583dd3",
+    "name": "miss carla's dance",
+    "site": "https://www.facebook.com/misscarlasdance/"
+  },
+  "d24845cf-9cbc-48a8-8afa-34401c955bc8": {
+    "id": "d24845cf-9cbc-48a8-8afa-34401c955bc8",
+    "name": "on tap dance studio",
+    "site": "https://ontapdancestudio.wordpress.com"
+  },
+  "7985d483-0b1e-4589-ae12-5125e2f3fb57": {
+    "id": "7985d483-0b1e-4589-ae12-5125e2f3fb57",
+    "name": "balletomane inc.",
+    "site": "https://balletomane.ca"
+  },
+  "9ec7542f-18b3-49ce-885e-3ccd58af9797": {
+    "id": "9ec7542f-18b3-49ce-885e-3ccd58af9797",
+    "name": "the dance class",
+    "site": "http://thedanceclassmilton.com"
+  },
+  "2aed687f-2c81-44b4-9113-399dede8f1f7": {
+    "id": "2aed687f-2c81-44b4-9113-399dede8f1f7",
+    "name": "dance element",
+    "site": "http://www.thedanceelement.ca"
+  },
+  "cb342686-a982-4c78-9e0d-605345b0a7ac": {
+    "id": "cb342686-a982-4c78-9e0d-605345b0a7ac",
+    "name": "dance elite studio for the arts",
+    "site": "http://danceelite.ca"
+  },
+  "1f8fe92f-5ecf-4c57-8f2a-82ec2c5c3eac": {
+    "id": "1f8fe92f-5ecf-4c57-8f2a-82ec2c5c3eac",
+    "name": "a new daei dance school",
+    "site": "http://anewdaei.com"
+  },
+  "136f1c02-44dd-44d8-b294-9d26f37e574e": {
+    "id": "136f1c02-44dd-44d8-b294-9d26f37e574e",
+    "name": "strictly dance",
+    "site": "https://www.strictlydance.ca"
+  },
+  "7882b49c-e072-47f2-ac10-d65adcf99dc9": {
+    "id": "7882b49c-e072-47f2-ac10-d65adcf99dc9",
+    "name": "the studio",
+    "site": "http://www.the-studio.ca"
+  },
+  "6fb5c81e-513d-4a0e-a244-fcff0b717376": {
+    "id": "6fb5c81e-513d-4a0e-a244-fcff0b717376",
+    "name": "can dance academy",
+    "site": "https://www.candanceacademy.com"
+  },
+  "e8566b88-136f-49d8-8258-3ec116e70796": {
+    "id": "e8566b88-136f-49d8-8258-3ec116e70796",
+    "name": "city centre dance",
+    "site": "https://www.citycentredance.com"
+  },
+  "94aea6a7-77e4-41b0-86b3-546b899f60d7": {
+    "id": "94aea6a7-77e4-41b0-86b3-546b899f60d7",
+    "name": "dance surge",
+    "site": "https://www.facebook.com/dancesurgestudio/"
+  },
+  "f56efe8c-2282-4304-a1ec-3fa01fc38ad9": {
+    "id": "f56efe8c-2282-4304-a1ec-3fa01fc38ad9",
+    "name": "degazon music studios",
+    "site": "https://www.degazonmusic.ca"
+  },
+  "57d8fa13-e07e-4335-8759-119b4304a65a": {
+    "id": "57d8fa13-e07e-4335-8759-119b4304a65a",
+    "name": "jc dance troupe",
+    "site": "https://www.facebook.com/profile.php?id=100063553601452"
+  },
+  "4283d5f1-b6ec-4993-8f9d-810684f4583f": {
+    "id": "4283d5f1-b6ec-4993-8f9d-810684f4583f",
+    "name": "june lawrence school of dance",
+    "site": "https://junelawrenceschoolofdance.com"
+  },
+  "e62a1eeb-6a6f-4e1d-bef0-8a0a8a644d53": {
+    "id": "e62a1eeb-6a6f-4e1d-bef0-8a0a8a644d53",
+    "name": "markham school of dance",
+    "site": "https://www.mainstreetdance.ca"
+  },
+  "d3ce3eac-e1e7-4d47-922a-fe86a5a3714d": {
+    "id": "d3ce3eac-e1e7-4d47-922a-fe86a5a3714d",
+    "name": "sean boutilier academy of dance",
+    "site": "https://www.seanboutilier.com"
+  },
+  "ffe2b16a-7049-47fa-94a9-c12a1631ad47": {
+    "id": "ffe2b16a-7049-47fa-94a9-c12a1631ad47",
+    "name": "tap dance centre",
+    "site": "https://www.tapdancecentre.ca"
+  },
+  "2a01e09b-fee4-41cb-97ec-57e223636fb1": {
+    "id": "2a01e09b-fee4-41cb-97ec-57e223636fb1",
+    "name": "allegro music and dance",
+    "site": "https://www.allegromusicschools.com"
+  },
+  "87d26a9c-9daa-4f95-b413-d73ea2a7cc27": {
+    "id": "87d26a9c-9daa-4f95-b413-d73ea2a7cc27",
+    "name": "dance fusion studios",
+    "site": "http://dancefusionstudios.com"
+  },
+  "9e375f02-8e85-442c-98c5-a1ffd34fa0c0": {
+    "id": "9e375f02-8e85-442c-98c5-a1ffd34fa0c0",
+    "name": "dance with alana",
+    "site": "https://www.dancewithalana.com"
+  },
+  "1f1713c7-e804-484b-b72b-749e4c0f8fa1": {
+    "id": "1f1713c7-e804-484b-b72b-749e4c0f8fa1",
+    "name": "denise smith dance studio",
+    "site": "http://www.denisesmithstudio.com"
+  },
+  "7694409a-8ca2-44e0-b8ca-590cb779f46f": {
+    "id": "7694409a-8ca2-44e0-b8ca-590cb779f46f",
+    "name": "the flava factory",
+    "site": "https://www.facebook.com/theflavafactory/"
+  },
+  "a49d1058-c9dd-40e3-baeb-288f4e63925b": {
+    "id": "a49d1058-c9dd-40e3-baeb-288f4e63925b",
+    "name": "greta leeming studio of dance",
+    "site": "http://www.gretaleemingdance.com"
+  },
+  "e21348aa-f095-4841-8426-f703ded3e957": {
+    "id": "e21348aa-f095-4841-8426-f703ded3e957",
+    "name": "leeming dance works",
+    "site": "https://www.leemingdanceworks.com"
+  },
+  "e06fb599-9cee-4a95-a7a7-b8e43d7dde62": {
+    "id": "e06fb599-9cee-4a95-a7a7-b8e43d7dde62",
+    "name": "the ottawa vocal & instrumental performance academy",
+    "site": "http://www.ottawaconservatory.com"
+  },
+  "c88a44e2-954b-46f3-b9ec-ad279e6e084e": {
+    "id": "c88a44e2-954b-46f3-b9ec-ad279e6e084e",
+    "name": "the studio school of dance",
+    "site": "http://thestudioschoolofdance.com"
+  },
+  "6f002c83-4ab0-4dab-98a0-6731761ff347": {
+    "id": "6f002c83-4ab0-4dab-98a0-6731761ff347",
+    "name": "c.d.e. dance academy",
+    "site": "https://www.cdedanceacademy.com"
+  },
+  "26f8d840-4e0f-4165-a9cd-aa9b39a36d97": {
+    "id": "26f8d840-4e0f-4165-a9cd-aa9b39a36d97",
+    "name": "claire's school of dancing",
+    "site": "https://www.clairesschoolofdancing.com"
+  },
+  "daa0d62d-3dfd-4d2f-b300-6380f9054f10": {
+    "id": "daa0d62d-3dfd-4d2f-b300-6380f9054f10",
+    "name": "dance dynamics",
+    "site": "http://dancedynamicsstudio.ca"
+  },
+  "9bc3d538-c3c6-45dc-89f9-56e577159872": {
+    "id": "9bc3d538-c3c6-45dc-89f9-56e577159872",
+    "name": "dance evolution",
+    "site": "http://danceevolution.ca"
+  },
+  "cb6c39f7-59a9-484d-8853-ccde71a03228": {
+    "id": "cb6c39f7-59a9-484d-8853-ccde71a03228",
+    "name": "dance expressions",
+    "site": "https://dancex.ca"
+  },
+  "343a7202-09aa-457b-82ac-a2d8d2988f47": {
+    "id": "343a7202-09aa-457b-82ac-a2d8d2988f47",
+    "name": "jj dance performing arts studio",
+    "site": "https://jenniferjohnsdance.com"
+  },
+  "d3cfabb6-81a6-4cf5-ab70-9d8ec81750d6": {
+    "id": "d3cfabb6-81a6-4cf5-ab70-9d8ec81750d6",
+    "name": "melissa kelley's dance academy",
+    "site": "http://www.themkda.com"
+  },
+  "8f2b9fc4-4bd9-4bef-b700-7aba172cd88c": {
+    "id": "8f2b9fc4-4bd9-4bef-b700-7aba172cd88c",
+    "name": "muskoka dance academy",
+    "site": "https://muskokadance.ca"
+  },
+  "3c66fb0f-a6d4-401a-8af1-e4513b802bdd": {
+    "id": "3c66fb0f-a6d4-401a-8af1-e4513b802bdd",
+    "name": "sudbury school of dance",
+    "site": "https://www.sudburyschoolofdance.com"
+  },
+  "5f00b850-c2b1-4b1d-9fb0-f3e87a04b322": {
+    "id": "5f00b850-c2b1-4b1d-9fb0-f3e87a04b322",
+    "name": "all that jazz dance co.",
+    "site": "http://allthatjazzdanceco.net"
+  },
+  "5e9d0278-bd15-4897-8883-c6d46648b7fc": {
+    "id": "5e9d0278-bd15-4897-8883-c6d46648b7fc",
+    "name": "bluewater dance academy",
+    "site": "http://www.bluewaterdanceacademy.com"
+  },
+  "52ebd9b0-3710-46e2-bcd4-d72d5f8c5b82": {
+    "id": "52ebd9b0-3710-46e2-bcd4-d72d5f8c5b82",
+    "name": "cathy's dance studio",
+    "site": "http://www.cathysdancestudio.net"
+  },
+  "4c07f4fa-bf9c-4ce3-9a01-01cbe945d2b0": {
+    "id": "4c07f4fa-bf9c-4ce3-9a01-01cbe945d2b0",
+    "name": "c.o.r.e. dance project",
+    "site": "https://coredanceproject.com"
+  },
+  "8a0d00ce-4eed-4a4d-8191-8d18a77c84a2": {
+    "id": "8a0d00ce-4eed-4a4d-8191-8d18a77c84a2",
+    "name": "dance barre",
+    "site": "http://www.dancebarre.ca"
+  },
+  "97d8c02a-69c4-4b8b-adb2-8ac4c7d411b5": {
+    "id": "97d8c02a-69c4-4b8b-adb2-8ac4c7d411b5",
+    "name": "dance expressions inc.",
+    "site": "http://www.dance-expressions.ca"
+  },
+  "159232fb-5022-4058-ac34-740f59efa9aa": {
+    "id": "159232fb-5022-4058-ac34-740f59efa9aa",
+    "name": "fusion studio of performing arts",
+    "site": "http://fusionarts.ca"
+  },
+  "7af499ff-d2cf-432a-b541-86868d561fc0": {
+    "id": "7af499ff-d2cf-432a-b541-86868d561fc0",
+    "name": "grey bruce school of dance",
+    "site": "http://greybrucedance.com"
+  },
+  "8bfa7825-2151-4599-beb8-889cc6f6d1a4": {
+    "id": "8bfa7825-2151-4599-beb8-889cc6f6d1a4",
+    "name": "lisa naves dance company",
+    "site": "http://www.lisanavesdancecompany.ca"
+  },
+  "c2017f3f-5010-443e-aa17-8c9e72941e1e": {
+    "id": "c2017f3f-5010-443e-aa17-8c9e72941e1e",
+    "name": "minto dance academy",
+    "site": "https://www.mintodanceacademy.com"
+  },
+  "6cd0513d-9e9c-4ae0-aeba-469db91bb13a": {
+    "id": "6cd0513d-9e9c-4ae0-aeba-469db91bb13a",
+    "name": "studio 5678",
+    "site": "https://5678dancestudio.com"
+  },
+  "4f8c9fa2-4dbb-4aac-b483-e9e30e233d10": {
+    "id": "4f8c9fa2-4dbb-4aac-b483-e9e30e233d10",
+    "name": "5678 dance studio",
+    "site": "http://5678dancestudio.com"
+  },
+  "d08f81fb-ea5d-4785-97f7-21259cfb7246": {
+    "id": "d08f81fb-ea5d-4785-97f7-21259cfb7246",
+    "name": "broadway dance academy",
+    "site": "http://www.dancingforjoy.com"
+  },
+  "341fb93e-45c2-43d0-b713-57d133402fdf": {
+    "id": "341fb93e-45c2-43d0-b713-57d133402fdf",
+    "name": "kingston school of dance",
+    "site": "http://www.kingstonschoolofdance.ca"
+  },
+  "2ec34801-b83f-4fe1-8847-b17f6b32597e": {
+    "id": "2ec34801-b83f-4fe1-8847-b17f6b32597e",
+    "name": "premiere dance",
+    "site": "https://www.premieredancetheatre.ca"
+  },
+  "c1bda45e-3638-4133-8df8-15878e449035": {
+    "id": "c1bda45e-3638-4133-8df8-15878e449035",
+    "name": "quinte ballet school of canada",
+    "site": "http://www.quinteballetschool.com"
+  },
+  "b44926fa-9730-4d6c-91f8-cc0f60ade401": {
+    "id": "b44926fa-9730-4d6c-91f8-cc0f60ade401",
+    "name": "workshop dance studio",
+    "site": "http://theworkshopdancestudio.com"
+  },
+  "0ac108a3-83a8-4d4b-a869-f9130497c377": {
+    "id": "0ac108a3-83a8-4d4b-a869-f9130497c377",
+    "name": "chrome dance centre",
+    "site": "http://www.chromedancecentre.ca"
+  },
+  "82a251f2-5aee-42bc-9abd-74e292dbb394": {
+    "id": "82a251f2-5aee-42bc-9abd-74e292dbb394",
+    "name": "the dance workshop",
+    "site": "http://www.thedanceworkshop.ca"
+  },
+  "b392e23b-1645-4de7-9758-db39c7278dfd": {
+    "id": "b392e23b-1645-4de7-9758-db39c7278dfd",
+    "name": "imagine studios",
+    "site": "http://www.imaginedance.ca"
+  },
+  "9dacb3f9-2015-4071-bc42-156a0de674da": {
+    "id": "9dacb3f9-2015-4071-bc42-156a0de674da",
+    "name": "jacqueline's school of dance",
+    "site": "http://www.jacquelines-schoolofdance.com"
+  },
+  "dd420f46-a358-4754-a231-3c084a5ef22d": {
+    "id": "dd420f46-a358-4754-a231-3c084a5ef22d",
+    "name": "lindsay dance studio",
+    "site": "https://www.lindsaydancestudio.com"
+  },
+  "1cdff1fb-a4c7-4877-bdfe-9e8b92229f51": {
+    "id": "1cdff1fb-a4c7-4877-bdfe-9e8b92229f51",
+    "name": "mariposa dance company",
+    "site": "https://www.mariposadance.ca"
+  },
+  "d7227f6c-8c1a-47d2-8a23-3fbd0c879f1c": {
+    "id": "d7227f6c-8c1a-47d2-8a23-3fbd0c879f1c",
+    "name": "premiere studio of dance",
+    "site": "http://www.premieredance.ca"
+  },
+  "76063db6-6c3d-4844-8197-4ffb9161da0f": {
+    "id": "76063db6-6c3d-4844-8197-4ffb9161da0f",
+    "name": "protégé dance company",
+    "site": "http://www.protegedancecompany.com"
+  },
+  "a6d7639a-1f6d-4fd6-bb9d-ecff19206f89": {
+    "id": "a6d7639a-1f6d-4fd6-bb9d-ecff19206f89",
+    "name": "spaulding school of dance",
+    "site": "http://www.spauldingschoolofdance.com"
+  },
+  "853147f2-fc98-495f-980d-dccbf3360407": {
+    "id": "853147f2-fc98-495f-980d-dccbf3360407",
+    "name": "stouffville academy of music and dance",
+    "site": "http://www.stouffvilleacademy.com"
+  },
+  "9e6d2dc5-e9e0-4670-9079-a333daf084a3": {
+    "id": "9e6d2dc5-e9e0-4670-9079-a333daf084a3",
+    "name": "uxbridge dance academy",
+    "site": "https://www.uxbridgedanceacademy.com"
+  },
+  "fa83a7a8-5497-4a9f-bfcf-f0c64d693e49": {
+    "id": "fa83a7a8-5497-4a9f-bfcf-f0c64d693e49",
+    "name": "york dance academy",
+    "site": "https://yorkdance.com"
+  },
+  "48995f1e-3b7a-4f54-a668-851dc9cc59a5": {
+    "id": "48995f1e-3b7a-4f54-a668-851dc9cc59a5",
+    "name": "centre stage dance studio",
+    "site": "http://www.centrestagedance.ca"
+  },
+  "847f825f-a0c4-47b3-842e-825f12b1c9eb": {
+    "id": "847f825f-a0c4-47b3-842e-825f12b1c9eb",
+    "name": "confidance studio",
+    "site": "https://confidancestudio.ca"
+  },
+  "44e48c13-445e-4423-8f24-00ea2380b511": {
+    "id": "44e48c13-445e-4423-8f24-00ea2380b511",
+    "name": "contemporary school of dance",
+    "site": "http://csdance.com"
+  },
+  "901a3ec2-10d4-48f1-ac75-2cead30af519": {
+    "id": "901a3ec2-10d4-48f1-ac75-2cead30af519",
+    "name": "dancetheatre david earle",
+    "site": "http://www.dtde.ca"
+  },
+  "ed454b36-6697-4652-8285-2d5da61c70e0": {
+    "id": "ed454b36-6697-4652-8285-2d5da61c70e0",
+    "name": "dimensions on dance",
+    "site": "http://www.dimensionsindance.ca"
+  },
+  "7643e6b5-eed1-478e-877b-bbe282226c6d": {
+    "id": "7643e6b5-eed1-478e-877b-bbe282226c6d",
+    "name": "element dance arts",
+    "site": "http://elementdancearts.com"
+  },
+  "fa536d70-a651-4b7b-831f-7665b18e9316": {
+    "id": "fa536d70-a651-4b7b-831f-7665b18e9316",
+    "name": "emotion dance company",
+    "site": "http://www.emotiondancecompany.ca"
+  },
+  "920c1122-bdf3-4d59-bbaa-5e0094e477bd": {
+    "id": "920c1122-bdf3-4d59-bbaa-5e0094e477bd",
+    "name": "fergus-elora academy of dance",
+    "site": "https://www.ferguseloradance.com"
+  },
+  "dfa326d4-a9f2-4bbf-a7de-0b25dc18fa57": {
+    "id": "dfa326d4-a9f2-4bbf-a7de-0b25dc18fa57",
+    "name": "grand river academy of dance",
+    "site": "https://www.facebook.com/grandriverdance/"
+  },
+  "c07bb416-7dee-4b1a-b7a6-7bab39b65bae": {
+    "id": "c07bb416-7dee-4b1a-b7a6-7bab39b65bae",
+    "name": "guelph academy of dance",
+    "site": "http://guelphdance.com"
+  },
+  "32dc24fe-06d1-43a4-be58-45f7408a86b4": {
+    "id": "32dc24fe-06d1-43a4-be58-45f7408a86b4",
+    "name": "holly hughes",
+    "site": "https://www.hollyhughes.ca"
+  },
+  "921d8b45-1997-4fd8-bdfd-4773b255cba5": {
+    "id": "921d8b45-1997-4fd8-bdfd-4773b255cba5",
+    "name": "meyerhofer academy of the performing arts",
+    "site": "http://www.meyerhoferacademy.com"
+  },
+  "ea7fe49a-6988-4355-bf0c-cee57b615ef5": {
+    "id": "ea7fe49a-6988-4355-bf0c-cee57b615ef5",
+    "name": "one movement",
+    "site": "http://www.onemovement.ca"
+  },
+  "69e8acb5-7ca2-4fde-b96f-a27ae2dc9cb2": {
+    "id": "69e8acb5-7ca2-4fde-b96f-a27ae2dc9cb2",
+    "name": "performance dance academy",
+    "site": "https://www.performancedanceacademy.com"
+  },
+  "be0d52ae-8be5-4e65-88e4-bd222a10a4b2": {
+    "id": "be0d52ae-8be5-4e65-88e4-bd222a10a4b2",
+    "name": "creative edge dance studio",
+    "site": "http://creativeedgedance.ca"
+  },
+  "42ce2d4b-3cfb-426f-b585-0518823bbcdb": {
+    "id": "42ce2d4b-3cfb-426f-b585-0518823bbcdb",
+    "name": "defining movement dance",
+    "site": "https://www.definingmovementdance.com"
+  },
+  "aaa087b7-d02e-4e7e-8961-c1513cdfdc34": {
+    "id": "aaa087b7-d02e-4e7e-8961-c1513cdfdc34",
+    "name": "dundas school of dance",
+    "site": "https://www.facebook.com/dundasschoolofdance/"
+  },
+  "a34ce01a-2159-4c17-b442-056df84333df": {
+    "id": "a34ce01a-2159-4c17-b442-056df84333df",
+    "name": "elev8 dance",
+    "site": "https://www.elev8danceinc.com"
+  },
+  "731dc9fc-32b0-4422-9446-f73c416278bc": {
+    "id": "731dc9fc-32b0-4422-9446-f73c416278bc",
+    "name": "hamilton academy of performing arts",
+    "site": "http://haofpa.com"
+  },
+  "7cc1af7f-7ef3-4837-868c-98fa732ce488": {
+    "id": "7cc1af7f-7ef3-4837-868c-98fa732ce488",
+    "name": "hamilton conservatory of the arts",
+    "site": "https://www.hcarts.ca"
+  },
+  "62a8329e-9d98-4b1c-8050-939ad980248a": {
+    "id": "62a8329e-9d98-4b1c-8050-939ad980248a",
+    "name": "lucille's ball",
+    "site": "https://www.facebook.com/lucillesball/"
+  },
+  "74e9be75-22a9-44c8-8b37-b66381653196": {
+    "id": "74e9be75-22a9-44c8-8b37-b66381653196",
+    "name": "national academy of dance education",
+    "site": "https://cnadedu.com"
+  },
+  "0240eea9-1609-496b-8a2a-fb2eeef908e7": {
+    "id": "0240eea9-1609-496b-8a2a-fb2eeef908e7",
+    "name": "rythum plus dance company",
+    "site": "http://www.rythumplusdance.com"
+  },
+  "233f9a00-0874-4654-9f06-2399617d7669": {
+    "id": "233f9a00-0874-4654-9f06-2399617d7669",
+    "name": "belle pointe dance & movement company",
+    "site": "http://bellepointedance.ca"
+  },
+  "049c72c9-033a-4f0d-b22f-6517b7f4c4a2": {
+    "id": "049c72c9-033a-4f0d-b22f-6517b7f4c4a2",
+    "name": "the dance alliance",
+    "site": "https://www.thedancealliance.ca"
+  },
+  "8540b751-b7f3-4276-9847-f1f16aeb5fe0": {
+    "id": "8540b751-b7f3-4276-9847-f1f16aeb5fe0",
+    "name": "dance extreme",
+    "site": "https://www.danceextreme.com"
+  },
+  "48984abb-8d26-49b9-8b19-ce979a3db312": {
+    "id": "48984abb-8d26-49b9-8b19-ce979a3db312",
+    "name": "dance steps",
+    "site": "https://www.dancestepsldn.com"
+  },
+  "c999f2a1-8c30-4c31-87b2-4703630590e6": {
+    "id": "c999f2a1-8c30-4c31-87b2-4703630590e6",
+    "name": "elan dance arts",
+    "site": "https://www.facebook.com/elandancearts/"
+  },
+  "ed7e6e28-d4d1-4801-8b2d-2670f8990544": {
+    "id": "ed7e6e28-d4d1-4801-8b2d-2670f8990544",
+    "name": "elite dance centre",
+    "site": "http://elitedance.ca"
+  },
+  "b5197bad-7a68-4e92-ab45-1090f1836a52": {
+    "id": "b5197bad-7a68-4e92-ab45-1090f1836a52",
+    "name": "infinity dance",
+    "site": "http://www.infinitydance.ca"
+  },
+  "006efa6d-3b0b-41ee-80b1-b772764ede03": {
+    "id": "006efa6d-3b0b-41ee-80b1-b772764ede03",
+    "name": "karin hobby dance academy",
+    "site": "https://www.karinhobby.ca"
+  },
+  "33906779-531e-4d68-acbb-568152acfdb6": {
+    "id": "33906779-531e-4d68-acbb-568152acfdb6",
+    "name": "north london dance centre",
+    "site": "http://www.northlondondancecentre.ca"
+  },
+  "e2324f95-2091-4d86-9155-b5c724695aaf": {
+    "id": "e2324f95-2091-4d86-9155-b5c724695aaf",
+    "name": "one dance centre",
+    "site": "https://www.onedancecentre.com"
+  },
+  "e1dc48bc-12d3-4586-9184-6b77482a95f5": {
+    "id": "e1dc48bc-12d3-4586-9184-6b77482a95f5",
+    "name": "on stage dance studio",
+    "site": "http://onstagedance.ca"
+  },
+  "d2665120-8689-42a4-905d-32ddc0012107": {
+    "id": "d2665120-8689-42a4-905d-32ddc0012107",
+    "name": "oxford school of dance",
+    "site": "http://oxfordschoolofdance.com"
+  },
+  "b43a8203-c5b6-48a1-a1d8-a73a91e4c04c": {
+    "id": "b43a8203-c5b6-48a1-a1d8-a73a91e4c04c",
+    "name": "sound in motion",
+    "site": "https://www.soundinmotionstudio.com"
+  },
+  "39b9ee35-0e66-4d8a-8ff1-2351a8497525": {
+    "id": "39b9ee35-0e66-4d8a-8ff1-2351a8497525",
+    "name": "city dance corps",
+    "site": "http://www.citydancecorps.com"
+  },
+  "f670a73b-08fb-4ad9-a995-c770c06c089e": {
+    "id": "f670a73b-08fb-4ad9-a995-c770c06c089e",
+    "name": "chimera project / company b lab",
+    "site": "http://www.chimeraproject.org"
+  },
+  "b9866009-2ea2-4b0b-8ac1-f22955155688": {
+    "id": "b9866009-2ea2-4b0b-8ac1-f22955155688",
+    "name": "dance life x centre",
+    "site": "http://www.dancelifex.com"
+  },
+  "6044a5da-cf83-48fd-a7d8-23597d0c56b3": {
+    "id": "6044a5da-cf83-48fd-a7d8-23597d0c56b3",
+    "name": "donita ballet school",
+    "site": "https://donitaballet.com"
+  },
+  "65e377bb-23f4-406f-8e10-c630b0782cb6": {
+    "id": "65e377bb-23f4-406f-8e10-c630b0782cb6",
+    "name": "joy of dance",
+    "site": "https://www.joyofdance.ca"
+  },
+  "4390cd0f-d723-4df2-af41-582ba2432d64": {
+    "id": "4390cd0f-d723-4df2-af41-582ba2432d64",
+    "name": "metro movement",
+    "site": "http://metromovement.com"
+  },
+  "d5beabf6-5f59-4f10-8a2d-ddf933c4f0d9": {
+    "id": "d5beabf6-5f59-4f10-8a2d-ddf933c4f0d9",
+    "name": "national ballet of canada",
+    "site": "https://national.ballet.ca"
+  },
+  "4add8c6e-fc8c-4972-a5bf-d307f733a7bc": {
+    "id": "4add8c6e-fc8c-4972-a5bf-d307f733a7bc",
+    "name": "peggy baker dance projects",
+    "site": "https://peggybakerdance.com"
+  },
+  "30375b1a-adb9-496b-813d-29d2080b243b": {
+    "id": "30375b1a-adb9-496b-813d-29d2080b243b",
+    "name": "proartedanza",
+    "site": "http://www.proartedanza.com"
+  },
+  "8fd592c9-226b-415f-b385-2fe9a81c478c": {
+    "id": "8fd592c9-226b-415f-b385-2fe9a81c478c",
+    "name": "school of toronto dance theatre / tdt",
+    "site": "http://schooloftdt.org"
+  },
+  "e35e2e0b-7dbd-46f1-a97e-bd805d43c419": {
+    "id": "e35e2e0b-7dbd-46f1-a97e-bd805d43c419",
+    "name": "toronto dance theatre / tdt",
+    "site": "https://tdt.org"
+  },
+  "9627617f-51a7-4e2f-9802-55eadf83e230": {
+    "id": "9627617f-51a7-4e2f-9802-55eadf83e230",
+    "name": "underground dance centre",
+    "site": "https://www.theundergrounddance.com"
+  },
+  "8f678b3c-5456-48b1-92ee-d22c17c13fbd": {
+    "id": "8f678b3c-5456-48b1-92ee-d22c17c13fbd",
+    "name": "confederation centre of the arts",
+    "site": "https://confederationcentre.com"
+  },
+  "e1964418-ea7c-4e57-a324-d59c2850b5d7": {
+    "id": "e1964418-ea7c-4e57-a324-d59c2850b5d7",
+    "name": "dance stars academy",
+    "site": "https://www.dancestarsacademy.com"
+  },
+  "2293cd04-131c-4557-b2eb-49c2bc294087": {
+    "id": "2293cd04-131c-4557-b2eb-49c2bc294087",
+    "name": "down street dance",
+    "site": "http://downstreetdance.com"
+  },
+  "439b8d4d-eaea-43ea-9a04-4f10f8aa8ff7": {
+    "id": "439b8d4d-eaea-43ea-9a04-4f10f8aa8ff7",
+    "name": "spotlight school of arts inc.",
+    "site": "https://www.facebook.com/spotlightschoolofarts/"
+  },
+  "4a12a629-a042-4364-b06b-e79187c37dbf": {
+    "id": "4a12a629-a042-4364-b06b-e79187c37dbf",
+    "name": "académie de danse de l'outaouais",
+    "site": "https://jedanse.ca"
+  },
+  "81192644-69f9-4762-8e1c-b392f8c5f12f": {
+    "id": "81192644-69f9-4762-8e1c-b392f8c5f12f",
+    "name": "académie internationale de musique et de danse",
+    "site": "https://www.domaineforget.com"
+  },
+  "61b113af-da24-441d-b926-7becf77f2dd0": {
+    "id": "61b113af-da24-441d-b926-7becf77f2dd0",
+    "name": "atelier de danse carole brouard",
+    "site": "http://www.addcb.com"
+  },
+  "adf69e82-65a0-4574-85b4-ee5c39ff41c6": {
+    "id": "adf69e82-65a0-4574-85b4-ee5c39ff41c6",
+    "name": "ballet le duc",
+    "site": "https://www.facebook.com/balletleduc/"
+  },
+  "eea4195e-1789-4569-9f7b-647e9c2f23ee": {
+    "id": "eea4195e-1789-4569-9f7b-647e9c2f23ee",
+    "name": "école destroismaisons",
+    "site": "http://destroismaisons.com"
+  },
+  "296743c4-2ff2-41be-b36c-ed1254a395a7": {
+    "id": "296743c4-2ff2-41be-b36c-ed1254a395a7",
+    "name": "école élédanse",
+    "site": "http://eledanse.com"
+  },
+  "83d419b0-968e-41bc-b0dc-d6dbfa288a89": {
+    "id": "83d419b0-968e-41bc-b0dc-d6dbfa288a89",
+    "name": "école florence fourcaudot",
+    "site": "http://www.fourcaudot-spirale.com"
+  },
+  "7893ab38-aa59-4353-9307-0390ce9a3269": {
+    "id": "7893ab38-aa59-4353-9307-0390ce9a3269",
+    "name": "studio coïncidanse",
+    "site": "http://studiocoincidanse.com"
+  },
+  "13c5d508-1fcb-4252-8334-baf16b3a8141": {
+    "id": "13c5d508-1fcb-4252-8334-baf16b3a8141",
+    "name": "studio de danse mylène voyer",
+    "site": "http://lestudiodedansemylenevoyer.com"
+  },
+  "0905aeb1-9819-4575-82fa-13a3b7a94fe3": {
+    "id": "0905aeb1-9819-4575-82fa-13a3b7a94fe3",
+    "name": "studio stylistik école de danse urbaine",
+    "site": "https://www.facebook.com/studiostylistik/"
+  },
+  "a784f5d7-226a-47f5-ac7d-5c27f61b8be9": {
+    "id": "a784f5d7-226a-47f5-ac7d-5c27f61b8be9",
+    "name": "académie dansa",
+    "site": "http://academiedanza.com"
+  },
+  "708534d2-29e0-461d-9ee1-cd42c5eccd70": {
+    "id": "708534d2-29e0-461d-9ee1-cd42c5eccd70",
+    "name": "académie de danse martine laferrière",
+    "site": "https://www.adml.ca"
+  },
+  "e6859b4a-1932-4cc7-80b0-52351dce72bd": {
+    "id": "e6859b4a-1932-4cc7-80b0-52351dce72bd",
+    "name": "l'agora de la danse",
+    "site": "https://www.agoradeladanse.com"
+  },
+  "24a010e3-47c9-4b36-9ac2-17c93a5a761e": {
+    "id": "24a010e3-47c9-4b36-9ac2-17c93a5a761e",
+    "name": "école de danse cameron",
+    "site": "https://www.camerondance.com"
+  },
+  "31d69f89-7988-4e3c-9d9a-e93ee8d3dd01": {
+    "id": "31d69f89-7988-4e3c-9d9a-e93ee8d3dd01",
+    "name": "école de danse de boucherville",
+    "site": "https://ecolededansedeboucherville.ca"
+  },
+  "9cbb5710-ef0a-420c-af01-9c61e3c82052": {
+    "id": "9cbb5710-ef0a-420c-af01-9c61e3c82052",
+    "name": "école de danse hdp",
+    "site": "https://dansehdp.ca"
+  },
+  "5b05b9b8-744f-4f3b-91d9-0d0e1e2d8c1e": {
+    "id": "5b05b9b8-744f-4f3b-91d9-0d0e1e2d8c1e",
+    "name": "école de danse maryse blanchard",
+    "site": "http://www.dansemaryseblanchard.com"
+  },
+  "95f136b7-aef1-4ece-b410-065c6543518e": {
+    "id": "95f136b7-aef1-4ece-b410-065c6543518e",
+    "name": "école de danse team évidanse",
+    "site": "https://www.teamevidanse.com"
+  },
+  "35512cff-ab33-4e72-9288-ae24749b9de0": {
+    "id": "35512cff-ab33-4e72-9288-ae24749b9de0",
+    "name": "studio de danse volte-face",
+    "site": "https://www.studiodedansevolteface.com"
+  },
+  "bbe73b1c-e73d-4d50-86c1-d32e4324081e": {
+    "id": "bbe73b1c-e73d-4d50-86c1-d32e4324081e",
+    "name": "studio innova danse",
+    "site": "https://www.innovadanse.com"
+  },
+  "a2e9be65-27db-46ff-93b6-197621596dd3": {
+    "id": "a2e9be65-27db-46ff-93b6-197621596dd3",
+    "name": "académie de danse elite",
+    "site": "https://academiededanseelite.com"
+  },
+  "48a5555d-07e7-44b2-9be9-77a6b13ffb12": {
+    "id": "48a5555d-07e7-44b2-9be9-77a6b13ffb12",
+    "name": "alex sharov",
+    "site": "http://www.alexsharov.com"
+  },
+  "48bc0c02-1602-40d7-970c-1edb9b0f4738": {
+    "id": "48bc0c02-1602-40d7-970c-1edb9b0f4738",
+    "name": "danse claude pilon",
+    "site": "https://www.danseclaudepilon.com"
+  },
+  "c4841168-ec6a-4c1d-9748-f28ce3be28c0": {
+    "id": "c4841168-ec6a-4c1d-9748-f28ce3be28c0",
+    "name": "destination danse",
+    "site": "http://destination-danse.ca"
+  },
+  "7259c829-a3cd-4732-b705-5ef68bdc10bf": {
+    "id": "7259c829-a3cd-4732-b705-5ef68bdc10bf",
+    "name": "l'école de danse et d'arts christiane raymond inc.",
+    "site": "https://fr-ca.facebook.com"
+  },
+  "da1a3104-1b19-48d1-b7ad-08906ce26940": {
+    "id": "da1a3104-1b19-48d1-b7ad-08906ce26940",
+    "name": "école de danse rachel jasmin",
+    "site": "https://www.danseracheljasmin.ca"
+  },
+  "ec2fb986-f16e-4f8c-9e1f-32d9cc930ee2": {
+    "id": "ec2fb986-f16e-4f8c-9e1f-32d9cc930ee2",
+    "name": "l'école de danse suzie paquette",
+    "site": "https://www.dansesuziepaquette.com"
+  },
+  "89b7ed30-8df7-4125-b5a8-87d62dccae42": {
+    "id": "89b7ed30-8df7-4125-b5a8-87d62dccae42",
+    "name": "enkdanse",
+    "site": "http://www.enkdanse.com"
+  },
+  "4b98cbc1-b371-459c-8ced-4b816dba697c": {
+    "id": "4b98cbc1-b371-459c-8ced-4b816dba697c",
+    "name": "studio de danse imperium",
+    "site": "https://www.danseimperium.com"
+  },
+  "2cec0382-c67d-494d-aa59-8d9c9fc116fd": {
+    "id": "2cec0382-c67d-494d-aa59-8d9c9fc116fd",
+    "name": "troupe création danse",
+    "site": "http://www.troupecreationdanse.com"
+  },
+  "e8108003-bc8a-4499-97fb-0d62163bddb7": {
+    "id": "e8108003-bc8a-4499-97fb-0d62163bddb7",
+    "name": "académie de ballet christy",
+    "site": "https://www.academiedeballetchristy.com"
+  },
+  "368b17f2-c7dc-4537-9d36-df127762d877": {
+    "id": "368b17f2-c7dc-4537-9d36-df127762d877",
+    "name": "académie de danse de la capitale",
+    "site": "https://www.academiededanse.ca"
+  },
+  "fc26e8f9-ff50-4d55-815a-693f4c40d9d7": {
+    "id": "fc26e8f9-ff50-4d55-815a-693f4c40d9d7",
+    "name": "l'artère",
+    "site": "http://www.larteredanse.ca"
+  },
+  "52b3f1b8-1985-4505-9a27-5b9def59ed67": {
+    "id": "52b3f1b8-1985-4505-9a27-5b9def59ed67",
+    "name": "corps de ballet",
+    "site": "https://corpsdeballet.ca"
+  },
+  "9ca6849b-8b8a-458e-83d5-e9bf347f4054": {
+    "id": "9ca6849b-8b8a-458e-83d5-e9bf347f4054",
+    "name": "danse mirage",
+    "site": "http://www.studiodansemirage.com"
+  },
+  "66616d0b-8a38-4c83-bf3b-f4e88fdccfdb": {
+    "id": "66616d0b-8a38-4c83-bf3b-f4e88fdccfdb",
+    "name": "école de danse de québec",
+    "site": "http://ledq.qc.ca"
+  },
+  "ad1c750d-3e07-4623-ac67-add09596413b": {
+    "id": "ad1c750d-3e07-4623-ac67-add09596413b",
+    "name": "école de danse espace danse",
+    "site": "http://www.eddespacedanse.com"
+  },
+  "f008b943-2383-4b9c-89d8-59112dd42b5b": {
+    "id": "f008b943-2383-4b9c-89d8-59112dd42b5b",
+    "name": "école de danse louise et mélanie brabant",
+    "site": "http://ecolededanse.com"
+  },
+  "b93bb7a0-37ce-4361-81be-79798f60e1b5": {
+    "id": "b93bb7a0-37ce-4361-81be-79798f60e1b5",
+    "name": "école de danse nadia desgagnés",
+    "site": "http://www.dansenadiadesgagnes.com"
+  },
+  "bb6f01e5-4eec-4c54-bfab-b48932e87ed8": {
+    "id": "bb6f01e5-4eec-4c54-bfab-b48932e87ed8",
+    "name": "maison pour la danse",
+    "site": "http://www.maisonpourladanse.ca"
+  },
+  "e74e779f-d177-40e2-915b-57f6aab78dc2": {
+    "id": "e74e779f-d177-40e2-915b-57f6aab78dc2",
+    "name": "québec multidanse association",
+    "site": "https://qmda.ca"
+  },
+  "485741c2-edc4-4cfa-a0e7-926b0ba668c1": {
+    "id": "485741c2-edc4-4cfa-a0e7-926b0ba668c1",
+    "name": "salsa attitude",
+    "site": "https://www.facebook.com/salsaattitude/"
+  },
+  "2ede6592-0ec8-41bf-8eab-0c3e9f7c5d64": {
+    "id": "2ede6592-0ec8-41bf-8eab-0c3e9f7c5d64",
+    "name": "le studio accordanse",
+    "site": "http://www.accordanse.com"
+  },
+  "17030ced-2408-4286-8752-27d7ae8008e1": {
+    "id": "17030ced-2408-4286-8752-27d7ae8008e1",
+    "name": "studio blue mambo",
+    "site": "https://www.studiobluemambo.com"
+  },
+  "438fd1f3-5d12-4fc5-baca-bf292da73826": {
+    "id": "438fd1f3-5d12-4fc5-baca-bf292da73826",
+    "name": "studio party time",
+    "site": "http://www.studiopartytime.com"
+  },
+  "9cc948e5-5f99-4f38-822d-792f5ee32884": {
+    "id": "9cc948e5-5f99-4f38-822d-792f5ee32884",
+    "name": "tap…etc.",
+    "site": "http://tapdance.ca"
+  },
+  "1551a491-a21e-4295-a2b9-d277b6af80f6": {
+    "id": "1551a491-a21e-4295-a2b9-d277b6af80f6",
+    "name": "l'académie de danse classique",
+    "site": "https://www.academiededanseclassique.com"
+  },
+  "8c5a208b-bc81-4b6d-9523-5f8f8b25f962": {
+    "id": "8c5a208b-bc81-4b6d-9523-5f8f8b25f962",
+    "name": "ballet hop!",
+    "site": "https://www.ballethop.com"
+  },
+  "d341c22c-769d-4ef5-a3a1-5aa86497596f": {
+    "id": "d341c22c-769d-4ef5-a3a1-5aa86497596f",
+    "name": "ballet montréal",
+    "site": "https://www.balletmontreal.ca"
+  },
+  "0e0939b5-703d-421e-b7f7-6ba288409bf1": {
+    "id": "0e0939b5-703d-421e-b7f7-6ba288409bf1",
+    "name": "ballet ouest de montréal",
+    "site": "http://balletouest.com"
+  },
+  "798f6f3e-2b64-4dda-adf5-871b2ad89d76": {
+    "id": "798f6f3e-2b64-4dda-adf5-871b2ad89d76",
+    "name": "cat's corner",
+    "site": "https://www.catscorner.ca"
+  },
+  "3c707599-654d-4f4f-b67d-f05f7d4c4ab6": {
+    "id": "3c707599-654d-4f4f-b67d-f05f7d4c4ab6",
+    "name": "centre d'art la salamandre",
+    "site": "https://www.centredartlasalamandre.com"
+  },
+  "18148b99-42fe-422b-84a2-7c9f5988b97d": {
+    "id": "18148b99-42fe-422b-84a2-7c9f5988b97d",
+    "name": "centre de danse",
+    "site": "http://www.latindance.net"
+  },
+  "0b21c355-3c5d-46a1-a6bc-11c9cceafc5c": {
+    "id": "0b21c355-3c5d-46a1-a6bc-11c9cceafc5c",
+    "name": "dans'atout",
+    "site": "https://www.dansatout.com"
+  },
+  "72906ab0-a7b5-4ebe-8812-920b8b844711": {
+    "id": "72906ab0-a7b5-4ebe-8812-920b8b844711",
+    "name": "école de ballet anjou",
+    "site": "https://ecoledeballetanjou.com"
+  },
+  "047833b3-7105-4258-8b1d-adc9cd93986e": {
+    "id": "047833b3-7105-4258-8b1d-adc9cd93986e",
+    "name": "école de danse nicola",
+    "site": "http://www.ecolededansenicola.com"
+  },
+  "21feff59-0161-48e6-b269-db8052232d62": {
+    "id": "21feff59-0161-48e6-b269-db8052232d62",
+    "name": "école de danse sportive quartier latin",
+    "site": "http://ecolequartierlatin.com"
+  },
+  "266c575e-2d42-4642-a326-82d7bfa5fe2f": {
+    "id": "266c575e-2d42-4642-a326-82d7bfa5fe2f",
+    "name": "klaxson school",
+    "site": "http://www.klaxson.com"
+  },
+  "3575253a-72a5-4845-b232-9578a82b5695": {
+    "id": "3575253a-72a5-4845-b232-9578a82b5695",
+    "name": "lambda school of music and fine arts",
+    "site": "http://www.lambdaarts.ca"
+  },
+  "e100c0bc-ebab-456d-a7f1-9775ff888194": {
+    "id": "e100c0bc-ebab-456d-a7f1-9775ff888194",
+    "name": "louise la pierre danse",
+    "site": "https://louiselapierredanse.ca"
+  },
+  "31130d9c-1023-4c82-9b24-5ff3d406322d": {
+    "id": "31130d9c-1023-4c82-9b24-5ff3d406322d",
+    "name": "les productions d.t.l.",
+    "site": "http://www.ecolededanseanjou.ca"
+  },
+  "4237da1f-8db0-406c-a37a-31ab7d1b04c2": {
+    "id": "4237da1f-8db0-406c-a37a-31ab7d1b04c2",
+    "name": "le studio 303",
+    "site": "https://www.studio303.ca"
+  },
+  "1e2cf58d-060b-43a9-980d-26f1789815d7": {
+    "id": "1e2cf58d-060b-43a9-980d-26f1789815d7",
+    "name": "studio sanse montréal",
+    "site": "http://studiodansemontreal.com"
+  },
+  "04a9a65f-910c-4671-9280-9f333da999c9": {
+    "id": "04a9a65f-910c-4671-9280-9f333da999c9",
+    "name": "studio kmk-danse",
+    "site": "http://www.studio-mkdance.com"
+  },
+  "b47cf73d-d28a-4dbe-87fd-d9e825e4a2c3": {
+    "id": "b47cf73d-d28a-4dbe-87fd-d9e825e4a2c3",
+    "name": "les studios",
+    "site": "https://grandsballets.com"
+  },
+  "a1f49bb9-ca3f-436d-811c-1839cb5b3fe9": {
+    "id": "a1f49bb9-ca3f-436d-811c-1839cb5b3fe9",
+    "name": "les studios accento",
+    "site": "http://www.studiosaccento.com"
+  },
+  "554248b2-449d-40ed-be4d-9f966fe0744c": {
+    "id": "554248b2-449d-40ed-be4d-9f966fe0744c",
+    "name": "urban-element zone",
+    "site": "http://www.urban-element.ca"
+  },
+  "9a9db1fe-d03d-4abf-899e-4830125155ca": {
+    "id": "9a9db1fe-d03d-4abf-899e-4830125155ca",
+    "name": "backstage dance co.",
+    "site": "http://thebackstagedanceco.ca"
+  },
+  "97a80586-db5b-4e6c-9d9f-2abf1d2dd755": {
+    "id": "97a80586-db5b-4e6c-9d9f-2abf1d2dd755",
+    "name": "ballet n' all that jazz dance studios",
+    "site": "https://www.balletnallthatjazz.com"
+  },
+  "13ed96a1-f0ae-48f4-933d-e4dca42b6b52": {
+    "id": "13ed96a1-f0ae-48f4-933d-e4dca42b6b52",
+    "name": "bravo dance col.",
+    "site": "https://www.bravodanceco.com"
+  },
+  "b7709c0b-28e5-48f4-90d4-72a14fcb557e": {
+    "id": "b7709c0b-28e5-48f4-90d4-72a14fcb557e",
+    "name": "brenda's school of baton and dance",
+    "site": "http://bsobad.com"
+  },
+  "f6c26d39-e6c6-4687-bae7-b1ee763c3488": {
+    "id": "f6c26d39-e6c6-4687-bae7-b1ee763c3488",
+    "name": "class act",
+    "site": "https://www.classactstudios.ca"
+  },
+  "d06822dd-4940-44e7-93ff-067949aafd20": {
+    "id": "d06822dd-4940-44e7-93ff-067949aafd20",
+    "name": "dance alive studios",
+    "site": "https://dancealivestudios.com"
+  },
+  "33c8a4a8-5200-4629-8332-3713741ca160": {
+    "id": "33c8a4a8-5200-4629-8332-3713741ca160",
+    "name": "dance city school of dancing",
+    "site": "https://www.reginadancecity.ca"
+  },
+  "76e3012f-1cba-430f-8ace-3fa888cb366f": {
+    "id": "76e3012f-1cba-430f-8ace-3fa888cb366f",
+    "name": "dance connection",
+    "site": "http://danceconnectionnb.com"
+  },
+  "8d95def0-d465-49cf-8a79-51013d20900e": {
+    "id": "8d95def0-d465-49cf-8a79-51013d20900e",
+    "name": "dance dimensions",
+    "site": "http://dancedimensionsregina.ca"
+  },
+  "a8920056-29b4-4a00-a81b-a328fdbba235": {
+    "id": "a8920056-29b4-4a00-a81b-a328fdbba235",
+    "name": "dance images by bj",
+    "site": "http://www.danceimagesbybj.com"
+  },
+  "d699c6ce-3f74-47db-a071-700d0b21b6dd": {
+    "id": "d699c6ce-3f74-47db-a071-700d0b21b6dd",
+    "name": "dance ink",
+    "site": "https://danceink.ca"
+  },
+  "022d30e6-e9a8-4489-8d7a-4f4cc2bc17b3": {
+    "id": "022d30e6-e9a8-4489-8d7a-4f4cc2bc17b3",
+    "name": "def sol productions",
+    "site": "https://www.defsol.ca"
+  },
+  "a651168f-a478-4da1-a6ca-59e999a9231c": {
+    "id": "a651168f-a478-4da1-a6ca-59e999a9231c",
+    "name": "martin school of dance and baton twirling",
+    "site": "http://martindance.com"
+  },
+  "6a3850c7-9830-4b7a-86b2-c3625f0be144": {
+    "id": "6a3850c7-9830-4b7a-86b2-c3625f0be144",
+    "name": "pointflex dance company",
+    "site": "https://www.facebook.com/pointflexdancecompany/"
+  },
+  "5f9c1e17-ea5b-430f-a34f-c72ac0e0cac2": {
+    "id": "5f9c1e17-ea5b-430f-a34f-c72ac0e0cac2",
+    "name": "pure energy dance co.",
+    "site": "http://pureenergy.ca"
+  },
+  "4efc74f0-d51b-412a-b1fa-c543a56ff9f5": {
+    "id": "4efc74f0-d51b-412a-b1fa-c543a56ff9f5",
+    "name": "saskatoon salsa dance co.",
+    "site": "https://www.saskatoonsalsa.com"
+  },
+  "a3818c63-f873-4bc4-a546-72609675c41a": {
+    "id": "a3818c63-f873-4bc4-a546-72609675c41a",
+    "name": "saskexpress",
+    "site": "https://saskexpress.com"
+  },
+  "e7e320a1-ef07-4e4d-bfe4-490d54fd4cdd": {
+    "id": "e7e320a1-ef07-4e4d-bfe4-490d54fd4cdd",
+    "name": "youth ballet of saskatchewan",
+    "site": "http://www.youthballet.com"
+  },
+  "6f42ebe5-2887-4345-9085-9cbcb0aadba8": {
+    "id": "6f42ebe5-2887-4345-9085-9cbcb0aadba8",
+    "name": "leaping feats",
+    "site": "http://www.leapingfeats.com"
+  },
+  "cfcf2037-5d3a-4280-a780-53f5a6029cf5": {
+    "id": "cfcf2037-5d3a-4280-a780-53f5a6029cf5",
+    "name": "northern lights",
+    "site": "https://www.nlsdyukon.com"
+  },
+  "f0009900-ccb4-40fe-8717-e53097f92ae0": {
+    "id": "f0009900-ccb4-40fe-8717-e53097f92ae0",
+    "name": "macewan university",
+    "site": "http://www.macewan.ca"
+  },
+  "0d4d8473-bc63-4b0c-8edb-d3852b1bf06a": {
+    "id": "0d4d8473-bc63-4b0c-8edb-d3852b1bf06a",
+    "name": "canadian college of performing arts (ccpa)",
+    "site": "http://www.ccpacanada.com"
+  },
+  "2911a3e6-2309-425b-b93e-b8ce714cd5b2": {
+    "id": "2911a3e6-2309-425b-b93e-b8ce714cd5b2",
+    "name": "rcpa randolph college for the performing arts",
+    "site": "https://www.randolphcollege.ca"
+  },
+  "0411603b-e0c1-454d-8566-cb983ad78b29": {
+    "id": "0411603b-e0c1-454d-8566-cb983ad78b29",
+    "name": "st. clair college",
+    "site": "http://www.stclaircollege.ca"
+  },
+  "f7b84302-6475-4ca0-a0db-bcafee62f937": {
+    "id": "f7b84302-6475-4ca0-a0db-bcafee62f937",
+    "name": "st. lawrence college",
+    "site": "http://www.stlawrencecollege.ca"
+  },
+  "6ee315ee-9731-4971-9c66-bd48ea913f17": {
+    "id": "6ee315ee-9731-4971-9c66-bd48ea913f17",
+    "name": "brian farrell",
+    "site": "http://www.brianfarrell.ca"
+  },
+  "9e2c09d4-4d6f-4da0-b22d-6f1eccf18352": {
+    "id": "9e2c09d4-4d6f-4da0-b22d-6f1eccf18352",
+    "name": "cassa musical arts",
+    "site": "https://www.cassamusicalarts.com"
+  },
+  "665d6a49-33f1-4e61-ae48-204f91ded322": {
+    "id": "665d6a49-33f1-4e61-ae48-204f91ded322",
+    "name": "chinook school of music",
+    "site": "https://www.chinookschoolofmusic.com"
+  },
+  "4d1a6e20-529c-442a-95e2-b8185c9b854d": {
+    "id": "4d1a6e20-529c-442a-95e2-b8185c9b854d",
+    "name": "city of st. albert",
+    "site": "https://activity.stalbert.ca"
+  },
+  "bea518d0-7944-4fc5-ba13-94ca2bebefa4": {
+    "id": "bea518d0-7944-4fc5-ba13-94ca2bebefa4",
+    "name": "edmonton musical theatre",
+    "site": "http://edmontonmusicaltheatre.ca"
+  },
+  "0e212fb6-7bbd-4b2e-abb2-4a7765402dec": {
+    "id": "0e212fb6-7bbd-4b2e-abb2-4a7765402dec",
+    "name": "rockit vocal studios",
+    "site": "http://www.rockitvocalstudios.com"
+  },
+  "1e15ea55-0650-43d3-a1a5-32b9cadfde15": {
+    "id": "1e15ea55-0650-43d3-a1a5-32b9cadfde15",
+    "name": "sing with kaylee",
+    "site": "https://www.singwithkaylee.com"
+  },
+  "aafa0cad-ae55-4203-848e-34479aa2c520": {
+    "id": "aafa0cad-ae55-4203-848e-34479aa2c520",
+    "name": "southern alberta vocal experience",
+    "site": "https://www.facebook.com/pages/category/community/southern-alberta-vocal-experience-save-263531893673817/"
+  },
+  "3d00f9e0-d271-42cc-a6aa-c0a3a22c0d63": {
+    "id": "3d00f9e0-d271-42cc-a6aa-c0a3a22c0d63",
+    "name": "youth singers of calgary",
+    "site": "http://www.youthsingers.org"
+  },
+  "f9fcf952-3669-4d64-901b-51169c6f0f08": {
+    "id": "f9fcf952-3669-4d64-901b-51169c6f0f08",
+    "name": "dancinstars",
+    "site": "http://dancinstarsbc.com"
+  },
+  "7052efe2-7ca4-4ef6-aebc-0cc83e9681ae": {
+    "id": "7052efe2-7ca4-4ef6-aebc-0cc83e9681ae",
+    "name": "kristen birley's voice studio",
+    "site": "https://www.kristenbirley.com"
+  },
+  "8383fc76-7ee9-4639-a470-0ae656d9a9ec": {
+    "id": "8383fc76-7ee9-4639-a470-0ae656d9a9ec",
+    "name": "showcase academy",
+    "site": "https://showcaseacademy.com"
+  },
+  "68b1bea1-1ced-4cd8-9991-0b5f4b65b93f": {
+    "id": "68b1bea1-1ced-4cd8-9991-0b5f4b65b93f",
+    "name": "vancouver performing stars",
+    "site": "https://www.performingstars.ca"
+  },
+  "155f834c-b163-4317-a9c3-bcc334c0d3d4": {
+    "id": "155f834c-b163-4317-a9c3-bcc334c0d3d4",
+    "name": "yanik giroux",
+    "site": "https://www.yanikgiroux.com"
+  },
+  "76e465c3-83f6-4711-bc74-c86da19a99d9": {
+    "id": "76e465c3-83f6-4711-bc74-c86da19a99d9",
+    "name": "manitoba conservatory of music & arts",
+    "site": "https://mcma.ca"
+  },
+  "5400a5ec-b03d-4241-ad1d-e3fed9151a81": {
+    "id": "5400a5ec-b03d-4241-ad1d-e3fed9151a81",
+    "name": "winnipeg studio theatre",
+    "site": "https://winnipegstudiotheatre.com"
+  },
+  "cc7dc909-cffe-4ac2-a371-e47660d4aba1": {
+    "id": "cc7dc909-cffe-4ac2-a371-e47660d4aba1",
+    "name": "applauze productions",
+    "site": "http://www.applauzeproductions.com"
+  },
+  "5d3d65b0-147e-433e-a118-9b3602ea3299": {
+    "id": "5d3d65b0-147e-433e-a118-9b3602ea3299",
+    "name": "arc music studio",
+    "site": "https://www.arcmusic.ca"
+  },
+  "23c34721-2fa2-493e-99b1-1e6f68061f2e": {
+    "id": "23c34721-2fa2-493e-99b1-1e6f68061f2e",
+    "name": "curtain call performing arts company",
+    "site": "http://www.curtaincallpac.ca"
+  },
+  "af61ecc9-3a84-418e-bdc4-8a12fd8da553": {
+    "id": "af61ecc9-3a84-418e-bdc4-8a12fd8da553",
+    "name": "joan minnery enterprises",
+    "site": "http://www.joanminnery.com"
+  },
+  "4d5ae10f-5d96-4e41-a8dd-94e049ffaf20": {
+    "id": "4d5ae10f-5d96-4e41-a8dd-94e049ffaf20",
+    "name": "julia mclellan",
+    "site": "https://calendly.com"
+  },
+  "022cfd4b-50bb-4cd2-be56-36e66c8a771d": {
+    "id": "022cfd4b-50bb-4cd2-be56-36e66c8a771d",
+    "name": "liberty junction theatre",
+    "site": "https://libertyjunctiontheatre.com"
+  },
+  "20c512fc-fcae-4fc6-8f28-06982c5ff2b6": {
+    "id": "20c512fc-fcae-4fc6-8f28-06982c5ff2b6",
+    "name": "m. j. johnson",
+    "site": "https://mjjohnson.ca"
+  },
+  "2d781f81-8c20-40f6-a838-9841c8177af5": {
+    "id": "2d781f81-8c20-40f6-a838-9841c8177af5",
+    "name": "renaissance school of the arts",
+    "site": "http://www.renaissanceschoolofthearts.com"
+  },
+  "7546f632-56d0-4873-b964-9c46e3c00984": {
+    "id": "7546f632-56d0-4873-b964-9c46e3c00984",
+    "name": "the singer's theatre",
+    "site": "http://www.thesingerstheatre.ca"
+  },
+  "44d83692-7d81-449f-ae11-91576f1e6832": {
+    "id": "44d83692-7d81-449f-ae11-91576f1e6832",
+    "name": "singing studio of deborah staiman",
+    "site": "https://www.deborahstaiman.com"
+  },
+  "9e9b22da-c14b-4204-993f-c08cc2986f42": {
+    "id": "9e9b22da-c14b-4204-993f-c08cc2986f42",
+    "name": "spotlight theatre school",
+    "site": "https://www.facebook.com/artsspotlight/"
+  },
+  "b9da54a2-7358-4d65-a651-336ab47c41e1": {
+    "id": "b9da54a2-7358-4d65-a651-336ab47c41e1",
+    "name": "upscale music studios",
+    "site": "http://upscalemusicstudios.com"
+  },
+  "ae41f9e7-2527-41e6-b07f-1f63a2782502": {
+    "id": "ae41f9e7-2527-41e6-b07f-1f63a2782502",
+    "name": "broadway academy",
+    "site": "https://www.broadway-academy.com"
+  },
+  "2a315ea0-832f-4995-a75b-1af92169a84b": {
+    "id": "2a315ea0-832f-4995-a75b-1af92169a84b",
+    "name": "musiprof",
+    "site": "https://musiprof.com"
+  },
+  "b095d760-560d-4f03-ad63-2c915656cfcb": {
+    "id": "b095d760-560d-4f03-ad63-2c915656cfcb",
+    "name": "globe theatre school",
+    "site": "https://globetheatrelive.com"
+  },
+  "b11230f7-5c9b-4b8c-bf0f-cf270dd442ac": {
+    "id": "b11230f7-5c9b-4b8c-bf0f-cf270dd442ac",
+    "name": "ambrose university",
+    "site": "https://ambrose.edu"
+  },
+  "8963df32-19e0-4274-a83e-631b1a00a2a4": {
+    "id": "8963df32-19e0-4274-a83e-631b1a00a2a4",
+    "name": "kwantlen polytechnic university",
+    "site": "http://www.kpu.ca"
+  },
+  "02f7aeb5-8198-4725-9a4e-5dca4b477afd": {
+    "id": "02f7aeb5-8198-4725-9a4e-5dca4b477afd",
+    "name": "selkirk college",
+    "site": "http://www.selkirk.ca"
+  },
+  "866348b4-ebac-4d51-ab0a-00c84b839713": {
+    "id": "866348b4-ebac-4d51-ab0a-00c84b839713",
+    "name": "victoria conservatory of music",
+    "site": "http://vcm.bc.ca"
+  },
+  "616078ba-8b42-4f7b-803f-8ff43dc6a7ac": {
+    "id": "616078ba-8b42-4f7b-803f-8ff43dc6a7ac",
+    "name": "canadian mennonite university",
+    "site": "http://www.cmu.ca"
+  },
+  "da994715-5668-4eb5-86e7-d77f82e0b0a1": {
+    "id": "da994715-5668-4eb5-86e7-d77f82e0b0a1",
+    "name": "memorial university",
+    "site": "https://www.mun.ca"
+  },
+  "f50ed7e6-4948-4fac-88a7-a4b25a12f9a3": {
+    "id": "f50ed7e6-4948-4fac-88a7-a4b25a12f9a3",
+    "name": "nova scotia community college",
+    "site": "https://www.nscc.ca"
+  },
+  "d92cccc1-6624-4862-b826-0703da758eca": {
+    "id": "d92cccc1-6624-4862-b826-0703da758eca",
+    "name": "st. francis xavier university",
+    "site": "https://www.stfx.ca"
+  },
+  "29e2f43f-3c99-43a1-8b32-df4c894b1c71": {
+    "id": "29e2f43f-3c99-43a1-8b32-df4c894b1c71",
+    "name": "algoma university",
+    "site": "https://www.algomau.ca"
+  },
+  "451e0382-f70f-4122-b921-32c1c1b56f2f": {
+    "id": "451e0382-f70f-4122-b921-32c1c1b56f2f",
+    "name": "cambrian college",
+    "site": "http://cambriancollege.ca"
+  },
+  "13258abf-91eb-46a5-b133-35e4693ae8d8": {
+    "id": "13258abf-91eb-46a5-b133-35e4693ae8d8",
+    "name": "carleton university",
+    "site": "https://carleton.ca"
+  },
+  "c079cc47-e132-499a-a9ea-89e9200989a9": {
+    "id": "c079cc47-e132-499a-a9ea-89e9200989a9",
+    "name": "glenn gould school",
+    "site": "http://ggs.rcmusic.ca"
+  },
+  "c952509a-0c6f-41a4-aa6d-4dad23d8b145": {
+    "id": "c952509a-0c6f-41a4-aa6d-4dad23d8b145",
+    "name": "lakehead university",
+    "site": "https://www.lakeheadu.ca"
+  },
+  "b3162ebe-e9ca-4708-ba98-3a494343e8b2": {
+    "id": "b3162ebe-e9ca-4708-ba98-3a494343e8b2",
+    "name": "metalworks institute",
+    "site": "https://www.metalworksinstitute.com"
+  },
+  "ba243e85-5c5d-48d6-afc9-ae2308a0044a": {
+    "id": "ba243e85-5c5d-48d6-afc9-ae2308a0044a",
+    "name": "mohawk college",
+    "site": "https://www.mohawkcollege.ca"
+  },
+  "f87a3eed-0d03-49a5-809e-590ba0ea3a58": {
+    "id": "f87a3eed-0d03-49a5-809e-590ba0ea3a58",
+    "name": "wilfred laurier university",
+    "site": "https://www.wlu.ca"
+  },
+  "37974d50-1534-4fdc-bd21-b21c14209bc9": {
+    "id": "37974d50-1534-4fdc-bd21-b21c14209bc9",
+    "name": "école national de la chanson",
+    "site": "http://enchanson.ca"
+  },
+  "121cfd1e-f16b-4dcd-bd8b-25f916455803": {
+    "id": "121cfd1e-f16b-4dcd-bd8b-25f916455803",
+    "name": "mcgill university",
+    "site": "http://www.mcgill.ca"
+  },
+  "c97cc1e8-abe8-4421-85d3-cdeafd7e89cc": {
+    "id": "c97cc1e8-abe8-4421-85d3-cdeafd7e89cc",
+    "name": "alberta music academy",
+    "site": "http://albertamusicacademy.com"
+  },
+  "06dffb75-b267-4124-bcd3-b999fb581e48": {
+    "id": "06dffb75-b267-4124-bcd3-b999fb581e48",
+    "name": "caesar's school of music",
+    "site": "http://www.caesarsschoolofmusic.ca"
+  },
+  "81673d83-a2ae-44ef-af0b-4689508fcd96": {
+    "id": "81673d83-a2ae-44ef-af0b-4689508fcd96",
+    "name": "cooper studios",
+    "site": "http://www.cooperstudios.com"
+  },
+  "37c704a6-6a0c-4b5a-b606-9f4de74857fd": {
+    "id": "37c704a6-6a0c-4b5a-b606-9f4de74857fd",
+    "name": "custom music lessons",
+    "site": "http://www.custommusiclessons.com"
+  },
+  "39794ed6-c44f-4c05-8ecb-c8f0044e627d": {
+    "id": "39794ed6-c44f-4c05-8ecb-c8f0044e627d",
+    "name": "david wilson",
+    "site": "http://www.body-breath-voice.com"
+  },
+  "f411e271-d39f-4133-a979-eb26949f9016": {
+    "id": "f411e271-d39f-4133-a979-eb26949f9016",
+    "name": "dominelli studios",
+    "site": "https://www.facebook.com/dominellimusic/"
+  },
+  "729bd20e-19a7-44ea-addc-0904745cddaf": {
+    "id": "729bd20e-19a7-44ea-addc-0904745cddaf",
+    "name": "edmonton academy of music",
+    "site": "https://www.facebook.com/eaofm/"
+  },
+  "1b1edbde-a159-4154-b347-be65809a7072": {
+    "id": "1b1edbde-a159-4154-b347-be65809a7072",
+    "name": "elite school of music",
+    "site": "http://eliteschool.ca"
+  },
+  "faf4d51f-edb1-4918-a314-9f30a119304f": {
+    "id": "faf4d51f-edb1-4918-a314-9f30a119304f",
+    "name": "evan westfal",
+    "site": "https://evanwestfal.com"
+  },
+  "d88ae22d-f632-4ab8-a641-3e9738afe4f3": {
+    "id": "d88ae22d-f632-4ab8-a641-3e9738afe4f3",
+    "name": "indian music academy",
+    "site": "https://www.facebook.com/indianmusicedmonton/"
+  },
+  "69f90053-3513-440d-9677-5694837a55f5": {
+    "id": "69f90053-3513-440d-9677-5694837a55f5",
+    "name": "long & mcquade",
+    "site": "https://www.long-mcquade.com"
+  },
+  "0ed0e927-0fde-40a7-bb34-c263cfd2a67f": {
+    "id": "0ed0e927-0fde-40a7-bb34-c263cfd2a67f",
+    "name": "opera nuova",
+    "site": "http://operanuova.ca"
+  },
+  "7d7b4047-8bf7-432d-b5f8-d363a69e2ce8": {
+    "id": "7d7b4047-8bf7-432d-b5f8-d363a69e2ce8",
+    "name": "one voice vocal studio",
+    "site": "https://www.facebook.com/onevoicevocalstudio/"
+  },
+  "199aec95-c43d-4fea-ad2c-5590a9f5808b": {
+    "id": "199aec95-c43d-4fea-ad2c-5590a9f5808b",
+    "name": "prime school of music",
+    "site": "http://www.primemusic.ca"
+  },
+  "0bf4187b-88e5-4d9b-a9b8-2c79bd8acfe5": {
+    "id": "0bf4187b-88e5-4d9b-a9b8-2c79bd8acfe5",
+    "name": "resonate music school",
+    "site": "http://resonatemusic.ca"
+  },
+  "bb3481da-57d5-46a4-a921-dbbbae0ec69f": {
+    "id": "bb3481da-57d5-46a4-a921-dbbbae0ec69f",
+    "name": "sherwood park music",
+    "site": "http://sherwoodparkmusic.com"
+  },
+  "d91ca3d8-8689-4c24-8e21-02c0ca87b8c8": {
+    "id": "d91ca3d8-8689-4c24-8e21-02c0ca87b8c8",
+    "name": "george hahle",
+    "site": "http://www.georgehahleacademy.ca"
+  },
+  "7e5979ea-e4b8-4c2b-87ff-a753ef702cea": {
+    "id": "7e5979ea-e4b8-4c2b-87ff-a753ef702cea",
+    "name": "grace notes music academy",
+    "site": "https://www.facebook.com/gnpianostudio/"
+  },
+  "bafdd19b-1c36-4eba-a1ad-e00e18cdb10b": {
+    "id": "bafdd19b-1c36-4eba-a1ad-e00e18cdb10b",
+    "name": "imagine music inc.",
+    "site": "http://imaginemusicinc.com"
+  },
+  "ff0c102b-71b0-4a57-948e-01872368b18c": {
+    "id": "ff0c102b-71b0-4a57-948e-01872368b18c",
+    "name": "music makers",
+    "site": "http://musicmakerscalgary.com"
+  },
+  "e4cffa37-1a2a-4b10-b721-96ff0fa7dc31": {
+    "id": "e4cffa37-1a2a-4b10-b721-96ff0fa7dc31",
+    "name": "musica academy",
+    "site": "http://www.musicaacademy.com"
+  },
+  "2af5e083-5416-4497-b432-6ee55daaab3d": {
+    "id": "2af5e083-5416-4497-b432-6ee55daaab3d",
+    "name": "patty shortreed",
+    "site": "https://www.pattyshortreed.com"
+  },
+  "978bc90f-f67d-491e-a496-bc7332b3a637": {
+    "id": "978bc90f-f67d-491e-a496-bc7332b3a637",
+    "name": "school of rock",
+    "site": "https://www.schoolofrock.com"
+  },
+  "f92a7d1b-ba1a-40be-846c-ff8a307dfbc1": {
+    "id": "f92a7d1b-ba1a-40be-846c-ff8a307dfbc1",
+    "name": "sonata school of music",
+    "site": "http://sonatayamaha.com"
+  },
+  "3de0d6b1-b045-4656-beb2-1463ba3a12f4": {
+    "id": "3de0d6b1-b045-4656-beb2-1463ba3a12f4",
+    "name": "airdrie music lessons",
+    "site": "http://airdriemusiclessons.com"
+  },
+  "ebdd0b86-22b2-4f0e-b3b7-e4b8a85c1185": {
+    "id": "ebdd0b86-22b2-4f0e-b3b7-e4b8a85c1185",
+    "name": "crescendo music studios",
+    "site": "https://crescendomusicstudios.ca"
+  },
+  "953888f1-e9d8-4818-a6d4-3ae6d682f769": {
+    "id": "953888f1-e9d8-4818-a6d4-3ae6d682f769",
+    "name": "leduc school of music",
+    "site": "https://www.leducschoolofmusic.ca"
+  },
+  "ac40bd2a-05f7-4a8b-a799-c5a7e95482de": {
+    "id": "ac40bd2a-05f7-4a8b-a799-c5a7e95482de",
+    "name": "songbird vocal academy",
+    "site": "https://www.songbirdvocalacademy.com"
+  },
+  "5d42338d-8776-4a7a-9084-eababcdb9005": {
+    "id": "5d42338d-8776-4a7a-9084-eababcdb9005",
+    "name": "united conservatory of music",
+    "site": "https://unitedconservatory.ca"
+  },
+  "4a865f8e-f3df-4f37-82fe-c969db68b23b": {
+    "id": "4a865f8e-f3df-4f37-82fe-c969db68b23b",
+    "name": "kelowna community music school",
+    "site": "https://www.kelownacommunitymusicschool.ca"
+  },
+  "b5d766d3-d066-4efe-be2f-8ebcde9007f2": {
+    "id": "b5d766d3-d066-4efe-be2f-8ebcde9007f2",
+    "name": "kelowna voice lab",
+    "site": "https://www.kelownavoicelab.com"
+  },
+  "3ab28538-ad84-40ff-84b7-1429a92a67bf": {
+    "id": "3ab28538-ad84-40ff-84b7-1429a92a67bf",
+    "name": "oxygen art centre",
+    "site": "https://oxygenartcentre.org"
+  },
+  "d4ef7ef0-e8a3-4848-a803-5ed5621360b4": {
+    "id": "d4ef7ef0-e8a3-4848-a803-5ed5621360b4",
+    "name": "penticton academy of music",
+    "site": "https://pentictonacademyofmusic.ca"
+  },
+  "883bc963-f535-4c58-a4a9-8f8f11b277f0": {
+    "id": "883bc963-f535-4c58-a4a9-8f8f11b277f0",
+    "name": "prince george conservatory of music",
+    "site": "https://www.pgconservatory.ca"
+  },
+  "85d8ff9c-92b0-43bc-9a49-816f6fffa960": {
+    "id": "85d8ff9c-92b0-43bc-9a49-816f6fffa960",
+    "name": "robin norman",
+    "site": "http://novevoce.ca"
+  },
+  "088e1f39-0be6-4d02-ae88-025d841939dd": {
+    "id": "088e1f39-0be6-4d02-ae88-025d841939dd",
+    "name": "valhalla fine arts",
+    "site": "http://www.valhallafinearts.org"
+  },
+  "b8d02261-ebc1-4f95-84a5-a2b1138f4caf": {
+    "id": "b8d02261-ebc1-4f95-84a5-a2b1138f4caf",
+    "name": "vernon community music school",
+    "site": "https://www.vernoncommunitymusicschool.com"
+  },
+  "326c2543-b955-449e-80b1-560543cd0b83": {
+    "id": "326c2543-b955-449e-80b1-560543cd0b83",
+    "name": "wentworth music",
+    "site": "https://wmec.ca"
+  },
+  "a9416c99-40ac-45f0-bca4-61ccfc587826": {
+    "id": "a9416c99-40ac-45f0-bca4-61ccfc587826",
+    "name": "alida vocal studio",
+    "site": "http://www.singinglessonsinvancouver.com"
+  },
+  "b087df34-9124-452f-b138-037e5814ae04": {
+    "id": "b087df34-9124-452f-b138-037e5814ae04",
+    "name": "british columbia conservatory of music",
+    "site": "https://www.bccmusic.ca"
+  },
+  "21889d89-686c-4d59-9a0b-5fd1159db755": {
+    "id": "21889d89-686c-4d59-9a0b-5fd1159db755",
+    "name": "catherine crouch voice studio",
+    "site": "http://www.ccvoicestudio.ca"
+  },
+  "ee2803f7-7086-4a5a-a80b-12dbcb9e2b2c": {
+    "id": "ee2803f7-7086-4a5a-a80b-12dbcb9e2b2c",
+    "name": "courtenay ennis vocal studio",
+    "site": "http://www.courtenayennisvocalstudio.com"
+  },
+  "15761070-e6fe-4ecb-9939-82003a7d112d": {
+    "id": "15761070-e6fe-4ecb-9939-82003a7d112d",
+    "name": "cw music",
+    "site": "https://www.cwmusic.ca"
+  },
+  "54f2745c-1440-4788-9c14-8c07f73e7f6c": {
+    "id": "54f2745c-1440-4788-9c14-8c07f73e7f6c",
+    "name": "lynn mcgown",
+    "site": "http://www.lynnmcgown.com"
+  },
+  "fb06e384-0e66-4145-8f1e-83726538ad5b": {
+    "id": "fb06e384-0e66-4145-8f1e-83726538ad5b",
+    "name": "mark's vocal studio",
+    "site": "http://www.singinglessonsvancouver.ca"
+  },
+  "eb4a2e83-b3b1-4529-91b7-4c2d4f9f143c": {
+    "id": "eb4a2e83-b3b1-4529-91b7-4c2d4f9f143c",
+    "name": "maryse schembri's creative teacher",
+    "site": "https://vancouvercreativeclass.com"
+  },
+  "c4311f4c-68cc-400a-be52-90b35de5b1cf": {
+    "id": "c4311f4c-68cc-400a-be52-90b35de5b1cf",
+    "name": "miriam davidson",
+    "site": "http://www.miriamdavidson.com"
+  },
+  "8f2a8d05-05c3-4303-8b88-7ce0267a55fe": {
+    "id": "8f2a8d05-05c3-4303-8b88-7ce0267a55fe",
+    "name": "opera pro cantanti",
+    "site": "http://www.procantanti.com"
+  },
+  "0022f9ef-bbe6-4581-9568-4449bcf85fc6": {
+    "id": "0022f9ef-bbe6-4581-9568-4449bcf85fc6",
+    "name": "resound school of music",
+    "site": "https://resoundschool.com"
+  },
+  "7a3482e8-a180-4983-8a96-bd44bc8dde89": {
+    "id": "7a3482e8-a180-4983-8a96-bd44bc8dde89",
+    "name": "singing lessons vancouver",
+    "site": "https://www.facebook.com/marksvocalstudio"
+  },
+  "727d05b8-2301-429a-bbd7-b14f0e22d22a": {
+    "id": "727d05b8-2301-429a-bbd7-b14f0e22d22a",
+    "name": "spencer welch vocal studio",
+    "site": "http://spencerwelch.com"
+  },
+  "4eb581ed-1e82-4871-ba54-9f113532662b": {
+    "id": "4eb581ed-1e82-4871-ba54-9f113532662b",
+    "name": "studio cloud 30",
+    "site": "https://www.studiocloud30.com"
+  },
+  "c13cd48e-a499-46f3-a4fc-50c176f8c189": {
+    "id": "c13cd48e-a499-46f3-a4fc-50c176f8c189",
+    "name": "vancouver academy of music",
+    "site": "https://vancouveracademyofmusic.com"
+  },
+  "7b4b9867-aa5e-4b89-82c0-50f6d5b3b618": {
+    "id": "7b4b9867-aa5e-4b89-82c0-50f6d5b3b618",
+    "name": "vso school of music",
+    "site": "https://vsoschoolofmusic.ca"
+  },
+  "d22678e7-0a85-4223-a657-27402e9f2ad2": {
+    "id": "d22678e7-0a85-4223-a657-27402e9f2ad2",
+    "name": "adams voice studio",
+    "site": "https://melanieadams.musicteachershelper.com"
+  },
+  "157274ca-0cec-41bb-857b-d03628fcd151": {
+    "id": "157274ca-0cec-41bb-857b-d03628fcd151",
+    "name": "the arts connection",
+    "site": "https://theartsconnection.ca"
+  },
+  "fe065309-8948-4f06-9e3c-0fd6b326240e": {
+    "id": "fe065309-8948-4f06-9e3c-0fd6b326240e",
+    "name": "carillon music academy",
+    "site": "https://www.carillonmusicacademy.com"
+  },
+  "7f64f1c4-8b45-4887-b227-2ccc5b17c361": {
+    "id": "7f64f1c4-8b45-4887-b227-2ccc5b17c361",
+    "name": "douglas college community music school",
+    "site": "https://www.douglascollege.ca"
+  },
+  "cff25e3f-fba7-492c-927b-67f84ba4648e": {
+    "id": "cff25e3f-fba7-492c-927b-67f84ba4648e",
+    "name": "kabok music school",
+    "site": "http://www.kabokmusicschool.com"
+  },
+  "5ec56146-ce89-428f-a287-0fceb99ee797": {
+    "id": "5ec56146-ce89-428f-a287-0fceb99ee797",
+    "name": "music box",
+    "site": "http://www.musicboxnw.ca"
+  },
+  "4e6688ea-ea93-475f-b8a1-88b138ee8cb8": {
+    "id": "4e6688ea-ea93-475f-b8a1-88b138ee8cb8",
+    "name": "richmond arts center",
+    "site": "https://www.richmond.ca"
+  },
+  "744ae07a-dfce-4959-b727-a32d41393011": {
+    "id": "744ae07a-dfce-4959-b727-a32d41393011",
+    "name": "richmond music school",
+    "site": "http://www.richmondmusicschool.ca"
+  },
+  "66edb1fb-ad52-4e02-899b-3e3abfdc6857": {
+    "id": "66edb1fb-ad52-4e02-899b-3e3abfdc6857",
+    "name": "world of music arts",
+    "site": "https://www.worldofmusicandarts.com"
+  },
+  "f066c988-ce63-45ac-92f7-3c12a9a3643a": {
+    "id": "f066c988-ce63-45ac-92f7-3c12a9a3643a",
+    "name": "the arts centre",
+    "site": "https://pomoarts.ca"
+  },
+  "28711867-6908-4800-ad65-f49a4487abd8": {
+    "id": "28711867-6908-4800-ad65-f49a4487abd8",
+    "name": "bergthorson academy music lessons",
+    "site": "https://bergthorson.com"
+  },
+  "84421451-b6ca-49b0-ae79-d27a1ac2b81a": {
+    "id": "84421451-b6ca-49b0-ae79-d27a1ac2b81a",
+    "name": "central valley academy of music",
+    "site": "http://cvam.net"
+  },
+  "c62b9224-d203-4e66-bce9-ffd6d660ee75": {
+    "id": "c62b9224-d203-4e66-bce9-ffd6d660ee75",
+    "name": "chilliwack academy of music",
+    "site": "http://www.chilliwackmusic.com"
+  },
+  "523b0f46-17ec-4d3a-8d6e-187d7c545b5d": {
+    "id": "523b0f46-17ec-4d3a-8d6e-187d7c545b5d",
+    "name": "delta community music school",
+    "site": "https://vsoschoolofmusic.ca"
+  },
+  "779deb48-5571-440e-ac8a-cdf613e1de21": {
+    "id": "779deb48-5571-440e-ac8a-cdf613e1de21",
+    "name": "dynamic music instruction",
+    "site": "https://www.dynamicmusicinstruction.com"
+  },
+  "417b9290-5d6e-48e7-8866-13669efc0233": {
+    "id": "417b9290-5d6e-48e7-8866-13669efc0233",
+    "name": "fiona blackburn",
+    "site": "https://fionablackburn.com"
+  },
+  "65bde88f-4e1d-4606-827a-7d89849b5715": {
+    "id": "65bde88f-4e1d-4606-827a-7d89849b5715",
+    "name": "free your natural voice studio",
+    "site": "https://www.heidimccurdy.com"
+  },
+  "7183020f-46e8-4267-9f24-c8d25fb15f09": {
+    "id": "7183020f-46e8-4267-9f24-c8d25fb15f09",
+    "name": "inspire arts academy",
+    "site": "http://www.inspirearts.ca"
+  },
+  "14933919-820a-4074-917e-b96be494e1d0": {
+    "id": "14933919-820a-4074-917e-b96be494e1d0",
+    "name": "langley community music school",
+    "site": "http://langleymusic.com"
+  },
+  "ff43e9e4-71e4-4008-b26a-f7a549a2b9cf": {
+    "id": "ff43e9e4-71e4-4008-b26a-f7a549a2b9cf",
+    "name": "mission music lessons",
+    "site": "http://missionmusiclessons.com"
+  },
+  "fa79af3d-ac84-46e3-bbd7-0aa2c7b32551": {
+    "id": "fa79af3d-ac84-46e3-bbd7-0aa2c7b32551",
+    "name": "stepping stone music company",
+    "site": "https://resoundschool.com"
+  },
+  "eceeb59d-4316-4a3d-bac3-c5a4558d33e6": {
+    "id": "eceeb59d-4316-4a3d-bac3-c5a4558d33e6",
+    "name": "forte school of music",
+    "site": "http://forteschoolofmusic.ca"
+  },
+  "70b6d79e-6fff-4be9-8658-cc306c337440": {
+    "id": "70b6d79e-6fff-4be9-8658-cc306c337440",
+    "name": "long lake music",
+    "site": "http://longlakemusic.com"
+  },
+  "36dff7e3-d7cd-460e-a459-5551fdfdb039": {
+    "id": "36dff7e3-d7cd-460e-a459-5551fdfdb039",
+    "name": "lynne rogers music studio",
+    "site": "https://www.lynnerogersmusic.ca"
+  },
+  "666f4cfc-292d-499d-b415-b264c06cff4d": {
+    "id": "666f4cfc-292d-499d-b415-b264c06cff4d",
+    "name": "motif music studios",
+    "site": "http://www.motifmusicstudios.com"
+  },
+  "92ac3312-4815-4cdd-857e-47374fad4842": {
+    "id": "92ac3312-4815-4cdd-857e-47374fad4842",
+    "name": "nanaimo conservatory of music",
+    "site": "https://www.ncmusic.ca"
+  },
+  "d2463595-6a35-4ea6-9b4f-abfabe8c7bc1": {
+    "id": "d2463595-6a35-4ea6-9b4f-abfabe8c7bc1",
+    "name": "natural growth",
+    "site": "http://naturalgrowth.ca"
+  },
+  "fff375be-d06f-4871-864b-daf9031cb3b8": {
+    "id": "fff375be-d06f-4871-864b-daf9031cb3b8",
+    "name": "peninsula academy of music arts",
+    "site": "http://peninsulaacademy.ca"
+  },
+  "55a44080-4c4d-45d2-a3ac-1018bbb7f6f5": {
+    "id": "55a44080-4c4d-45d2-a3ac-1018bbb7f6f5",
+    "name": "the shy singer",
+    "site": "http://www.theshysinger.com"
+  },
+  "564ad305-78fe-4f0b-95fa-f5cea41396ae": {
+    "id": "564ad305-78fe-4f0b-95fa-f5cea41396ae",
+    "name": "south island studio",
+    "site": "http://www.southislandstudio.com"
+  },
+  "c70f2549-c6ee-4049-912b-692d6459767f": {
+    "id": "c70f2549-c6ee-4049-912b-692d6459767f",
+    "name": "squamish academy of music",
+    "site": "http://www.squamishacademyofmusic.com"
+  },
+  "6f7a3416-e1a0-4940-8cb8-a3fa067f8a98": {
+    "id": "6f7a3416-e1a0-4940-8cb8-a3fa067f8a98",
+    "name": "taber music school",
+    "site": "http://www.tabermusic.com"
+  },
+  "e99e285f-0d38-4426-8bab-e4b6a6cde98e": {
+    "id": "e99e285f-0d38-4426-8bab-e4b6a6cde98e",
+    "name": "voice alive music studio",
+    "site": "http://www.voicealivenanaimo.com"
+  },
+  "feca35f4-8bcd-442f-8f5c-102fb71604c9": {
+    "id": "feca35f4-8bcd-442f-8f5c-102fb71604c9",
+    "name": "academy of music",
+    "site": "https://www.academymusic.ca"
+  },
+  "0cfce101-962e-4532-87cc-14446993796e": {
+    "id": "0cfce101-962e-4532-87cc-14446993796e",
+    "name": "community school of music & the arts",
+    "site": "http://www.cmu.ca"
+  },
+  "2aead3ee-9115-4222-bc52-99d9ccf9d518": {
+    "id": "2aead3ee-9115-4222-bc52-99d9ccf9d518",
+    "name": "faders",
+    "site": "https://faders.ca"
+  },
+  "98f595b1-b4f6-4c4c-aabb-c32f1c8631c8": {
+    "id": "98f595b1-b4f6-4c4c-aabb-c32f1c8631c8",
+    "name": "groove academy",
+    "site": "http://www.grooveacademy.ca"
+  },
+  "a0fa9942-afdb-479c-b988-20e24dd4ccf6": {
+    "id": "a0fa9942-afdb-479c-b988-20e24dd4ccf6",
+    "name": "la school of music",
+    "site": "https://www.facebook.com/laschoolofmusicselkirk"
+  },
+  "037af62d-b618-438a-a73c-9917d20f6d55": {
+    "id": "037af62d-b618-438a-a73c-9917d20f6d55",
+    "name": "portage conservatory of music",
+    "site": "http://www.portage-conservatory.com"
+  },
+  "66d35df9-677f-4c30-a581-afc53843e482": {
+    "id": "66d35df9-677f-4c30-a581-afc53843e482",
+    "name": "quest music academy",
+    "site": "https://www.questmusicacademy.com"
+  },
+  "1c23fd9c-de50-4233-b667-17b0cb62c04b": {
+    "id": "1c23fd9c-de50-4233-b667-17b0cb62c04b",
+    "name": "river heights school of music",
+    "site": "http://www.riverheightsmusicschool.com"
+  },
+  "8125424c-93c3-4484-8d71-e47ddfc9cf89": {
+    "id": "8125424c-93c3-4484-8d71-e47ddfc9cf89",
+    "name": "southeast centre for music",
+    "site": "https://www.steinbacharts.ca"
+  },
+  "cb27c3eb-03a6-4b67-b171-461f3813053c": {
+    "id": "cb27c3eb-03a6-4b67-b171-461f3813053c",
+    "name": "tauber music",
+    "site": "https://www.taubermusic.com"
+  },
+  "7fc00c36-753c-455e-908c-f75f28daaaba": {
+    "id": "7fc00c36-753c-455e-908c-f75f28daaaba",
+    "name": "winnipeg vocal training",
+    "site": "http://www.winnipegvocaltraining.com"
+  },
+  "aa24689a-2ab7-42de-8f5c-a0a0d144cf2e": {
+    "id": "aa24689a-2ab7-42de-8f5c-a0a0d144cf2e",
+    "name": "inter action school of performing arts",
+    "site": "https://www.iactspa.com"
+  },
+  "e4970d92-5f85-45dc-a9d8-3fa082c2d594": {
+    "id": "e4970d92-5f85-45dc-a9d8-3fa082c2d594",
+    "name": "melody dobson voice studio",
+    "site": "https://www.melodydobson.com"
+  },
+  "b8205a93-265b-423f-966f-922d722f3cac": {
+    "id": "b8205a93-265b-423f-966f-922d722f3cac",
+    "name": "music from the heart",
+    "site": "http://new.musicfromtheheartsj.ca"
+  },
+  "979fd941-bc79-4a3b-86ef-875a6495b95b": {
+    "id": "979fd941-bc79-4a3b-86ef-875a6495b95b",
+    "name": "ruth nieboer",
+    "site": "http://www.hrnieboer.ca"
+  },
+  "0183137a-9b04-4db5-84ff-0622546ca7c7": {
+    "id": "0183137a-9b04-4db5-84ff-0622546ca7c7",
+    "name": "tammy page",
+    "site": "https://tammypage.com"
+  },
+  "aeeaa798-5bd2-40f2-8a00-c8e572621943": {
+    "id": "aeeaa798-5bd2-40f2-8a00-c8e572621943",
+    "name": "dynamic sounds music studio",
+    "site": "https://www.dynamicsoundsnl.com"
+  },
+  "5fc92263-2e30-4daa-9228-f069d5c64db9": {
+    "id": "5fc92263-2e30-4daa-9228-f069d5c64db9",
+    "name": "frequency music studios",
+    "site": "https://www.frequencymusicstudios.com"
+  },
+  "6e4e5829-d8cd-429a-8fcf-f09f9957f249": {
+    "id": "6e4e5829-d8cd-429a-8fcf-f09f9957f249",
+    "name": "jamieson's music studio",
+    "site": "http://www.jamiesonsmusicstudio.com"
+  },
+  "108598b8-f848-4602-86fe-6a7ff6993fb8": {
+    "id": "108598b8-f848-4602-86fe-6a7ff6993fb8",
+    "name": "mary barry",
+    "site": "http://marybarry.ca"
+  },
+  "3cb4874f-71a8-4f39-bb43-457a21fb4720": {
+    "id": "3cb4874f-71a8-4f39-bb43-457a21fb4720",
+    "name": "melanie o'brien",
+    "site": "https://www.facebook.com/melanie-obrien-music-445976589281995/"
+  },
+  "b53cede9-92d0-4cd2-8df5-5746568cf419": {
+    "id": "b53cede9-92d0-4cd2-8df5-5746568cf419",
+    "name": "music box studio",
+    "site": "https://www.facebook.com/themusicboxstudionl/"
+  },
+  "34dc4cdd-1388-45fc-9504-473389300829": {
+    "id": "34dc4cdd-1388-45fc-9504-473389300829",
+    "name": "music collection",
+    "site": "https://www.musiccollection.ca"
+  },
+  "77e126ec-5279-4531-b8f2-16b7be641f18": {
+    "id": "77e126ec-5279-4531-b8f2-16b7be641f18",
+    "name": "musically inclined",
+    "site": "http://musicallyinclinedonline.com"
+  },
+  "5b1ce9f3-346f-4502-8b7e-0840dc96791f": {
+    "id": "5b1ce9f3-346f-4502-8b7e-0840dc96791f",
+    "name": "andrea's music studio",
+    "site": "https://www.andreasmusicstudio.com"
+  },
+  "d9c362b6-1bcd-435c-a11d-d265bb7107a3": {
+    "id": "d9c362b6-1bcd-435c-a11d-d265bb7107a3",
+    "name": "halifax music co-op",
+    "site": "http://thehmc.ca"
+  },
+  "1ce9a633-4950-4ecd-9ecf-3146ca24ed86": {
+    "id": "1ce9a633-4950-4ecd-9ecf-3146ca24ed86",
+    "name": "joyful sounds music studio",
+    "site": "https://joyfulsounds.ca"
+  },
+  "067e236e-03f4-4b50-9c89-8fd5117d61cf": {
+    "id": "067e236e-03f4-4b50-9c89-8fd5117d61cf",
+    "name": "mansion on the hill",
+    "site": "http://www.mansiononthehill.ca"
+  },
+  "39cf3562-c193-4e2d-9c4c-d618264d2327": {
+    "id": "39cf3562-c193-4e2d-9c4c-d618264d2327",
+    "name": "chatham music academy",
+    "site": "http://www.chathammusicacademy.com"
+  },
+  "8aa106d4-235c-4407-8660-25fc036de53e": {
+    "id": "8aa106d4-235c-4407-8660-25fc036de53e",
+    "name": "joanne faris music studio",
+    "site": "http://www.jfmusic.ca"
+  },
+  "d74126a2-346c-4c17-a677-348b1399fa2d": {
+    "id": "d74126a2-346c-4c17-a677-348b1399fa2d",
+    "name": "kingsville school of music",
+    "site": "http://kingsvilleschoolofmusic.com"
+  },
+  "f721bdb6-614d-4f90-8b84-52c44dc923ce": {
+    "id": "f721bdb6-614d-4f90-8b84-52c44dc923ce",
+    "name": "pick studio",
+    "site": "https://www.facebook.com/pickstudio/"
+  },
+  "59948b85-d3dc-45d3-ae21-78c5696fb966": {
+    "id": "59948b85-d3dc-45d3-ae21-78c5696fb966",
+    "name": "renée's music studio",
+    "site": "http://reneesmusicstudio.ca"
+  },
+  "dfe61718-3f09-4952-a648-4519da038fb9": {
+    "id": "dfe61718-3f09-4952-a648-4519da038fb9",
+    "name": "south windsor school of music",
+    "site": "https://southwindsorschoolofmusic.com"
+  },
+  "ec11301a-23da-4423-b54c-4abeedde3401": {
+    "id": "ec11301a-23da-4423-b54c-4abeedde3401",
+    "name": "van goozen music",
+    "site": "https://www.vangoozenmusic.com"
+  },
+  "48f7d0a9-11b3-4105-847b-c489e63295a3": {
+    "id": "48f7d0a9-11b3-4105-847b-c489e63295a3",
+    "name": "debbie fox",
+    "site": "http://www.foxmusic.ca"
+  },
+  "fc9d6b43-89dd-47e7-8698-81b82b3ec4ab": {
+    "id": "fc9d6b43-89dd-47e7-8698-81b82b3ec4ab",
+    "name": "encore school of music",
+    "site": "http://www.encoreschoolofmusic.ca"
+  },
+  "e03b5d63-1c43-465c-ad21-4d63073baace": {
+    "id": "e03b5d63-1c43-465c-ad21-4d63073baace",
+    "name": "hit that note music studio",
+    "site": "http://www.hitthatnote.ca"
+  },
+  "a3c36c8d-95ff-47e2-b424-f93624ceb053": {
+    "id": "a3c36c8d-95ff-47e2-b424-f93624ceb053",
+    "name": "moura music studios",
+    "site": "http://www.mouramusicstudios.com"
+  },
+  "1a1a27e9-bed0-40e7-9b1a-13ec1cda49ec": {
+    "id": "1a1a27e9-bed0-40e7-9b1a-13ec1cda49ec",
+    "name": "new opportunities",
+    "site": "https://newopportuneities.com"
+  },
+  "b659f11d-89bc-40d1-adef-2c9ae0affe9d": {
+    "id": "b659f11d-89bc-40d1-adef-2c9ae0affe9d",
+    "name": "pine cone music",
+    "site": "https://www.pineconemusicstudio.com"
+  },
+  "4fe4287f-30d1-48f6-877d-7852242b9ff8": {
+    "id": "4fe4287f-30d1-48f6-877d-7852242b9ff8",
+    "name": "rick imus music studio",
+    "site": "https://www.facebook.com/rickimusmusicstudio/"
+  },
+  "6603a940-5b47-43eb-855d-850015d7c458": {
+    "id": "6603a940-5b47-43eb-855d-850015d7c458",
+    "name": "tan music academy",
+    "site": "http://tanmusic.com"
+  },
+  "952f795a-1798-4355-9f59-b99d0b801c73": {
+    "id": "952f795a-1798-4355-9f59-b99d0b801c73",
+    "name": "tritone music studios",
+    "site": "http://tritonemusicstudios.com"
+  },
+  "ab6a09cd-4fbc-45c5-9b58-26fa20b3d56c": {
+    "id": "ab6a09cd-4fbc-45c5-9b58-26fa20b3d56c",
+    "name": "abc academy of music",
+    "site": "https://www.music-lessons.ca"
+  },
+  "bcb0190d-90aa-4e48-8e05-bc09311307b9": {
+    "id": "bcb0190d-90aa-4e48-8e05-bc09311307b9",
+    "name": "against the grain theatre",
+    "site": "http://atgtheatre.wpengine.com"
+  },
+  "30a87bdd-9e7f-4dbb-bed0-2c0c519b24c4": {
+    "id": "30a87bdd-9e7f-4dbb-bed0-2c0c519b24c4",
+    "name": "big voice studios",
+    "site": "http://www.elaineoverholt.com"
+  },
+  "7886763d-d07f-4796-92f0-65b0c396cee3": {
+    "id": "7886763d-d07f-4796-92f0-65b0c396cee3",
+    "name": "beaches voice studio",
+    "site": "https://www.learntosing.ca"
+  },
+  "dc32dd53-411d-498b-a028-b34b43d0b057": {
+    "id": "dc32dd53-411d-498b-a028-b34b43d0b057",
+    "name": "canada music academy",
+    "site": "http://www.canadamusicacademy.ca"
+  },
+  "c59b2ea7-d010-45ac-a581-4ac7a62e047b": {
+    "id": "c59b2ea7-d010-45ac-a581-4ac7a62e047b",
+    "name": "conservatory of dance and music",
+    "site": "https://www.cdmdance.com"
+  },
+  "ae3c6d3e-cd14-486b-8ff6-534e3344c921": {
+    "id": "ae3c6d3e-cd14-486b-8ff6-534e3344c921",
+    "name": "donna flynn",
+    "site": "http://www.vocalcoach.ca"
+  },
+  "67340bb6-1755-41b8-836d-7855ebb57cbd": {
+    "id": "67340bb6-1755-41b8-836d-7855ebb57cbd",
+    "name": "donna garner",
+    "site": "https://donnagarner.ca"
+  },
+  "4844cc02-54f8-4a73-8076-32304baa8252": {
+    "id": "4844cc02-54f8-4a73-8076-32304baa8252",
+    "name": "eileen smith singing studio",
+    "site": "https://eileensmithsinging.com"
+  },
+  "a7b71667-e6b1-4bf3-8638-6eeed64d2559": {
+    "id": "a7b71667-e6b1-4bf3-8638-6eeed64d2559",
+    "name": "elite music academy",
+    "site": "https://elitemusic.ca"
+  },
+  "ae1790a2-17d8-4e28-ba78-41320f1ba0eb": {
+    "id": "ae1790a2-17d8-4e28-ba78-41320f1ba0eb",
+    "name": "free your voice",
+    "site": "https://www.facebook.com/falconerabe/"
+  },
+  "1c1208e4-a09d-417e-912a-c823f2ce6d0c": {
+    "id": "1c1208e4-a09d-417e-912a-c823f2ce6d0c",
+    "name": "kati pearson",
+    "site": "http://www.katipearson.com"
+  },
+  "db1df000-27f6-4d05-bdef-c6170ef41cd0": {
+    "id": "db1df000-27f6-4d05-bdef-c6170ef41cd0",
+    "name": "laura cavacece",
+    "site": "http://lauracavacece.ca"
+  },
+  "639b2716-aa32-49bf-aee1-fcc7b9805524": {
+    "id": "639b2716-aa32-49bf-aee1-fcc7b9805524",
+    "name": "lawson vocal studios",
+    "site": "http://www.lawsonvocalstudios.com"
+  },
+  "a14c1810-e60f-4b02-8a05-e7118d62a3e5": {
+    "id": "a14c1810-e60f-4b02-8a05-e7118d62a3e5",
+    "name": "ontario college of music",
+    "site": "http://www.musiclessonsleaside.com"
+  },
+  "53650511-3934-44ec-99e8-b70cff97a93f": {
+    "id": "53650511-3934-44ec-99e8-b70cff97a93f",
+    "name": "paul gasztold",
+    "site": "http://www.afreesingingvoice.com"
+  },
+  "543b6005-f535-477c-a234-cc41b2597974": {
+    "id": "543b6005-f535-477c-a234-cc41b2597974",
+    "name": "pg productions vocal studio",
+    "site": "http://www.pgproductionsvocalstudio.com"
+  },
+  "3f7226bd-3d29-43d6-90da-75356c13cbf7": {
+    "id": "3f7226bd-3d29-43d6-90da-75356c13cbf7",
+    "name": "pro vox studios",
+    "site": "http://provoxstudios.com"
+  },
+  "e53b5b4c-f432-466d-8c06-dc11f74cb42d": {
+    "id": "e53b5b4c-f432-466d-8c06-dc11f74cb42d",
+    "name": "the music studio",
+    "site": "http://www.themusicstudio.ca"
+  },
+  "477c3c80-855d-44b3-a26f-19e18c968848": {
+    "id": "477c3c80-855d-44b3-a26f-19e18c968848",
+    "name": "ryan luchuck voice",
+    "site": "http://torontovoicelessons.com"
+  },
+  "d9a1d2c6-4c9f-4414-9d24-0775e46811a2": {
+    "id": "d9a1d2c6-4c9f-4414-9d24-0775e46811a2",
+    "name": "shannon mccracken",
+    "site": "http://www.shannonmccracken.com"
+  },
+  "0530e898-f6f6-45df-bac9-49672418d4a4": {
+    "id": "0530e898-f6f6-45df-bac9-49672418d4a4",
+    "name": "singer's edge",
+    "site": "https://singersedge.com"
+  },
+  "65d5e2c1-eca5-47ec-901c-a08eb53e1e7a": {
+    "id": "65d5e2c1-eca5-47ec-901c-a08eb53e1e7a",
+    "name": "tafelmusik",
+    "site": "https://www.tafelmusik.org"
+  },
+  "34e52d41-0312-40f4-8ce9-623042b62ea8": {
+    "id": "34e52d41-0312-40f4-8ce9-623042b62ea8",
+    "name": "vocal euphoria",
+    "site": "https://www.vocaleuphoria.com"
+  },
+  "f4dd9954-a4fa-4294-8c21-bb0592985fb8": {
+    "id": "f4dd9954-a4fa-4294-8c21-bb0592985fb8",
+    "name": "voice yourself",
+    "site": "https://www.voiceyourselfsinging.com"
+  },
+  "03cb55fe-0a92-41d2-a22d-85bdad78ee36": {
+    "id": "03cb55fe-0a92-41d2-a22d-85bdad78ee36",
+    "name": "ware academy of music",
+    "site": "https://wareacademyofmusic.com"
+  },
+  "6f78dde6-9793-4873-b4df-9b098c31c23c": {
+    "id": "6f78dde6-9793-4873-b4df-9b098c31c23c",
+    "name": "alcorn music studios",
+    "site": "http://www.alcornmusicstudios.com"
+  },
+  "9f9a52d7-762b-48a6-b152-26b54ae94bbc": {
+    "id": "9f9a52d7-762b-48a6-b152-26b54ae94bbc",
+    "name": "face the music",
+    "site": "http://www.fmvocalstudio.com"
+  },
+  "6e89169b-61a7-4a73-b572-db69d4f43516": {
+    "id": "6e89169b-61a7-4a73-b572-db69d4f43516",
+    "name": "granata music",
+    "site": "https://www.granatamusic.com"
+  },
+  "846e3013-dd9f-439d-bd7f-d5d775e9cd6d": {
+    "id": "846e3013-dd9f-439d-bd7f-d5d775e9cd6d",
+    "name": "kanata music centre",
+    "site": "http://kanatamusiccentre.com"
+  },
+  "729d17cb-a706-4353-a0fa-cf9d301f2969": {
+    "id": "729d17cb-a706-4353-a0fa-cf9d301f2969",
+    "name": "kathryn palmer music studio",
+    "site": "http://www.palmermusicstudio.com"
+  },
+  "21138c25-56ad-44ff-bc1d-e81f1c70042f": {
+    "id": "21138c25-56ad-44ff-bc1d-e81f1c70042f",
+    "name": "kovago voice studio",
+    "site": "http://kovagovoicestudio.com"
+  },
+  "07d22300-f89a-4214-b44f-a7ab614ee05f": {
+    "id": "07d22300-f89a-4214-b44f-a7ab614ee05f",
+    "name": "manotick school of music",
+    "site": "http://manotickschoolofmusic.ca"
+  },
+  "fbbf89ac-95aa-4224-9be0-1fc3d2aa6a10": {
+    "id": "fbbf89ac-95aa-4224-9be0-1fc3d2aa6a10",
+    "name": "mccourt music lessons",
+    "site": "http://www.mccourtmusiclessons.ca"
+  },
+  "fe1eeaf8-e121-481e-8c0d-47f105e3db1e": {
+    "id": "fe1eeaf8-e121-481e-8c0d-47f105e3db1e",
+    "name": "nepean school of music",
+    "site": "http://nepeanschoolofmusic.com"
+  },
+  "3c9fd74b-ecfa-42f9-b659-a84f2092281b": {
+    "id": "3c9fd74b-ecfa-42f9-b659-a84f2092281b",
+    "name": "sing house studios",
+    "site": "http://singhousestudios.ca"
+  },
+  "44ec829a-3da2-43fd-9e02-0ec11a2beea3": {
+    "id": "44ec829a-3da2-43fd-9e02-0ec11a2beea3",
+    "name": "sing ottawa studio",
+    "site": "http://singottawa.com"
+  },
+  "856ee13a-1cf8-43bb-a95e-bf4c846864ac": {
+    "id": "856ee13a-1cf8-43bb-a95e-bf4c846864ac",
+    "name": "west end music school",
+    "site": "http://westendmusicschool.com"
+  },
+  "f1b9818d-86a5-42e9-a861-87224f260d26": {
+    "id": "f1b9818d-86a5-42e9-a861-87224f260d26",
+    "name": "academy of music london",
+    "site": "http://www.academyofmusiclondon.com"
+  },
+  "447b7ff1-c0d9-4e1f-b0e4-4db79816d9b2": {
+    "id": "447b7ff1-c0d9-4e1f-b0e4-4db79816d9b2",
+    "name": "academy of music - music centre",
+    "site": "https://www.long-mcquade.com"
+  },
+  "8a1bc508-a8b0-4d0e-8f28-a33fae1c47bc": {
+    "id": "8a1bc508-a8b0-4d0e-8f28-a33fae1c47bc",
+    "name": "gassi music",
+    "site": "http://www.gassimusic.com"
+  },
+  "4111eb7e-0533-4e34-a7da-e4b97ff853a1": {
+    "id": "4111eb7e-0533-4e34-a7da-e4b97ff853a1",
+    "name": "highland music studios",
+    "site": "http://highlandstudios.ca"
+  },
+  "0011fbcf-abd8-4a4d-a790-56b33ec285f4": {
+    "id": "0011fbcf-abd8-4a4d-a790-56b33ec285f4",
+    "name": "ingersoll music academy",
+    "site": "http://ingersollmusicacademy.ca"
+  },
+  "9aa081da-e480-4964-9ab3-2721fd9e7049": {
+    "id": "9aa081da-e480-4964-9ab3-2721fd9e7049",
+    "name": "jb guitar & voice",
+    "site": "https://www.joeborowsky.com"
+  },
+  "9f571eb1-ba34-42f0-a816-dae0ebfebc72": {
+    "id": "9f571eb1-ba34-42f0-a816-dae0ebfebc72",
+    "name": "london music conservatory",
+    "site": "https://londonmusicconservatory.com"
+  },
+  "84f5e33c-eda8-4e68-bc08-88977aed26e5": {
+    "id": "84f5e33c-eda8-4e68-bc08-88977aed26e5",
+    "name": "the paul grambo voice studio",
+    "site": "http://www.paulgrambo.com"
+  },
+  "027e95a2-0ffe-448f-b831-b63a860253ed": {
+    "id": "027e95a2-0ffe-448f-b831-b63a860253ed",
+    "name": "school of music arts",
+    "site": "https://www.smartslondon.com"
+  },
+  "ebd5938d-3f7d-460b-b778-69427c1375ad": {
+    "id": "ebd5938d-3f7d-460b-b778-69427c1375ad",
+    "name": "studio arts music academy & rock school",
+    "site": "https://studioartsmusic.com"
+  },
+  "28f71d74-913c-4d6a-841e-78ee6ab9048b": {
+    "id": "28f71d74-913c-4d6a-841e-78ee6ab9048b",
+    "name": "addison music learning centre",
+    "site": "https://musicisfun.ca"
+  },
+  "386b9f07-f4e3-468c-bdfe-93073f0f132d": {
+    "id": "386b9f07-f4e3-468c-bdfe-93073f0f132d",
+    "name": "get loud music",
+    "site": "https://www.getloudmusic.ca"
+  },
+  "454964de-dec9-4694-806b-b07afe7306aa": {
+    "id": "454964de-dec9-4694-806b-b07afe7306aa",
+    "name": "house of chords",
+    "site": "https://houseofchords.ca"
+  },
+  "b9ab245b-ff32-49a4-887a-3c570e03c63a": {
+    "id": "b9ab245b-ff32-49a4-887a-3c570e03c63a",
+    "name": "kaos music",
+    "site": "https://kaosmusicoakville.com"
+  },
+  "47b71694-5a1f-4d47-b97e-4ba2856d1b7a": {
+    "id": "47b71694-5a1f-4d47-b97e-4ba2856d1b7a",
+    "name": "linda fletcher",
+    "site": "https://www.lindafletcher.com"
+  },
+  "33b76c36-2d05-46b5-82ea-541a98bf96a7": {
+    "id": "33b76c36-2d05-46b5-82ea-541a98bf96a7",
+    "name": "marnie kersten",
+    "site": "https://marniekersten.com"
+  },
+  "c2a057b5-fc2f-4671-a69f-ff54696220ef": {
+    "id": "c2a057b5-fc2f-4671-a69f-ff54696220ef",
+    "name": "merriam music",
+    "site": "https://www.merriammusic.com"
+  },
+  "951e84d2-846c-451e-ab74-e2666779a258": {
+    "id": "951e84d2-846c-451e-ab74-e2666779a258",
+    "name": "milton academy of music",
+    "site": "https://miltonacademy.ca"
+  },
+  "e06d8532-630c-4a6a-b358-96300953c951": {
+    "id": "e06d8532-630c-4a6a-b358-96300953c951",
+    "name": "mk music studio",
+    "site": "http://www.mkmusicstudio.ca"
+  },
+  "78eb6714-dc87-49c0-95eb-ac8cb0fc263b": {
+    "id": "78eb6714-dc87-49c0-95eb-ac8cb0fc263b",
+    "name": "mobile music lessons",
+    "site": "http://www.mobilemusiclessons.ca"
+  },
+  "1e522d54-e7a7-4609-aa5b-4e40d598fbbe": {
+    "id": "1e522d54-e7a7-4609-aa5b-4e40d598fbbe",
+    "name": "ontario's professional school of music and art",
+    "site": "http://musicschooloakville.ca"
+  },
+  "db5b4d19-06ee-4326-ac42-67727ca5277d": {
+    "id": "db5b4d19-06ee-4326-ac42-67727ca5277d",
+    "name": "studioforte music studio",
+    "site": "http://studioforte.ca"
+  },
+  "1cc945bd-a60c-4b58-9af2-b7def5ba7d67": {
+    "id": "1cc945bd-a60c-4b58-9af2-b7def5ba7d67",
+    "name": "adrian jones music school",
+    "site": "https://www.ajmusicschool.ca"
+  },
+  "dff2b306-4c4d-4ed5-826b-bb91549437c5": {
+    "id": "dff2b306-4c4d-4ed5-826b-bb91549437c5",
+    "name": "amanda kind",
+    "site": "https://www.amandakind.com"
+  },
+  "b90d53f1-c75c-4c72-a5ec-eda34a3089d5": {
+    "id": "b90d53f1-c75c-4c72-a5ec-eda34a3089d5",
+    "name": "c&c vocal and music services",
+    "site": "http://www.ccmusicschool.info"
+  },
+  "0fa51747-5f7b-4e72-9bd8-07822b95d99a": {
+    "id": "0fa51747-5f7b-4e72-9bd8-07822b95d99a",
+    "name": "cambridge conservatory of music",
+    "site": "http://cambridgeconservatory.com"
+  },
+  "17cd5238-ca2f-456d-9d0d-c71899142bc9": {
+    "id": "17cd5238-ca2f-456d-9d0d-c71899142bc9",
+    "name": "queen street music school",
+    "site": "http://queenstreetmusic.com"
+  },
+  "23b5fef5-6692-47b2-96c3-6b21c1b8ca8a": {
+    "id": "23b5fef5-6692-47b2-96c3-6b21c1b8ca8a",
+    "name": "resound voice studio",
+    "site": "https://resound.mymusicstaff.com"
+  },
+  "a3252840-d053-4bff-964c-cb55fde22e79": {
+    "id": "a3252840-d053-4bff-964c-cb55fde22e79",
+    "name": "shaw music",
+    "site": "http://www.shawmusicstudios.com"
+  },
+  "28bd0375-8076-44ae-9fd4-cfb52baca1fd": {
+    "id": "28bd0375-8076-44ae-9fd4-cfb52baca1fd",
+    "name": "sound factory music school",
+    "site": "http://www.themusicschool.ca"
+  },
+  "e933eca7-4a3a-4bb1-a621-3ebbab36caa5": {
+    "id": "e933eca7-4a3a-4bb1-a621-3ebbab36caa5",
+    "name": "tannis sprott - the singing studio",
+    "site": "https://tannissprott.com"
+  },
+  "6eb19939-a4d3-48f8-ae32-a33e3b5e6f22": {
+    "id": "6eb19939-a4d3-48f8-ae32-a33e3b5e6f22",
+    "name": "capstone music lessons",
+    "site": "https://capstonemusic.ca"
+  },
+  "1743f78b-eb98-4277-93a9-a58829b45d65": {
+    "id": "1743f78b-eb98-4277-93a9-a58829b45d65",
+    "name": "dundas conservatory of music",
+    "site": "https://www.dundasmusic.ca"
+  },
+  "4066fdb0-4492-4c1f-8002-1793d21579e7": {
+    "id": "4066fdb0-4492-4c1f-8002-1793d21579e7",
+    "name": "hamilton school of music",
+    "site": "http://www.hamiltonschoolofmusic.ca"
+  },
+  "596ef472-4617-4c24-b89b-4d759c3dc542": {
+    "id": "596ef472-4617-4c24-b89b-4d759c3dc542",
+    "name": "keynote music studio",
+    "site": "http://www.keynotemusicstudio.ca"
+  },
+  "e659aadb-2af1-4252-841b-f70c5b0aa34c": {
+    "id": "e659aadb-2af1-4252-841b-f70c5b0aa34c",
+    "name": "ludwig voice studio",
+    "site": "http://ludwigvoicestudio.com"
+  },
+  "5c18c8cf-7607-4d66-b3f1-d6a56bc0d52b": {
+    "id": "5c18c8cf-7607-4d66-b3f1-d6a56bc0d52b",
+    "name": "melody man studios",
+    "site": "https://www.melodymanstudios.com"
+  },
+  "02a09093-dd45-4753-8c7e-4c619ee894d0": {
+    "id": "02a09093-dd45-4753-8c7e-4c619ee894d0",
+    "name": "mitch seekins vocal studio",
+    "site": "http://mitchseekinsvocalstudio.com"
+  },
+  "cd104f91-2cde-490d-abc4-97adefac4658": {
+    "id": "cd104f91-2cde-490d-abc4-97adefac4658",
+    "name": "musik 7 studios",
+    "site": "https://www.musik7studios.com"
+  },
+  "1cf1ae63-fed4-4f2f-8fec-5b8fc375bf22": {
+    "id": "1cf1ae63-fed4-4f2f-8fec-5b8fc375bf22",
+    "name": "the music stand",
+    "site": "https://lessons.themusicstand.ca"
+  },
+  "c7e473bf-0e0a-474c-a647-73fc6d4591f2": {
+    "id": "c7e473bf-0e0a-474c-a647-73fc6d4591f2",
+    "name": "rock this way",
+    "site": "http://rockthisway.ca"
+  },
+  "a47c1afb-5840-4a15-b161-529a994b2062": {
+    "id": "a47c1afb-5840-4a15-b161-529a994b2062",
+    "name": "tnt vox vocal studio",
+    "site": "http://www.tntvoxvocalstudio.com"
+  },
+  "f5cd1ec2-feb3-48c7-8c6b-e60e9867462c": {
+    "id": "f5cd1ec2-feb3-48c7-8c6b-e60e9867462c",
+    "name": "“a sharp” school of music",
+    "site": "http://www.asharpmusic.com"
+  },
+  "c23cd8f2-b872-422f-b9b6-9422240eef1a": {
+    "id": "c23cd8f2-b872-422f-b9b6-9422240eef1a",
+    "name": "canadian academy of vocal music",
+    "site": "http://www.canadianvocalacademy.com"
+  },
+  "c9606c3b-0b67-4b1b-9b24-b83e2d59c55c": {
+    "id": "c9606c3b-0b67-4b1b-9b24-b83e2d59c55c",
+    "name": "carolyn lykkemark",
+    "site": "https://www.carolynlykkemark.com"
+  },
+  "d1953c2d-4a8c-4f97-b4a6-362477ec0629": {
+    "id": "d1953c2d-4a8c-4f97-b4a6-362477ec0629",
+    "name": "erindale school of music & arts",
+    "site": "http://www.erindalemusicschool.com"
+  },
+  "0250e9ed-30bc-4fed-9264-06fae014d268": {
+    "id": "0250e9ed-30bc-4fed-9264-06fae014d268",
+    "name": "high “c” studio",
+    "site": "https://www.facebook.com/highcvocalstudio/"
+  },
+  "7a9acb78-f78d-4479-8963-7bfb7dff9f0d": {
+    "id": "7a9acb78-f78d-4479-8963-7bfb7dff9f0d",
+    "name": "lakeshore conservatory of music",
+    "site": "https://www.lakeshoreconservatory.com"
+  },
+  "35fb5ee0-387c-4654-af20-194035823b8b": {
+    "id": "35fb5ee0-387c-4654-af20-194035823b8b",
+    "name": "mississauga fine arts academy",
+    "site": "https://www.mississaugafineartsacademy.com"
+  },
+  "819fece4-097b-44a4-b1a6-b8132b4a65fa": {
+    "id": "819fece4-097b-44a4-b1a6-b8132b4a65fa",
+    "name": "the music embassy",
+    "site": "http://www.themusicembassy.ca"
+  },
+  "41146f64-f58f-41e6-92c1-83154c9939e4": {
+    "id": "41146f64-f58f-41e6-92c1-83154c9939e4",
+    "name": "national academy of music",
+    "site": "http://www.musicschoolmississauga.com"
+  },
+  "31d4f7c5-91bd-4d6e-aeb4-bdf82a2c9f75": {
+    "id": "31d4f7c5-91bd-4d6e-aeb4-bdf82a2c9f75",
+    "name": "oak learners",
+    "site": "https://oaklearners.ca"
+  },
+  "96592856-c3b2-4dbd-b07c-d99598ad9a69": {
+    "id": "96592856-c3b2-4dbd-b07c-d99598ad9a69",
+    "name": "sing music studio",
+    "site": "http://www.singmusicstudio.com"
+  },
+  "68ace9c4-da5f-417e-a96d-c589f2704c31": {
+    "id": "68ace9c4-da5f-417e-a96d-c589f2704c31",
+    "name": "wandering minstrel music school",
+    "site": "https://wanderingminstrel.ca"
+  },
+  "d00df6eb-afff-4448-8171-1113c876909f": {
+    "id": "d00df6eb-afff-4448-8171-1113c876909f",
+    "name": "beamsville music studio",
+    "site": "http://www.beamsvillemusic.com"
+  },
+  "4b677866-664c-4745-9743-91365ec85922": {
+    "id": "4b677866-664c-4745-9743-91365ec85922",
+    "name": "cabar-eh! youth theatre",
+    "site": "https://www.facebook.com/cabarehyouththeatre"
+  },
+  "1738635e-57eb-43e4-97f9-2c9c8863b430": {
+    "id": "1738635e-57eb-43e4-97f9-2c9c8863b430",
+    "name": "fonthill music academy",
+    "site": "http://www.fonthillmusicacademy.com"
+  },
+  "ef00f9c2-a115-4252-ac19-e7399a0c31a5": {
+    "id": "ef00f9c2-a115-4252-ac19-e7399a0c31a5",
+    "name": "fort erie school of music",
+    "site": "https://www.fesm.ca"
+  },
+  "592e807a-68b3-4c2f-a8f6-2fb105e2388a": {
+    "id": "592e807a-68b3-4c2f-a8f6-2fb105e2388a",
+    "name": "niagara conservatory of music",
+    "site": "https://www.niagaraconservatory.com"
+  },
+  "11c7b1b5-c591-48c0-9f0f-0eb6c0073503": {
+    "id": "11c7b1b5-c591-48c0-9f0f-0eb6c0073503",
+    "name": "niagara creative arts centre",
+    "site": "https://www.niagaracreativearts.com"
+  },
+  "532054af-23c8-4913-bf65-e4d4d9fb5aea": {
+    "id": "532054af-23c8-4913-bf65-e4d4d9fb5aea",
+    "name": "ontario conservatory of music",
+    "site": "http://ocmusic.com"
+  },
+  "cc71276c-9744-4172-ac96-4f1bcca3afcd": {
+    "id": "cc71276c-9744-4172-ac96-4f1bcca3afcd",
+    "name": "paris academy of music",
+    "site": "http://www.parisacademyofmusic.net"
+  },
+  "2267cd7d-ece0-48ff-8ab0-ab6e54afb5f3": {
+    "id": "2267cd7d-ece0-48ff-8ab0-ab6e54afb5f3",
+    "name": "progressive music studio",
+    "site": "http://www.progressivemusic.ca"
+  },
+  "49cfb359-921a-4ad3-a2b0-e63c31f2fb5b": {
+    "id": "49cfb359-921a-4ad3-a2b0-e63c31f2fb5b",
+    "name": "strive studios",
+    "site": "https://www.strive-studios.com"
+  },
+  "64d42a43-995d-4815-9bce-b42b92f5eb12": {
+    "id": "64d42a43-995d-4815-9bce-b42b92f5eb12",
+    "name": "studio e school of music & drama",
+    "site": "http://studioemusicandarts.com"
+  },
+  "4b0275f5-8582-49e9-bf23-8e53e071156b": {
+    "id": "4b0275f5-8582-49e9-bf23-8e53e071156b",
+    "name": "durham school of music",
+    "site": "https://www.durhammusic.ca"
+  },
+  "c6dd1564-b83d-4514-82eb-0e31b027acb7": {
+    "id": "c6dd1564-b83d-4514-82eb-0e31b027acb7",
+    "name": "i sing freely",
+    "site": "http://isingfreely.com"
+  },
+  "d5b4c331-e750-4111-a793-8f26be6b76cb": {
+    "id": "d5b4c331-e750-4111-a793-8f26be6b76cb",
+    "name": "margrits neighbourhood music studio",
+    "site": "http://www.neighbourhoodmusicstudio.com"
+  },
+  "75006894-58e0-4a06-91d2-3c9e16370e69": {
+    "id": "75006894-58e0-4a06-91d2-3c9e16370e69",
+    "name": "miga music",
+    "site": "https://migamusic.com"
+  },
+  "bf04aca1-9809-402f-8dc3-b9725d4bbf69": {
+    "id": "bf04aca1-9809-402f-8dc3-b9725d4bbf69",
+    "name": "the music scene",
+    "site": "https://www.facebook.com/themusicscenewhitby/"
+  },
+  "647b1137-ca76-4d18-8fc7-fba368a5a5ec": {
+    "id": "647b1137-ca76-4d18-8fc7-fba368a5a5ec",
+    "name": "oshawa piano and vocal academy",
+    "site": "http://www.oshawapianovoice.com"
+  },
+  "0c7a8a69-fc37-4065-8432-4d00a67dc0ac": {
+    "id": "0c7a8a69-fc37-4065-8432-4d00a67dc0ac",
+    "name": "pure voice power",
+    "site": "https://www.purevoicepower.ca"
+  },
+  "16cc6043-ec15-41a5-9326-675ca6b32eac": {
+    "id": "16cc6043-ec15-41a5-9326-675ca6b32eac",
+    "name": "the song spot",
+    "site": "https://www.thesongspot.com"
+  },
+  "b641d5c9-e590-4921-bf28-fa9f3ad0760e": {
+    "id": "b641d5c9-e590-4921-bf28-fa9f3ad0760e",
+    "name": "whitby school of music",
+    "site": "https://www.whitbyschoolofmusic.ca"
+  },
+  "36b2bfb7-75b9-4176-9b8f-5a22616033bd": {
+    "id": "36b2bfb7-75b9-4176-9b8f-5a22616033bd",
+    "name": "advanced singing",
+    "site": "http://www.advancedsinging.com"
+  },
+  "7bfc2b05-c2cf-4c49-88b2-0adf9eb6f931": {
+    "id": "7bfc2b05-c2cf-4c49-88b2-0adf9eb6f931",
+    "name": "alla breve academy of music & arts",
+    "site": "http://www.abma.ca"
+  },
+  "53b26a93-8cbc-4ac4-9430-af106f3c2976": {
+    "id": "53b26a93-8cbc-4ac4-9430-af106f3c2976",
+    "name": "chorus music",
+    "site": "https://www.chorusmusic.ca"
+  },
+  "d71b576f-1523-4a6a-a0c7-e45f722ed220": {
+    "id": "d71b576f-1523-4a6a-a0c7-e45f722ed220",
+    "name": "cosmo music",
+    "site": "https://cosmomusic.ca"
+  },
+  "de24f228-2289-40d7-8d7d-927919fba25c": {
+    "id": "de24f228-2289-40d7-8d7d-927919fba25c",
+    "name": "hanway music",
+    "site": "http://www.hwmusic.ca"
+  },
+  "e5ae30ae-74a4-4254-975f-75069cad6675": {
+    "id": "e5ae30ae-74a4-4254-975f-75069cad6675",
+    "name": "heritage music academy",
+    "site": "https://www.heritagemusicacademy.ca"
+  },
+  "d4cb1e8a-ee37-46f5-b1a3-cfc2d3644d31": {
+    "id": "d4cb1e8a-ee37-46f5-b1a3-cfc2d3644d31",
+    "name": "kollari institute of music",
+    "site": "https://www.kollarimusic.com"
+  },
+  "534e846b-cc94-4c1f-b8fe-de4e6f209182": {
+    "id": "534e846b-cc94-4c1f-b8fe-de4e6f209182",
+    "name": "music school of music",
+    "site": "http://www.musaic.ca"
+  },
+  "12c05bf8-866a-428b-9262-82e536e25992": {
+    "id": "12c05bf8-866a-428b-9262-82e536e25992",
+    "name": "pro-music school",
+    "site": "http://pro-music.ca"
+  },
+  "385432c1-2e55-48db-8e5b-e4bc1aed6895": {
+    "id": "385432c1-2e55-48db-8e5b-e4bc1aed6895",
+    "name": "rockstar music central",
+    "site": "http://www.rockstarmusic.ca"
+  },
+  "82d5fab2-09e1-41b3-9f90-566cdfc6101f": {
+    "id": "82d5fab2-09e1-41b3-9f90-566cdfc6101f",
+    "name": "royal academy of music & arts",
+    "site": "http://www.royalacademy.ca"
+  },
+  "9ad89bf9-13ef-4c7b-b020-f6042da09668": {
+    "id": "9ad89bf9-13ef-4c7b-b020-f6042da09668",
+    "name": "studio 55",
+    "site": "https://www.singinglessons55.com"
+  },
+  "4359d96a-9aba-42cb-a690-9185120cd935": {
+    "id": "4359d96a-9aba-42cb-a690-9185120cd935",
+    "name": "studio david betram",
+    "site": "http://studiodavidbertram.com"
+  },
+  "c13b0905-594d-48c2-8bec-e9a25774fd26": {
+    "id": "c13b0905-594d-48c2-8bec-e9a25774fd26",
+    "name": "tone labs music",
+    "site": "https://www.tonelabsmusic.com"
+  },
+  "9b3dbe32-6e08-46fe-86b2-53de1f6e4bff": {
+    "id": "9b3dbe32-6e08-46fe-86b2-53de1f6e4bff",
+    "name": "vaughan academy of music",
+    "site": "https://vaughanacademymusic.com"
+  },
+  "e64c2d4c-700a-44f8-8cab-60d2e49db03d": {
+    "id": "e64c2d4c-700a-44f8-8cab-60d2e49db03d",
+    "name": "vocal school of vaughan",
+    "site": "https://www.vocalschool.ca"
+  },
+  "4c5ed03a-1d45-469d-af4f-3037e0ae5fb1": {
+    "id": "4c5ed03a-1d45-469d-af4f-3037e0ae5fb1",
+    "name": "the arts music store",
+    "site": "https://www.theartsmusicstore.com"
+  },
+  "616a9336-3dd6-4c34-95ce-744341efdbb3": {
+    "id": "616a9336-3dd6-4c34-95ce-744341efdbb3",
+    "name": "aurora music academy",
+    "site": "http://www.auroramusicacademy.ca"
+  },
+  "cbba2493-7521-4b22-886a-7d97bd220d72": {
+    "id": "cbba2493-7521-4b22-886a-7d97bd220d72",
+    "name": "inspiring sounds music studio",
+    "site": "https://www.inspiringsounds.ca"
+  },
+  "42ae13aa-62ec-481a-9c9a-89b736f8e762": {
+    "id": "42ae13aa-62ec-481a-9c9a-89b736f8e762",
+    "name": "margison kuinka opera studio",
+    "site": "http://www.margisonkuinka.com"
+  },
+  "aa93fd1e-63de-48b2-abde-38be0a0135a7": {
+    "id": "aa93fd1e-63de-48b2-abde-38be0a0135a7",
+    "name": "maureen smith",
+    "site": "http://www.maureensmith.ca"
+  },
+  "8087cbf3-e9ac-460b-ab0f-f90375e3ff6e": {
+    "id": "8087cbf3-e9ac-460b-ab0f-f90375e3ff6e",
+    "name": "modern conservatory of music",
+    "site": "https://modernmusic.mymusicstaff.com"
+  },
+  "cb7def12-1339-4ee2-adaa-2b0ea475b9ee": {
+    "id": "cb7def12-1339-4ee2-adaa-2b0ea475b9ee",
+    "name": "orillia music centre",
+    "site": "https://orilliamusiccentre.com"
+  },
+  "361d3e6e-6534-4a0c-b16f-14fa2b15744a": {
+    "id": "361d3e6e-6534-4a0c-b16f-14fa2b15744a",
+    "name": "patience piano",
+    "site": "http://www.patiencepiano.ca"
+  },
+  "9ce8170f-b9e7-42cf-a2dc-b783077d76cf": {
+    "id": "9ce8170f-b9e7-42cf-a2dc-b783077d76cf",
+    "name": "the piano studio",
+    "site": "https://thepianostudio.com"
+  },
+  "359f3933-42e0-4c94-a29d-6a5ccf1de181": {
+    "id": "359f3933-42e0-4c94-a29d-6a5ccf1de181",
+    "name": "the royans professional vocal school",
+    "site": "https://www.vocalscience.com"
+  },
+  "6ec4c1f2-7180-4e81-bbdb-8deecf964700": {
+    "id": "6ec4c1f2-7180-4e81-bbdb-8deecf964700",
+    "name": "simply sing",
+    "site": "http://www.simplysing.ca"
+  },
+  "9a19fa75-31f1-4bb4-9ebc-d51082aaa2fb": {
+    "id": "9a19fa75-31f1-4bb4-9ebc-d51082aaa2fb",
+    "name": "spaulding school of music",
+    "site": "https://www.facebook.com/spauldingschoolofmusic/"
+  },
+  "8e7b247e-711d-4b11-926f-6309b05b8186": {
+    "id": "8e7b247e-711d-4b11-926f-6309b05b8186",
+    "name": "celtic rathskallions",
+    "site": "http://celticrathskallions.ca"
+  },
+  "a27a8a00-0797-4801-a431-7e8c79459642": {
+    "id": "a27a8a00-0797-4801-a431-7e8c79459642",
+    "name": "elevation music studio",
+    "site": "http://www.elevationmusicstudio.com"
+  },
+  "4e9f66ea-2f52-46c6-9324-5da8e8be177f": {
+    "id": "4e9f66ea-2f52-46c6-9324-5da8e8be177f",
+    "name": "ingrid smith",
+    "site": "https://singingvoicelessons.weebly.com"
+  },
+  "e8ee21a2-1db8-4ffb-a789-f8c0bfa6e2e3": {
+    "id": "e8ee21a2-1db8-4ffb-a789-f8c0bfa6e2e3",
+    "name": "michael faulkner school of music",
+    "site": "https://www.michaelfaulknerschoolofmusic.com"
+  },
+  "8839e9a5-9520-45d9-9bb8-3b57da68311b": {
+    "id": "8839e9a5-9520-45d9-9bb8-3b57da68311b",
+    "name": "omnes arts circle",
+    "site": "http://omnesartscircle.ca"
+  },
+  "402300a9-8e5d-4f48-bb38-be15a0c4d95b": {
+    "id": "402300a9-8e5d-4f48-bb38-be15a0c4d95b",
+    "name": "pinnacle music studios",
+    "site": "http://www.pinnaclemusicstudios.com"
+  },
+  "acbfdb13-a012-4d62-b94a-5aab2dcc6e11": {
+    "id": "acbfdb13-a012-4d62-b94a-5aab2dcc6e11",
+    "name": "rock my house music centre",
+    "site": "http://rockmyhousemc.com"
+  },
+  "873cc393-b770-4427-8139-cc765bad596a": {
+    "id": "873cc393-b770-4427-8139-cc765bad596a",
+    "name": "russell music academy",
+    "site": "http://www.russellmusic.ca"
+  },
+  "81f6fa2f-9c85-4826-ae86-a40db16ff726": {
+    "id": "81f6fa2f-9c85-4826-ae86-a40db16ff726",
+    "name": "algoma conservatory of music",
+    "site": "https://algomaconservatory.com"
+  },
+  "989ffa32-79d7-4954-9a85-f0c91bbb99e4": {
+    "id": "989ffa32-79d7-4954-9a85-f0c91bbb99e4",
+    "name": "avila music school",
+    "site": "http://avilamusicschool.ca"
+  },
+  "57a96464-ae93-474d-a6c8-427d968f2cb9": {
+    "id": "57a96464-ae93-474d-a6c8-427d968f2cb9",
+    "name": "highlands opera studio",
+    "site": "https://www.highlandsoperastudio.com"
+  },
+  "69951aaa-fec0-42f3-a2cc-899d3517272f": {
+    "id": "69951aaa-fec0-42f3-a2cc-899d3517272f",
+    "name": "jaclyn serre",
+    "site": "http://jaclynserre.com"
+  },
+  "2864892e-707f-4791-ae1d-d73b57f4fed1": {
+    "id": "2864892e-707f-4791-ae1d-d73b57f4fed1",
+    "name": "north bay school of music",
+    "site": "https://www.northbayschoolofmusic.com"
+  },
+  "9c298086-8b67-4217-b958-fbf4756fdf13": {
+    "id": "9c298086-8b67-4217-b958-fbf4756fdf13",
+    "name": "sudbury music academy",
+    "site": "http://www.sudburymusicacademy.com"
+  },
+  "d72edec8-fdb8-450e-91a9-649c72055f92": {
+    "id": "d72edec8-fdb8-450e-91a9-649c72055f92",
+    "name": "theatre cambrian",
+    "site": "https://www.facebook.com/theatrecambrian/"
+  },
+  "bac73125-2f27-4ed8-bb7a-ec56b8a6b8ea": {
+    "id": "bac73125-2f27-4ed8-bb7a-ec56b8a6b8ea",
+    "name": "vibe music academy",
+    "site": "https://vibemusicacademy.ca"
+  },
+  "f3a0a00b-fdaf-4e82-a3e6-648dc4703132": {
+    "id": "f3a0a00b-fdaf-4e82-a3e6-648dc4703132",
+    "name": "debi vote voice studio",
+    "site": "https://www.facebook.com/debivoyevoicestudio"
+  },
+  "49d2ecc4-3642-4f96-81b0-56e8f673ba58": {
+    "id": "49d2ecc4-3642-4f96-81b0-56e8f673ba58",
+    "name": "linkletter music studios",
+    "site": "https://www.facebook.com/hurry32"
+  },
+  "4d5d2c6a-194b-42dc-93d0-e2da6dd568e3": {
+    "id": "4d5d2c6a-194b-42dc-93d0-e2da6dd568e3",
+    "name": "pamela campbell",
+    "site": "http://pamelacampbell.com"
+  },
+  "13d76bb2-8a0b-4b5b-97f3-31ee152da8af": {
+    "id": "13d76bb2-8a0b-4b5b-97f3-31ee152da8af",
+    "name": "teresa doyle",
+    "site": "http://www.teresadoyle.com"
+  },
+  "2bce254a-f1e9-443b-88bb-f3f915db8b58": {
+    "id": "2bce254a-f1e9-443b-88bb-f3f915db8b58",
+    "name": "conservatoire d'études musicales",
+    "site": "https://cemboucherville.com"
+  },
+  "62998b79-d5df-4c2b-9c8a-1b680edf58d0": {
+    "id": "62998b79-d5df-4c2b-9c8a-1b680edf58d0",
+    "name": "conservatoire de musique et arts les schubertiades",
+    "site": "http://www.conservatoireschubertiades.com"
+  },
+  "b44ad1c1-2294-4e87-9ccf-6e48da6c87dd": {
+    "id": "b44ad1c1-2294-4e87-9ccf-6e48da6c87dd",
+    "name": "école de chant johanne raby",
+    "site": "https://www.facebook.com/ecolejohanneraby/"
+  },
+  "9b90047e-2fc4-49c8-b727-1f833ac6a99b": {
+    "id": "9b90047e-2fc4-49c8-b727-1f833ac6a99b",
+    "name": "école de musique st-hubert",
+    "site": "http://www.ecoledemusiquesthubert.com"
+  },
+  "9b64bf6a-0b96-4030-8720-0e1efde87047": {
+    "id": "9b64bf6a-0b96-4030-8720-0e1efde87047",
+    "name": "école des arts de la scène nos voix nos visages",
+    "site": "https://nosvoixnosvisages.ca"
+  },
+  "76c0b4da-f455-4f15-a3ba-427f30e8d9a8": {
+    "id": "76c0b4da-f455-4f15-a3ba-427f30e8d9a8",
+    "name": "expression - école d'expression musicale",
+    "site": "http://www.ecole-expression.com"
+  },
+  "5ef97124-ece2-4475-8ae6-11300008aed2": {
+    "id": "5ef97124-ece2-4475-8ae6-11300008aed2",
+    "name": "le jardin musical",
+    "site": "https://www.lejardinmusical.ca"
+  },
+  "84862bbb-bdb3-4dc5-8402-034b423c8b54": {
+    "id": "84862bbb-bdb3-4dc5-8402-034b423c8b54",
+    "name": "musique o max",
+    "site": "http://www.musiqueomax.com"
+  },
+  "901fc5c8-c52b-4f22-921d-fa8df5cd60b5": {
+    "id": "901fc5c8-c52b-4f22-921d-fa8df5cd60b5",
+    "name": "pro-voc",
+    "site": "http://pro-voc.com"
+  },
+  "e6e5cd9a-a704-4732-a9d2-d1abe092b2d6": {
+    "id": "e6e5cd9a-a704-4732-a9d2-d1abe092b2d6",
+    "name": "le studio de musique claude debussy",
+    "site": "http://www.studioclaudedebussy.com"
+  },
+  "06a17ee5-49b9-4aaa-9d6a-f4a5e923e605": {
+    "id": "06a17ee5-49b9-4aaa-9d6a-f4a5e923e605",
+    "name": "arquemuse",
+    "site": "https://www.arquemuse.com"
+  },
+  "079b592a-fe4e-44ec-ba05-bccc2826de52": {
+    "id": "079b592a-fe4e-44ec-ba05-bccc2826de52",
+    "name": "ateliers de musique dubé",
+    "site": "https://www.ateliersdemusiquedube.com"
+  },
+  "087ebafc-b64f-46eb-a8ed-963f5d75dcc4": {
+    "id": "087ebafc-b64f-46eb-a8ed-963f5d75dcc4",
+    "name": "camp musical de québec",
+    "site": "https://campmusicaldequebec.com"
+  },
+  "5376dc53-ee0d-4b7e-815f-cdb7a579a2ee": {
+    "id": "5376dc53-ee0d-4b7e-815f-cdb7a579a2ee",
+    "name": "le centre musical uni-son",
+    "site": "http://www.centremusicalunison.com"
+  },
+  "f2b7a7b7-92f2-46ce-8cde-d8b12e2ec75a": {
+    "id": "f2b7a7b7-92f2-46ce-8cde-d8b12e2ec75a",
+    "name": "cercle de musique de cap-rouge",
+    "site": "http://www.cmcaprouge.org"
+  },
+  "081d71f0-2351-417e-8b7e-d406168b1416": {
+    "id": "081d71f0-2351-417e-8b7e-d406168b1416",
+    "name": "école de musique des cascades",
+    "site": "https://www.ecoledemusiquedescascades.com"
+  },
+  "665fcd15-c195-40a4-9689-c3579a9c0919": {
+    "id": "665fcd15-c195-40a4-9689-c3579a9c0919",
+    "name": "école de musique jésus-marie",
+    "site": "https://www.emjm.org"
+  },
+  "bc2879bb-2898-41b6-9c43-00eac9eaab2a": {
+    "id": "bc2879bb-2898-41b6-9c43-00eac9eaab2a",
+    "name": "école de musique la symphonie",
+    "site": "https://sites.google.com"
+  },
+  "14dd5099-d475-4cf9-965e-96cbc74fa5cb": {
+    "id": "14dd5099-d475-4cf9-965e-96cbc74fa5cb",
+    "name": "école internationale de musique montmagny",
+    "site": "http://www.accordeonmontmagny.com"
+  },
+  "55d3c9a5-ab0e-45d0-8c21-bbbcf320092e": {
+    "id": "55d3c9a5-ab0e-45d0-8c21-bbbcf320092e",
+    "name": "école régionale de musique de pont-rouge",
+    "site": "http://www.ecolemusiquepontrouge.com"
+  },
+  "e1440866-db17-423e-9d96-e90298990d23": {
+    "id": "e1440866-db17-423e-9d96-e90298990d23",
+    "name": "immuart",
+    "site": "https://www.immuart.com"
+  },
+  "42147f22-a867-45bf-848f-77104fd99a99": {
+    "id": "42147f22-a867-45bf-848f-77104fd99a99",
+    "name": "la maison de la musique de sainte-foy",
+    "site": "http://www.mmsf.org"
+  },
+  "d20294f7-724f-4a54-9694-0bc0ab4967cd": {
+    "id": "d20294f7-724f-4a54-9694-0bc0ab4967cd",
+    "name": "studio d'enseignement de la musique 2727",
+    "site": "http://studiodemusique2727.com"
+  },
+  "79974427-fe14-4494-8d2d-3b10325b6b86": {
+    "id": "79974427-fe14-4494-8d2d-3b10325b6b86",
+    "name": "troubadour école de musique",
+    "site": "https://www.ecoletroubadour.com"
+  },
+  "0b93e0af-88d4-4fdc-920c-c8b2098c290a": {
+    "id": "0b93e0af-88d4-4fdc-920c-c8b2098c290a",
+    "name": "l'académie de guitare",
+    "site": "http://www.academiedeguitare.ca"
+  },
+  "e5b886b1-6eb7-4cc1-aba1-b7af6979ac26": {
+    "id": "e5b886b1-6eb7-4cc1-aba1-b7af6979ac26",
+    "name": "académie de musique de lasalle",
+    "site": "http://academielasalle.com"
+  },
+  "cd812cb1-3a83-4443-bb15-5f79ca532f97": {
+    "id": "cd812cb1-3a83-4443-bb15-5f79ca532f97",
+    "name": "académie de musique de montréal",
+    "site": "http://www.academiedemontreal.com"
+  },
+  "8192c95e-aa4e-480f-a8ac-4728b44500ff": {
+    "id": "8192c95e-aa4e-480f-a8ac-4728b44500ff",
+    "name": "angie arsenault",
+    "site": "http://www.angiearsenault.com"
+  },
+  "cbee17e1-e698-4ed0-a567-8559caf3f68f": {
+    "id": "cbee17e1-e698-4ed0-a567-8559caf3f68f",
+    "name": "archets & compagnie",
+    "site": "https://www.archets-et-compagnie.com"
+  },
+  "d881629f-4265-4c10-a733-8180f41a9024": {
+    "id": "d881629f-4265-4c10-a733-8180f41a9024",
+    "name": "camp musical",
+    "site": "http://www.camptutti.com"
+  },
+  "b84f1eef-c258-491a-84eb-990690fef217": {
+    "id": "b84f1eef-c258-491a-84eb-990690fef217",
+    "name": "coopérative des professeurs de musique de montréal",
+    "site": "http://www.professeur-musique.com"
+  },
+  "c7fbee97-c0d6-49b2-8d98-042de42d4419": {
+    "id": "c7fbee97-c0d6-49b2-8d98-042de42d4419",
+    "name": "école de chant et de musique coda",
+    "site": "http://ecolecoda.com"
+  },
+  "a5374c4a-f90f-48cc-b429-fdd28e83dde3": {
+    "id": "a5374c4a-f90f-48cc-b429-fdd28e83dde3",
+    "name": "école de musique anjou",
+    "site": "http://www.ecoledemusiqueanjou.org"
+  },
+  "873747c2-1417-4506-a4c2-3c465892db01": {
+    "id": "873747c2-1417-4506-a4c2-3c465892db01",
+    "name": "école de musique crescendo",
+    "site": "http://ecolecrescendo.com"
+  },
+  "50ad7ff2-0d55-4037-b7c9-12c411f134cd": {
+    "id": "50ad7ff2-0d55-4037-b7c9-12c411f134cd",
+    "name": "école de musique de verdun",
+    "site": "http://www.emv.qc.ca"
+  },
+  "a7f41a7c-b626-4ebe-a064-5a8d042f2a11": {
+    "id": "a7f41a7c-b626-4ebe-a064-5a8d042f2a11",
+    "name": "école de musique enchantée",
+    "site": "http://www.ecoleenchantee.com"
+  },
+  "a0b2df50-ee35-4973-908f-e91326dbc863": {
+    "id": "a0b2df50-ee35-4973-908f-e91326dbc863",
+    "name": "l'école de musique regina assumpta",
+    "site": "https://reginaassumpta.com"
+  },
+  "6bad03d7-2d18-4e54-a10c-abba48ce4814": {
+    "id": "6bad03d7-2d18-4e54-a10c-abba48ce4814",
+    "name": "école de musique suzie auclair",
+    "site": "https://www.ecolesuzieauclair.com"
+  },
+  "52df334b-5c19-4f98-8111-fb68b5c89610": {
+    "id": "52df334b-5c19-4f98-8111-fb68b5c89610",
+    "name": "école préparatoire de musique université du québec à montréal",
+    "site": "https://epm.uqam.ca"
+  },
+  "f636edf2-2912-4ce2-8a86-885d220d20f6": {
+    "id": "f636edf2-2912-4ce2-8a86-885d220d20f6",
+    "name": "l'église presbytérienne st. columba by-the-lake",
+    "site": "http://stcolumba.ca"
+  },
+  "87aab575-ae3a-4cfe-83bb-a5b04f4f48d4": {
+    "id": "87aab575-ae3a-4cfe-83bb-a5b04f4f48d4",
+    "name": "linda mailhot",
+    "site": "http://www.lindamailhot.ca"
+  },
+  "174778b9-ef60-4679-b471-14882602bba1": {
+    "id": "174778b9-ef60-4679-b471-14882602bba1",
+    "name": "manon lévesque",
+    "site": "http://manonlevesque.com"
+  },
+  "fce05363-6fec-42df-8006-7324864e6dc0": {
+    "id": "fce05363-6fec-42df-8006-7324864e6dc0",
+    "name": "montréal academy of music",
+    "site": "https://m.montrealacademy.com"
+  },
+  "3b70e7d7-1894-4da4-8767-426d6cf9b0e1": {
+    "id": "3b70e7d7-1894-4da4-8767-426d6cf9b0e1",
+    "name": "montréal guitar academy",
+    "site": "http://www.montrealguitaracademy.ca"
+  },
+  "1a7fc0be-b697-4f7a-96ec-0632bfade788": {
+    "id": "1a7fc0be-b697-4f7a-96ec-0632bfade788",
+    "name": "star système inc.",
+    "site": "http://www.starsysteme.net"
+  },
+  "6ac98f1f-db0d-43f7-9a0b-953208b2e0d8": {
+    "id": "6ac98f1f-db0d-43f7-9a0b-953208b2e0d8",
+    "name": "studio tre punti ateliers artistiques",
+    "site": "http://studiotrepunti.com"
+  },
+  "2e8464eb-0f10-4374-a5de-1b24e389a4b1": {
+    "id": "2e8464eb-0f10-4374-a5de-1b24e389a4b1",
+    "name": "studio vocal louis tremblay",
+    "site": "http://louis-tremblay.com"
+  },
+  "d4a083b8-687a-40f7-9bf2-bff0b9b55754": {
+    "id": "d4a083b8-687a-40f7-9bf2-bff0b9b55754",
+    "name": "wima",
+    "site": "https://westislandmusicacademy.com"
+  },
+  "3f4b760a-f754-4954-b9ad-f4d91d2b17fb": {
+    "id": "3f4b760a-f754-4954-b9ad-f4d91d2b17fb",
+    "name": "académie de musique ste-dorothée",
+    "site": "https://www.academiedemusiquestedorothee.com"
+  },
+  "2e63566f-bc07-4129-bc21-bcbabffc0943": {
+    "id": "2e63566f-bc07-4129-bc21-bcbabffc0943",
+    "name": "allegro musique",
+    "site": "https://www.allegromusique.ca"
+  },
+  "0485bed6-d8d4-44bb-a8be-748f8ef77fe8": {
+    "id": "0485bed6-d8d4-44bb-a8be-748f8ef77fe8",
+    "name": "camche studio",
+    "site": "http://www.camchestudio.ca"
+  },
+  "c782ec5b-1d12-47ee-9362-c1cd628332e2": {
+    "id": "c782ec5b-1d12-47ee-9362-c1cd628332e2",
+    "name": "le centre des arts de dollard",
+    "site": "https://centreartsdollard.com"
+  },
+  "e098cfea-09d6-49ce-a3ce-27e3472da45c": {
+    "id": "e098cfea-09d6-49ce-a3ce-27e3472da45c",
+    "name": "école de chant le cœur à chanter",
+    "site": "http://coeurachanter.com"
+  },
+  "ac0a210b-b6f0-42ca-82b8-cfe3f59274b8": {
+    "id": "ac0a210b-b6f0-42ca-82b8-cfe3f59274b8",
+    "name": "école de musique archambault",
+    "site": "https://www.archambault.ca"
+  },
+  "23e9c7b2-b1e8-4665-8e60-45d8794c829c": {
+    "id": "23e9c7b2-b1e8-4665-8e60-45d8794c829c",
+    "name": "école de musique de joliette",
+    "site": "http://www.ecoledemusiquejoliette.com"
+  },
+  "cbb834f7-8d19-45bb-ab88-0effafaf8a61": {
+    "id": "cbb834f7-8d19-45bb-ab88-0effafaf8a61",
+    "name": "école de musique fernand-lindsay",
+    "site": "http://www.ecoledemusique.org"
+  },
+  "bca6f595-774b-48ab-b294-b27c6d71e663": {
+    "id": "bca6f595-774b-48ab-b294-b27c6d71e663",
+    "name": "école de musique prélude",
+    "site": "http://ecoledemusiqueprelude.ca"
+  },
+  "eba48235-ce5a-4ffb-b7a7-6c9b5531fe85": {
+    "id": "eba48235-ce5a-4ffb-b7a7-6c9b5531fe85",
+    "name": "école québec musique",
+    "site": "https://ecolequebecmusique.com"
+  },
+  "b9c23a5f-d07a-44fb-8b92-0b321159ca02": {
+    "id": "b9c23a5f-d07a-44fb-8b92-0b321159ca02",
+    "name": "mcn productions",
+    "site": "http://www.mcnproductions.ca"
+  },
+  "93479855-a8ca-4b54-ac09-d8e74dd06a3e": {
+    "id": "93479855-a8ca-4b54-ac09-d8e74dd06a3e",
+    "name": "musilab",
+    "site": "http://musilab.com"
+  },
+  "4662392b-4ed8-4483-a9ff-1a7c07aa835f": {
+    "id": "4662392b-4ed8-4483-a9ff-1a7c07aa835f",
+    "name": "musique sur mesure",
+    "site": "http://www.musiquesurmesure.ca"
+  },
+  "04098582-5b40-4486-a898-a67eaa5527b2": {
+    "id": "04098582-5b40-4486-a898-a67eaa5527b2",
+    "name": "nantel musique",
+    "site": "http://www.nantelmusique.ca"
+  },
+  "c11c2a41-b03f-4d38-97d6-c656c09ee0a0": {
+    "id": "c11c2a41-b03f-4d38-97d6-c656c09ee0a0",
+    "name": "studio-écolde de chant a.r. vocal",
+    "site": "http://www.repertoirelanaudiere.qc.ca"
+  },
+  "7182fbd3-c4b3-4cc4-a62f-7b7f78f65af3": {
+    "id": "7182fbd3-c4b3-4cc4-a62f-7b7f78f65af3",
+    "name": "académie de musique le troubadour",
+    "site": "https://letroubadour.ca"
+  },
+  "e6a619da-899f-4b36-b47c-4252b0699de5": {
+    "id": "e6a619da-899f-4b36-b47c-4252b0699de5",
+    "name": "centre d'art de richmond",
+    "site": "https://centredartderichmond.ca"
+  },
+  "ea976128-67c8-415b-89aa-b2d079b7b3b8": {
+    "id": "ea976128-67c8-415b-89aa-b2d079b7b3b8",
+    "name": "centre de musique victor",
+    "site": "https://emvictor.com"
+  },
+  "6f51fceb-80b7-4742-9ff6-a1c515bc4b38": {
+    "id": "6f51fceb-80b7-4742-9ff6-a1c515bc4b38",
+    "name": "centre musical de blainville",
+    "site": "http://centremusicalblainville.com"
+  },
+  "d266a2cc-6b9b-41ea-85bf-664d08d1b847": {
+    "id": "d266a2cc-6b9b-41ea-85bf-664d08d1b847",
+    "name": "centre musical haute gamme",
+    "site": "https://www.hautegamme.net"
+  },
+  "1f983f5f-0b13-4d9c-a39b-9f3524f2e0c1": {
+    "id": "1f983f5f-0b13-4d9c-a39b-9f3524f2e0c1",
+    "name": "conservatoire de musique de l'estrie",
+    "site": "http://www.conservatoiremusiqueestrie.com"
+  },
+  "03e743c2-ad18-4b02-a2f3-76b6bfec53e7": {
+    "id": "03e743c2-ad18-4b02-a2f3-76b6bfec53e7",
+    "name": "dianorgues la rock shoppe",
+    "site": "http://www.dianorgues.com"
+  },
+  "b828b41a-3c77-4193-88a6-2b5c8a46adb4": {
+    "id": "b828b41a-3c77-4193-88a6-2b5c8a46adb4",
+    "name": "école de musique à la portée des sons",
+    "site": "https://www.facebook.com/alaporteedessons/"
+  },
+  "911ae388-0ce6-4b56-8df7-1370fcde0822": {
+    "id": "911ae388-0ce6-4b56-8df7-1370fcde0822",
+    "name": "école de musique jocelyne laberge",
+    "site": "http://ecoledemusiquejocelynelaberge.com"
+  },
+  "483e7010-3040-4031-a309-41ca4702bcc2": {
+    "id": "483e7010-3040-4031-a309-41ca4702bcc2",
+    "name": "école de musique josée fortin",
+    "site": "https://www.facebook.com/pages/category/music-lessons---instruction-school/école-de-musique-josée-fortin-342465559473660/"
+  },
+  "488bc32b-ba29-43a7-8362-8146287d6ede": {
+    "id": "488bc32b-ba29-43a7-8362-8146287d6ede",
+    "name": "école de musique la chasse galerie",
+    "site": "https://www.ecolechassegalerie.com"
+  },
+  "ee0a99a6-1175-4351-903f-a84686695312": {
+    "id": "ee0a99a6-1175-4351-903f-a84686695312",
+    "name": "école de musique oliver chagnon",
+    "site": "https://www.olivier-chagnon.com"
+  },
+  "a6b47385-1b54-4573-81c7-222f5e6386ed": {
+    "id": "a6b47385-1b54-4573-81c7-222f5e6386ed",
+    "name": "école de musique pianissimo",
+    "site": "https://www.pianissimo.qc.ca"
+  },
+  "5c0e14c9-5671-4c06-85ed-ad6b1f6a5438": {
+    "id": "5c0e14c9-5671-4c06-85ed-ad6b1f6a5438",
+    "name": "m-lab, école de musique",
+    "site": "http://m-lab.ca"
+  },
+  "776c78c6-09dd-40b3-8b83-5d76112effaf": {
+    "id": "776c78c6-09dd-40b3-8b83-5d76112effaf",
+    "name": "les productions alfred",
+    "site": "http://productionsalfred.com"
+  },
+  "9872fb52-df07-4450-a847-6f35cd510abc": {
+    "id": "9872fb52-df07-4450-a847-6f35cd510abc",
+    "name": "la voix de la réussite! audio shop complexe 132",
+    "site": "http://www.complexemusical132.com"
+  },
+  "f0b0cd6a-6a7a-4a13-9a37-8d0015f9c673": {
+    "id": "f0b0cd6a-6a7a-4a13-9a37-8d0015f9c673",
+    "name": "akro-chant",
+    "site": "https://www.facebook.com/akro.chant.2012/"
+  },
+  "2991ef1f-0e18-4ea0-87f0-591866350a17": {
+    "id": "2991ef1f-0e18-4ea0-87f0-591866350a17",
+    "name": "centre musical en sol mineur",
+    "site": "http://ensolmineur.ca"
+  },
+  "8ae5ce7a-54f4-41f6-a0d1-e5e082eb310e": {
+    "id": "8ae5ce7a-54f4-41f6-a0d1-e5e082eb310e",
+    "name": "école de chant la voix libre",
+    "site": "http://www.coursdechantgatineau.ca"
+  },
+  "fe0b80f1-4594-40d4-b7a8-d8b5209338ec": {
+    "id": "fe0b80f1-4594-40d4-b7a8-d8b5209338ec",
+    "name": "école de musique côte-nord inc.",
+    "site": "http://www.emcn.org"
+  },
+  "2aba735e-4474-489c-b952-302d9f245953": {
+    "id": "2aba735e-4474-489c-b952-302d9f245953",
+    "name": "école de musique de chicoutimi",
+    "site": "http://www.ecoledemusiquechicoutimi.com"
+  },
+  "843dc594-ecc2-46a1-8d0f-06e5b5da8863": {
+    "id": "843dc594-ecc2-46a1-8d0f-06e5b5da8863",
+    "name": "école de musique denys-arcand",
+    "site": "https://www.emda.art"
+  },
+  "01810952-bab3-4107-bd60-f41ad0a8ec4c": {
+    "id": "01810952-bab3-4107-bd60-f41ad0a8ec4c",
+    "name": "école de musique de la baie",
+    "site": "http://www.ecoledemusiquelabaie.ca"
+  },
+  "9abc8dba-9c3a-479d-a297-9f6af3afe176": {
+    "id": "9abc8dba-9c3a-479d-a297-9f6af3afe176",
+    "name": "école de musique de l'outaouais inc.",
+    "site": "https://www.ecoledemusiqueoutaouais.qc.ca"
+  },
+  "24504102-65f8-4518-bf34-8f9069c5f270": {
+    "id": "24504102-65f8-4518-bf34-8f9069c5f270",
+    "name": "école de musique de matane inc.",
+    "site": "http://ecolemusiquematane.com"
+  },
+  "2f9d8724-c593-4d49-a2fc-2810e5064cf9": {
+    "id": "2f9d8724-c593-4d49-a2fc-2810e5064cf9",
+    "name": "école de musique du bas-saint-laurent",
+    "site": "http://embsl.org"
+  },
+  "b22708cc-8028-478e-ab3f-969f80ff4edb": {
+    "id": "b22708cc-8028-478e-ab3f-969f80ff4edb",
+    "name": "école de musique sonart",
+    "site": "http://sonartmusique.com"
+  },
+  "1728e22d-c8fc-42cc-a8ae-a59391cd4a45": {
+    "id": "1728e22d-c8fc-42cc-a8ae-a59391cd4a45",
+    "name": "l'école musique adagio",
+    "site": "http://www.musiqueadagio.ca"
+  },
+  "89962f03-919b-4c3b-999b-859ff9b94a2f": {
+    "id": "89962f03-919b-4c3b-999b-859ff9b94a2f",
+    "name": "école musicale chaudière-appalaches",
+    "site": "https://ecolemusicale.com"
+  },
+  "cd5d8b41-61e4-4221-94c9-f0b758340b50": {
+    "id": "cd5d8b41-61e4-4221-94c9-f0b758340b50",
+    "name": "odette beaupré",
+    "site": "https://www.facebook.com/pages/category/art-school/voix-multiples-odette-beaupre-595138480636877/"
+  },
+  "928cbcfd-c745-4be0-980f-5be7e4487735": {
+    "id": "928cbcfd-c745-4be0-980f-5be7e4487735",
+    "name": "songe s'été en musique école et festival",
+    "site": "http://www.midsummermusiquebec.com"
+  },
+  "853d0ff8-f0dd-43c9-9411-b2860a6106fe": {
+    "id": "853d0ff8-f0dd-43c9-9411-b2860a6106fe",
+    "name": "12 string studios",
+    "site": "http://www.12stringstudios.com"
+  },
+  "5a142eac-5c6e-4b56-befa-65e01ce523a9": {
+    "id": "5a142eac-5c6e-4b56-befa-65e01ce523a9",
+    "name": "glenna switzer",
+    "site": "http://glenna.ca"
+  },
+  "dbcccc48-8c23-4355-9fd3-6877c354484e": {
+    "id": "dbcccc48-8c23-4355-9fd3-6877c354484e",
+    "name": "hawk's nest studio",
+    "site": "https://hawksnestmusicstudio.weebly.com"
+  },
+  "48f3f4f4-55a6-45eb-bdcb-0af466ecec6a": {
+    "id": "48f3f4f4-55a6-45eb-bdcb-0af466ecec6a",
+    "name": "music in the house",
+    "site": "https://www.musicinthehouse.ca"
+  },
+  "45a0078c-5b23-4a9f-bc28-595c88e361c6": {
+    "id": "45a0078c-5b23-4a9f-bc28-595c88e361c6",
+    "name": "music note studio",
+    "site": "http://www.talentcanbetaught.com"
+  },
+  "2a3cdc4b-6903-4e69-a410-f15e2baddb21": {
+    "id": "2a3cdc4b-6903-4e69-a410-f15e2baddb21",
+    "name": "prairie songstress music",
+    "site": "http://www.prairiesongstress.com"
+  },
+  "f3859a46-e836-49a7-85fd-ce686e58a757": {
+    "id": "f3859a46-e836-49a7-85fd-ce686e58a757",
+    "name": "saskatoon academy of music",
+    "site": "http://www.saskatoonacademyofmusic.com"
+  },
+  "eff2b163-5522-49c9-b353-c278e2ae35be": {
+    "id": "eff2b163-5522-49c9-b353-c278e2ae35be",
+    "name": "saskatoon conservatory of music",
+    "site": "http://www.saskatoonconservatory.ca"
+  },
+  "3673448f-dfd3-4f00-912c-3d8dfb6556dc": {
+    "id": "3673448f-dfd3-4f00-912c-3d8dfb6556dc",
+    "name": "sing like a star",
+    "site": "https://www.singlikeastar.ca"
+  },
+  "5930a755-1cca-4a34-98e7-022db7ecbdb7": {
+    "id": "5930a755-1cca-4a34-98e7-022db7ecbdb7",
+    "name": "summer school for the solo voice",
+    "site": "http://www.summerschoolforthesolovoice.com"
+  },
+  "b3b3c19c-b146-4aa2-a372-209a17082547": {
+    "id": "b3b3c19c-b146-4aa2-a372-209a17082547",
+    "name": "university of regina conservatory of performing arts",
+    "site": "https://www.uregina.ca"
+  }
+}

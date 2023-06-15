@@ -1,4 +1,4 @@
-import { allPrograms } from "./allSchools.js";
+import { allPrograms } from "./allCaptured.js";
 import { v4 as uuidv4 } from "uuid";
 import fs from "fs/promises";
 
@@ -13,22 +13,28 @@ allDisciplines.forEach((item) => {
     provinces.forEach((prov) => {
       allPrograms[item][type][prov].forEach((entry) => {
         let { city, province, area } = entry;
-        if (!area || area === "Other") {
+        if (!area) {
+          area = city;
+        }
+        if (area === "Other") {
           area = province;
         }
-        city.toLowerCase();
-        province.toLowerCase();
-        area.toLowerCase();
-        if (!Object.values(allCities).some((item) => item.city === city)) {
+        const lowerCity = city.toLowerCase();
+        const lowerProv = province.toLowerCase();
+        const lowerArea = area.toLowerCase();
+        if (!Object.values(allCities).some((item) => item.city === lowerCity)) {
           const newID = uuidv4();
-          allCities[newID] = { id: newID, city, province, area };
+          allCities[newID] = {
+            id: newID,
+            city: lowerCity,
+            province: lowerProv,
+            area: lowerArea,
+          };
         }
       });
     });
   });
 });
-
-// console.log(allCities);
 
 let dataJSON = JSON.stringify(allCities);
 
