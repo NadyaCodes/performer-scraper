@@ -1,1 +1,29 @@
-[{"city":"Brandon","name":"Brandon University","website":"https://www.brandonu.ca","programs":["Bachelor of Arts in Creative Arts (Drama)","Minor in Drama"],"province":"Manitoba","alts":["Singing"]},{"city":"Winnipeg","name":"University of Manitoba","website":"http://umanitoba.ca","programs":["Bachelor of Arts in Theatre","Bachelor of Arts in Theatre, Advanced","Bachelor of Arts Minor Theatre"],"province":"Manitoba","alts":["Singing"]},{"city":"Winnipeg","name":"University of Winnipeg","website":"https://www.uwinnipeg.ca","programs":["Bachelor of Arts in Acting and Direction"],"province":"Manitoba"}]
+[
+  {
+    "city": "Brandon",
+    "name": "Brandon University",
+    "website": "https://www.brandonu.ca",
+    "programs": ["Bachelor of Arts in Creative Arts (Drama)", "Minor in Drama"],
+    "province": "Manitoba",
+    "alts": ["Singing"]
+  },
+  {
+    "city": "Winnipeg",
+    "name": "University of Manitoba",
+    "website": "http://umanitoba.ca",
+    "programs": [
+      "Bachelor of Arts in Theatre",
+      "Bachelor of Arts in Theatre, Advanced",
+      "Bachelor of Arts Minor Theatre"
+    ],
+    "province": "Manitoba",
+    "alts": ["Singing"]
+  },
+  {
+    "city": "Winnipeg",
+    "name": "University of Winnipeg",
+    "website": "https://www.uwinnipeg.ca",
+    "programs": ["Bachelor of Arts in Acting and Direction"],
+    "province": "Manitoba"
+  }
+]

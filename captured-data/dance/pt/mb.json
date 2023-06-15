@@ -1,1 +1,135 @@
-[{"city":"Bracebridge","name":"Bracebridge School of Ballet","website":"http://www.bracebridgeschoolofballet.ca","province":"Manitoba","area":"Manitoba"},{"city":"Brandon","name":"Brandon School of Dance","website":"https://brandonschoolofdance.ca","province":"Manitoba","area":"Manitoba"},{"city":"Winnipeg","name":"Dance with Genie","website":"http://www.dancewgenie.com","province":"Manitoba","area":"Manitoba"},{"city":"Morden","name":"Dance Works","website":"https://candlewick.ca/danceworks","province":"Manitoba","area":"Manitoba"},{"city":"Winnipeg","name":"Drop In Dance Winnipeg","website":"https://www.dropindancewpg.com","province":"Manitoba","area":"Manitoba"},{"city":"Selkirk","name":"Evolution Dance Company","website":"https://www.evolutiondance.ca","province":"Manitoba","area":"Manitoba"},{"city":"Winnipeg","name":"Institute of Dance","website":"https://www.instituteofdancemb.com","province":"Manitoba","area":"Manitoba"},{"city":"Winnipeg","name":"Kids Etc. Youth Movement Co.","website":"http://wpgkidsetc.com","province":"Manitoba","area":"Manitoba"},{"city":"Winnipeg","name":"LD Dance Academy","website":"http://www.ladanceacademy.com","province":"Manitoba","area":"Manitoba"},{"city":"Winnipeg","name":"Manitoba Great Wall Performing Arts Inc.","website":"https://www.manitobagreatwall.com/","province":"Manitoba","area":"Manitoba"},{"city":"Steinbach","name":"Marquis Dance Academy","website":"http://www.marquisdance.ca","province":"Manitoba","area":"Manitoba"},{"city":"Winnipeg","name":"Marquis Dance Academy","website":"http://www.marquisdance.ca","province":"Manitoba","area":"Manitoba"},{"city":"Winnipeg","name":"McConnell Irish Dancers","website":"http://mcconnelldancers.com","province":"Manitoba","area":"Manitoba"},{"city":"Winnipeg","name":"Royal Dance at the Forks","website":"http://danceforks.ca/wp/","province":"Manitoba","area":"Manitoba"},{"city":"Winnipeg","name":"School of Contemporary Dancers","website":"http://schoolofcontemporarydancers.ca","province":"Manitoba","area":"Manitoba"},{"city":"Oakbank","name":"The SPACE","website":"http://www.sunriseperformingarts.ca/","province":"Manitoba","area":"Manitoba"},{"city":"Brandon","name":"Steppin' Time Dance Studio","website":"https://www.steppintime.com","province":"Manitoba","area":"Manitoba"},{"city":"Winnipeg","name":"Ted Motyka Dance Studio","website":"http://www.teddancestudio.com","province":"Manitoba","area":"Manitoba"},{"city":"Winnipeg","name":"Theatre Dance Centre","website":"http://www.theatredancectr.com","province":"Manitoba","area":"Manitoba"}]
+[
+  {
+    "city": "Bracebridge",
+    "name": "Bracebridge School of Ballet",
+    "website": "http://www.bracebridgeschoolofballet.ca",
+    "province": "Manitoba",
+    "area": "Manitoba"
+  },
+  {
+    "city": "Brandon",
+    "name": "Brandon School of Dance",
+    "website": "https://brandonschoolofdance.ca",
+    "province": "Manitoba",
+    "area": "Manitoba"
+  },
+  {
+    "city": "Winnipeg",
+    "name": "Dance with Genie",
+    "website": "http://www.dancewgenie.com",
+    "province": "Manitoba",
+    "area": "Manitoba"
+  },
+  {
+    "city": "Morden",
+    "name": "Dance Works",
+    "website": "https://candlewick.ca/danceworks",
+    "province": "Manitoba",
+    "area": "Manitoba"
+  },
+  {
+    "city": "Winnipeg",
+    "name": "Drop In Dance Winnipeg",
+    "website": "https://www.dropindancewpg.com",
+    "province": "Manitoba",
+    "area": "Manitoba"
+  },
+  {
+    "city": "Selkirk",
+    "name": "Evolution Dance Company",
+    "website": "https://www.evolutiondance.ca",
+    "province": "Manitoba",
+    "area": "Manitoba"
+  },
+  {
+    "city": "Winnipeg",
+    "name": "Institute of Dance",
+    "website": "https://www.instituteofdancemb.com",
+    "province": "Manitoba",
+    "area": "Manitoba"
+  },
+  {
+    "city": "Winnipeg",
+    "name": "Kids Etc. Youth Movement Co.",
+    "website": "http://wpgkidsetc.com",
+    "province": "Manitoba",
+    "area": "Manitoba"
+  },
+  {
+    "city": "Winnipeg",
+    "name": "LD Dance Academy",
+    "website": "http://www.ladanceacademy.com",
+    "province": "Manitoba",
+    "area": "Manitoba"
+  },
+  {
+    "city": "Winnipeg",
+    "name": "Manitoba Great Wall Performing Arts Inc.",
+    "website": "https://www.manitobagreatwall.com/",
+    "province": "Manitoba",
+    "area": "Manitoba"
+  },
+  {
+    "city": "Steinbach",
+    "name": "Marquis Dance Academy",
+    "website": "http://www.marquisdance.ca",
+    "province": "Manitoba",
+    "area": "Manitoba"
+  },
+  {
+    "city": "Winnipeg",
+    "name": "Marquis Dance Academy",
+    "website": "http://www.marquisdance.ca",
+    "province": "Manitoba",
+    "area": "Manitoba"
+  },
+  {
+    "city": "Winnipeg",
+    "name": "McConnell Irish Dancers",
+    "website": "http://mcconnelldancers.com",
+    "province": "Manitoba",
+    "area": "Manitoba"
+  },
+  {
+    "city": "Winnipeg",
+    "name": "Royal Dance at the Forks",
+    "website": "http://danceforks.ca/wp/",
+    "province": "Manitoba",
+    "area": "Manitoba"
+  },
+  {
+    "city": "Winnipeg",
+    "name": "School of Contemporary Dancers",
+    "website": "http://schoolofcontemporarydancers.ca",
+    "province": "Manitoba",
+    "area": "Manitoba"
+  },
+  {
+    "city": "Oakbank",
+    "name": "The SPACE",
+    "website": "http://www.sunriseperformingarts.ca/",
+    "province": "Manitoba",
+    "area": "Manitoba"
+  },
+  {
+    "city": "Brandon",
+    "name": "Steppin' Time Dance Studio",
+    "website": "https://www.steppintime.com",
+    "province": "Manitoba",
+    "area": "Manitoba"
+  },
+  {
+    "city": "Winnipeg",
+    "name": "Ted Motyka Dance Studio",
+    "website": "http://www.teddancestudio.com",
+    "province": "Manitoba",
+    "area": "Manitoba"
+  },
+  {
+    "city": "Winnipeg",
+    "name": "Theatre Dance Centre",
+    "website": "http://www.theatredancectr.com",
+    "province": "Manitoba",
+    "area": "Manitoba"
+  }
+]

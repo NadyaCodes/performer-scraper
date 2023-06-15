@@ -1,1 +1,47 @@
-[{"city":"Regina","name":"Campion College","website":"http://campioncollege.ca","programs":["Bachelor of Arts in Theatre"],"province":"Saskatchewan","alts":["Singing"]},{"city":"Regina","name":"University of Regina","website":"https://urconnected.uregina.ca/index.do","programs":["Bachelor of Arts: General Studio","Bachelor of Arts in Theatre & Performance: Acting Concentration"],"province":"Saskatchewan","alts":["Singing"]},{"city":"Regina","name":"University of Regina, Luther College","website":"https://www.luthercollege.edu/university/","programs":["Bachelor of Arts in Theatre and Performance","Bachelor of Arts Honours in Theatre and Performance","Bachelor of Fine Arts in Theatre and Performance"],"province":"Saskatchewan","alts":["Singing"]},{"city":"Saskatoon","name":"University of Saskatchewan","website":"https://www.usask.ca","programs":["Bachelor of Arts (Four-year and Three-year) in Drama","Bachelor of Arts Honours in Drama","Bachelor of Arts Double Honours in Drama","Bachelor of Fine Arts Honours in Drama","wîcêhtowin: Aboriginal Theatre Program"],"province":"Saskatchewan","alts":["Singing"]}]
+[
+  {
+    "city": "Regina",
+    "name": "Campion College",
+    "website": "http://campioncollege.ca",
+    "programs": ["Bachelor of Arts in Theatre"],
+    "province": "Saskatchewan",
+    "alts": ["Singing"]
+  },
+  {
+    "city": "Regina",
+    "name": "University of Regina",
+    "website": "https://urconnected.uregina.ca/index.do",
+    "programs": [
+      "Bachelor of Arts: General Studio",
+      "Bachelor of Arts in Theatre & Performance: Acting Concentration"
+    ],
+    "province": "Saskatchewan",
+    "alts": ["Singing"]
+  },
+  {
+    "city": "Regina",
+    "name": "University of Regina, Luther College",
+    "website": "https://www.luthercollege.edu/university/",
+    "programs": [
+      "Bachelor of Arts in Theatre and Performance",
+      "Bachelor of Arts Honours in Theatre and Performance",
+      "Bachelor of Fine Arts in Theatre and Performance"
+    ],
+    "province": "Saskatchewan",
+    "alts": ["Singing"]
+  },
+  {
+    "city": "Saskatoon",
+    "name": "University of Saskatchewan",
+    "website": "https://www.usask.ca",
+    "programs": [
+      "Bachelor of Arts (Four-year and Three-year) in Drama",
+      "Bachelor of Arts Honours in Drama",
+      "Bachelor of Arts Double Honours in Drama",
+      "Bachelor of Fine Arts Honours in Drama",
+      "wîcêhtowin: Aboriginal Theatre Program"
+    ],
+    "province": "Saskatchewan",
+    "alts": ["Singing"]
+  }
+]

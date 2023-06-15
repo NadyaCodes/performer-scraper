@@ -1,1 +1,10 @@
-[{"city":"Charlottetown","name":"Holland College School of Performing Arts","website":"http://www.hollandcollege.com/school-of-performing-arts/","programs":["Dance Performance"],"province":"PEI","alts":["Acting","Singing","Musical Theatre"]}]
+[
+  {
+    "city": "Charlottetown",
+    "name": "Holland College School of Performing Arts",
+    "website": "http://www.hollandcollege.com/school-of-performing-arts/",
+    "programs": ["Dance Performance"],
+    "province": "PEI",
+    "alts": ["Acting", "Singing", "Musical Theatre"]
+  }
+]

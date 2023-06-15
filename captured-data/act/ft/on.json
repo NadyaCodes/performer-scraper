@@ -1,1 +1,294 @@
-[{"city":"Ottawa","name":"Algonquin College","website":"http://www.algonquincollege.com","programs":["Performing Arts Certificate"],"province":"Ontario","alts":["Singing"]},{"city":"St. Catharines","name":"Brock University","website":"https://brocku.ca","programs":["Bachelor of Arts Honours in Dramatic Arts","Certificate Program in Drama in Education and Applied Theatre","Minor in Dramatic Arts"],"province":"Ontario","alts":["Singing"]},{"city":"Toronto","name":"Canadian Film Centre","website":"http://www.cfccreates.com","programs":["CBC Actors Conservatory"],"province":"Ontario"},{"city":"North Bay","name":"Canadore College","website":"https://www.canadorecollege.ca","programs":["Acting for Stage and Screen"],"province":"Ontario"},{"city":"Toronto","name":"Centennial College","website":"https://www.centennialcollege.ca","programs":["Theatre Arts and Performance","Performing Arts Fundamentals"],"province":"Ontario","alts":["Singing","Dancing","Musical Theatre"]},{"city":"Toronto","name":"Centre for Indigenous Theatre","website":"https://www.indigenoustheatre.com/","programs":["3- and 4-year Conservatory Training Program"],"province":"Ontario","alts":["Singing","Dancing","Musical Theatre"]},{"city":"London","name":"Fanshawe College","website":"https://www.fanshawec.ca","programs":["Theatre Arts: Performance"],"province":"Ontario"},{"city":"Toronto","name":"George Brown College","website":"https://www.georgebrown.ca","programs":["Theatre Arts: Preparation Program","Theatre Arts: Performance","Acting for Media"],"province":"Ontario","alts":["Dancing"]},{"city":"Toronto","name":"Glendon College","website":"http://www.glendon.yorku.ca","programs":["Drama Studies:","Specialized Honours Bachelor of Arts / International Bachelor of Arts","Honours Bachelor of Arts / International Bachelor of Arts","Honours Double Major Bachelor of Arts / International Bachelor of Arts","Honours Major / Minor Bachelor of Arts / International Bachelor of Arts","Honours Minor Bachelor of Arts","Bachelor of Arts"],"province":"Ontario"},{"city":"Toronto","name":"Humber College","website":"http://humber.ca","programs":["Acting for Film and Television","Comedy: Writing and Performance","Theatre Arts: Performance"],"province":"Ontario","alts":["Singing"]},{"city":"Sudbury","name":"Laurentian University","website":"https://laurentian.ca","programs":["Bachelor of Fine Arts Specialization in Theatre Performance","Minor in Theatre","Bachelor of Arts Concentration in Theatre Arts","Specialization in Theatre Arts","Major in Theatre Arts","Minor in Theatre","Certificate in Theatre Arts"],"province":"Ontario","alts":["Singing"]},{"city":"Hamilton","name":"McMaster University","website":"http://www.mcmaster.ca","programs":["Bachelor of Arts Honours Theatre and Film Studies","Bachelor of Arts Combined in Theatre and Film Studies and Another Subject","Bachelor of Arts Theatre and Film Studies","Minor in Theatre & Film Studies"],"province":"Ontario","alts":["Singing"]},{"city":"Welland","name":"Niagara College","website":"http://www.niagaracollege.ca","programs":["Acting for Film and Television Diploma"],"province":"Ontario"},{"city":"Kingston","name":"Queens University","website":"http://www.queensu.ca/","programs":["Bachelor of Arts: Drama","Stage and Screen Studies"],"province":"Ontario","alts":["Singing","Musical Theatre"]},{"city":"Hamilton","name":"Redeemer University College","website":"https://www.redeemer.ca","programs":["Bachelor of Arts in Theatre Arts: Performance","Minor in Theatre Arts: Performance","Bachelor in Theatre Arts","Minor in Theatre Arts","Minor in Dramatic Arts"],"province":"Ontario","alts":["Singing"]},{"city":"Toronto","name":"Ryerson University","website":"https://www.ryerson.ca","programs":["Bachelor of Fine Arts Performance: Acting"],"province":"Ontario","alts":["Dancing"]},{"city":"Oakville","name":"Sheridan","website":"https://www.sheridancollege.ca/","programs":["Theatre and Drama Studies (Bachelor of Arts)"],"province":"Ontario","alts":["Musical Theatre"]},{"city":"Toronto","name":"Seneca","website":"http://www.senecacollege.ca/home.html","programs":["Acting for Camera and Voice"],"province":"Ontario","alts":["Singing"]},{"city":"Toronto","name":"Toronto Film School","website":"http://www.torontofilmschool.ca","programs":["Acting for Film TV and the Theatre Diploma"],"province":"Ontario"},{"city":"Guelph","name":"University of Guelph","website":"https://www.uoguelph.ca","programs":["Bachelor of Arts in Theatre Studies","Minor in Theatre Studies"],"province":"Ontario","alts":["Singing"]},{"city":"Ottawa","name":"University of Ottawa","website":"https://www.uottawa.ca/en","programs":["Honours Bachelor of Arts in Theatre","Major in Theatre","Minor in Theatre"],"province":"Ontario","alts":["Singing"]},{"city":"Toronto","name":"University of Toronto","website":"https://www.utoronto.ca","programs":["Honours Bachelor of Arts in Drama","Specialist in Drama","Major in Drama","Minor in Drama"],"province":"Ontario","alts":["Singing"]},{"city":"Mississauga","name":"University of Toronto, Mississauga","website":"http://www.utm.utoronto.ca","programs":["Theatre and Drama Studies Specialist (joint program with Sheridan)","Theatre, Drama and Performance Studies Major","Theatre, Drama and Performance Studies Minor"],"province":"Ontario"},{"city":"Scarborough","name":"University of Toronto, Scarborough","website":"http://www.utsc.utoronto.ca/home/","programs":["Theatre and Performance Studies: Major","Theatre and Performance Studies: Minor"],"province":"Ontario"},{"city":"Waterloo","name":"University of Waterloo","website":"https://uwaterloo.ca","programs":["Bachelor of Arts Honours Theatre and Performance","Joint Honours Theatre and Performance","Minor in Theatre and Performance"],"province":"Ontario","alts":["Singing"]},{"city":"London","name":"University of Western Ontario","website":"http://www.uwo.ca","programs":["Bachelor of Arts Major in Theatre Studies","Minor in Theatre Studies","Certificate in Theatre Arts"],"province":"Ontario","alts":["Singing","Dancing"]},{"city":"Windsor","name":"University of Windsor","website":"http://www.uwindsor.ca","programs":["Bachelor of Fine Arts in Acting","Bachelor of Arts in Dramatic Art","Bachelor of Arts in Drama and Communication, Media and Film"],"province":"Ontario","alts":["Singing"]},{"city":"Toronto","name":"York University","website":"http://www.yorku.ca/index.html","programs":["Bachelor of Arts Honours Theatre Studies","Bachelor of Fine Arts Honours Acting Conservatory"],"province":"Ontario","alts":["Singing","Dancing"]}]
+[
+  {
+    "city": "Ottawa",
+    "name": "Algonquin College",
+    "website": "http://www.algonquincollege.com",
+    "programs": ["Performing Arts Certificate"],
+    "province": "Ontario",
+    "alts": ["Singing"]
+  },
+  {
+    "city": "St. Catharines",
+    "name": "Brock University",
+    "website": "https://brocku.ca",
+    "programs": [
+      "Bachelor of Arts Honours in Dramatic Arts",
+      "Certificate Program in Drama in Education and Applied Theatre",
+      "Minor in Dramatic Arts"
+    ],
+    "province": "Ontario",
+    "alts": ["Singing"]
+  },
+  {
+    "city": "Toronto",
+    "name": "Canadian Film Centre",
+    "website": "http://www.cfccreates.com",
+    "programs": ["CBC Actors Conservatory"],
+    "province": "Ontario"
+  },
+  {
+    "city": "North Bay",
+    "name": "Canadore College",
+    "website": "https://www.canadorecollege.ca",
+    "programs": ["Acting for Stage and Screen"],
+    "province": "Ontario"
+  },
+  {
+    "city": "Toronto",
+    "name": "Centennial College",
+    "website": "https://www.centennialcollege.ca",
+    "programs": [
+      "Theatre Arts and Performance",
+      "Performing Arts Fundamentals"
+    ],
+    "province": "Ontario",
+    "alts": ["Singing", "Dancing", "Musical Theatre"]
+  },
+  {
+    "city": "Toronto",
+    "name": "Centre for Indigenous Theatre",
+    "website": "https://www.indigenoustheatre.com/",
+    "programs": ["3- and 4-year Conservatory Training Program"],
+    "province": "Ontario",
+    "alts": ["Singing", "Dancing", "Musical Theatre"]
+  },
+  {
+    "city": "London",
+    "name": "Fanshawe College",
+    "website": "https://www.fanshawec.ca",
+    "programs": ["Theatre Arts: Performance"],
+    "province": "Ontario"
+  },
+  {
+    "city": "Toronto",
+    "name": "George Brown College",
+    "website": "https://www.georgebrown.ca",
+    "programs": [
+      "Theatre Arts: Preparation Program",
+      "Theatre Arts: Performance",
+      "Acting for Media"
+    ],
+    "province": "Ontario",
+    "alts": ["Dancing"]
+  },
+  {
+    "city": "Toronto",
+    "name": "Glendon College",
+    "website": "http://www.glendon.yorku.ca",
+    "programs": [
+      "Drama Studies:",
+      "Specialized Honours Bachelor of Arts / International Bachelor of Arts",
+      "Honours Bachelor of Arts / International Bachelor of Arts",
+      "Honours Double Major Bachelor of Arts / International Bachelor of Arts",
+      "Honours Major / Minor Bachelor of Arts / International Bachelor of Arts",
+      "Honours Minor Bachelor of Arts",
+      "Bachelor of Arts"
+    ],
+    "province": "Ontario"
+  },
+  {
+    "city": "Toronto",
+    "name": "Humber College",
+    "website": "http://humber.ca",
+    "programs": [
+      "Acting for Film and Television",
+      "Comedy: Writing and Performance",
+      "Theatre Arts: Performance"
+    ],
+    "province": "Ontario",
+    "alts": ["Singing"]
+  },
+  {
+    "city": "Sudbury",
+    "name": "Laurentian University",
+    "website": "https://laurentian.ca",
+    "programs": [
+      "Bachelor of Fine Arts Specialization in Theatre Performance",
+      "Minor in Theatre",
+      "Bachelor of Arts Concentration in Theatre Arts",
+      "Specialization in Theatre Arts",
+      "Major in Theatre Arts",
+      "Minor in Theatre",
+      "Certificate in Theatre Arts"
+    ],
+    "province": "Ontario",
+    "alts": ["Singing"]
+  },
+  {
+    "city": "Hamilton",
+    "name": "McMaster University",
+    "website": "http://www.mcmaster.ca",
+    "programs": [
+      "Bachelor of Arts Honours Theatre and Film Studies",
+      "Bachelor of Arts Combined in Theatre and Film Studies and Another Subject",
+      "Bachelor of Arts Theatre and Film Studies",
+      "Minor in Theatre & Film Studies"
+    ],
+    "province": "Ontario",
+    "alts": ["Singing"]
+  },
+  {
+    "city": "Welland",
+    "name": "Niagara College",
+    "website": "http://www.niagaracollege.ca",
+    "programs": ["Acting for Film and Television Diploma"],
+    "province": "Ontario"
+  },
+  {
+    "city": "Kingston",
+    "name": "Queens University",
+    "website": "http://www.queensu.ca/",
+    "programs": ["Bachelor of Arts: Drama", "Stage and Screen Studies"],
+    "province": "Ontario",
+    "alts": ["Singing", "Musical Theatre"]
+  },
+  {
+    "city": "Hamilton",
+    "name": "Redeemer University College",
+    "website": "https://www.redeemer.ca",
+    "programs": [
+      "Bachelor of Arts in Theatre Arts: Performance",
+      "Minor in Theatre Arts: Performance",
+      "Bachelor in Theatre Arts",
+      "Minor in Theatre Arts",
+      "Minor in Dramatic Arts"
+    ],
+    "province": "Ontario",
+    "alts": ["Singing"]
+  },
+  {
+    "city": "Toronto",
+    "name": "Ryerson University",
+    "website": "https://www.ryerson.ca",
+    "programs": ["Bachelor of Fine Arts Performance: Acting"],
+    "province": "Ontario",
+    "alts": ["Dancing"]
+  },
+  {
+    "city": "Oakville",
+    "name": "Sheridan",
+    "website": "https://www.sheridancollege.ca/",
+    "programs": ["Theatre and Drama Studies (Bachelor of Arts)"],
+    "province": "Ontario",
+    "alts": ["Musical Theatre"]
+  },
+  {
+    "city": "Toronto",
+    "name": "Seneca",
+    "website": "http://www.senecacollege.ca/home.html",
+    "programs": ["Acting for Camera and Voice"],
+    "province": "Ontario",
+    "alts": ["Singing"]
+  },
+  {
+    "city": "Toronto",
+    "name": "Toronto Film School",
+    "website": "http://www.torontofilmschool.ca",
+    "programs": ["Acting for Film TV and the Theatre Diploma"],
+    "province": "Ontario"
+  },
+  {
+    "city": "Guelph",
+    "name": "University of Guelph",
+    "website": "https://www.uoguelph.ca",
+    "programs": [
+      "Bachelor of Arts in Theatre Studies",
+      "Minor in Theatre Studies"
+    ],
+    "province": "Ontario",
+    "alts": ["Singing"]
+  },
+  {
+    "city": "Ottawa",
+    "name": "University of Ottawa",
+    "website": "https://www.uottawa.ca/en",
+    "programs": [
+      "Honours Bachelor of Arts in Theatre",
+      "Major in Theatre",
+      "Minor in Theatre"
+    ],
+    "province": "Ontario",
+    "alts": ["Singing"]
+  },
+  {
+    "city": "Toronto",
+    "name": "University of Toronto",
+    "website": "https://www.utoronto.ca",
+    "programs": [
+      "Honours Bachelor of Arts in Drama",
+      "Specialist in Drama",
+      "Major in Drama",
+      "Minor in Drama"
+    ],
+    "province": "Ontario",
+    "alts": ["Singing"]
+  },
+  {
+    "city": "Mississauga",
+    "name": "University of Toronto, Mississauga",
+    "website": "http://www.utm.utoronto.ca",
+    "programs": [
+      "Theatre and Drama Studies Specialist (joint program with Sheridan)",
+      "Theatre, Drama and Performance Studies Major",
+      "Theatre, Drama and Performance Studies Minor"
+    ],
+    "province": "Ontario"
+  },
+  {
+    "city": "Scarborough",
+    "name": "University of Toronto, Scarborough",
+    "website": "http://www.utsc.utoronto.ca/home/",
+    "programs": [
+      "Theatre and Performance Studies: Major",
+      "Theatre and Performance Studies: Minor"
+    ],
+    "province": "Ontario"
+  },
+  {
+    "city": "Waterloo",
+    "name": "University of Waterloo",
+    "website": "https://uwaterloo.ca",
+    "programs": [
+      "Bachelor of Arts Honours Theatre and Performance",
+      "Joint Honours Theatre and Performance",
+      "Minor in Theatre and Performance"
+    ],
+    "province": "Ontario",
+    "alts": ["Singing"]
+  },
+  {
+    "city": "London",
+    "name": "University of Western Ontario",
+    "website": "http://www.uwo.ca",
+    "programs": [
+      "Bachelor of Arts Major in Theatre Studies",
+      "Minor in Theatre Studies",
+      "Certificate in Theatre Arts"
+    ],
+    "province": "Ontario",
+    "alts": ["Singing", "Dancing"]
+  },
+  {
+    "city": "Windsor",
+    "name": "University of Windsor",
+    "website": "http://www.uwindsor.ca",
+    "programs": [
+      "Bachelor of Fine Arts in Acting",
+      "Bachelor of Arts in Dramatic Art",
+      "Bachelor of Arts in Drama and Communication, Media and Film"
+    ],
+    "province": "Ontario",
+    "alts": ["Singing"]
+  },
+  {
+    "city": "Toronto",
+    "name": "York University",
+    "website": "http://www.yorku.ca/index.html",
+    "programs": [
+      "Bachelor of Arts Honours Theatre Studies",
+      "Bachelor of Fine Arts Honours Acting Conservatory"
+    ],
+    "province": "Ontario",
+    "alts": ["Singing", "Dancing"]
+  }
+]

@@ -1,1 +1,90 @@
-[{"city":"Edmonton","name":"Concordia University of Edmonton","website":"https://concordia.ab.ca","programs":["Bachelor of Arts Concentration in Drama","Minor in Drama"],"province":"Alberta","alts":["Singing"]},{"city":"Grande Prairie","name":"Grande Prairie Regional College","website":"https://www.gprc.ab.ca","programs":["Drama - University Transfer Program (1st/2nd year)"],"province":"Alberta","alts":["Singing"]},{"city":"Medicine Hat","name":"Medicine Hat College","website":"https://www.mhc.ab.ca","programs":["Bachelor of Arts University Transfer Options","Bachelor of Fine Arts University Transfer Options"],"province":"Alberta","alts":["Dancing","Singing"]},{"city":"Red Deer","name":"Red Deer College","website":"http://rdc.ab.ca","programs":["Bachelor of Applied Arts in Film, Theatre and Live Entertainment","Bachelor of Applied Motion Picture Arts"],"province":"Alberta","alts":["Singing"]},{"city":"Rosebud","name":"Rosebud School of the Arts","website":"https://www.rosebudschoolofthearts.com","programs":["Theatre Foundations Program","Professional Theatre Training Program"],"province":"Alberta"},{"city":"Edmonton","name":"University of Alberta","website":"https://www.ualberta.ca","programs":["Bachelor of Arts in Drama","Bachelor of Arts Honours (Drama)","Bachelor of Arts (Drama) / Bachelor of Education (Secondary) Combined","Bachelor of Fine Arts in Acting"],"province":"Alberta","alts":["Singing"]},{"city":"Edmonton","name":"University of Alberta, Augustana Campus","website":"https://www.ualberta.ca/augustana/","programs":["Bachelor of Arts Major in Drama","Minor in Drama"],"province":"Alberta","alts":["Singing"]},{"city":"Calgary","name":"University of Calgary","website":"http://www.ucalgary.ca","programs":["Bachelor of Fine Arts in Drama"],"province":"Alberta","alts":["Dancing","Singing"]},{"city":"Lethbridge","name":"University of Lethbridge","website":"http://www.uleth.ca","programs":["Bachelor of Fine Arts in Dramatic Arts (Performance)","Bachelor of Fine Arts Multidisciplinary"],"province":"Alberta","alts":["Singing"]}]
+[
+  {
+    "city": "Edmonton",
+    "name": "Concordia University of Edmonton",
+    "website": "https://concordia.ab.ca",
+    "programs": ["Bachelor of Arts Concentration in Drama", "Minor in Drama"],
+    "province": "Alberta",
+    "alts": ["Singing"]
+  },
+  {
+    "city": "Grande Prairie",
+    "name": "Grande Prairie Regional College",
+    "website": "https://www.gprc.ab.ca",
+    "programs": ["Drama - University Transfer Program (1st/2nd year)"],
+    "province": "Alberta",
+    "alts": ["Singing"]
+  },
+  {
+    "city": "Medicine Hat",
+    "name": "Medicine Hat College",
+    "website": "https://www.mhc.ab.ca",
+    "programs": [
+      "Bachelor of Arts University Transfer Options",
+      "Bachelor of Fine Arts University Transfer Options"
+    ],
+    "province": "Alberta",
+    "alts": ["Dancing", "Singing"]
+  },
+  {
+    "city": "Red Deer",
+    "name": "Red Deer College",
+    "website": "http://rdc.ab.ca",
+    "programs": [
+      "Bachelor of Applied Arts in Film, Theatre and Live Entertainment",
+      "Bachelor of Applied Motion Picture Arts"
+    ],
+    "province": "Alberta",
+    "alts": ["Singing"]
+  },
+  {
+    "city": "Rosebud",
+    "name": "Rosebud School of the Arts",
+    "website": "https://www.rosebudschoolofthearts.com",
+    "programs": [
+      "Theatre Foundations Program",
+      "Professional Theatre Training Program"
+    ],
+    "province": "Alberta"
+  },
+  {
+    "city": "Edmonton",
+    "name": "University of Alberta",
+    "website": "https://www.ualberta.ca",
+    "programs": [
+      "Bachelor of Arts in Drama",
+      "Bachelor of Arts Honours (Drama)",
+      "Bachelor of Arts (Drama) / Bachelor of Education (Secondary) Combined",
+      "Bachelor of Fine Arts in Acting"
+    ],
+    "province": "Alberta",
+    "alts": ["Singing"]
+  },
+  {
+    "city": "Edmonton",
+    "name": "University of Alberta, Augustana Campus",
+    "website": "https://www.ualberta.ca/augustana/",
+    "programs": ["Bachelor of Arts Major in Drama", "Minor in Drama"],
+    "province": "Alberta",
+    "alts": ["Singing"]
+  },
+  {
+    "city": "Calgary",
+    "name": "University of Calgary",
+    "website": "http://www.ucalgary.ca",
+    "programs": ["Bachelor of Fine Arts in Drama"],
+    "province": "Alberta",
+    "alts": ["Dancing", "Singing"]
+  },
+  {
+    "city": "Lethbridge",
+    "name": "University of Lethbridge",
+    "website": "http://www.uleth.ca",
+    "programs": [
+      "Bachelor of Fine Arts in Dramatic Arts (Performance)",
+      "Bachelor of Fine Arts Multidisciplinary"
+    ],
+    "province": "Alberta",
+    "alts": ["Singing"]
+  }
+]

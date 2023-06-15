@@ -1,1 +1,128 @@
-[{"city":"Truro","name":"Arie Dance Company","website":"https://www.ariedancecompany.com","province":"Nova Scotia","area":"Nova Scotia"},{"city":"Amherst","name":"Atlantic Dance Academy","website":"https://www.atlantic-dance-academy.com","province":"Nova Scotia","area":"Nova Scotia"},{"city":"New Minas","name":"Cadance Academy","website":"http://www.cadanceacademy.ca","province":"Nova Scotia","area":"Nova Scotia"},{"city":"Dartmouth","name":"Coastal Dance","website":"http://coastaldance.ca","province":"Nova Scotia","area":"Nova Scotia"},{"city":"Truro","name":"Cobequid Dance Academy Inc.","website":"https://www.cobequiddanceacademyinc.com","province":"Nova Scotia","area":"Nova Scotia"},{"city":"Coldbrook","name":"Dance Conxion","website":"http://www.danceconxion.com","province":"Nova Scotia","area":"Nova Scotia"},{"city":"Halifax","name":"Dancing with Michel & Company","website":"http://www.dancingwithmichel.ca","province":"Nova Scotia","area":"Nova Scotia"},{"city":"Bedford","name":"Element Dance Studio","website":"http://www.elementdancestudio.ca/","province":"Nova Scotia","area":"Nova Scotia"},{"city":"Windsor Junction","name":"Fall River School of Performing Arts","website":"https://frspa.ca/home","province":"Nova Scotia","area":"Nova Scotia"},{"city":"Halifax","name":"Halifax Dance","website":"https://www.hfxdance.ca","province":"Nova Scotia","area":"Nova Scotia"},{"city":"Dartmouth","name":"Joseph Wallin School of Dance","website":"https://www.facebook.com/wallinschoolofdance/","province":"Nova Scotia","area":"Nova Scotia"},{"city":"Dartmouth","name":"Leica Hardy School of Dance","website":"http://leicahardyschoolofdance.com/programs/","province":"Nova Scotia","area":"Nova Scotia"},{"city":"Sydney","name":"MacArthur Dance","website":"http://macarthurdance.com","province":"Nova Scotia","area":"Nova Scotia"},{"city":"Halifax","name":"Maritime Conservatory of Performing Arts","website":"https://maritimeconservatory.com/dance-maritime-conservatory-arts/","province":"Nova Scotia","area":"Nova Scotia"},{"city":"Bedford","name":"Maritime Dance Academy","website":"http://www.maritimedanceacademy.com","province":"Nova Scotia","area":"Nova Scotia"},{"city":"Halifax","name":"Maritime Dance Academy","website":"http://www.maritimedanceacademy.com","province":"Nova Scotia","area":"Nova Scotia"},{"city":"New Glasgow","name":"Miss Carla's Dance","website":"https://www.facebook.com/MissCarlasDance/","province":"Nova Scotia","area":"Nova Scotia"},{"city":"Bridgewater","name":"On Tap Dance Studio","website":"https://ontapdancestudio.wordpress.com/","province":"Nova Scotia","area":"Nova Scotia"}]
+[
+  {
+    "city": "Truro",
+    "name": "Arie Dance Company",
+    "website": "https://www.ariedancecompany.com",
+    "province": "Nova Scotia",
+    "area": "Nova Scotia"
+  },
+  {
+    "city": "Amherst",
+    "name": "Atlantic Dance Academy",
+    "website": "https://www.atlantic-dance-academy.com",
+    "province": "Nova Scotia",
+    "area": "Nova Scotia"
+  },
+  {
+    "city": "New Minas",
+    "name": "Cadance Academy",
+    "website": "http://www.cadanceacademy.ca",
+    "province": "Nova Scotia",
+    "area": "Nova Scotia"
+  },
+  {
+    "city": "Dartmouth",
+    "name": "Coastal Dance",
+    "website": "http://coastaldance.ca",
+    "province": "Nova Scotia",
+    "area": "Nova Scotia"
+  },
+  {
+    "city": "Truro",
+    "name": "Cobequid Dance Academy Inc.",
+    "website": "https://www.cobequiddanceacademyinc.com",
+    "province": "Nova Scotia",
+    "area": "Nova Scotia"
+  },
+  {
+    "city": "Coldbrook",
+    "name": "Dance Conxion",
+    "website": "http://www.danceconxion.com",
+    "province": "Nova Scotia",
+    "area": "Nova Scotia"
+  },
+  {
+    "city": "Halifax",
+    "name": "Dancing with Michel & Company",
+    "website": "http://www.dancingwithmichel.ca",
+    "province": "Nova Scotia",
+    "area": "Nova Scotia"
+  },
+  {
+    "city": "Bedford",
+    "name": "Element Dance Studio",
+    "website": "http://www.elementdancestudio.ca/",
+    "province": "Nova Scotia",
+    "area": "Nova Scotia"
+  },
+  {
+    "city": "Windsor Junction",
+    "name": "Fall River School of Performing Arts",
+    "website": "https://frspa.ca/home",
+    "province": "Nova Scotia",
+    "area": "Nova Scotia"
+  },
+  {
+    "city": "Halifax",
+    "name": "Halifax Dance",
+    "website": "https://www.hfxdance.ca",
+    "province": "Nova Scotia",
+    "area": "Nova Scotia"
+  },
+  {
+    "city": "Dartmouth",
+    "name": "Joseph Wallin School of Dance",
+    "website": "https://www.facebook.com/wallinschoolofdance/",
+    "province": "Nova Scotia",
+    "area": "Nova Scotia"
+  },
+  {
+    "city": "Dartmouth",
+    "name": "Leica Hardy School of Dance",
+    "website": "http://leicahardyschoolofdance.com/programs/",
+    "province": "Nova Scotia",
+    "area": "Nova Scotia"
+  },
+  {
+    "city": "Sydney",
+    "name": "MacArthur Dance",
+    "website": "http://macarthurdance.com",
+    "province": "Nova Scotia",
+    "area": "Nova Scotia"
+  },
+  {
+    "city": "Halifax",
+    "name": "Maritime Conservatory of Performing Arts",
+    "website": "https://maritimeconservatory.com/dance-maritime-conservatory-arts/",
+    "province": "Nova Scotia",
+    "area": "Nova Scotia"
+  },
+  {
+    "city": "Bedford",
+    "name": "Maritime Dance Academy",
+    "website": "http://www.maritimedanceacademy.com",
+    "province": "Nova Scotia",
+    "area": "Nova Scotia"
+  },
+  {
+    "city": "Halifax",
+    "name": "Maritime Dance Academy",
+    "website": "http://www.maritimedanceacademy.com",
+    "province": "Nova Scotia",
+    "area": "Nova Scotia"
+  },
+  {
+    "city": "New Glasgow",
+    "name": "Miss Carla's Dance",
+    "website": "https://www.facebook.com/MissCarlasDance/",
+    "province": "Nova Scotia",
+    "area": "Nova Scotia"
+  },
+  {
+    "city": "Bridgewater",
+    "name": "On Tap Dance Studio",
+    "website": "https://ontapdancestudio.wordpress.com/",
+    "province": "Nova Scotia",
+    "area": "Nova Scotia"
+  }
+]

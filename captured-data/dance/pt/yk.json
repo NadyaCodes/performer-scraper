@@ -1,1 +1,16 @@
-[{"city":"Whitehorse","name":"Leaping Feats","website":"http://www.leapingfeats.com","province":"Yukon","area":"Yukon"},{"city":"Whitehorse","name":"Northern Lights","website":"https://www.nlsdyukon.com/","province":"Yukon","area":"Yukon"}]
+[
+  {
+    "city": "Whitehorse",
+    "name": "Leaping Feats",
+    "website": "http://www.leapingfeats.com",
+    "province": "Yukon",
+    "area": "Yukon"
+  },
+  {
+    "city": "Whitehorse",
+    "name": "Northern Lights",
+    "website": "https://www.nlsdyukon.com/",
+    "province": "Yukon",
+    "area": "Yukon"
+  }
+]

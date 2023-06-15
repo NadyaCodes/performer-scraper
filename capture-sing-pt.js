@@ -186,7 +186,7 @@ function fetchBCSchools() {
     });
 }
 
-fetchBCSchools();
+// fetchBCSchools();
 
 //Alberta
 function fetchAlbertaSchools() {
@@ -288,7 +288,7 @@ function fetchAlbertaSchools() {
     });
 }
 
-fetchAlbertaSchools();
+// fetchAlbertaSchools();
 
 //Saskatchewan
 function fetchSaskSchools() {
@@ -311,9 +311,21 @@ function fetchSaskSchools() {
       }
 
       schoolsList.forEach((school) => {
-        formattedSchools.push(
-          formatSchoolObjectPt(school, "Saskatchewan", "Saskatchewan")
+        const newSchool = formatSchoolObjectPt(
+          school,
+          "Saskatchewan",
+          "Saskatchewan"
         );
+        if (newSchool.city.includes(",")) {
+          newSchool.city = newSchool.city.split(", ");
+          newSchool.city.forEach((city) => {
+            const tempSchool = { ...newSchool };
+            tempSchool.city = city;
+            formattedSchools.push(tempSchool);
+          });
+        } else {
+          formattedSchools.push(newSchool);
+        }
       });
     })
     .then((data) => {
@@ -378,7 +390,7 @@ function fetchManSchools() {
     });
 }
 
-fetchManSchools();
+// fetchManSchools();
 
 //Ontario
 function fetchONSchools() {
@@ -912,7 +924,7 @@ function fetchONSchools() {
     });
 }
 
-fetchONSchools();
+// fetchONSchools();
 
 //Quebec
 function fetchQBSchools() {
@@ -1122,7 +1134,7 @@ function fetchQBSchools() {
     });
 }
 
-fetchQBSchools();
+// fetchQBSchools();
 
 //New Brunswick
 function fetchNBSchools() {
@@ -1178,7 +1190,7 @@ function fetchNBSchools() {
     });
 }
 
-fetchNBSchools();
+// fetchNBSchools();
 
 //Nova Scotia
 function fetchNSSchools() {
@@ -1234,7 +1246,7 @@ function fetchNSSchools() {
     });
 }
 
-fetchNSSchools();
+// fetchNSSchools();
 
 //Newfoundland
 function fetchNFLchools() {
@@ -1290,7 +1302,7 @@ function fetchNFLchools() {
     });
 }
 
-fetchNFLchools();
+// fetchNFLchools();
 
 //PEI
 function fetchPEISchools() {
@@ -1346,4 +1358,4 @@ function fetchPEISchools() {
     });
 }
 
-fetchPEISchools();
+// fetchPEISchools();

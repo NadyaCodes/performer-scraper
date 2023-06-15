@@ -1,1 +1,100 @@
-[{"city":"Dieppe","name":"Academy of Classical Ballet and Modern Dances","website":"http://www.plie.ca","province":"New Brunswick","area":"New Brunswick"},{"city":"Moncton","name":"Atlantic Ballet of Canada","website":"https://www.atlanticballet.ca/en/education/intensive-program/","province":"New Brunswick","area":"New Brunswick"},{"city":"Moncton","name":"Aurele Belliveau School of Dance","website":"http://dancebelliveau.com","province":"New Brunswick","area":"New Brunswick"},{"city":"Hanwell","name":"Bonnie Kilburn Dance Centre","website":"https://www.bonniekilburndancers.com","province":"New Brunswick","area":"New Brunswick"},{"city":"Moncton","name":"DancEast","website":"https://danceast.ca","province":"New Brunswick","area":"New Brunswick"},{"city":"Moncton","name":"Danse Chaos Dance","website":"http://dansechaosdance.com","province":"New Brunswick","area":"New Brunswick"},{"city":"Moncton","name":"DansEncorps","website":"https://en.dansencorps.ca","province":"New Brunswick","area":"New Brunswick"},{"city":"Fredericton","name":"Fredericton Swing Dance","website":"http://frederictonswing.com","province":"New Brunswick","area":"New Brunswick"},{"city":"Saint John","name":"Luna Belly Dance","website":"https://lunabellydance.com","province":"New Brunswick","area":"New Brunswick"},{"city":"Moncton","name":"Mary Cain Dance","website":"https://www.marycaindance.com","province":"New Brunswick","area":"New Brunswick"},{"city":"Sackville","name":"Perpetual Motion Dance Studio","website":"http://www.pmdance.com","province":"New Brunswick","area":"New Brunswick"},{"city":"Rothesay","name":"The Studio Dance School","website":"http://www.thestudiodanceschool.ca","province":"New Brunswick","area":"New Brunswick"},{"city":"Saint John","name":"The Studio Dance School","website":"http://www.thestudiodanceschool.ca","province":"New Brunswick","area":"New Brunswick"},{"city":"Saint John","name":"Urban Dance Company","website":"http://www.urbandancecompany.ca","province":"New Brunswick","area":"New Brunswick"}]
+[
+  {
+    "city": "Dieppe",
+    "name": "Academy of Classical Ballet and Modern Dances",
+    "website": "http://www.plie.ca",
+    "province": "New Brunswick",
+    "area": "New Brunswick"
+  },
+  {
+    "city": "Moncton",
+    "name": "Atlantic Ballet of Canada",
+    "website": "https://www.atlanticballet.ca/en/education/intensive-program/",
+    "province": "New Brunswick",
+    "area": "New Brunswick"
+  },
+  {
+    "city": "Moncton",
+    "name": "Aurele Belliveau School of Dance",
+    "website": "http://dancebelliveau.com",
+    "province": "New Brunswick",
+    "area": "New Brunswick"
+  },
+  {
+    "city": "Hanwell",
+    "name": "Bonnie Kilburn Dance Centre",
+    "website": "https://www.bonniekilburndancers.com",
+    "province": "New Brunswick",
+    "area": "New Brunswick"
+  },
+  {
+    "city": "Moncton",
+    "name": "DancEast",
+    "website": "https://danceast.ca",
+    "province": "New Brunswick",
+    "area": "New Brunswick"
+  },
+  {
+    "city": "Moncton",
+    "name": "Danse Chaos Dance",
+    "website": "http://dansechaosdance.com",
+    "province": "New Brunswick",
+    "area": "New Brunswick"
+  },
+  {
+    "city": "Moncton",
+    "name": "DansEncorps",
+    "website": "https://en.dansencorps.ca",
+    "province": "New Brunswick",
+    "area": "New Brunswick"
+  },
+  {
+    "city": "Fredericton",
+    "name": "Fredericton Swing Dance",
+    "website": "http://frederictonswing.com",
+    "province": "New Brunswick",
+    "area": "New Brunswick"
+  },
+  {
+    "city": "Saint John",
+    "name": "Luna Belly Dance",
+    "website": "https://lunabellydance.com",
+    "province": "New Brunswick",
+    "area": "New Brunswick"
+  },
+  {
+    "city": "Moncton",
+    "name": "Mary Cain Dance",
+    "website": "https://www.marycaindance.com",
+    "province": "New Brunswick",
+    "area": "New Brunswick"
+  },
+  {
+    "city": "Sackville",
+    "name": "Perpetual Motion Dance Studio",
+    "website": "http://www.pmdance.com",
+    "province": "New Brunswick",
+    "area": "New Brunswick"
+  },
+  {
+    "city": "Rothesay",
+    "name": "The Studio Dance School",
+    "website": "http://www.thestudiodanceschool.ca",
+    "province": "New Brunswick",
+    "area": "New Brunswick"
+  },
+  {
+    "city": "Saint John",
+    "name": "The Studio Dance School",
+    "website": "http://www.thestudiodanceschool.ca",
+    "province": "New Brunswick",
+    "area": "New Brunswick"
+  },
+  {
+    "city": "Saint John",
+    "name": "Urban Dance Company",
+    "website": "http://www.urbandancecompany.ca",
+    "province": "New Brunswick",
+    "area": "New Brunswick"
+  }
+]
